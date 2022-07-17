@@ -1,0 +1,89 @@
+\documentclass[a4paper]{memoir}
+\usepackage[swedish, english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[sectionbib, round, authoryear, longnamesfirst]{natbib}
+\renewcommand{\rmdefault}{pad}
+\usepackage{graphicx}
+\usepackage[a4paper]{geometry}
+\usepackage{url}
+\usepackage{setspace}
+\onehalfspacing
+
+% \lhead{\small{\textit{Henrik Frisk}}}
+% \chead{}
+% \rhead{\small{\textit{title}}}
+
+% Different font in captions
+\newcommand{\captionfonts}{\footnotesize}
+\makeatletter  % Allow the use of @ in command names
+\long\def\@makecaption#1#2{%
+  \vskip\abovecaptionskip
+  \sbox\@tempboxa{{\captionfonts #1: #2}}%
+  \ifdim \wd\@tempboxa >\hsize
+    {\captionfonts #1: #2\par}
+  \else
+    \hbox to\hsize{\hfil\box\@tempboxa\hfil}%
+  \fi
+  \vskip\belowcaptionskip}
+\makeatother   % Cancel the effect of \makeatletter
+
+\renewcommand{\figurename}{Fig.}
+
+\title{Music, Computers and Interaction\\Introduction}
+\author{Henrik Frisk\\henrik.frisk@mhm.lu.se\\Malmö Academy of Music,
+  Lund University}
+\date{\today}
+
+\begin{document}
+\selectlanguage{english}
+\begin{titlingpage}
+\aliaspagestyle{titlingpage}{plain}
+\setlength{\droptitle}{40pt}
+\maketitle
+\vspace{5cm}
+
+  \begin{minipage}[c]{\linewidth}
+    \begin{center}
+      \large{75\% seminar, December 10, 2007}
+    \end{center}
+
+  \end{minipage}
+
+\vspace{5cm}
+
+  \begin{minipage}[c]{\linewidth}
+    \large{\emph{Opponent}:\\Prof. Simon Emmerson, DeMontfort Univ, Leicster,
+    UK}
+  \end{minipage}
+
+\end{titlingpage}
+
+\frontmatter
+\settocdepth{subsubsection}
+\tableofcontents
+\listoffigures
+
+\chapter{Preface}
+\label{cha:preface}
+
+\input{include/MusComInt-preface.tex}
+
+\mainmatter
+\chapter{Introduction}
+\label{cha:introduction}
+
+\input{include/MusComInt-intro.tex}
+
+\chapter{Music and Interaction}
+\label{cha:interaction}
+
+\input{include/MusComInt-interaction.tex}
+
+\chapter{References}
+
+\bibliography{bibliography}
+\bibliographystyle{newapa}
+
+% \input{include/MusComInt-bib.tex}
+
+\end{document}

@@ -1,0 +1,516 @@
+\section{Interaction}
+\label{sec:interaction}
+
+The Oxford English Dictionary lists two meanings for the adjective
+\emph{interactive}\footnote{``interactive, \textit{a}.'' The
+  Oxford English Dictionary. 2nd ed. 1989. OED Online. Oxford
+  University Press. 1 Nov. 2007.
+  <http://dictionary.oed.com.ludwig.lub.lu.se/cgi/entry/50118746>}:
+\begin{enumerate}
+\item ``Reciprocally active; acting upon or influencing each other.''
+\item ``Pertaining to or being a computer or other electronic device
+  that allows a two-way flow of information between it and a user,
+  responding immediately to the latter's input.''
+\end{enumerate}
+
+I will here attempt to unwrap and contextualize both of these
+meanings, i.e. the more general concept as well as the specific
+meaning relating to the use and control of electronic devices. There is a profound
+difference between the two uses, the operative word being
+\emph{immediately} in the second description. It introduces time as a
+critical property of human-machine interaction. It is not difficult to
+understand that the action initiated by the user and the humanly
+perceptible response---the feedback---to the action needs to be
+contiguous in time. 
+
+\subsection{Interaction and time}
+\label{sec:time-interaction}
+
+Imagine a button to be pressed in order to introduce a change in an
+interactive system. Further, say that the change itself may not be
+immediately perceptible---it may be a signal to begin emptying a water
+reservoir---so the user needs to be informed that the message
+(``empty-reservoir-button pressed'') has been successfully received by
+the system and that we implemented this by means of an audio signal
+being emitted (a beep). Unless the audio signal is emitted
+immediately after the user presses the button the sense of interaction
+is distorted. In this context even short delays become
+cumbersome---even if it is intended as a single user system.  Imagine
+what would happen if 25 users are engaged in simultaneous interaction
+with a system whose response is limited to a single audio signal and
+the means of interaction is limited to a few buttons (such as a
+stop signal frequently found in public transportation buses). The
+synchronicity between the action and the response would be the only
+way for the user to know that his or her action was the one the system
+responded to. This to the point where the user should perceive the
+sound as the result of the \emph{gesture} performed when pressing the
+button; as if the button was not an electronic switch but rather a
+mechanical device attached to a bell. 
+
+The time aspect of a multi user interactive system is discussed more
+thoroughly in relation to \emph{etherSound} where the latency imposed
+by the mobile communication infrastructure had to be dealt with. In
+the context of interactive electronic musical instruments, those of us
+that have used computers and computer based synthesizers and
+instruments for some years appreciate the nightmare like sensation of
+a latency between a pressed keyboard key and the resulting sound of 20
+ms or more. In their article on latency and computer operating systems
+\citet{brandt98} writes about electronic instrument response times:
+
+\begin{quotation}
+  There do not seem to be published studies of tolerable delay, but
+  our personal experience and actual measurements of commercial
+  synthesizer delays indicate that 5 or maybe 10 ms is acceptable.
+  This is comparable to common acoustic-transmission delays; sound
+  travels at about 1 foot/ms.
+\end{quotation}
+
+Imprecise as this may be, it gives a hint of the sensitivity of human
+audio perception. Any musician can learn how to play with a delay
+exceeding 10 ms, at least if the latency is consistent\footnote{The church organ is an example of a mechanical
+  instrument where it is necessary for musicians to adjust their
+  musical timing according to the properties and delay of the
+  particular instrument.} but a genuinely problematic situation occurs
+when the latency does not behave linearly across the range of the
+instrument. A typical example is the pitch-to-midi
+converter.\footnote{A pitch-to-midi converter calculates an estimation
+  of the fundamental frequency in an audio signal.} Depending on the
+quality and the properties of the instantaneous audio signal that is
+being analyzed the fundamental estimation may take one or several
+buffers to output its result. Also, the range of the audio signal
+affects the time it takes though, in general this is predictable.
+
+The sensitivity of expectation does not seem to be limited to the
+gesture/listening relation. Consider the annoying distortion of perception
+that occurs when you hear an echo of your own voice when talking on
+the phone---even more common now with the frequent use of VoIP. Or the
+situation that occurred in the days of analog tape recorders in
+which the record and playback devices were displaced by a few inches.
+Listening to your own voice in headphones while simultaneously
+recording it made it very difficult to talk. The recorded voice would
+be delayed by perhaps 0.3 seconds, enough to create a breach between
+perception and expectation so grave that speaking correctly became
+impossible.
+
+\subsection{Interaction and control}
+\label{sec:control-interaction}
+
+I will argue that interaction with technology is synonymous to a mode
+of \emph{controlling} the technology. As a result of the usually
+one-dimensional response of HCI---a note on the screen, a sound, a
+change of direction---the `cleanliness' in time and space of this
+response is of great import to the experience of the interaction. The
+magnitude of possible ways in which human interaction may be carried
+out on the other hand, makes the relation between time and that part of the
+feedback---the response of an action---that constitutes its knowledge
+bearing property less useful to discuss in terms of
+milliseconds. The response to, or acknowledgment of, an action may be
+a silent recognition---a body movement or facial expression---and the
+actual response may come much later. Furthermore, human-human
+interaction is less geared towards \emph{control} and perhaps more
+focused on \emph{exchange}.
+
+I have here put the focus on time, though this is obviously but one
+conceptual difference between HCI and human-human interaction. One may
+argue that the difference between interacting with a computer and
+interacting with another human being is so immense that the discussion
+of this difference is superfluous and uncalled for.  That the
+prerequisite for human-human interaction is that both parties exhibit
+some kind of sensible notion of intelligence which, by definition, the
+computer will never (ever?) come close to. Therefore, HCI is, and has
+to be, about control, about making technology useful through
+interaction-as-control, and that this is a mode of interaction that is
+of a different order compared to human-human interaction. There are
+at least two sides to this issue:
+
+The first belong to the general field of HCI where, as was briefly
+discussed in Section \ref{sec:human-comp-inter}, there is a tendency
+to limit the thinking about HCI to ``microlevel interactions between
+programmers or users and computers. The broader social forces and
+structures that constrain such interactions and are themselves
+reproduced and molded by microlevel events are often left unexamined''
+\citep[p. 325]{engestrom96}. Not only will this contribute ``to a
+naive image of human-computer interaction as narrowly technical and as
+a problem of cognitive optimization'' (\emph{ibid} p. 325), it will
+also in effect risk at influencing the way we interact with other
+humans. In a debate on intelligent agents computer scientist,
+composer, visual artist, and author Jaron Lanier is concerned that
+``people will gradually, and perhaps not even consciously, adjust
+their lives to make agents appear to be smart. If an agent seems
+smart, it might really mean that people have dumbed themselves down to
+make their lives more easily representable by their agents' simple
+database design'' \citep[\textparagraph
+3]{lanier96}.\footnote{Throughout his writings, Lanier makes numerous
+  accounts on the dangers of considering computers as posessing
+  intelligence precisely for the reasons here mentioned. ``What starts
+  as an epistemological argument quickly turns into a practical design
+  argument. In the Turing test, we cannot tell whether people are
+  making themselves stupid in order to make computers seem to be
+  smart. Therefore the idea of machine intelligence makes it harder to
+  design good machines'' \citep[\textparagraph 5]{lanier1000}. Though
+  I sympathize with this and acknowledge the problem, I think Lanier
+  employ a too narrow and binary reading of intelligence. The
+  political as well as personal impact technology, and in
+  particular information technology, has on our lives should not be
+  understated, but neither should the enduringness of human
+  intelligence.} Similarly, rather than making HCI more like
+human-human interaction, there is a risk that we instead do it the
+other way around: Assert properties of HCI on our human interaction.
+
+The second aspect is closely related to the core of this research
+project. If we differentiate HCI from human-human
+interaction---understand them as two separate and only remotely
+related modes of activity---how should we understand interactive music
+or any other form of interaction with a computer within the spheres of
+artistic practices? In Section \ref{sec:human-comp-inter} the idea of
+the computer as merely a tool was questioned. This is of course
+nothing new. In the mid 90's the notion of the `intelligent agent'
+(which is what Jaron Lanier opposes against above) was seen as an alternative
+to the tool as ``the prevailing metaphor for computers'' \citep[p.
+67]{isbister95}. The personal computer could now easily communicate
+with other computers, other users, keep track on things for its user,
+perform many things simultaneously: ``Such an object seems inherently
+different than a hammer or wrench---it has active qualities. It acts
+on one's behalf---it is an agent'' (p. 68). Multimedia expert and
+computer visionary Nicholas Negroponte envisioned that ``[w]hat we
+today call `the agent-based interfaces' will emerge as the dominant
+means by which computers and people talk with one another'' \citep[p.
+102]{negroponte95}. In short and somewhat simplified: Rather than you
+telling the computer what to do, it would anticipate what you wanted
+to get done and ``emulate human action, assistance, and
+communication'' \citep[p. 83]{isbister95}. As with so many other great
+ideas, the prospect of intelligent agents has been depleted by
+commercialism and, personally, I will not shed any tears if never
+again I will receive an e-mail of `intelligently' selected shopping
+suggestions.
+
+Notwithstanding, the concept of `software agents' holds within it the
+possibility of rethinking the idea of interaction with the computer.
+As \citeauthor{isbister95} has it: ``Most forms of agent are all about
+the user relinguishing (\emph{sic}) control of the computer for a
+time'' (\emph{ibid}.). And to be willing to relinquish control is the
+beginning of an understanding of HCI that also includes elements
+usually seen to pertain to the domain of social interaction. To give
+up personal control to a machine may be a frightening idea to many,
+fueled by horrifying science fiction descriptions: ``the cataloging of
+the individual, the processing of delocalized data, the anonymous
+exercise of power, implacable techno-financial empires, [...]''
+\citep[p.  117]{levy97}.\footnote{Though to me, judging from the
+  popularity of online communitites such as Facebook, it seems like
+  the individual of the 21st century is quite willing to allow for
+  the cataloging of the identity.} But \citeauthor{levy97} reminds us that
+``a virtual world of collective intelligence could just as easyily be
+as replete with culture, beauty, intellect, and knowledge, as a Greek
+temple [...]''  (p. 118):
+\begin{quote}
+  A site that harbors unimagined language galaxies, enables unknown
+  social temporalities to blossom, reinvents the social bond, perfects
+  democracy, and forges unknown paths of knowledge among men. But to
+  do so we must full inhabit this site; it must be designated,
+  recognized as a potential for beauty, thought, and new forms of
+  social regulation. (\emph{ibid}.)
+\end{quote}
+And, to ``fully inhabit'' we must also invent new forms of
+interaction.
+
+The primary focus of the following sections is to take a
+deeper look at the more general reading of interaction---``acting upon
+or influencing each other''---in the context of human interaction in
+the social and cultural dimensions.
+
+\subsection{Social interaction and the giving up of the self}
+\label{sec:social-interaction}
+
+The request for responsiveness in HCI is indicative of the aspect of
+control embedded in the definition: The machine should not act by
+itself, it should without delay respond to our actions, to our
+instructions, to how we want it to respond. In human-human interaction,
+respectful of the other, a similar request for immediate response or
+demand for control would be unthinkable.
+
+Then, who is this `other'? What is the identity and location of this
+`other' with whom social interaction takes place. As I mentioned briefly
+in Section \ref{sec:research-question} my interest in human-human
+interaction is not a goal in itself but a way to understand, inform
+and try to develop musician-computer interaction in my own artistic
+practice. I will here start from the specific context of my own experience
+and then move to the more general idea of the `other'.
+
+The `other' I am referring to is not only the `\emph{epistemological
+  other}' of \citet{somers94}---a social construction created ``to
+consolidate a cohesive self-identity and collective project''
+\citetext{as cited in \citealp{lewis-1}}, though, whether I want it or
+not, in a sense it is that too. The `other' is not a homogenic group that has
+distinct properties that defines its `otherness'. The `other' is
+`other' in relation to the `self', to \emph{me}, but not in order to
+consolidate this `self', which also will not let itself be defined by
+distinction.  There is no difference between the `otherness' of Ngyen
+Thanh Thuy or Stefan \"{O}stersj\"{o}---the one is not more `other'
+than the other---in the project The Six Tones (see Section
+\ref{sec:six-tones-2006}). The `other' is the one or those I as a
+musician am interacting with. It is my co-musicians with whom I am
+trying to connect, whom I am trying to understand in order to
+understand myself better. It is in the process of trying to
+understand through interaction, that I, in a certain sense, need to give
+up `the self'. Before moving on to the more general reading of the
+`other' a few remarks should be made about these issues:
+\begin{enumerate}
+\item What I am describing here is my attempt to identify what I
+  believe is going on when `things are working'. It is the ideal
+  situation as I have experienced it. It is the sensation of wordless
+  communication, of intuition and self organization. It is a sensation
+  that is not tied to a particular idiom or style---it is not
+  necessarily tied to music.
+\item In no way am I able to reach this stage at all times. And, when
+  unsuccessful, it is my experience that the `self' is exercising a
+  wish to control the situation, though it is difficult to say if this
+  precedes the failure (i.e. is a consequence of) or is an attempt to
+  `fix' an error that has occurred due to other reasons. For example,
+  it may be the mistake of trying to force idiom or style into a
+  context that does not harmonize with that which is forced upon it.
+\item I am using my artistic practice therapeutically and the idea of
+  better understanding the `self' is an attempt to reach greater
+  awareness of my responsibilities as a human being and as an artist.
+  In particular it is a part of the process to reach self-awareness
+  that I, as a white, European, male belong to a class that has
+  exercised oppression and exploited women and more or less every
+  other culture, religion or species that we have encountered in
+  the last 2.500 years.
+\end{enumerate}
+
+% \subsection{The Other}
+% \label{sec:other}
+
+% \citet{derrida78-3} writes about the `Other' of Levinas thinking and
+% how it presupposes ``[t]he infinity irreducible to the
+% \textit{representation} of infinity, the infinity exceeding the
+% ideation in which it is thought, thought of as more than I can think,
+% as that which cannot be an object or a simple 'objective reality' of
+% the idea'':
+
+% \begin{quotation}
+%   Den andre är inte en varelse vi möter, som hotar oss eller vill
+%   bemäktiga sig oss. Att den andre stöter bort vår makt beror inte på
+%   en större styrka. Det är alteriteten som är den andres hela styrka
+%   \citep[p. 71]{levinas92}.
+% \end{quotation}
+
+% Levinas notion of the other is a face-to-face (face-à-face) encounter where the
+% other is given precedence to my subjective egoism or egoistic wish to
+% posses (the world) \citetext{as described by \citet[p.
+% 96-7]{kemp91}}. This other cannot (and will not let itself) be
+% restrained in the way that we expect to be able to control the technologies
+% we interact with: ``Om man kunde äga, gripa och känna till den andre,
+% skulle han inte vara den andre. Ägandet, vetandet och gripandet är
+% synonyma med makten''
+% % If one could own, seize and know the other, would
+% % he not be the other. To own and to seize is synonymous with power.
+% \citep[p. 74]{levinas92}. This is what I mean with the fundamental and
+% very important difference between the two aspects of interaction. Our
+% relation to that with which we are interacting determines how the
+% interaction will be carried out and what results we may expect, and
+% when we may expect them.
+
+% Although Levinas' first ideas of the face-to-face encounter in
+% \citet{levinas69} may be criticized for not taking into account the
+% absent other (see \citet[p. 102-15]{kemp91}), my main concern here is
+% the physically present other. The other with which I can interact with
+% directly.\footnote{How information technology, informatics, has
+%   influenced social interaction is explored by \citet{kielser91} and
+%   \citet{kiesler}}
+
+% This idea of the infinitely/entirely other is in opposition to the idea
+% of totality, to our wish to control nature and our environment. The
+% naive desire to retain the bigger picture, the overview of the
+% world. And the idea that creativity arises within the subject
+% alone. It is not that the subject ceases to exist---on the contrary:
+% \begin{quotation}
+%   The alterity, the radical heterogeneity of the other, is possible only
+%   if the other is other with respect to a term whose essence is to
+%   remain at the point of departure, to serve as \textit{entry} into the relation,
+%   to be the same not relatively but absolutely. \textit{A term can remain
+%     absolutely at the point of departure of relationship only as
+%     I}. \citep[p. 36]{levinas69}  
+% \end{quotation}
+
+% The giving up the self is to be understood as the giving up of the
+% desire to control and opening yourself up to the `other'. This is what I
+% desire and what I strive for in music and this is what I hear
+% in the music I admire. To let creativity grow out of the meeting, the
+% interaction with the `other'---may this be a co-musician or someone in
+% the audience.
+
+% \subsection{The Self}
+% \label{sec:inter-prod}
+
+% What then is the nature of this reading of `the self'---`the self'
+% which at the same time must be abandoned in order to be
+% re-constituted, and acknowledged in the interaction with the `other',
+% by the `other'? This `self' is somewhat related to the Freudian notion
+% of the superego. A culturally constructed and and socially taught
+% `self' with a preconceived understanding of behaviour. My point here
+% is that `the self' has to be re-constituted anew for each interactive
+% context and that the result of this process is a stronger and yet more
+% open ended, inclusive, sense of identity. Before looking at how these
+% ideas relate to some of the more philosophical aspects of interaction
+% and the self I will attempt to contextualize my understanding of `the
+% self'.
+
+% In her book Ingrid \citeauthor{monson96} discusses the conversation
+% metaphor and its ``structural affinities with interactive
+% improvisational process'' (chap. 3, p. 73). In an encounter with
+% drummer Ralph Peterson they discuss a particular passage from a
+% recording of his group. About a musical discourse between Peterson and
+% the pianist, Geri Allen, he is quoted saying: 
+% \begin{quotation}
+%   ``[...] a lot of times when you get into a musical conversation one
+%   person in the group will state an idea or the beginning of an idea
+%   and another person will complete the idea or their interpretation of
+%   the same idea, how they hear it'' (Peterson (1989b) in \citet[p. 78]{monson96}).
+% \end{quotation}
+% \citeauthor{monson96} analyzes the comment and states that ``[i]n
+% associating the trading of musical ideas with conversation, Peterson
+% stressed the interpersonal, face-to-face quality of improvisation''
+% (\textit{ibid.}). And later, referring to the same passage: ``These
+% moments of rhythmic interaction could also be seen as negotiations or
+% struggles for control of musical space'' (p. 80). Conversation in this
+% context must be regarded as truly, and only, a metaphor. Musical
+% performance has very little to do with verbal discourse and ``nothing
+% in common with a text (or its musical equivalent, the score) for it is
+% music composed through face-to-face interaction''
+% (\textit{ibid.}).\footnote{It should be noted that
+%   \citeauthor{monson96} limits the quoted statement to relate to jazz
+%   improvisation where I would argue that it holds true for all musical
+%   performance.} We would have to move to the more abstract level of
+% poetry as exercized by Ezra Pound or Ralph Waldo Emerson in order to
+% make sense of a comparison with text, which we will do.
+
+% To allow for someone to complete your idea, inserting their own
+% interpretation of the same idea, without feeling the need to correct
+% the `erroneous' reading is an aspect of giving up `the self'. And
+% further that this can 
+
+% The fact that, in a musical conversation it is perfectly valid to
+% complete a co-musician's statement with a deeply personal
+% interpretation of the same
+
+% Habermas makes a distinction between instrumental or
+% purposive-rational action (`Arbeit') and communicative action
+% (`Interaktion') in an attempt to separate that which, according to
+% Habermas, Hegel reduced to the general concept of \emph{Philosophie
+%   des Geistes}. The instrumental action is based on technical rules
+
+% \begin{quotation}
+%   3:e paragrafen, s. 73
+% \end{quotation}
+
+% The natural sciences are a refined extrapolation of the instrumental
+% action as it is manifested in the for human life so important
+% work. ``Purposive-rational action is by its
+% structure exercising control'' \citep[p. 63][(\textit{My
+%   translation})]{habermas68}.
+
+% \begin{quotation}
+%   4:e paragrafen s. 73
+% \end{quotation}
+
+% Habermas is here outlining what is later to become the Theory of
+% Communicative Action. Though he has been criticized for, and himself
+% revised his thinking on, some of these matters \citetext{see
+%   \citet{bertilsson83}}\footnote{For an overview of Critical Theory in
+%   general and The Theory of Communicative Action in particular see
+%   \citet{ericsson01}. An interesting criticism of the philosophical
+%   aspect of work in relation to feminist theory is offered by
+%   \citet{gurtler05}.} my main concern is the difference between labor
+% and interaction. According to \citet{bertilsson83} for Habermas labor
+% is a rule based and empirically founded activity and it fulfills the
+% social needs for predictability and control. But it has been allowed
+% to spread into domains where it should not be dominating at the
+% expense of social interaction. ``When predictability and and control
+% is allowed to spread at the expense of other domains of knowledge,
+% this will happen in a social context where man is meeting the other,
+% her neighbour, as an enemy and as object to dominate and rule'' (p.
+% 16, my trans.).
+
+% In other words, control belongs to the domain of instrumental action
+% which is in every respect different from human interaction which can
+% only happen truly if the subjects are mutually respectful of each other.
+
+% \begin{quotation}
+%   Medvetandet om mig själv är ett derivat av att två perspektiv
+%   korsas. Först på basis av ömsesidigt erkännande, utvecklas det
+%   självmedvetande, som måste bindas vid min spegling i ett annat
+%   subjekts medvetande. \citep[p. 183]{habermas68}
+% \end{quotation}
+
+
+% \section{Interactive Music}
+% \label{sec:interactive-music}
+
+% What is \emph{interactive music}? Is there a music that is not
+% interactive? that does not interact with its environment and its listeners
+% in some way? Of the two definitions of the word interactive given to
+% us by the Oxford Dictionary above, the second has become so common that,
+% when the term \emph{interactive} is used, it is implied that one
+% of the ``subjects'' in the interaction is a computer. This is true
+% also for music---interactive music implies computer music. But in that
+% case, what is the difference between interactive computer music and
+% non-interactive computer music? Perhaps we could
+% say that, in some sense electro-acoustic music recorded onto and
+% played back from a tape, CD, hard drive or similar does not fulfill
+% that which one would expect from something which is labeled
+% \emph{Interactive}. However, today, most composers play back their
+% ``tape'' pieces\footnote{Electro-acoustic music produced in a studio
+%   and played back in concert are often referred to as tape music due
+%   to the fact that historically these piece were not only stored on
+%   tape but also produced by means of cutting and splicing pieces of
+%   electro magnetic tape together. I will use the term} performing some
+% kind of spatialization or live mixing. In other words, the composer,
+% or someone else---an interpreter\footnote, is \emph{performing} the
+% work. There is even a competition organized by the Belgian research
+% center \emph{Musiques \& Recherches} in ``[l]'interprétation
+% spatialisée des {\oe}uvres acousmatiques'' \citetext{\textparagraph\ 1,
+%   \citealp{concours-spat}}. This performance is by definition
+% interacting with the audience, the performance space, and a number of
+% other factors. Further, I would argue that even though there may not
+% be any other activities involved than starting the tape---or whatever
+% action is required to start the play back of the tape piece---is an
+% \emph{interactive} action.
+
+% Interactive music can adopt any one or several of different archetypes
+% and paradigms and as we have seen the word \emph{interactive} has many
+% meanings and may have many readings. Interactive electronic music
+% could potentially be everything from playing back a compact disc on a
+% home stereo to the most complex multi computer system imaginable
+% controlling any number of real time synthesis engines. Further
+
+% To understand the general term \emph{Interactive Music}
+% or, more specifically, although this is in no way a qualified genre,
+% \emph{Interactive Computer Music}, i.e. music that involves computers
+% at some stage of its production and/or performance and that is
+% interactive by nature, one need to have an overview of the history of
+% electro acoustic music.
+
+% In his keynote address at ICMC 2007 in Copenhagen John Chowning
+% \citet{chowning07} presented notes he made during his early
+% experiments with FM synthesis\footnote{Frequency Modulation synthesis,
+%   see \citep{chowning73}}
+
+% Robert \citet{rowe} offers a definition of Interactive Music
+% Systems:
+
+% \begin{quotation}
+%   [...] interactive systems are not concerned with replacing human
+%   players but with enriching the performance situations in which
+%   humans work. The goal of incorporating human like intelligence grows
+%   out of the desire to fashion computer performers able to play music
+%   with humans , not for them. A program able to understand and play
+%   along with other musicians ranging from the awkward neophyte to the
+%   most accomplished professional should encourage more people to play
+%   music, not discourage those who already do (\textit{ibid} p. 262)
+% \end{quotation}
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "../MusicComputersInteraction"
+%%% End: 

@@ -1,0 +1,10 @@
+set terminal latex
+set output "envelope.tex"
+set size 5/5., 1/1.
+set pointsize .1
+set title "Amplitude envelopes"
+set xlabel "time"
+set ylabel "amp"
+set xrange [0:1.1]
+plot "env_out.dat" u 4:5 title "amplitude env. for letter A" w lines, "env2_out.dat" u 4:5 title "amplitude env. for letter Z" w lines
+#plot [-3.14:3.14] sin(x)

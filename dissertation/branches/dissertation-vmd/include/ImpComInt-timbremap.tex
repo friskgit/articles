@@ -1,0 +1,64 @@
+\section{timebreMap}
+\label{sec:timebremap}
+
+\emph{timbreMap}
+
+In this paper I intend to outline a proposed system for tracing relative change in timbre in an audio signal in real time. The output of this system may then be used to trigger musical events in a manner similar to how pitch tracking and score following is commonly used. The propsed system makes use of a self-organising feature map (commonly referred to as a Kohonan net) following a model for speaker independent word recognition \cite{huang92}.
+
+
+The question as it is articulated here gives a somewhat false image of what `blend' or `common ground' comprise. 
+
+where the `blend', to a high degree, is a property relative to the musicians playing and the context in which the music is taking place---the `blend' is not a predetermined factor. I cannot, before I play, tell someone else, human or machine, how I will articulate my tone. For two musicians to `blend' their sounds they simply have to play \emph{together} and in the action both will adjust their tone, intonation and articulation in a recursive fashion. It would be reasonable to maintain that it is primarily a question of getting the computer to `blend' with the human performer, as `blending' is a natural part of any (Western) musician's training. 
+
+\emph{timbreMap} is a software development project that attempts to
+allow for direct interaction with sound itself rather than with an
+abstract classification of sound. This is the part of my doctoral
+project that I was initially inclined to look at as the central goal. I
+have already referred to my growing frustration with the way in which
+the tools available to me for letting a computer interact with a
+performer in real time did not satisfy my needs as a composer. One
+example of a widely-used tool in electroacoustic music with live
+instruments is something that is referred to as ``pitch-tracking''.
+%%%%%%%%%%%%%%%%Used
+What
+this process attempts to achieve is the transformation of a (monophonic)
+audio signal into discrete pitches. Aside from the fact that this is a
+difficult task, the information gleaned by this system is only
+useful if the pitch class representation is a meaningful and substantial
+parameter in the intended totality of the musical output. In much of my
+music it is not.
+%%%%%%%%%%%%%%%%%%%%
+\footnote{Please see
+\url{http://www.henrikfrisk.com/index.jsp?metaId=music&id=music&about=1
+&field=name&query=Insanity} for an example of an improvised piece in
+which pitch has no significance from a structural point of view.}
+With \emph{timbreMap} I have attempted to construct a system that uses
+self-organizing feature maps and chained neural-networks to track the
+relative change of timbre in an audio stream and make this information
+available for interaction. As was mentioned above, 'connectionism' or
+neuron-like computing is in itself a move away from the binary
+representation of numbers, approaching what may be called an attempt at
+modeling continuous processes. It is a special purpose machine that is
+closely linked to the artistic enterprise that created the need for
+it. In that sense, although in a more abstract way than the programming
+of \emph{etherSound}, its code is part of the notation of the possible
+pieces it may give rise to.
+
+In the time that has passed since I started my doctoral project I have
+come to realize that, although \emph{timbreMap} is a big part of the
+totality of my project, both in terms of time invested and its
+significance to the whole, its most intriguing aspect may be the mapping
+of the output of the system and the musical stimuli to which it gives
+rise. The mapping must be related to large-scale empirical studies, such
+as those mentioned in this article, but also has to be tested in the
+specific case-studies. From \emph{etherSound} I learned that successful
+mapping involves a certain amount of pedagogy - knowledge creates
+anticipation and expectation. The studies performed within the project
+\emph{Negotiating the Musical Work} opened up the idea of the `creative
+misunderstanding' and a semiological analysis of the communication
+within an interactive system.
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "../ImprovisationComputersInteraction"
+%%% End: 

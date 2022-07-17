@@ -1,0 +1,328 @@
+\small
+\begin{verbatim}
+  sr        =           48000
+  kr        =           4800
+  ksmps     =           10
+  nchnls    =           2
+
+            maxalloc    10, 10
+            maxalloc    11, 7
+            maxalloc    1, 4
+            maxalloc    2, 4
+            maxalloc    3, 4
+            maxalloc    4, 4
+            maxalloc    5, 4
+            maxalloc    6, 2
+
+;;; G L O B A L   I N S T R U M E N T    1
+;;; Global control instrument for random jitter
+
+instr 1
+
+  k50       randi                   .01, 20, .8135 
+  k60       randi                   .01, 9, .5111
+  k70       randi                   .01, .8, .6711
+  gkjitter  = (k50 + k60 + k70) * p4
+
+endin 
+
+;;; G L O B A L   I N S T R U M E N T    2
+;;; Global control instrument for phase envelope
+;;; This value controls the position in the sample buffer to 
+;;; read from
+;;; Limit between 0. and 0.1.
+
+instr 2
+            ; **************************************
+            ;; ARGUMENTS:
+            ;; p2 -> start
+            ;; P3 -> length
+            ;; p4 -> init value
+            ;; p5 -> bp1 time (fraction of p3)
+            ;; p6 -> bp1 value
+            ;; p7 -> bp2 time (fraction of p3)
+            ;; p8 -> bp2 value
+            ;; p9 -> bp3 time (fraction of p3)
+            ;; p10 -> bp3 value
+            ; **************************************
+  gkphs1     linseg      p4, p3*p5, p6, p3*p7, p8, p3*p9, p10
+  gkphs2    =           gkphs1+.0001
+
+endin 
+
+;;; G L O B A L   I N S T R U M E N T    3
+;;; Global control instrument for duration envelope
+;;; This value controls the duration of the grains -
+;;; values should be between 1.0 and .02, but keep 
+;;; low for safety.
+
+
+instr 3
+            ; **************************************
+            ;; ARGUMENTS:
+            ;; p2 -> start
+            ;; p3 -> length
+            ;; p4 -> init value
+            ;; p5 -> bp1 time (fraction of p3)
+            ;; p6 -> bp1 value
+            ;; p7 -> bp2 time (fraction of p3)
+            ;; p8 -> bp2 value
+            ;; p9 -> bp3 time (fraction of p3)
+            ;; p10 -> bp3 value
+            ; **************************************
+  gkdur     linseg      p4, p3*p5, p6, p3*p7, p8, p3*p9, p10
+  gkdec     =           gkdur
+
+endin 
+
+;;; G L O B A L   I N S T R U M E N T    4
+;;; Global control instrument for gliss envelope
+;;; This value controls the gliss parameter. Formant rises as  
+;;; parameter rises (between 0 and 5 ?)
+
+instr 4
+            ; **************************************
+            ;; ARGUMENTS:
+            ;; p2 -> start
+            ;; p3 -> length
+            ;; p4 -> init value
+            ;; p5 -> bp1 time (fraction of p3)
+            ;; p6 -> bp1 value
+            ;; p7 -> bp2 time (fraction of p3)
+            ;; p8 -> bp2 value
+            ;; p9 -> bp3 time (fraction of p3)
+            ;; p10 -> bp3 value
+            ; **************************************
+  gkgliss     linseg      p4, p3*p5, p6, p3*p7, p8, p3*p9, p10
+
+endin 
+
+;;; G L O B A L   I N S T R U M E N T    5
+;;; Global control instrument for fundamental envelope
+;;; This value controls the fundamental or density of 
+;;; the granulation.
+
+instr 5
+            ; **************************************
+        	;; ARGUMENTS:
+            ;; p2 -> start
+            ;; p3 -> length
+            ;; p4 -> init value
+            ;; p5 -> bp1 time (fraction of p3)
+            ;; p6 -> bp1 value1
+            ;; p7 -> bp1 value2
+            ;; p8 -> bp2 time (fraction of p3)
+            ;; p9 -> bp2 value1
+            ;; p10 -> bp1 value2
+            ;; p11 -> bp3 time (fraction of p3)
+            ;; p12 -> bp3 value1
+            ;; p13 -> bp1 value2
+            ; **************************************
+  kf1       linseg      p4, p3*p5, p6, p3*p8, p9, p3*p9, p12
+  kf2       linseg      p4, p3*p5, p7, p3*p8, p10, p3*p9, p13
+  gkfund1   =           kf1+gkjitter
+  gkfund2   =           kf2+1+gkjitter
+
+endin 
+
+;;; G L O B A L   I N S T R U M E N T    6
+;;; Global control instrument for formants in 
+;;; Instrument 11 notes. Provides formant frequency,
+;;; amplitude, bandwidth for a male voice.
+
+instr 6
+            ; **************************************
+            ;; ARGUMENTS:
+            ;; p2 -> start
+            ;; p3 -> length
+            ;; p4 -> starting formant (0=<p4<=5)
+            ;; p5 -> ending formant (0=<p5<=5)
+            ; **************************************
+  kndx      linseg      p4, p3, p5
+
+  gkf1      tablei      kndx, 34
+  gkf2      tablei      kndx, 35
+  gkf3      tablei      kndx, 36
+  gkf4      tablei      kndx, 37
+  gkf5      tablei      kndx, 38
+        ;; Formant amplitude interpolation
+  gkfamp1   tablei      kndx, 44
+  gkfamp2   tablei      kndx, 45
+  gkfamp3   tablei      kndx, 46
+  gkfamp4   tablei      kndx, 47
+  gkfamp5   tablei      kndx, 48
+        ;; Formant bandwith interpolation
+  gkbw1     tablei      kndx, 54
+  gkbw2     tablei      kndx, 55
+  gkbw3     tablei      kndx, 56
+  gkbw4     tablei      kndx, 57
+  gkbw5     tablei      kndx, 58
+
+endin
+
+;;; I N S T R U M E N T    10
+;;; Talking...
+
+instr 10
+            ; **************************************
+        	;; ARGUMENTS:
+            ;; p2 -> start
+            ;; p3 -> length
+            ;; p4 -> amplitude
+            ;; p5 -> sample
+            ;; p6 -> bp1 time (fraction of p3)
+            ;; p7 -> bp2 time (fraction of p3)
+            ;; p8 -> bp2 value
+            ;; p9 -> bp3 time (fraction of p3)
+            ;; p10 -> bp3 value
+     	    ;; p11 -> pan start position
+    	    ;; p12 -> pan end position
+	        ;; p13 -> distance start position (>=1)
+    	    ;; p14 -> distance end position (>=1)
+            ; **************************************
+            ; **************************************
+            ;; ADSR amplitude envelope for each note
+            ; **************************************
+  iamp      =           ampdb(p4)
+  ibp1      =           p3*p6
+  ibp2      =           p3*p7
+  ibp3      =           p3*p9
+  ibp4      =           p3-(ibp1+ibp2+ibp3)
+  kampenv   expseg      .0000001, ibp1, 1., ibp2, p8, \
+                        ibp3, p10, ibp4, .0000001
+  kamp      =           kampenv*iamp
+
+            ; **************************************
+            ;; SOME OLD STUFF
+            ; **************************************
+  kbw       =           0.1                      ; BANDWITH
+  ksw       =           .003                    ; SKIRTWIDTH
+  koct1     =           gkjitter             ; OCTAVIATION
+            ; **************************************
+            ;; FOF opcodes
+            ;; Use kphs to move in sample buffer and kgliss 
+            ;; to change timbre. Nice to let kgliss down
+            ;; and koct down at the same time.
+            ;; For original pitch: 
+            ;; xform = 1/(samplesinbuffer/samplingfrq)
+            ; **************************************
+  a1        fof2        kamp, gkfund1, 1.345825, koct1, kbw, \
+                        ksw, gkdur, .003, 300, p5, 32, p3, \
+                        gkphs1, gkgliss
+  a2        fof2        kamp, gkfund2, 1.345825, koct1, kbw, \
+                        ksw, gkdur, .003, 300, p5, 32, p3, \
+                        gkphs2, gkgliss
+  atalk	    =		a1+a2
+
+            ; **************************************
+            ;; SPATIALISATION
+            ; **************************************
+  kpanndx    linseg      p11, p3, p12
+  kpan       tablei      kpanndx, 74
+  kdist	     linseg	 p13, p3, p14
+  apanl, apanr		 locsig	   atalk, kpan, kdist, .1
+  gar1, gar2 locsend
+            ; **************************************
+            ;; Output
+            ; **************************************
+  kch1      =           1
+  kch2      =           2
+            outch       kch1, apanl, kch2, apanr
+
+endin 
+
+;;; I N S T R U M E N T    11
+;;; Bells...
+
+instr 11
+            ; **************************************
+            ;; ARGUMENTS:
+            ;; p2 -> start
+            ;; p3 -> length
+            ;; p4 -> dB amplitude
+            ;; p5 -> fundamental as pch
+            ;; p6 -> modulator oscilliator function table
+            ;; p7 -> index factor for FM
+            ;; p8 -> envelope time1
+            ;; p9 -> from octaviation... 
+            ;; p10 -> ...to octaviation
+            ; **************************************
+            ;; P-FIELD INIT
+            ; **************************************
+  idur      =           p3          ; Duration of object.
+  idbamp    =           p4          ; Amplitude
+  icpspitch =           cpspch(p5)  ; Starting pitch
+  index     =           p7
+  iampvar   cauchy      100
+  ispeed    =           index*.6667
+  iattack   =           idur*p8
+  kphs1     =           0.0
+  kphs2     =           .1
+   kgliss    =           .1
+  kindex    =           (gkbw1 *.05)*index
+            ; **************************************
+            ;; FM MODULATION
+            ; **************************************
+  acar      =           gkf1
+  kmodfr    =           gkf5
+  kdev      =           kindex*ampdb(90+gkfamp1)
+  amodsig   oscil       kdev, kmodfr, p6
+
+
+            ; **************************************
+            ;; SYNTHESIS
+            ; **************************************
+  ksw	    =		.003
+  kdur	    =		.02
+  kdec	    =		.007
+  kgran     line        p9, idur, p10
+  agate     expseg      .00001, iattack, 1, idur-iattack, .00001
+  avib      oscil       3+iampvar, .7+iampvar, 2
+
+  a3        fof2        ampdb(idbamp+gkfamp1), icpspitch+avib, \
+                        gkf1+amodsig, kgran, gkbw1, ksw, kdur, \
+                        kdur, 300, 30, 31, idur, kphs1, kgliss
+  a4        fof2        ampdb(idbamp+gkfamp2), <as above>
+  a5        fof2        ampdb(idbamp+gkfamp3), <as above>
+  a6        fof2        ampdb(idbamp+gkfamp4), <as above>
+  a7        fof2        ampdb(idbamp+gkfamp5), <as above>
+            ; **************************************
+            ;; SPATIALISATION
+            ; **************************************
+  anotes    =           (a3+a4+a5+a6+a7)*agate
+  kdeg	    =		    (gkbw2-60)*6
+  ap1, ap2  locsig	    anotes, kdeg, 1, .1
+  gar1, gar2 locsend	
+
+  kch3      =           1
+  kch4      =           2
+            outch       kch3, ap1, kch4, ap2
+
+endin 
+
+;;; I N S T R U M E N T    12
+;;; Reverb
+
+instr 12
+            ; **************************************
+            ;; ARGUMENTS:
+            ;; p2 -> start
+            ;; p3 -> length
+            ; **************************************
+  a1                 reverb2 gar1, 2.5, .5
+  a2                 reverb2 gar2, 2.5, .5
+  kch1      =           1
+  kch2      =           2
+            outch    kch1, a1, kch2, a2 
+  ga1=0
+  ga2=0
+  ga3=0
+  ga4=0
+
+endin
+\end{verbatim}
+\normalsize
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "../etherSound"
+%%% End: 

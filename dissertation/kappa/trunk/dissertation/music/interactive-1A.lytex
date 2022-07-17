@@ -1,0 +1,44 @@
+\begin[quote,fragment,staffsize=14]{lilypond}
+
+<< 
+  \relative c'' {
+    \override Staff.TimeSignature #'transparent = ##t
+    \set Staff.instrumentName = \markup {
+      \override #'(font-family . sans)
+      \column { \teeny "Acoustic inst." 
+                \line { \teeny "('event')" }}
+    }
+    << 
+      { 
+        \cadenzaOn
+        c1\accent\sfz\< 
+        \override Staff.StaffSymbol #'line-count = 1
+        \stopStaff \startStaff r4\! 
+        \revert Staff.StaffSymbol #'line-count
+        \stopStaff \startStaff        
+        a1\espressivo
+        \hideNotes d4
+        \cadenzaOff
+      } 
+    >>
+  }
+  
+  \new Staff \relative c'' {
+    \override Staff.TimeSignature #'transparent = ##t
+    \set Staff.instrumentName = \markup {
+      \override #'(font-family . sans)
+      \column { \teeny "Computer" 
+                \line { \teeny "('double')" }
+              }
+    }
+    << {c1\f
+        \override Staff.StaffSymbol #'line-count = 1
+        \stopStaff \startStaff r4 
+        \revert Staff.StaffSymbol #'line-count
+        \stopStaff \startStaff        
+        a1^\accent\<\sfz 
+        \hideNotes d4\!
+      } >>
+  }
+>>
+\end{lilypond}

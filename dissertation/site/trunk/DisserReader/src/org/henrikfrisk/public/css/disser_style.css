@@ -1,0 +1,90 @@
+div.container {
+                margin: 0 auto;
+                width: 750px;
+                height: 100%;
+                margin: 0 auto;
+                display: table; /* Firefox */
+                padding: 1px;
+                font-family: Verdana, Helvetica, Arial, sans;
+                font-size: 1em;
+                }
+
+div.top {
+          height: 100px;
+          width: 100%;
+/*          background-color: #2f4f4f; */
+          }
+
+div.menu {
+           float: right;
+           width: 150px;
+           height: 100%;
+/*           background-color: #2f4f4f; */
+           }
+
+div.content {
+              float: left;
+              width: 600px;
+              height: 100%;
+              background-color: #fffffd;
+              font-size: 0.75em;
+              }
+
+.gwt-StackPanel {
+  background: #fff;
+  width: 15em;
+  border-bottom: 1px solid #666;
+}
+
+.gwt-StackPanel .gwt-StackPanelItem {
+  cursor: pointer;
+  cursor: hand;
+}
+
+.gwt-StackPanel .gwt-StackPanelItem-selected {
+  border-bottom: 1px solid #666;
+}
+
+.gwt-StackPanel .lcaption {
+  width: 32px;
+  padding: 0 0 4px 5px;
+}
+
+.gwt-StackPanel .rcaption {
+  padding: 0 0 4px 5px;
+} 
+
+.gwt-StackPanel .box-20 {
+  text-align: right;
+}
+
+.gwt-StackPanel .gwt-StackPanelItem table {
+  width: 100%;
+}
+
+.nav-StackContent {
+  height: 100%;
+  padding: 0 0.5em;
+  border-left: 1px solid #666;
+  border-right: 1px solid #666;
+}
+
+.nav-SectionPopup {
+  background: #fff;
+  border: 1px solid #666;
+  padding: 4px;
+}
+
+.nav-SectionPopupName {
+  font-size: 80%;
+  font-weight: bold;
+}
+
+.nav-SectionPopupEnav {
+  font-size: 80%;
+  font-style: italic;
+}
+
+.nav-Sections {
+  border-bottom: none;
+}

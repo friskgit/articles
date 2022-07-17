@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="560.15039"
+   height="450"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/henrikfr/documents/mhm/forskning/artiklar/dissertation/trunk/img"
+   sodipodi:docname="project-overview.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path5332"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path5329"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <filter
+       inkscape:collect="always"
+       id="filter9148">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.043285"
+         id="feGaussianBlur9150" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter9152">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.043285"
+         id="feGaussianBlur9154" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter9156">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.043285"
+         id="feGaussianBlur9158" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="319.24263"
+     inkscape:cy="319.42984"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1280"
+     inkscape:window-height="973"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     width="560.15039px"
+     height="450px" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-18.349617,-21.862183)">
+    <g
+       id="g9160"
+       transform="translate(-461,-13)"
+       inkscape:export-filename="/home/henrikfr/documents/mhm/forskning/artiklar/dissertation/trunk/img/project_overview.png"
+       inkscape:export-xdpi="10.68"
+       inkscape:export-ydpi="10.68">
+      <path
+         d="M 349 164.86218 A 135.5 105.5 0 1 1  78,164.86218 A 135.5 105.5 0 1 1  349 164.86218 z"
+         sodipodi:ry="105.5"
+         sodipodi:rx="135.5"
+         sodipodi:cy="164.86218"
+         sodipodi:cx="213.5"
+         id="path5542"
+         style="opacity:0.21348314;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.65699995;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter9152)"
+         sodipodi:type="arc"
+         transform="translate(668,31)" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.21348314;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.65699995;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter9148)"
+         id="path5544"
+         sodipodi:cx="213.5"
+         sodipodi:cy="164.86218"
+         sodipodi:rx="135.5"
+         sodipodi:ry="105.5"
+         d="M 349 164.86218 A 135.5 105.5 0 1 1  78,164.86218 A 135.5 105.5 0 1 1  349 164.86218 z"
+         transform="translate(464,31)" />
+      <path
+         transform="translate(558,159)"
+         sodipodi:type="arc"
+         style="opacity:0.21348314;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.65699995;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter9156)"
+         id="path5546"
+         sodipodi:cx="213.5"
+         sodipodi:cy="164.86218"
+         sodipodi:rx="135.5"
+         sodipodi:ry="105.5"
+         d="M 349 164.86218 A 135.5 105.5 0 1 1  78,164.86218 A 135.5 105.5 0 1 1  349 164.86218 z" />
+    </g>
+    <path
+       d="M 349 164.86218 A 135.5 105.5 0 1 1  78,164.86218 A 135.5 105.5 0 1 1  349 164.86218 z"
+       sodipodi:ry="105.5"
+       sodipodi:rx="135.5"
+       sodipodi:cy="164.86218"
+       sodipodi:cx="213.5"
+       id="path3134"
+       style="opacity:0.63483151;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.65699995;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="arc"
+       transform="translate(191,10)"
+       inkscape:export-filename="/home/henrikfr/documents/mhm/forskning/artiklar/dissertation/trunk/img/project_overview.png"
+       inkscape:export-xdpi="10.68"
+       inkscape:export-ydpi="10.68" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.63483151;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.65699995;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2162"
+       sodipodi:cx="213.5"
+       sodipodi:cy="164.86218"
+       sodipodi:rx="135.5"
+       sodipodi:ry="105.5"
+       d="M 349 164.86218 A 135.5 105.5 0 1 1  78,164.86218 A 135.5 105.5 0 1 1  349 164.86218 z"
+       transform="translate(-10,10)"
+       inkscape:export-filename="/home/henrikfr/documents/mhm/forskning/artiklar/dissertation/trunk/img/project_overview.png"
+       inkscape:export-xdpi="10.68"
+       inkscape:export-ydpi="10.68" />
+    <path
+       transform="translate(81,139)"
+       sodipodi:type="arc"
+       style="opacity:0.63483151;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.65699995;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3136"
+       sodipodi:cx="213.5"
+       sodipodi:cy="164.86218"
+       sodipodi:rx="135.5"
+       sodipodi:ry="105.5"
+       d="M 349 164.86218 A 135.5 105.5 0 1 1  78,164.86218 A 135.5 105.5 0 1 1  349 164.86218 z"
+       inkscape:export-filename="/home/henrikfr/documents/mhm/forskning/artiklar/dissertation/trunk/img/project_overview.png"
+       inkscape:export-xdpi="10.68"
+       inkscape:export-ydpi="10.68" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="157.95801"
+       y="179.17273"
+       id="text4335"
+       inkscape:export-filename="/home/henrikfr/documents/mhm/forskning/artiklar/dissertation/trunk/img/project_overview.png"
+       inkscape:export-xdpi="10.68"
+       inkscape:export-ydpi="10.68"><tspan
+         sodipodi:role="line"
+         id="tspan4337"
+         x="157.95801"
+         y="179.17273"
+         style="font-family:Bitstream Vera Sans">artistic output</tspan></text>
+    <text
+       id="text4339"
+       y="172.12976"
+       x="404.6875"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/henrikfr/documents/mhm/forskning/artiklar/dissertation/trunk/img/project_overview.png"
+       inkscape:export-xdpi="10.68"
+       inkscape:export-ydpi="10.68"><tspan
+         style="text-align:center;text-anchor:middle;font-family:Bitstream Vera Sans"
+         y="172.12976"
+         x="404.6875"
+         id="tspan4341"
+         sodipodi:role="line">reflections and</tspan><tspan
+         style="text-align:center;text-anchor:middle;font-family:Bitstream Vera Sans"
+         y="187.12976"
+         x="404.6875"
+         sodipodi:role="line"
+         id="tspan4353">documentation (text)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="294.85449"
+       y="299.67273"
+       id="text4343"
+       inkscape:export-filename="/home/henrikfr/documents/mhm/forskning/artiklar/dissertation/trunk/img/project_overview.png"
+       inkscape:export-xdpi="10.68"
+       inkscape:export-ydpi="10.68"><tspan
+         sodipodi:role="line"
+         x="294.85449"
+         y="299.67273"
+         style="text-align:center;text-anchor:middle;font-family:Bitstream Vera Sans"
+         id="tspan4347">tools for interaction</tspan><tspan
+         sodipodi:role="line"
+         x="294.85449"
+         y="314.67273"
+         style="text-align:center;text-anchor:middle;font-family:Bitstream Vera Sans"
+         id="tspan4351">(programming)</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.91793746px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend);stroke-opacity:1"
+       d="M 35.83685,60.321152 L 35.83685,447.40306 L 564.04103,447.40306"
+       id="path4355"
+       inkscape:export-filename="/home/henrikfr/documents/mhm/forskning/artiklar/dissertation/trunk/img/project_overview.png"
+       inkscape:export-xdpi="10.68"
+       inkscape:export-ydpi="10.68" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="31"
+       y="459.36218"
+       id="text5526"
+       inkscape:export-filename="/home/henrikfr/documents/mhm/forskning/artiklar/dissertation/trunk/img/project_overview.png"
+       inkscape:export-xdpi="10.68"
+       inkscape:export-ydpi="10.68"><tspan
+         sodipodi:role="line"
+         id="tspan5528"
+         x="31"
+         y="459.36218"
+         style="font-size:10px;font-style:italic">practical</tspan></text>
+    <text
+       id="text5530"
+       y="461.30066"
+       x="491"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/henrikfr/documents/mhm/forskning/artiklar/dissertation/trunk/img/project_overview.png"
+       inkscape:export-xdpi="10.68"
+       inkscape:export-ydpi="10.68"><tspan
+         style="font-size:10px;font-style:italic"
+         y="461.30066"
+         x="491"
+         id="tspan5532"
+         sodipodi:role="line">theoretical</tspan></text>
+    <text
+       id="text5534"
+       y="29.947273"
+       x="-443.85339"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="/home/henrikfr/documents/mhm/forskning/artiklar/dissertation/trunk/img/project_overview.png"
+       inkscape:export-xdpi="10.68"
+       inkscape:export-ydpi="10.68"><tspan
+         style="font-size:10px;font-style:italic"
+         y="29.947273"
+         x="-443.85339"
+         id="tspan5536"
+         sodipodi:role="line">scientific</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="-111.95349"
+       y="31.047363"
+       id="text5538"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="/home/henrikfr/documents/mhm/forskning/artiklar/dissertation/trunk/img/project_overview.png"
+       inkscape:export-xdpi="10.68"
+       inkscape:export-ydpi="10.68"><tspan
+         sodipodi:role="line"
+         id="tspan5540"
+         x="-111.95349"
+         y="31.047363"
+         style="font-size:10px;font-style:italic">artistic</tspan></text>
+  </g>
+</svg>

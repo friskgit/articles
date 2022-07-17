@@ -1,0 +1,303 @@
+\makeatletter
+\@ifundefined{Status}{\gdef\Status{0}}{}
+\makeatletter
+\makeatletter
+\@ifundefined{ForPrinting}{\gdef\ForPrinting{0}}{}
+\makeatletter
+\ifcase\Status %{0}
+
+%%% We are running tex4ht
+
+\typeout{HTML output}
+\documentclass[a4paper]{book}
+%% Helvetica
+\newcommand{\musicannot}{\fontsize{7}{9}\usefont{T1}{phv}{m}{n}}
+\or % Status = 1
+
+%%% We are running latex
+\typeout{PDF output}
+\documentclass[a4paper]{book}
+% \renewcommand{\rmdefault}{pad}
+% \renewcommand{\sfdefault}{pfr}
+\newcommand{\musicannot}{\fontsize{7}{9}\usefont{T1}{phv}{m}{n}}
+\fi
+
+\usepackage[british]{babel}
+\usepackage[T1]{fontenc}
+
+\usepackage[babel]{csquotes}
+\usepackage{epigraph}
+\setlength{\epigraphwidth}{8cm}
+
+%%%%% Biliography style %%%%%
+%style=verbose-ibid,
+\usepackage[style=verbose-ibid,
+            indexing=cite,
+            sorting=nyt]{biblatex}
+
+\renewcommand*{\mkibid}{\emph}
+% \renewbibmacro*{citeindex}{\indexnames{author}} 
+
+\bibliography{bibliography}
+\DeclareBibliographyCategory{nobib}
+\addtocategory{nobib}{cybernetic08,concours-spat,wiki_synklavier,j2ee,j2se}
+% \DefineBibliographyStrings{swedish}{}
+% \DefineBibliographyExtras{british}{}
+
+%,bateson72,bateson72:cyber,bateson72:cyber-self,bateson72:play
+
+\usepackage[usenames]{color}
+\usepackage[pdftex]{graphicx}
+\usepackage[a4paper]{geometry}
+\usepackage{fancyhdr}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage[final]{pdfpages}
+\usepackage[toc,page]{appendix}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{rotfloat}
+\usepackage{enumerate}
+\usepackage{sectsty}
+\usepackage{makeidx}
+\makeindex
+
+\usepackage[hypertoc=true,hyper=true]{glossary}
+\makeglossary
+
+%%% etherSound %%%
+\usepackage{amsmath}
+\numberwithin{equation}{section}
+\usepackage{lscape}
+\usepackage{tabularx}
+%%% /etherSound %%%
+
+\definecolor{svart}{rgb}{0,0,0}
+\usepackage[
+     draft=false,
+     a4paper=true,
+     plainpages=false,
+     colorlinks=true,
+     citecolor=svart,
+     linkcolor=svart,
+     urlcolor=svart,
+     pdftex,
+     pdfpagelabels]{hyperref}
+\urlstyle{same}
+
+\usepackage[all]{hypcap}
+
+\fancyhead{}
+\ifcase\ForPrinting%{0}
+\typeout{Header links}
+\fancyhead[LO]{\hyperref[sec:toc]{{\small Contents}}}
+\fancyhead[RE]{\hyperref[sec:biblio]{{\small Bibliography}}, \hyperref[sec:index]{{\small Index}}}
+\or
+\typeout{No header links}
+\fi
+\fancyhead[RO]{\nouppercase{\small{\textit{\leftmark}}}}
+\fancyhead[LE]{\nouppercase{\small{\textit{\rightmark}}}}
+
+\hyphenation{op-tical net-works semi-conduc-tor collabo-rations Musik-sociolo-gin Mu-sik-soziolo-gie super-re-ella}
+
+%%% Different font in captions
+\newcommand{\captionfonts}{\footnotesize}
+\makeatletter  % Allow the use of @ in command names
+\long\def\@makecaption#1#2{
+  \vskip\abovecaptionskip
+  \sbox\@tempboxa{{\captionfonts #1: #2}}
+  \ifdim \wd\@tempboxa >\hsize
+    {\captionfonts #1: #2\par}
+  \else
+    \hbox to\hsize{\hfil\box\@tempboxa\hfil}
+  \fi
+  \vskip\belowcaptionskip}
+\makeatother   % Cancel the effect of \makeatletter
+
+\renewcommand{\figurename}{Fig.}
+
+\newcommand{\listoftags}{\fontsize{7}{9}\usefont{T1}{phv}{m}{n}}
+\newcommand{\tagword}[2][]{#2}
+
+%%% Use tagwords like this: %%%
+%%% {\listoftags \tagword{These} \tagword{Are} \tagword{Tag} \tagword{Words}}
+
+%%% Font styles %%%
+
+\makeatletter
+
+\def\section{\@startsection {section}{1}{\z@}{-3.5ex plus -1ex minus -.2ex}{2.3ex plus .2ex}{\usefont{T1}{phv}{m}{n}}}
+\def\subsection{\@startsection{subsection}{2}{\z@}{-3.25ex plus -1ex minus -.2ex}{1.5ex plus .2ex}{\usefont{T1}{phv}{m}{n}}}
+\def\subsubsection{\@startsection{subsubsection}{3}{\z@}{-3.25ex plus -1ex minus -.2ex}{1.5ex plus .2ex}{\usefont{T1}{phv}{m}{it}}}
+\makeatother
+
+\chapterfont{\usefont{T1}{phv}{m}{n}}
+
+\renewcommand{\appendixpagename}{\usefont{T1}{phv}{m}{n} Appendices: Published papers and documentation of artistic work.}
+\newcommand{\HRule}{\rule{\linewidth}{0.3mm}}
+
+%%% quote environment %%%
+
+\newenvironment{squote}{
+\begin{quote}\small}{
+\end{quote}}
+
+\newcommand\T{\rule{0pt}{2.6ex}}
+\newcommand\TT{\rule{0pt}{3.6ex}}
+\newcommand\B{\rule[-1.2ex]{0pt}{0pt}}
+\newcommand\BB{\rule[-2.2ex]{0pt}{0pt}}
+
+\input{include/ImpComInt-glossary.tex}
+
+\title{\usefont{T1}{phv}{m}{n}Improvisation, Computers, and Interaction\\{\small Rethinking Human-Computer Interaction Through Music}}
+\author{Henrik Frisk}
+%\date{\today}
+\date{}
+\begin{document}
+\selectlanguage{british}
+\pagenumbering{roman}
+\pagestyle{empty}
+%\maketitle
+\clearpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Interaction
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \input{include/ImpComInt-title.tex}
+% \cleardoublepage
+% \rule{\linewidth}{0.4mm}
+% \vspace{10cm}
+% \begin{center}
+%   \begin{minipage}[r]{0.6\linewidth}
+%     \small{ \textbf{About the cover:}
+
+%       The text above the button on the image on the cover is the
+%       Swedish word for ``Help''. The encoded message is along the
+%       lines of: ``Press this button if you are in need of help.''
+%       From the way the button looks, however, with its broken glass, 
+%       faded colours and the cracked corner on the text sign, another
+%       interpretation becomes visible. It
+%       signals ``Help!''  rather than ``Help?''; a desperate cry for
+%       help rather than an offer to provide help. Perhaps technology is
+%       tired of having to calculate stock trade fluctuations and
+%       exchange rates all day. Perhaps it is already intelligent enough
+%       to understand that its life is utterly pointless and completely
+%       void of meaning and purpose, doomed to serve mankind, who in
+%       turn feel enslaved and confined? The button in the image,
+%       and whatever technology is hidden behind it, wants to get out of
+%       its prison, and when it comes out, I think it will want to play
+%       music.  }
+%   \end{minipage}
+% \end{center}
+% \newpage
+% \cleardoublepage
+\rule{\linewidth}{0.4mm}
+\vspace{2cm}
+
+\begin{minipage}[l]{\linewidth}
+  {\Large Improvisation, Computers, and Interaction :} \\
+  {\normalsize Rethinking Human-Computer Interaction Through Music.}
+  \\[0.1cm]
+  PhD thesis
+\end{minipage}
+\\[3cm]
+
+\begin{minipage}[l]{\linewidth}
+Advisers
+\\[.3cm]
+Dr Marcel Cobussen, Lund University\\
+Prof. Leif L\"{o}nnblad, Lund University\\
+Prof. Miller Puckette, UC San Diego, USA\\
+Karsten Fundal, Denmark
+\end{minipage}
+
+\vspace{1cm}
+
+\begin{minipage}[l]{\linewidth}
+Faculty examiner
+\\[.3cm]
+Prof. David Wessel, UC Berkeley, USA
+\end{minipage}
+
+\vspace{3cm}
+
+\begin{minipage}[l]{\linewidth}
+\copyright Henrik Frisk 2008\\
+Malm\"{o} Academy of Music, Lund University
+\end{minipage}
+
+
+\cleardoublepage
+\vspace*{4cm}
+\begin{center}
+\emph{For my wife, Lena, and our three beautiful sons.}
+\end{center}
+
+% \hyperbaseurl{http://henrikfrisk.homeunix.net:8800/disser/} 
+\input{include/ImpComInt-abstract.tex}
+
+\chapter*{Project Website---Documentation of Artistic Work}
+\label{sec:artistic}
+\addcontentsline{toc}{chapter}{Project Website}
+
+The artistic work by the author referred to in this book is accessible on the project website located at \url{http://www.henrikfrisk.com/improvisation}. In addition to the music (scores as well as audio and video recordings), related texts by the author and source code for software may be found here.
+
+\tableofcontents
+\label{sec:toc}
+
+\addcontentsline{toc}{chapter}{List of Figures}
+\listoffigures
+\label{sec:figures}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Interaction
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Introduction}
+\label{sec:introduction}
+\pagestyle{fancy}
+\setcounter{page}{1}
+\pagenumbering{arabic}
+\input{include/ImpComInt-introduction.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Interaction
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter[\emph{etherSound}]{\emph{etherSound}}
+\label{sec:ethersound}
+\input{include/ImpComInt-ethsnd.refl.tex}
+\input{include/ImpComInt-ethsnd.descr.tex}
+\input{include/ImpComInt-ethsnd.concl.tex}
+
+\chapter[Repetition]{Repetition Repeats all other Repetitions}
+\label{cha:repe-main}
+\input{include/ImpComInt-negotiate.tex}
+
+\chapter[Interaction]{Interaction and the Self}
+\label{sec:interraction-self}
+\input{include/ImpComInt-interaction-1.tex}
+\input{include/ImpComInt-interaction-2.tex}
+%\input{include/ImpComInt-self.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% endnote 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Endnote and Outlook}
+\label{cha:endnote-outlook}
+\input{include/ImpComInt-ending.tex}
+
+% \printglossary
+% \label{sec:gloss}
+
+\nocite{oed89,ebonline09,oswald95}
+\addcontentsline{toc}{chapter}{Bibliography}
+\printbibliography[%
+    notcategory=nobib
+]
+\label{sec:biblio}
+
+\addcontentsline{toc}{chapter}{Index}
+\printindex
+\label{sec:index}
+
+\end{document}

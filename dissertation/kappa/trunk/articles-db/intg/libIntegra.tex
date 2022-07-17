@@ -1,0 +1,58 @@
+\documentclass[a4paper]{article}
+\usepackage[swedish, english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[sectionbib, round, authoryear, longnamesfirst]{natbib}
+\renewcommand{\rmdefault}{pad}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage[a4paper]{geometry}
+\usepackage{url}
+\usepackage{amsmath}
+\numberwithin{equation}{section}
+\usepackage{makeidx}
+\makeindex
+
+% Different font in captions
+\newcommand{\captionfonts}{\footnotesize}
+\makeatletter  % Allow the use of @ in command names
+\long\def\@makecaption#1#2{%
+  \vskip\abovecaptionskip
+  \sbox\@tempboxa{{\captionfonts #1: #2}}%
+  \ifdim \wd\@tempboxa >\hsize
+    {\captionfonts #1: #2\par}
+  \else
+    \hbox to\hsize{\hfil\box\@tempboxa\hfil}%
+  \fi
+  \vskip\belowcaptionskip}
+\makeatother   % Cancel the effect of \makeatletter
+
+\renewcommand{\figurename}{Fig.}
+
+\title{Music, Computers and Interaction\\Collected papers}
+\author{Henrik Frisk\\henrik.frisk@mhm.lu.se\\Malmö Academy of Music,
+  Lund University}
+
+\begin{document}
+\selectlanguage{english}
+
+ \chapter{\emph{libIntegra}: a system for software-independent multimedia module description and storage}
+  \label{cha:libint-syst-softw}
+
+  \section{Epigraph}
+  \label{sec:epigraph}
+
+  This paper was presented at the \emph{International Computer Music Conference} in Copenhagen in 2007 and appeared in print in the conference preceedings. \citep{frisk-bull07}
+  
+  \input{../../../../integra/ICMC07-libintegra/svn/ICMC/branches/dissertation/include/IntegraICMC-short-abstract.tex}
+  \input{../../../../integra/ICMC07-libintegra/svn/ICMC/branches/dissertation/include/IntegraICMC-short-main.tex}
+
+\chapter*{\bibname}
+
+\bibliography{bibliography}
+\bibliographystyle{newapa}
+
+\end{document}
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: t
+%%% End: 

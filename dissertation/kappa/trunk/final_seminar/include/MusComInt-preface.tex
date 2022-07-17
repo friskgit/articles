@@ -1,0 +1,163 @@
+This text and the collection of published papers, together form the
+written part of my PhD thesis with the working title \emph{Music,
+Computers, and Interaction}. The other two major parts of this work
+are the artistic output\footnote{An archive containing all the
+  material may be downloaded from
+  \url{http://henrikfrisk.homeunix.net:8800/svn/dissertation/FriskMusic.zip}. 
+Use `guest' for login and password. Should you experience problems
+with the download, send me an email at henrik.frisk@mhm.lu.se. The
+archive is nearly 700MB.} 
+and the computer programs. Though a paper on the software project
+libIntegra is included the software projects \emph{timbreMap} and \emph{libIntegra}
+are not themselves included in this version of the thesis.
+
+The main purpose of the first chapter (Chapter \ref{cha:introduction},
+\emph{Introduction}) of this text is to provide the reader with an
+overview of the research project. The next chapter (Chapter
+\ref{cha:interaction}, \emph{Music and Interaction}) will discuss
+interaction from a general, as well as to music specific
+perspectives. Only the first part of Chapter \ref{cha:interaction} is
+included in this version of the text. The first section (Section
+\ref{sec:interaction} looks a differences between human-computer
+interaction and social interaction as well as musical interaction and
+in the first subsection (\emph{Social interaction and the giving up of
+  the self}) I posit myself in the context of interaction. This
+version of the text ends rather abruptly after this subsection.
+
+What I intend for the continuation is a discussion of the parties
+involved in any interaction from a subjective perspective, as `the
+self' and `the other'. The next section will be an overview of the
+field of interactive music, and finally a section about my own
+interactive music. The final chapter, also not included here, will be
+a summary and an outlook.
+
+This is not the final version of any of the parts, but a version
+produced for my 75\% seminar, the primary purpose of which is to `try
+out' the material in the `real world'. I envision the final result of
+this thesis to be produced in a hypertext format: The medium should
+allow for seamless transitions between documentation of artistic
+output and text based content. A somewhat evolved version of the way
+the artistic output is presented.  (All material---text, music, and
+programs---on a DVD browsable from a standard WWW browser.)
+\clearpage
+\section{Terminology and acronyms}
+\label{sec:terminology}
+
+Below is a list of terms that are used in these texts and that may
+require some extra explanation.  Either because I want to delineate
+its meaning or to avoid misunderstandings due to ambivalent
+interpretations. Also included here are also acronyms
+that, for the most part are explained in the text the first time they
+appear.
+
+\begin{itemize} %%% [\bfseries\textendash]
+
+\item \textbf{ANN} - Artificial Neural Network.
+
+\item \textbf{Agent} - In the studies performed within the frame of
+  \emph{Negotiating the Musical Work} (see Section
+  \ref{sec:negot-music-work}) we use the concept of `agent' (not to be
+  confused with the software based `intelligent agent'). Many
+  different kinds of agents are involved in the production of musical
+  content. ``We find that by using the concept of `agents' we bypass
+  the otherwise problematic values traditionally assigned to''
+  `composer' and `performer' \citetext{see also \citealp[p.
+    35]{wis96}}.
+
+\item \textbf{Electro-acoustic Music} (EAM) - According to the Oxford
+  English Dictionary electro-acoustics are ``acoustics investigated by
+  electrical methods''\footnote{``electro-acoustics'' The Oxford
+    English Dictionary. 2nd ed. 1989. OED Online. Oxford University
+    Press. 31 Oct. 2007
+    <http://dictionary.oed.com.ludwig.lub.lu.se/cgi/entry/50073014>}.
+  Electro-acoustic music is a broad term used to denote music produced
+  by or with electrical methods. Today, since this is mainly achieved
+  by the use of digital computers, in USA the use of the term
+  \emph{Computer Music} is more common\footnote{The issue of
+    terminology in the field of electro-acoustic music is complex and
+    there is an apparent lack of standardized vocabulary. How to
+    label the entire genre, let alone sub-genres and particular
+    processes within the field of electro-acoustic music, has recently
+    been debated during a conference organized by EMS (see
+    \citealp{EMS06}, in particular \citealp{landy06,dack06,battier06} and
+    in relation to translation see \citealp{fields06}}). Yet another
+  term, more commonly used in the francophone countries is
+  \emph{acousmatic}, and it is sometimes argued that \emph{acousmatic}
+  refers to the genre and \emph{electro-acoustic} to the means of
+  production (e.g. \textparagraph 9 ``Vous avez dit...''
+  \citeyear{musique-recherche}). In this text I will consistently use
+  electro-acoustic music, or the acronym \emph{EAM} to denote my own
+  artistic work involving computers and music.
+   
+\item \textbf{Esthesic} - An analysis of the (inductive) esthesic
+  ``grounds itself in perceptive introspection'' - that which is
+  ``perceptively relevant'', that which one hears \cite[pp.
+  140-3]{nattiez}. See also \emph{Poietic}
+
+\item\textbf{GUI} or \textbf{UI} - Graphical User Interface or User
+  Interface.
+
+\item\textbf{HCI} - Human Computer Interaction.
+
+\item \textbf{Intelligent agent} - An idea to improve HCI introduced in
+  the mid 90's. An agent is a piece of software designed to collect
+  and sort information and present it to the user. The idea is that
+  the agent will learn what it is its user wants, or needs to know
+  about. (The `intelligent agent' should not be confused with the
+  `agent' as a factor in the production of musical content.)
+
+\item \textbf{Musician} - I use `musician' in a very inclusive
+  way in these texts. A composer, an improviser, a performer are all
+  sub-categories to the general description `musician'.
+
+\item\textbf{Pitch-tracking} (also pitch-to-MIDI, pitch detection) - To
+  let a computer (or a special purpose device) analyze an audio signal
+  in real-time and extract the most likely fundamental of the
+  sound. See the discussion i Section \ref{sec:interaction}. 
+
+\item \textbf{Poietic} - According to musical semiologists Jean-Jacques
+  Nattiez and Jean Molino, the poietic phase of a musical work is the
+  stage at which the musical material is constructed. According to
+  \citet{nattiez}, articulating the poietic and esthesic level
+  ``facilitates knowledge of all processes unleashed by the musical
+  work'' \cite[pp. 92]{nattiez}. We reinterpret the terms `poietic'
+  and `esthesic' in the paper \emph{Negotiating the Musical Work} (see
+  Section \ref{sec:negot-music-work}).
+
+\item\textbf{Production of musical content} - Any or all activities
+  involved when producing music - its conception, performance, writing
+  down (transcription) and listening.
+
+\item \textbf{SOM} - Self Organizing Map. A type of ANN introduced by \citet{kohonen88}.
+
+% \item\textbf{Telematics} - ``Telematics is a term used to designate
+%   computer-mediated communications networking involving telephone,
+%   cable, and satellite links between geographically dispersed
+%   indivudals and institutions that are interfaced to data-processing
+%   systems, remote semsing devices, and capacious data-storage banks''
+%   \citep[p. 241]{Ascott}
+
+\end{itemize}
+
+\section{Typography}
+\label{sec:typography}
+
+I have tried to follow the APA referencing guide for citations as
+consistently and truthfully as possible except for references to the
+Oxford English Dictionary where I have used the rules depicted by OED.
+When citing in text I have put the reference after the closing
+quotation mark but before the period. Quotes of 40 words or more are
+inset and put in a separate paragraph and the reference is given
+enclosed in parenthesis after the final period.
+
+I use American style ``double'' quotation marks for quotes and
+`single' quotation marks for inside quotes, except for longer indented
+quotations. These are typeset without surrounding quotation marks and
+any inside quotes are printed exactly as in the text cited. Commas and
+periods are put inside the closing quotation mark, but colon and
+semi-colon outside. Footnote marks are put after punctuation.
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "../MusicComputersInteraction"
+%%% End: 

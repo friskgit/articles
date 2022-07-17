@@ -1,0 +1,4 @@
+Rename the on of the two build scripts buildServer or buildCient to build.xml and run 'ant dist' to compile and make a runnable JAR in the dist directory. Each of the two programs may then be run with:
+
+java -jar blablabla.jar
+

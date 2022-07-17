@@ -1,0 +1,147 @@
+\documentclass[a4paper]{memoir}
+\usepackage[swedish, english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[sectionbib, round, authoryear, longnamesfirst]{natbib}
+\renewcommand{\rmdefault}{pad}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage[a4paper]{geometry}
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{setspace}
+\onehalfspacing
+\numberwithin{equation}{section}
+\usepackage{lscape}
+
+% Different font in captions
+\newcommand{\captionfonts}{\footnotesize}
+\makeatletter  % Allow the use of @ in command names
+\long\def\@makecaption#1#2{%
+  \vskip\abovecaptionskip
+  \sbox\@tempboxa{{\captionfonts #1: #2}}%
+  \ifdim \wd\@tempboxa >\hsize
+    {\captionfonts #1: #2\par}
+  \else
+    \hbox to\hsize{\hfil\box\@tempboxa\hfil}%
+  \fi
+  \vskip\belowcaptionskip}
+\makeatother   % Cancel the effect of \makeatletter
+
+\renewcommand{\figurename}{Fig.}
+
+\title{Music, Computers and Interaction\\Collected papers}
+\author{Henrik Frisk\\henrik.frisk@mhm.lu.se\\Malmö Academy of Music,
+  Lund University}
+
+\begin{document}
+\selectlanguage{english}
+% \posttitle{Collected papers for 75\% seminar, December 10, 2007}
+
+% \postauthor{henrik.frisk@mhm.lu.se}
+
+\begin{titlingpage}
+\aliaspagestyle{titlingpage}{plain}
+\setlength{\droptitle}{40pt}
+\maketitle
+\vspace{5cm}
+
+  \begin{minipage}[c]{\linewidth}
+    \begin{center}
+      \large{75\% seminar, December 10, 2007}
+    \end{center}
+
+  \end{minipage}
+
+\vspace{5cm}
+
+  \begin{minipage}[c]{\linewidth}
+    \large{\emph{Opponent}:\\Prof. Simon Emmerson, DeMontfort Univ, Leicster,
+    UK}
+  \end{minipage}
+
+\end{titlingpage}
+
+
+% \clearpage
+
+\tableofcontents
+\listoffigures
+
+\setlength{\epigraphwidth}{0.5\linewidth}
+\chapter{\emph{etherSound}---an interactive sound installation}
+\label{cha:ethers-an-inter}
+\epigraphhead[0]{
+\epigraph{The first version of this article was presented at the
+  \emph{Spark Festival of Electronic Music and Art} in Minneapolis,
+  USA in 2005 and appeared in print in the program book for the
+  festival. The article has been revised and edited for this
+  context.}{\citep{frisk1}}}
+\begin{minipage}[t]{0.6\linewidth}
+  \begin{large}
+    \textbf{Author:} \emph{Henrik Frisk}
+  \end{large}
+\end{minipage}
+\input{../../../etherSound/svn/ethsnd/branches/dissertation/include/etherSound-abstract}
+\input{../../../etherSound/svn/ethsnd/branches/dissertation/include/etherSound-main}
+
+\chapter{New communications technology in the context of interactive sound art: An empirical analysis}
+\label{cha:new-comm-tech}
+\epigraphhead[0]{
+\epigraph{This essay was originally published in \emph{Organised
+    Sound} in 2005. A revised version of it appeared in Miya Yoshida's
+  PhD dissertation \emph{The Invisible Landscapes: The construction of
+    new subjectivities in the era of the mobile telephone}
+  (2006)}{\citep{frisk05,yoshida06}}}
+\begin{minipage}[t]{0.6\linewidth}
+  \begin{large}
+    \textbf{Authors:} \emph{Henrik Frisk \& Miya Yoshida}
+  \end{large}
+\end{minipage}
+\input{../../../etherSound/svn/ethsnd_miya/branches/dissertation/include/NewCommTech-abstract}
+\input{../../../etherSound/svn/ethsnd_miya/branches/dissertation/include/NewCommTech-main}
+
+\chapter{Negotiating the Musical Work: An empirical study on the
+inter-relation between composition, interpretation and performance}
+\label{cha:negot-music-work}
+\epigraphhead[0]{
+\epigraph{This paper was first presented at the \emph{Electro-acoustic
+    Music Studies} conference in Beijing in 2006. The version printed
+  here is also published on the EMS Network
+  site.}{\citep{frisk-ost06-2}}}
+\begin{minipage}[t]{0.6\linewidth}
+  \begin{large}
+    \textbf{Authors:} \emph{Henrik Frisk \& Stefan Östersjö}
+  \end{large}
+\end{minipage}
+\input{../../../ostersjo/svn/ostersjo/branches/dissertation/include/Negotiate1-main}
+
+\chapter{\emph{libIntegra}: a system for software-independent multimedia module description and storage}
+\label{cha:libint-syst-softw}
+\epigraphhead[0]{
+\epigraph{This paper was presented at the \emph{International Computer Music
+  Conference} in Copenhagen in 2007 and appeared in print in the
+  conference preceedings.}{\citep{frisk-bull07}}}
+\begin{minipage}[t]{0.6\linewidth}
+  \begin{large}
+    \textbf{Authors:} \emph{ Jamie Bullock \& Henrik Frisk}
+  \end{large}
+\end{minipage}
+\input{../../../integra/ICMC07-libintegra/svn/ICMC/branches/dissertation/include/IntegraICMC-short-abstract.tex}
+\input{../../../integra/ICMC07-libintegra/svn/ICMC/branches/dissertation/include/IntegraICMC-short-main.tex}
+
+\begin{appendices}
+  \chapter{Csound orchestra for \emph{etherSound}}
+  \label{sec:csound-orch-ethers}
+  \input{../../../etherSound/svn/ethsnd/branches/dissertation/include/etherSound-appendix}
+\end{appendices}
+
+\chapter*{\bibname}
+
+\bibliography{bibliography}
+\bibliographystyle{newapa}
+
+\end{document}
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: t
+%%% End: 

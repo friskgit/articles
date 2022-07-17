@@ -1,0 +1,71 @@
+\documentclass[a4paper]{article}
+\usepackage[swedish, english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[sectionbib, round, authoryear, longnamesfirst]{natbib}
+\renewcommand{\rmdefault}{pad}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage[a4paper]{geometry}
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{setspace}
+\onehalfspacing
+\numberwithin{equation}{section}
+\usepackage{lscape}
+\usepackage{makeidx}
+\makeindex
+
+% Different font in captions
+\newcommand{\captionfonts}{\footnotesize}
+\makeatletter  % Allow the use of @ in command names
+\long\def\@makecaption#1#2{%
+  \vskip\abovecaptionskip
+  \sbox\@tempboxa{{\captionfonts #1: #2}}%
+  \ifdim \wd\@tempboxa >\hsize
+    {\captionfonts #1: #2\par}
+  \else
+    \hbox to\hsize{\hfil\box\@tempboxa\hfil}%
+  \fi
+  \vskip\belowcaptionskip}
+\makeatother   % Cancel the effect of \makeatletter
+
+\renewcommand{\figurename}{Fig.}
+
+\title{Music, Computers and Interaction\\Collected papers}
+\author{Henrik Frisk\\henrik.frisk@mhm.lu.se\\Malmö Academy of Music,
+  Lund University}
+
+\begin{document}
+\selectlanguage{english}
+
+\chapter{\emph{etherSound}---an interactive sound installation}
+\label{cha:ethers-an-inter}
+
+\section*{Epigraph}
+\label{sec:epigraph}
+
+The first version of this article was presented at the
+\emph{Spark Festival of Electronic Music and Art} in Minneapolis,
+USA in 2005 and appeared in print in the program book for the
+festival. The article has been revised and edited for this
+context. \citep{frisk1}
+
+\input{../../../../etherSound/svn/ethsnd/branches/dissertation/include/etherSound-abstract}
+\input{../../../../etherSound/svn/ethsnd/branches/dissertation/include/etherSound-main}
+\printindex
+
+\chapter*{\bibname}
+
+\bibliography{bibliography}
+\bibliographystyle{newapa}
+
+\appendix
+\section{Csound orchestra for \emph{etherSound}}
+\label{sec:csound-orch-ethers}
+\input{../../../../etherSound/svn/ethsnd/branches/dissertation/include/etherSound-appendix}
+
+\end{document}
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: t
+%%% End: 

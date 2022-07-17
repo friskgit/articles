@@ -1,0 +1,188 @@
+This text and the collection of published papers, together form the
+written part of my PhD thesis with the working title \emph{Music,
+Computers, and Interaction}. The other two major parts of this work
+are the artistic output\footnote{An archive containing all the
+  material may be downloaded from
+  \url{http://henrikfrisk.homeunix.net:8800/svn/dissertation/FriskMusic.zip}. 
+Use `guest' for login and password. Should you experience problems
+with the download, send me an email at henrik.frisk@mhm.lu.se. The
+archive is nearly 700MB.} 
+and the computer programs. Though a paper on the software project
+libIntegra is included the software projects \emph{timbreMap} and \emph{libIntegra}
+are not themselves included in this version of the thesis.
+
+The main purpose of the first chapter (Chapter \ref{cha:introduction},
+\emph{Introduction}) of this text is to provide the reader with an
+overview of the research project. The next chapter (Chapter
+\ref{cha:interaction}, \emph{Music and Interaction}) will discuss
+interaction from a general, as well as to music specific
+perspectives. Only the first part of Chapter \ref{cha:interaction} is
+included in this version of the text. The first section (Section
+\ref{sec:interaction} looks a differences between human-computer
+interaction and social interaction as well as musical interaction and
+in the first subsection (\emph{Social interaction and the giving up of
+  the self}) I posit myself in the context of interaction. This
+version of the text ends rather abruptly after this subsection.
+
+What I intend for the continuation is a discussion of the parties
+involved in any interaction from a subjective perspective, as `the
+self' and `the other'. The next section will be an overview of the
+field of interactive music, and finally a section about my own
+interactive music. The final chapter, also not included here, will be
+a summary and an outlook.
+
+This is not the final version of any of the parts, but a version
+produced for my 75\% seminar, the primary purpose of which is to `try
+out' the material in the `real world'. I envision the final result of
+this thesis to be produced in a hypertext format: The medium should
+allow for seamless transitions between documentation of artistic
+output and text based content. A somewhat evolved version of the way
+the artistic output is presented.  (All material---text, music, and
+programs---on a DVD browsable from a standard WWW browser.)
+\clearpage
+\section{Terminology and acronyms}
+\label{sec:terminology}
+
+Below is a list of terms that are used in these texts and that may
+require some extra explanation.  Either because I want to delineate
+its meaning or to avoid misunderstandings due to ambivalent
+interpretations. Also included here are also acronyms
+that, for the most part are explained in the text the first time they
+appear.
+
+\begin{itemize} %%% [\bfseries\textendash]
+
+\item \textbf{ANN} - Artificial Neural Network.
+
+\item \textbf{Agent} - In the studies performed within the frame of
+  \emph{Negotiating the Musical Work} (see Section
+  \ref{sec:negot-music-work}) we use the concept of `agent' (not to be
+  confused with the software based `intelligent agent'). Many
+  different kinds of agents are involved in the production of musical
+  content. ``We find that by using the concept of `agents' we bypass
+  the otherwise problematic values traditionally assigned to''
+  `composer' and `performer' \citetext{see also \citealp[p.
+    35]{wis96}}.
+
+\item \textbf{Electro-acoustic Music} (EAM) - According to the Oxford
+  English Dictionary electro-acoustics are ``acoustics investigated by
+  electrical methods''\footnote{``electro-acoustics'' The Oxford
+    English Dictionary. 2nd ed. 1989. OED Online. Oxford University
+    Press. 31 Oct. 2007 
+    <http://dictionary.oed.com.ludwig.lub.lu.se/cgi/entry/50073014>}.
+  Electro-acoustic music is a broad term used to denote music produced
+  by or with electrical methods. Today, since this is mainly achieved
+  by the use of digital computers, in USA the use of the term
+  \emph{Computer Music} is more common\footnote{The issue of
+    terminology in the field of electro-acoustic music is complex and
+    there is an apparent lack of standardized vocabulary. How to
+    label the entire genre, let alone sub-genres and particular
+    processes within the field of electro-acoustic music, has recently
+    been debated during a conference organized by EMS (see
+    \citealp{EMS06}, in particular \citealp{landy06,dack06,battier06} and
+    in relation to translation see \citealp{fields06}}). Yet another
+  term, more commonly used in the francophone countries is
+  \emph{acousmatic}, and it is sometimes argued that \emph{acousmatic}
+  refers to the genre and \emph{electro-acoustic} to the means of
+  production (e.g. \textparagraph 9 ``Vous avez dit...''
+  \citeyear{musique-recherche}). In this text I will consistently use
+  electro-acoustic music, or the acronym \emph{EAM} to denote my own
+  artistic work involving computers and music.
+   
+\item \textbf{Esthesic} - An analysis of the (inductive) esthesic
+  ``grounds itself in perceptive introspection'' - that which is
+  ``perceptively relevant'', that which one hears \cite[pp.
+  140-3]{nattiez}. See also \emph{Poietic}
+
+\item\textbf{GUI} or \textbf{UI} - Graphical User Interface or User
+  Interface.
+
+\item\textbf{HCI} - Human Computer Interaction.
+
+\item \textbf{Intelligent agent} - An idea to improve HCI introduced in
+  the mid 90's. An agent is a piece of software designed to collect
+  and sort information and present it to the user. The idea is that
+  the agent will learn what it is its user wants, or needs to know
+  about. (The `intelligent agent' should not be confused with the
+  `agent' as a factor in the production of musical content.)
+
+\item \textbf{Musician} - I use `musician' in a very inclusive
+  way in these texts. A composer, an improviser, a performer are all
+  sub-categories to the general description `musician'.
+
+\item\textbf{Pitch-tracking} (also pitch-to-MIDI, pitch detection) - To
+  let a computer (or a special purpose device) analyze an audio signal
+  in real-time and extract the most likely fundamental of the
+  sound. See the discussion i Section \ref{sec:interaction}. 
+
+\item \textbf{Poietic} - According to musical semiologists Jean-Jacques
+  Nattiez and Jean Molino, the poietic phase of a musical work is the
+  stage at which the musical material is constructed. According to
+  \citet{nattiez}, articulating the poietic and esthesic level
+  ``facilitates knowledge of all processes unleashed by the musical
+  work'' \cite[pp. 92]{nattiez}. We reinterpret the terms `poietic'
+  and `esthesic' in the paper \emph{Negotiating the Musical Work} (see
+  Section \ref{sec:negot-music-work}).
+
+\item\textbf{Production of musical content} - Any or all activities
+  involved when producing music - its conception, performance, writing
+  down (transcription) and listening.
+
+\item \textbf{SOM} - Self Organizing Map. A type of ANN introduced by \citet{kohonen88}.
+
+% \item\textbf{Telematics} - ``Telematics is a term used to designate
+%   computer-mediated communications networking involving telephone,
+%   cable, and satellite links between geographically dispersed
+%   indivudals and institutions that are interfaced to data-processing
+%   systems, remote semsing devices, and capacious data-storage banks''
+%   \citep[p. 241]{Ascott}
+
+\end{itemize}
+
+\chapter*{Abstract}
+\label{cha:abstract}
+
+
+Interaction is an integral part of all music. Interaction is part of listening, of playing, of composing and even of thinking about music. In this thesis the multiplicity of modes in which one may engage interactively in, through and with music is the starting point for rethinking Human-Computer Interaction in general and Interactive Music in particular. I propose that in Human-Computer interaction the methodology of control, \emph{interaction-as-control}, in certain cases should be given up in favor for a more dynamic and reciprocal mode of interaction, \emph{interaction-as-difference}: Interaction as an activity concerned with inducing differences \emph{that make a difference}. \emph{Interaction-as-difference} suggests a kind of parallelity rather than click-and-response. In essence, the movement from \emph{control} to \emph{difference} was a result of rediscovering the power of improvisation as a method for organizing and constructing musical content and is not to be understood as an opposition: It is rather a broadening of the more common paradigm of direct manipulation in Human-Computer Interaction. Improvisation is at the heart of all the subprojects included in this thesis, also, in fact, in those that are not immediately related to music but more geared towards computation. Trusting the self-organizing aspect of musical improvisation, and allowing it to diffuse into other areas of my practice, constitutes the pivotal change that has radically influenced my artistic practice. Furthermore, is the work-in-movement (re-)introduced as a work type that encompasses radically open works. The work-in-movement, presented and exemplified by a piece for guitar and computer, requires different modes of representation as the traditional musical score is too restricitve and is not able to communicate that which is the most central aspect: the collaboration, negotiation and interaction. The Integra framework and the relational database model with its corresponding XML representation is proposed as a means to produce annotated scores that carry past performances and version with it. The common nominator, the prerequisite, for \emph{interaction-as-difference} and a improvisatory and self-organizing attitude towards musical practice it the notion of giving up of the Self. Only if the Self is able and willing to accept the loss the priority of interpretation (as for the composer) or the faithfulness to ideology or idiomatics (performer). Only is one is willing to \emph{forget} is \emph{interaction-as-difference} made possible. Among the artistic works that have been produced as part of this inquiry are some experimental tools in the form of computer software to support the proposed concepts of interactivity. These, along with the more tradional musical work make up both the object and the method in this PhD project. These subprojects contained within the frame of the thesis, some (most) of which are still works-in-progress, are used to make inquiries into the larger question of the significance of interaction in the context of artistic practice involving computers.
+
+\chapter{Acknowledgments}
+\label{cha:acknowledgments}
+
+As always, there is a great number of people that have been of importance to this project and its various components and to my musical career in general, which provided the foundation for my PhD studies. First I would like to thank all the musicians that I have played with, for music is all about interaction and interaction, though not solely, is about meeting the Other. Specifically the musicians that participate in various parts of the subprojects: Peter Nilsson (whom I owe a lot of knowledge), Anders Nilsson, Andreas
+Andersson, Anders Nilsson, David Carlsson. Henrik Frendin who commisioned and played \emph{Drive} and who endured my presence on a number of tours. Per Anders Nilsson who has inspired and contributed to my musical and technological development. Ngo Tra My and Ngyen Thanh Thuy who introduced me to another Other and another Self and a very special acknowledgment should go to my collegue and co-musician Stefan \"{O}stersj\"{o} whom my thesis would have looked different in many respects (and who also kept up with me on many travels).
+
+Bosse Bergkvist and Johannes Johansson should be recognized for having aroused my interest in electro-acoustic music as well as for giving me the opportunity to excercise it. Coincidentally they have both been present throughout my journey and Johannes played an important role in his early support of this project. Cort Lippe gave support and help and Kent Olofsson's enthusiasm, kindness and helpfulness should not be forgotten. The Integra team in general and Jamie Bullock in particular: the kind of collaboration we established I feel is rare and itself an example of \emph{interaction-as-difference}. All my students during these years have been a continuous source of inspiration as have my collegues at the Malm\"{o} Academy of Music. Peter Berry and the staff at the library should be thanked for their help and patience.
+
+The joint seminars at the Malm\"{o} Art Academy led by Sarat Maharaj, where the concept of artistic research was discussed and interrogated, had an tremendous impact on how my studies and my project developed. My PhD collegues at the art department, Matts Leiderstam, Sopawan Boonnimitra, Aders Kreuger should be thanked for their feedback and a very special acknowledge should go to Miya Yoshida as well as Gertrud Sandqvist and Sarat Maharaj. Furthermore should the staff at Malm\"{o} Museum be recognized for hosting \emph{etherSound}, in particular Marika Reutersw\"{a}rd.
+
+Later, in our seminars at the Music Academy, apart from Stefan \"{O}stersj\"{o}, Hans Gefors has been a great inspiration (also since much earlier when I studied composition with him). I feel gratitude towards Prof. Hans Hellsten who, both when he participated in the seminars and when we worked together on other topics, showed ceaseless support. Trevor Wishart, Eric Clarke, Per Nilsson are among those who participated in the seminars and should not be forgotten. The way H{\aa}kan Lundstr\"{o} managed to keep up these seminars, head the entire faculty, give individual support and guidance as well as handle the practicalities and bureaucracy of our PhD program is nothing short of staggering.
+
+I feel it is safe to assert that without Prof. Leif L\"{o}nnblad, as teacher, advisor and friend, this project would have looked very different which is true also for Prof. Miller Puckette, also a great source of inspiration. Karsten Fundal has been my artistic guidance for many years, even prior to my PhD project, has tirelessly kept asking all the difficult questions, a capacity shared by Dr. Marcel Cobussen who handled the difficult task of stepping in to the project three quarters through gracefully. The acuity of all four of my advisors has had a decisive impact on my work.
+
+Finally I shall not forget to thank my family, my siblings and my parents. My father for getting me started by, still in my thirties, insisting that I get a ``proper education'' (which, hopefully, I have finally acquired). My mother for bringing me to the end, telling me to finish my PhD so she could be part of the ceremony before she passes away (which she hasn't). Karin and Sara for being an inspiration. Thomas and Mikael too. Lennart and Rose-Marie for all the help and support. My three sons, Arthur, Bruno and Castor have all been born into this PhD project (I wonder if they will miss it?) and are a part of it as well as of anything I do. Thank you Lena for putting up with me.
+
+Finally, I wish to acknowledge Olle and Leo without whom none of this had been written. Really.
+
+
+\section{Typography}
+\label{sec:typography}
+
+I have tried to follow the APA referencing guide for citations as
+consistently and truthfully as possible except for references to the
+Oxford English Dictionary where I have used the rules depicted by OED.
+When citing in text I have put the reference after the closing
+quotation mark but before the period. Quotes of 40 words or more are
+inset and put in a separate paragraph and the reference is given
+enclosed in parenthesis after the final period.
+
+I use American style ``double'' quotation marks for quotes and
+`single' quotation marks for inside quotes, except for longer indented
+quotations. These are typeset without surrounding quotation marks and
+any inside quotes are printed exactly as in the text cited. Commas and
+periods are put inside the closing quotation mark, but colon and
+semi-colon outside. Footnote marks are put after punctuation.
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "../MusicComputersInteraction"
+%%% End: 

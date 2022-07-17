@@ -1,0 +1,7 @@
+These are questions that many before me have asked since it became technically possible to perform with/on computers. That which has come out of my work here may or may not apply to other musicians' experiences, as my work is intrinsically linked to my practical work as improviser and composer.
+
+If this project has been about interactions in the mind, surely the next body-mind interaction.
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "../ImprovisationComputersInteraction.tex"
+%%% End: 
