@@ -1,0 +1,121 @@
+# TODO: Add svn commit target
+
+# Makefile for dissertation
+# 
+# Note that the rsync targets rely on the private ssh key.
+# This is NOT included with this Makefile. Further, this Makefile 
+# relies on bash script wrapping up the latex2html parameters.
+# This script can be downloaded from:
+# http://www.henrikfrisk.com/documents/downloads/l2html.sh
+#
+# If you wish to adapt this Makefile for your own projects
+# follow the excellent instructions at:
+# http://troy.jdmz.net/rsync/index.html
+# on how to set up a safe but fully automated ssh'ed rsync 
+# conection to your server.
+#
+# 24 September 2007	Henrik Frisk	mail@henrikfrisk.com
+
+SOURCE_DIR          := .
+HTML_DIR          := $(SOURCE_DIR)/html
+REQUIRED_DIRS      = $(OUTPUT_DIR) $(HTML_DIR)
+_MKDIR	          := $(shell for d in $(REQUIRED_DIRS); \
+			do				\
+			[[ -d $$d ]] || mkdir -p $$d; 	\
+			done)
+
+AUTHOR		:= "Henrik Frisk, henrik<DOT>frisk<AT>mhm<DOT>lu<DOT>se"
+
+source		:= machinic-prop-dev.tex
+images 		:= 
+pdf		:= out/$(source:.tex=.pdf)
+HOME		= /Users/henrik_frisk
+BIBLIO		= $(HOME)/Docs/articles/biblio/bibliography.bib
+BIN		= /usr/bin
+LOCBIN		= /usr/local/bin
+TEXBIN		= /Library/TeX/texbin
+LATEX		= $(TEXBIN)/latex
+BIBER		= $(TEXBIN)/biber
+PDFLATEX	= $(TEXBIN)/pdflatex
+LATEX2HTML	= ~/scripts/l2html.sh
+DVIPS		= $(TEXBIN)/dvips
+LATEX2RTF	= $(LOCBIN)/latex2rtf
+DETEX		= $(TEXBIN)/detex
+WC		= $(BIN)/wc
+PANDOC		= $(LOCALBIN)/pandoc
+
+ACRO 		= $(BIN)/acroread
+GIT 		= $(BIN)/git
+TEX4HT 		= $(TEXBIN)/tex4ht
+MK4HT 		= $(TEXBIN)/mk4ht
+FFOX 		= $(BIN)/firefox
+
+PS		= $(source:.tex=.ps)
+BBL		= $(source:.tex=.bbl)
+
+SERVER		= henrikfr@henrikfrisk.com:www/documents/articles/Introduction
+
+## include out/module.mk
+
+.SUFFIXES:
+.SUFFIXES: .ps .dvi .bib .aux .ltx .pdf
+
+.aux.bib: ; $(BIBTEX) $*
+
+### TARGETS
+DVI       = $(source:.tex=.dvi)
+BLG       = $(source:.tex=.blg)
+AUX       = $(source:.tex=.aux)
+LOG       = $(source:.tex=.log)
+DOC	  = $(source:.tex=.docx)
+PS        = $(source:.tex=.ps)
+PDF	      = $(source:.tex=.pdf)
+
+all: 
+
+.PHONY: echo_src
+echo_src:
+	echo $(source)
+	echo $(PS)
+	echo $(BIBTEX) $(OUTPUT_DIR)/$(basename $(source))
+
+.PHONY: echo_pdf wc charc dvi biber git tex4ht
+echo_pdf:
+	echo $(pdfs)
+
+echo: $(source)
+	$<
+
+# Some latex file needs to be run at least three times to be sure to resolve all references.
+
+dvi : $(source)
+	$(LATEX)  $(source) ; \
+	$(BIBER) $(basename $(source)); \
+	$(LATEX) $(source) ; \
+	$(LATEX) $(source)
+
+biber : $(source)
+	$(BIBER) $(basename $(source))
+
+view : $(source)
+	$(FFOX)
+
+git : $(source)
+	$(GIT) commit -a -m "$m"
+
+tex4ht : $(source)
+	$(MK4HT) xhmlatex $(source) \"xhtml,fn-in\"
+
+rtf : $(source) $(images)
+	$(LATEX2RTF) -M12 -F -a$(OUTPUT_DIR)/$(AUX) -b$(OUTPUT_DIR)/$(BBL) -o$(OUTPUT_DIR)/$(source:.tex=.rtf) $(source)
+
+$(DOC) : $(source)
+	pandoc --bibliography=$(BIBLIO) -o $@ $<
+wc:
+	$(DETEX) $(source) | $(WC) -w
+
+charc:
+	$(DETEX) $(source) | $(WC) -c
+
+clean:
+	rm -f  $(LOGS) $(OUTPUT_DIR)/$(PS) $(OUTPUT_DIR)/$(PDF) $(OUTPUT_DIR)/$(DVI) $(OUTPUT_DIR)/$(BBL) *~ $(HTML_DIR)/*

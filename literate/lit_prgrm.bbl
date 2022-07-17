@@ -1,0 +1,123 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\preamble{%
+\hyphenation{Post-Script}%
+}
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{frisk2018:artdoc}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8af23739c8c5ddb97564f1e486149be2}{%
+           family={Frisk},
+           familyi={F\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=588b3c76fe4295160a5ff20c89b2fae1}{%
+           family={M.},
+           familyi={M\bibinitperiod},
+           given={Aramaki},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ad14ca5878c2b89b73dadf5d695aac6a}{%
+           family={M.},
+           familyi={M\bibinitperiod},
+           given={Davies},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a6e94bc00edfb3209353076655764184}{%
+           family={R.},
+           familyi={R\bibinitperiod},
+           given={Kronland-Martinet},
+           giveni={K\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=b6e3a93775366157a121320f97a37b25}{%
+           family={S.},
+           familyi={S\bibinitperiod},
+           given={Ystad},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer, Cham}%
+      }
+      \strng{namehash}{8af23739c8c5ddb97564f1e486149be2}
+      \strng{fullhash}{8af23739c8c5ddb97564f1e486149be2}
+      \strng{bibnamehash}{8af23739c8c5ddb97564f1e486149be2}
+      \strng{authorbibnamehash}{8af23739c8c5ddb97564f1e486149be2}
+      \strng{authornamehash}{8af23739c8c5ddb97564f1e486149be2}
+      \strng{authorfullhash}{8af23739c8c5ddb97564f1e486149be2}
+      \strng{editorbibnamehash}{ca2114dea0ae9328138a8d731df8d7c7}
+      \strng{editornamehash}{ca2114dea0ae9328138a8d731df8d7c7}
+      \strng{editorfullhash}{155e858c54a4f020852df15c83e76c00}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Music Technology with Swing}
+      \field{number}{11265}
+      \field{series}{Lecture Notes in Computer Science}
+      \field{title}{ArtDoc - An Experimental Archive and a Tool for Artistic Research}
+      \field{volume}{CMMR 2017}
+      \field{year}{2018}
+    \endentry
+    \entry{Knuth1984}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c7986b8f9a74e8a99dd8346c98b35f3e}{%
+           family={Knuth},
+           familyi={K\bibinitperiod},
+           given={D.\bibnamedelimi E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c7986b8f9a74e8a99dd8346c98b35f3e}
+      \strng{fullhash}{c7986b8f9a74e8a99dd8346c98b35f3e}
+      \strng{bibnamehash}{c7986b8f9a74e8a99dd8346c98b35f3e}
+      \strng{authorbibnamehash}{c7986b8f9a74e8a99dd8346c98b35f3e}
+      \strng{authornamehash}{c7986b8f9a74e8a99dd8346c98b35f3e}
+      \strng{authorfullhash}{c7986b8f9a74e8a99dd8346c98b35f3e}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Computer Journal}
+      \field{number}{2}
+      \field{title}{Literate Programming}
+      \field{volume}{27}
+      \field{year}{1984}
+      \field{pages}{97\bibrangedash 111}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1093/comjnl/27.2.97
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/comjnl/27.2.97
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/comjnl/27.2.97
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
