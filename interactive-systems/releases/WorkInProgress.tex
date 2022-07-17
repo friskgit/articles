@@ -1,0 +1,874 @@
+
+\newif\ifpdf
+\ifx\pdfoutput\undefined
+\pdffalse % we are not running PDFLaTeX
+\else
+\pdfoutput=1 % we are running PDFLaTeX
+\pdftrue
+\fi
+
+\documentclass[a4paper]{article}
+\usepackage[swedish, english]{babel}
+\usepackage[T1]{fontenc}
+
+\ifpdf
+\usepackage[pdftex]{graphicx}
+\renewcommand{\encodingdefault}{T1}
+\renewcommand{\rmdefault}{pad}
+\pdfcompresslevel=9
+\else
+\usepackage{graphicx}
+\fi
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\usepackage{url}
+%% Define a new 'leo' style for the package that will use a smaller font.
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\ttfamily}}}
+\makeatother
+%% Now actually use the newly defined style.
+\urlstyle{leo}
+
+\lhead{\small{\textit{Henrik Frisk}}}
+\chead{}
+\rhead{\small{\textit{Interactive systems}}}
+
+\title{Interactive systems in improvisation and composition. A work in progress}
+\author{Henrik Frisk\\{\small PhD candidate}\\{\small Malmö Academy of Music - Lund University}\\{\small henrik.frisk@mhm.lu.se}}
+\date{\today}
+
+\begin{document}
+\selectlanguage{english}
+\maketitle
+\thispagestyle{empty}
+
+\begin{abstract}
+In this article I will present my artistic research project entitled
+ `Interactive systems in improvisation and composition' and discuss
+ certain aspects of the project's development during the course of my
+ work on it. I will briefly explain the theory that forms the framework
+ for the research and discuss three selected projects that are all a
+ part of my PhD studies. I will also touch upon the widely discussed
+ issue of choosing a method for artistic research. The conclusion drawn
+ from my experience is that an artistic research project is similar to
+ the very nature of artistic practice; one needs to follow the paths
+ opened up by the work. Finally, I comment on the potential validity of
+ artistic research as a discipline.
+\end{abstract}
+
+\section{Introduction - the project}
+
+The core of this project is to establish a set of artistic means through
+which electronic instruments and timbres (created through computer
+software) can be successfully integrated with acoustic instruments in
+both improvisational and compositional contexts. The success of this
+project may be measured in terms of how well I manage to describe and,
+through the development of a series of works, implement models for
+artistic creation (compositional and improvisational) where acoustic and
+electronic instruments interact.
+
+%In the broadest sense the ambition with my project was to leave the
+%representation of the music (the notation) in favor of the object of
+%representation (sound) - to return to the sound itself. Specifically
+%this should be understood in the context of contemporary Western art
+%music and the attempt is to improve the premises for a successful
+%interaction between acoustic instruments and machines (mainly
+%computers). 
+
+At the outset the thesis was that if a seamless integration of digital
+and analog instruments is the object, i.e. both on the level of sound
+and performance, and we do not wish to compromise the 'human feel' of
+the performance\footnote[1]{Remember that there are types of music in
+which this is not desirable - I am sure that for Kraftwerk it would have
+made no sense to attempt at making the instruments sound more 'human'.},
+then we need to make the digital instruments approach the analog
+instruments, both on the level of sound and performance. Hence, the
+research question may in essence be articulated as: how does one
+accomplish this seamless integration? Since this question is too broad
+to handle in a PhD project it has been limited to a test of the
+following case: {\textit {Can an interactive system that uses sound as
+its object of interaction provide the necessary premises for an
+integration of digital and analog sound sources on the level of both
+sound (as it is perceived) and performance (as it is experienced)?}}
+
+%I will
+%further elaborate the meaning of 'succesful integration' in the text
+%below,
+
+%Can an interactive system that uses the sound as its
+%object of interaction provide the necessary premises for a succesful
+%integration of digital and analog sound sources on the level of both
+%(perceived) sound and performance (as it is experienced)?
+
+I will return to this research question in an attempt to untangle its
+ meanings, contextualize the field in which this research is
+ performed and discuss the environments in which the results of the
+ research may have significance. But before that, I will present the
+ tools with which I will make these descriptions and the method with
+ which I will present the work in progress; i.e. the meta-method of this
+ article.
+
+\section{Method}
+
+For this article I will make use of some of the methodological ideas for
+artistic research introduced by Mika Hannula in his paper, ``The
+Responsibility and Freedom of Interpretation'' \cite{hannula02}. In this
+paper, Hannula uses a hermeneutic approach in order to arrive at ``a preliminary, and
+[...] a merely tentative notion, of the distinctive character and
+minimum requirements of artistic research'' (\textit{ibid} pp. 73).  It
+should be noted that Hannula himself is mainly active in the field of
+visual arts and his proposed method, although it takes a general approach,
+is probably mainly geared towards that area. Though the two disciplines,
+music and the field of visual arts, have many overlapping areas of interest, the
+field of visual arts is in many respects very different from that of
+contemporary Western art music.
+
+\begin{quote}
+ The researcher must explain what he or she is researching, why he or
+ she is doing the research, why it is of interest, and what is the
+ aim. The success or distortion of artistic research is largely
+ dependent on how carefully and meticulously this first step is planned
+ and then, of course, implemented. At this stage, the researcher should
+ explain why the research is undertaken in the sphere of art and within
+ the purview of contemporary art, and not in art history, for example,
+ or sociology. (\textit{ibid} pp. 82)
+\end{quote}
+
+These ideas were further developed in a presentation by Hannula at a
+seminar in Gothenburg, Sweden, in 2004\footnote[2]{The seminar was held
+as a part of the series ``Fria seminarierna'', at Gothenburg University,
+October 20, 2004. The title of Hannula's presentation was ``What are we
+talking about when we we talk about artistic research?''}.  At this
+seminar he pointed out a total of ten aspects of artistic research where
+the first three aspects are:
+
+\renewcommand{\labelenumi}{\Alph{enumi}}
+\begin{enumerate}
+\item{Before. (Where am I coming from?)}
+\item{Now. (Where am I at?)}
+\item{After. (Where am I going?)}
+\end{enumerate}
+
+In my interpretation of Hannula's method I look at the first item
+in the list (Before) as an inquiry into the aesthetics of the artistic
+work of the researcher and (which I believe is related) perhaps even
+into trivial details of the personal and artistic background of the
+researcher. The second aspect (Now) is described by Hannula as the
+attempt at ``contextualising oneself'' and it presupposes the
+'before'. The 'now' is obviously something that needs to be constantly
+re-phrased or re-thought. In my project I have been trying to map these
+`nows' in my online research diary \cite{friskDiary}. The third aspect
+(After) presupposes that the first and the second aspects are absolutely
+transparent, according to Hannula. As I am currently three quarters into
+the project, it is difficult for me, at this point, to envision any
+'after'. I am currently very focused on the 'now,' which is why this third
+aspect will only be briefly touched upon here.
+
+%%% !!!!!!!!!!!!!!!!!!!!!
+%%% Needs more work!
+
+The aesthetics or the aesthetic theory that leads one to, or forms the
+context for, the research project is both interesting and, I believe,
+fairly significant in the field of artistic research. It is not
+necessarily an explicit aesthetic but rather the contextual background
+of the artist that creates a platform on which the investigation can
+take place. For my particular project it is probably difficult to even
+begin to understand its relevance until it is seen in the context of my
+own artistic work.
+
+%Perhaps the open disclosure of the
+%underlying aesthetics or contextual background in artistic practice is
+%related to the complex issue of ethics in scientific research.
+
+%An inter-field discussion could
+%be instantiated in which the question of whether artistic research
+%should generate results that are valid regardless of aesthetics would be
+%debated. 
+
+%What makes Hannula's method appealing to me is that the knowledge
+%produced in the course of the research project can be measured in the
+%difference between the item A and B and between B and C in the
+%list. Would this be an entirely linear process - which it unlikely is -
+%we could formulate the equation:
+
+%\begin{displaymath}
+%knowledge = C-A
+%\end{displaymath}
+
+\section{Before}
+
+%Whether my background as a jazz musician and improvisor is the
+%explanation for, or a consequence of my interest in self organisation
+%and open forms is perhaps not the key issue. But this interest is the
+%most important aspect influencing the choice of research area in this
+%project. Specifically my attempts to combine non-static electronic music
+%elements made it obvious to me that the available tools and existing
+%solutions to the 
+
+For more than ten years, there have been two significant areas of
+interest in my musical practice:
+\renewcommand{\labelenumi}{\arabic{enumi}}
+\begin{enumerate}
+ \item As an improvisor, I am interested in the dynamic relationship
+       between stimuli and responses. Even when working with composition
+       in a relatively traditional manner (i.e., using musical
+       notation), it is the non-static, or that which changes or
+       evolves, that is at the very core of my involvement.
+ \item I have worked with the computer in almost all of my artistic
+       work. As an artist I feel a responsibility to explore the world
+       and its artifacts. The computer has become an important part of
+       this world and hence, a part of our culture. In the Western world
+       it is part of daily life and allows for our most basic as well as
+       our most intimate communications. It cannot be placed outside of
+       our culture, nor can it be regarded as merely a tool or a
+       fashionable gadget with a limited import; rather it must be
+       included in our understanding of the world as well as in our
+       artistic explorations.
+\end{enumerate}
+
+The basis for my PhD project can be traced back to my difficulties in
+successfully integrating two different types of music -
+\emph{improvised} or \emph{open form} music and \emph{computer-music}.
+For the sake of argument one might make some rough generalizations
+and move to a more abstract level, calling this a dichotomy between the
+\emph{continuous} or \emph{analog} on the one hand and the \emph{discrete}
+or \emph{digital} on the other. The problems I experienced in my
+practice occurred in the contexts of improvisation as well as
+composition and resulted in growing artistic frustration. It was my
+attempt at addressing this frustration that led me to form the current
+research project.
+
+The problem for me was that I could not achieve the merge between the
+analog - i.e. the acoustic intruments - and the digital - the electronic
+instruments. My aim was, and still is, to be able to alter, distort or
+expand the traditional notion and pre-conception of the sound of the
+musical instrument; i.e., to introduce a discontinuity between the
+expected sound and the perceived sound. To achieve this result I use
+digital sound processing of the acoustic instrument(s), sometimes in
+combination with pre-recorded and synthesized sound sources. If the two
+sound sources do not merge successfully, then the desired effect will
+fail to appear and the perceptual result will be that of two discrete sound
+sources. This undertaking, along with the wish to explore the computer
+in the sphere of contemporary culture is in principle an attempt to move
+past ``the 20th century's ambivalent relationship to the technology of
+machines'' \cite{Garnett}. Having said that we could further generalize
+the dichotomy above and talk about the \emph{human}/\emph{machine}
+relationship; I believe the tension between man and machine is at the
+very heart of my project.
+
+To use Garnett's words, this is not only an ambivalent relationship, it
+is also a complex one. He continues: 
+
+\begin{quote}
+The machine did not make the life of the factory worker better, at least
+not at first. Rather, the worker had to learn to adapt to the pace and
+consistency of the machine, with sometimes rather unpleasant
+effects. Part of my contention here is that this view of technology is
+now no longer relevant. Technology is beginning to empower
+individuals. (\textit{ibid})
+\end{quote}
+
+Garnett brings up a practical aspect of the relationship between man and
+machine, dating from the early ages of industrialism. I agree that there
+is a need for an updated view of technology,\footnote[3]{The term
+technology is used here to denote the hardware, the machines themselves,
+and not how they are used - it should not be confused with the
+Aristotelian notion of \emph{techne}} but even if it is true that
+technology is empowering the individual, what is the nature of our
+relationship with technology? Are we comfortable with the tools we have
+been given? Skepticism towards the machine can be found in many
+sources. In Derrida's reading of Freud in ``Freud and the scene of
+writing'' \cite{derrida78-2} \nocite{der78} he discusses the Mystic
+Writing-Pad, a construction that ``shows a remarkable agreement with my
+hypothetical structure of our perceptual apparatus'':\footnote[4]{Freud
+quoted in \cite[pp. 280]{derrida78-2}.}
+
+\begin{quote}
+That the machine does not run by itself means something else: a
+ mechanism without its own energy. The machine is dead. It is death. Not
+ that we risk death in playing with machines, but because the origin of
+ machines is the relation to death. (\textit{ibid.} pp. 285)
+\end{quote}
+
+The machine according to Derrida is dangerous because it is the opposite
+of life; it is ``pure representation'' and ``never runs by itself''
+(\textit{ibid.} pp. 286). So far it is difficult to argue with
+Derrida. But is there no way around this? Is the machine destined to be
+``complexity without depth''? (\textit{ibid.}) Danish philosopher Peter
+Kemp argues that Derrida's interpretation of the machine is problematic
+because it posits a 'technique' (now in the sense of \emph{techne}): a
+'technique' that is only problematic in the way we make use of
+it. According to Kemp, Derrida argues as if the ``technological development of
+our culture did not confront us with an existential inquiry of planning
+and organisation'' \cite[pp. 139]{kemp81}. I find Kemp's idea that we
+are in fact in control, or at least that we may gain control, of the
+multiple, co-existing technological systems, to be a very useful one. We can
+use them and inform them. The machine cannot run by itself but it can
+run alongside us. It is not merely a tool and part of our 'technique',
+but may also become a part of our culture.
+%Not merely as tools, as part of our 'technique', but also as part of our culture. 
+More specifically, if we move to the field
+of music, our creative intentions and our wish to \emph{play} (in every sense
+of the word) need to be communicated to the machine in order to
+integrate it into the larger sphere of (musical) communication. This
+does not make the machine autonomous in any way - the machine still does
+not run by itself - it runs by means of parallel representation. This is
+somewhat closer to Deleuze and Guattari's notion of the war machine
+that, according to them, can potentially be ``an `ideological,'
+scientific, or artistic movement'' \cite[pp. 466]{deleuze80}. But even
+Deleuze and Guattari choose to call it a ``war machine'': a machine with
+a potential power to kill, hence closely related to death.
+
+What then are the issues that have to be overcome in order to move from
+the idea of the machine as death to the machine as a potential
+instrument to be included in artistic practice? Derrida's main point is
+that the machine has no energy and by definition cannot express
+anything, but can only represent. Could this be related to the reason
+for my inability to merge the two elements in practice? Let us for
+the time being move away from abstract philosophy and turn to the
+natural sciences.
+\begin{quote}
+Digital computers are superb number crunchers. Ask them to predict a
+rocket's trajectory or calculate the financial figures for a large
+multinational corporation, and they can churn out the answers in
+seconds. But seemingly simple actions that people routinely perform,
+such as recognizing a face or reading handwriting, have been devilishy
+tricky to program.\\ 
+\cite{turing1}
+\end{quote}
+This is in essence the reason Derrida calls the machine 'dead'. It can
+do things that are incomprehensible for a human being but yet it cannot
+solve routine tasks that we perform on a daily basis. But Alan Turing,
+who was the first to conceive of the abstract machine that we now refer
+to as the digital computer, was already beginning to think about
+connectionist networks in 1947: ``Perhaps the networks of neurons that
+make up the brain have a natural facility for such tasks that standard
+computers lack. Scientists have thus been investigating computers
+modeled more closely on the human brain.'' (\textit{ibid}) And over the
+last few decades, not only the way we think about computers, but the way
+computer science thinks about programming, is moving away from an extreme
+formalism with a focus on the program, towards an increasing attention
+to the \emph{programmer};
+\begin{quote}
+[...] from the logical and computational structure of algorithms to the
+ cognitive structures of the people who produce them [the
+ programs]. Innovations such as interactive programming environments,
+ object-oriented programming, and visual programming have not been
+ driven by considerations of algorithm efficiency or formal program
+ verification, but by the ongoing drive to increase the programmer's
+ effectiveness in understanding, generating, and modifying
+ code. \cite{winograd95}
+\end{quote}
+
+The interaction between machine and programmer and, eventually, betweeen
+machine and end user, is the key issue, if the computer is to be fully
+incorporated in our practice - in our culture and in our artistic
+expressions. And this interaction must take place on multiple levels. It
+cannot be simply the tapping of fingers on a keyboard, but also has to
+move to yet unresolved spheres of action. We need to find ways to
+navigate the 'de-territorialized,' smooth, nomadic space of the war
+machine as Deleuze and Guattari refers to it, ``a tactile space, or
+rather `haptic,' a sonorous much more than a visual space.''
+\cite[pp.421]{deleuze80} They discuss this further in the chapter
+following ``Treatise on Nomadology'':
+
+\begin{quote}
+[...] the reinvention of a machine in which the human beings are
+ constituent parts, instead of subjective workers or users. If
+ motorized machines constituted the second age of the technical machine,
+ cybernetic and informational machines form a third age that
+ reconstructs a generalized regime of subjection: [...] the relation
+ between human and machine is based on internal, mutual communication,
+ and no longer on usage or action. \cite[pp. 505-6]{deleuze80}
+\end{quote}
+
+The need is not only to move focus away from the program and towards the
+programmer but further, towards the \emph{meaning} of the program in
+relation to the intended context for the program, including the user,
+and any possible output from it. In the context of the construction of
+music, the programming of a machine is an artistic endeavour comparable
+to the preparation of a score for a performer or a group of
+performers. It is a prescriptive notation meant for the machine as
+expert interpreter and performer. For this to even begin to be possible,
+the fear of the machine as a representative of power and/or destruction
+must be abandoned. Furthermore, great care must be taken to the way in
+which the flow of information within the man/machine system is
+understood, since we are no longer talking about a simple
+sender/receiver information theory system. We are looking at a
+potentially very complex and continuous system in which we need to allow
+for concepts such as `interpretation,' `multiple meaning,' `sign' and
+`signifier,' `cultural convention,' etc.
+
+% - perhaps surprisingly so since one
+%would expect musicians and composers that engage in musical work with
+%computers to have a relaxed attitude towards techonolgy in
+%general.
+%
+%In Jacques Derrida's discussions 
+%
+%Danish philosopher Peter Kemp brings up Captain Nemo of Jules
+%Verne's book XXX and the way that he has abandoned man in favour of the
+%perfect machine - his technologically marvelous submarine driven by
+%the invisible force. 
+
+
+%In a wider context this is a very active research field that roughly can
+%be divided in two main categories:
+%
+%
+%\begin{enumerate}
+% \item Controllers. Development of the ways in which a computer based
+%       instrument can be played.
+% \item Interpretation. Development of the ways a score can be performed
+%       by a computer.
+%\end{enumerate}
+%
+%For a review of the aesthetics of interactive music see \cite{Garnett}
+%and for an introduction to the field of interactive music in the
+%contexts of performance, composition and improvisation see \cite{rowe}.
+%
+%In my preliminary work it was my understanding that it was the inherent
+%nature of these two entities that made them difficult to combine. 
+%
+%I will attempt to further delimit the field and explain the object of
+%research by providing a few examples from my work prior to the start of
+%the PhD project. Basically we can look at the problem as 
+
+\section{Now}
+
+If I had a tendency, at the beginning of this PhD study to think of
+computer/performer interaction as merely a technical problem, the
+research involved in this study has made me reconsider the question
+behind the project itself. Through the projects that I have completed,
+as well as the ones that I am currently working on, I have focused on
+investigating the experience of interaction between the different agents
+involved in the production of musical content. In the case of
+\emph{etherSound}, it was the interaction between the user (and/or
+listener) and the sound; in the project \emph{Negotiating the Musical
+Work}, it is between the performer and the composer; and in the
+composition `Repetition Repeats all other Repetitions' (for which the
+collaborative project \emph{Negotiating the Musical Work} is a
+pre-study), it is between the performer, the score, the computer and the
+sounds produced by means of the computer. I now believe that it is only
+through a thorough understanding of the very nature of interaction in
+the context of musical production, that an artistically relevant and
+perceivable mapping mechanism between input and output in an interactive
+system can be achieved. The updated research question now reads:
+{\textit {Can an interactive system that uses the sound as its object of
+interaction provide the necessary premises for an integration of digital
+and analog sound sources on the level of both sound (as it is perceived)
+and performance (as it is experienced), and, furthermore, how can
+significant features of human/human and human/sound interaction in the
+context of musical production inform such a system?}}
+
+%what is the
+%significance of human/human interaction in this context to human/machine
+%interaction?'.
+
+\subsection{Main Projects}
+
+At first glance, the following selection of artistic works and projects,
+belonging to the larger investigation of sound and interactivity, may
+seem disparate or heterogeneous. However, if the focus is placed not so
+much on the content of each of the projects, but rather on the larger
+frame within which they exist, i.e., on the premises and outsets, then
+the projects form a more homogeneous collection of studies. The
+intention is to create a platform for the investigation of the limits
+for interaction and sound, and the result is intended to be an artifact
+of artistic output. Apart from the three projects presented below, a
+number of improvisations and smaller scale works have been, and will be,
+produced within my PhD project.
+
+\subsubsection{etherSound - an interactive sound installation}
+
+\emph{etherSound} was commissioned by curator Miya Yoshida for her
+project \emph{The Invisible Landscapes} and was premiered in August 2003
+at Malmö Art Museum in the city of Malmö, Sweden. The curatorial concept
+for The Invisible Landscapes project was the use of cellular phones as a
+means of experiencing and creating artistic expressions. The principle
+idea behind \emph{etherSound} came to be an attempt at developing an
+instrument that can be played by anyone who knows how to send an SMS
+(Short Messages Service) from a cellular phone. In the version displayed
+at \emph{The Invisible Landscapes}, all messages sent to a specified
+phone number were received by an Internet server, parsed for its content
+as well as the phone number it was sent from and the date and time it
+was received. This information was written into a database which was
+queried at regular intervals by a computer running a control as well as
+a text analysis application (written in Java \cite{j2se, j2ee}), with
+sound-synthesis software (Max/MSP \cite{max} running a Csound orchestra
+\cite{csound}). For every new message, the data was downloaded,
+processed and analyzed by the control program, and turned into control
+signals, which were then sent to the sound-synthesis engine. Every
+message generated one sonic object that would last for up to two
+minutes. The response was very direct with a clear causality between the
+input and the output of the system - a received SMS would result in an
+immediate and perceivable change in the sound (see
+\url{http://www.henrikfrisk.com/index.jsp?metaId=music&id=music&about=1&field=name&query=etherSound}
+for some audio examples).
+
+There are two states in which \emph{etherSound} may operate. One is as
+a stand-alone, interactive sound installation and the other as a
+vehicle for improvisation. In the latter, one or several performers
+improvise along with the sounds of the installation while the audience
+contribute actively to the performance by sending text
+messages. \emph{etherSound} is an investigation of some of the aspects
+of interaction between the listener, the sounds created and the
+performing musicians, and also of the formal and temporal distribution of
+the music that this interaction results in \cite{frisk05, yoshida06,
+frisk1}.
+
+\emph{etherSound} also has significance in relation to the discussion of
+the man/machine relationship, described above. Perhaps the mobile phone
+is one of the machines of recent years that humans have most
+successfully and naturally integrated in their lives. Furthermore,
+although the traditional roles of the agents involved in the production
+of the music in \emph{etherSound} were shifted or distorted, there is no
+doubt that the programming, i.e., the actual code that constitutes the
+synthesis and the control program, is the score - if a score exists at
+all. In any event, these programs contain the only apparent work identifying
+instructions, to use the language of Stephen Davies \cite{davies}. When
+technology is put in the center in this way, the \emph{technique} (in
+the broad sense of the word) that is required of the user/listener is of
+a different kind. Traditionally there is an intimate connection between
+social class, level of education and cultural interests \cite{dimaggio,
+bourdieu} which affects cultural consumption. Despite the fact that the
+connection between social class and mobile phones is likely to be of a
+different nature than that between social class and arts consumption,
+interactivity and collaborative art in themselves may help to counteract the
+exclusiveness of contemporary art and music. Perhaps it can contribute to
+creating conditions for classless and unprejudiced participation in the
+arts without compromising the content and the expression. Roy Ascott, in
+addressing the issue of `content' in art involving computers and
+telecommunications writes:
+\begin{quote}
+In telematic art, meaning  is  not  something  created  by  the  artist,
+distributed through the network, and \emph{received} by the  observer. Meaning
+is the product of interaction between the observer and the system, the
+content of  which is in a state of flux, of endless change and transformation \cite{Ascott}.
+\end{quote}
+Following this line of thought, it may be concluded that the need for a
+thorough insight into the history of art or electronic music is no
+longer a prerequisite for understanding a collaborative, interactive
+work of art. This limits the advantages of the educated listener and makes room
+for new interpretations of the term `understanding' in the arts.
+
+\subsubsection{Negotiating the musical work.}
+
+I am undertaking this project, which is not yet completed, in
+collaboration with guitarist Stefan \"{O}stersj\"{o}. It consists of three
+distinct parts:
+\begin{enumerate}
+ \item Empirical analysis of composer-performer interaction.
+ \item Application of the resulting data from the empirical analysis in
+       the composition of a new work for guitar and computer for Stefan
+       \"{O}stersj\"{o} (`Repetition Repeats all other Repetitions').
+ \item Assessment of the research and comparison of the analysis and the
+       different versions (performances) of `Repetition Repeats all
+       other Repetitions'.
+\end{enumerate}
+
+Primarily, we discuss the musical work prior to its ultimate notation
+and prior to its performance; we discuss the musical work within the
+context of Western 'art music' tradition, in which musical notation has
+an ontologically crucial function. The study deals exclusively with
+music for solo instrument and live electronics. Our purpose is to
+acquire a deeper understanding of the underlying processes in the
+communication between the composer and the performer as well as their
+respective roles. Through an improved understanding of the musical interaction
+between the two parties involved in the creation of the work, we also
+hope to better understand the necessary conditions for a successful
+interaction between the performer and the electronics. We have developed a
+hybrid method of investigation, which involves musical semiology,
+qualitative method involving hermeneutics, and verbatim transcriptions
+of the video documentation.
+
+Musical semiology has been constructed with the intention of providing
+tools for analytical understanding of the musical work in its entirety -
+not only in terms of analyzing formal structures or details in the
+construction of the work, but also examining its socio-cultural
+context. Attempting to move to a more basic level of organization than
+that of musical notation may help to further clarify the issue in
+relation to a wider sphere of knowledge. For the analysis of the
+composer/performer interaction we used the tripartite model suggested by
+Nattiez and Molino:
+\begin{quotation}
+...recognizing, elaborating, and articulating the three relatively
+autonomous levels (poietic, neutral and esthesic) facilitates knowledge
+of all processes unleashed by the musical work, from the moment of the
+work's conception, passing through its 'writing down', to its
+performance. \cite{nattiez}
+\end{quotation}
+In short, according to Nattiez the \emph{poietic} phase is the complex
+series of activities that are part of the construction of a musical
+work, the \emph{esthesic} phase is the reconstruction of the message and
+the \emph{neutral} level is the trace left by the poietic (or the esthesic)
+processes.
+
+The conclusions we draw from the first stage of the study, which has
+many implications for both the second and the third phase, is that both
+the creative and interpretative activities oscillate between poietic and
+esthesic processes. Taken in this context, in \emph{etherSound} for
+example, one may dispute whether one can talk about \emph{a single work}
+as an ontological unit or even \emph{a single originator} in the role of
+'composer.' We also found striking examples of creative
+misunderstandings between the agents involved in the collaboration which
+led us to the perhaps somewhat exaggerated conclusion that, in
+communication noise is not a problem. As has already been mentioned, we
+are used to thinking of a computer-based interactive system as a
+cybernetic system in which information is transmitted from point A to
+point B, and where great care is taken to avoid noise in the
+transmission. In our joint project we will attempt to avoid the kind of
+binary oppositions that require a clean control-signal path (such as the
+pressing of a pedal) in the design of the interactive system. Obviously
+this will also affect the way the instrumental part is written.
+
+%
+%In this context 'the work' is
+%the conceptual vision, in whichever way it comes to the
+%composer. However, as the following analysis shows, it makes little
+%sense to isolate one certain point in this process claiming that it
+%alone should make up 'the work'. Rather, it seems fair to assume that
+%the musical work is the product of a complex chain of poietic and
+%esthesic processes working together in an infinite loop.
+%
+%
+%A musical work is the product of
+%a complex chain of poietic and esthesic processes, which starts out with
+%the conceptual vision, in whichever way it comes to a
+%composer. 
+%
+%It seems
+%to us that it makes no sense to isolate one certain point in this
+%process claiming that it alone should make up 'the work'.
+%
+%Referring to the discussion above, the transformation that these two
+%bars of music goes through would imply that the composition is neither
+%the acoustic trace left by the performance nor is it the score. It is
+%the conceptual idea, the vision, of the work as it is envisaged by the
+%composer. Everything else, including the notation of the music, are
+%creative interpretations of this first and original notion of the work.
+
+
+\subsubsection{timbreMap - an audio analysis software for tracing relative timbre changes.}
+%In short it is a software
+%development project that has as its goal to allow for direct interaction
+%with the sound itself rather than with an abstract classification of
+%sound. 
+
+\emph{timbreMap} is a software development project that attempts to
+allow for direct interaction with sound itself rather than with an
+abstract classification of sound. This is the part of my doctoral
+project that I was initially inclined to look at as the central goal. I
+have already referred to my growing frustration with the way in which
+the tools available to me for letting a computer interact with a
+performer in real time did not satisfy my needs as a composer. One
+example of a widely-used tool in electroacoustic music with live
+instruments is something that is referred to as ``pitch-tracking''. What
+this process attempts to achieve is the transformation of a (monophonic)
+audio signal into discrete pitches. Aside from the fact that this is a
+difficult task, the information gleaned by this system is only
+useful if the pitch class representation is a meaningful and substantial
+parameter in the intended totality of the musical output. In much of my
+music it is not.\footnote[5]{Please see
+\url{http://www.henrikfrisk.com/index.jsp?metaId=music&id=music&about=1
+&field=name&query=Insanity} for an example of an improvised piece in
+which pitch has no significance from a structural point of view.}
+With \emph{timbreMap} I have attempted to construct a system that uses
+self-organizing feature maps and chained neural-networks to track the
+relative change of timbre in an audio stream and make this information
+available for interaction. As was mentioned above, 'connectionism' or
+neuron-like computing is in itself a move away from the binary
+representation of numbers, approaching what may be called an attempt at
+modeling continuous processes. It is a special purpose machine that is
+closely linked to the artistic enterprise that created the need for
+it. In that sense, although in a more abstract way than the programming
+of \emph{etherSound}, its code is part of the notation of the possible
+pieces it may give rise to.
+
+In the time that has passed since I started my doctoral project I have
+come to realize that, although \emph{timbreMap} is a big part of the
+totality of my project, both in terms of time invested and its
+significance to the whole, its most intriguing aspect may be the mapping
+of the output of the system and the musical stimuli to which it gives
+rise. The mapping must be related to large-scale empirical studies, such
+as those mentioned in this article, but also has to be tested in the
+specific case-studies. From \emph{etherSound} I learned that successful
+mapping involves a certain amount of pedagogy - knowledge creates
+anticipation and expectation. The studies performed within the project
+\emph{Negotiating the Musical Work} opened up the idea of the `creative
+misunderstanding' and a semiological analysis of the communication
+within an interactive system.
+
+\section{After}
+\subsection{Artistic research and its methods}
+
+Artistic research is a much-disputed activity. Does research performed
+within the realms of artistic practice fulfill the fundamental
+requirements of research in general, whether within the natural or human
+sciences? That question is discussed in detail by Henk Borgdorff in this
+issue and I will not in this article attempt to defend the \emph{raison
+d'\^{e}tre} of my own research project. However, for the sake of
+argument and perspective, I would like to begin a short discussion on
+the methods used in my artistic research project by referring to
+Freud's dream of a scientific psychology succinctly described by Peter
+Kemp \cite[pp. 29]{kemp81}. Freud argued that \emph{no}
+science can be or become science by building on clear and sharply
+defined fundamental concepts, but that any science has to begin with a
+description of phenomena that may then be grouped, ordered and put into
+context. The fundamental concepts of the science are developed afterwards.
+%- ``Grundbegriffe der Wissenschaft''. 
+Freud's line of thought in ``Grundbegriffe der Wissenschaft'' is
+summarized by Kemp as a four-step process in the development of a new
+science (\textit{ibid} pp. 30):
+\begin{enumerate}
+ \item Description of material.
+ \item Use of abstract ideas based on this material.
+ \item Creation of fundamental concepts.
+ \item Definition of the fundamental concepts.
+\end{enumerate}
+Not only is there a lack of general terminology in the field of
+electroacoustic music or computer music,\footnote[6]{Recently the EMS
+2006 conference was dedicated to the subject of language and terminology
+in the field of elctroacoustic music. There is no consensus even for the name of the
+genre itself \cite{emsweb}.} there is also a lack of methodology and
+terminology in the field of artistic and practice-based research. In my
+own project, I am at the second step in the list above; I am using
+abstract ideas based on the material, and I have begun to consider the
+creation of the fundamental concepts for my work.
+
+Further, the primary method I am using is that of artistic practice. But
+it is not the only method. In the projects presented above, the practice
+as the method was a point of departure. In \emph{etherSound}, the
+investigation of the interaction between the user/listener and the sound
+in the production of musical content was carried out in the form of a
+sound installation that functioned as a vehicle for public
+participation. As it turned out, the development and the design of the
+software for the interface required a fairly standard scientific method
+rooted in information theory. On the other hand, in \emph{Negotiating
+the Musical Work}, although the intended result (i.e., the composition
+`Repetition Repeats all other Repetitions') can in one sense be said
+to be the method, we soon realized the project needed a much firmer
+methodological framework. As has already been mentioned we developed a
+hybrid method for the analysis of the case studies. In \emph{timbreMap},
+both \emph{etherSound} and \emph{Negotiating the Musical Work} are part
+of the method, as well as a hybrid of semiology and information theory.
+
+In all three cases the research method was developed as a result
+of initiating the artistic process - the artistic work led the way to
+the method(s) with which the problems, as they appeared in this process,
+could be resolved. Furthermore, in all three cases the method or
+methods chosen were well known within closely related disciplines
+(musicology, sociology, computer science, etc.). I would argue that this
+is a relevant methodology for artistic research: to let the needs that
+arise within the artistic practice yield the method.
+
+%{\textit{Can an interactive system
+%that uses the sound as its object of interaction provide the necessary
+%premises for a successful integration of digital and analog sound sources
+%on the level of both sound and performance?}}
+
+Going back to the research question: {\textit{Can an interactive system
+that uses sound as its object of interaction provide the necessary
+premises for an integration of digital and analog sound sources on the
+level of both sound (as it is perceived) and performance (as it is
+experienced), and, furthermore, how can significant features of
+human/human and human/sound interaction in the context of musical
+production inform such a system?}} In what ways will I be able to
+answer this question and what will be the significance of this
+answer? In this article I have allowed myself to move rather freely
+between generalized philosophical reasoning and specific cases. The
+context and the musical sphere I am working within is, however, that of
+contemporary Western improvised and composed music and it is in relation
+to this field that the results of my work will primarily be of
+interest. The study of different forms of interaction between musician
+and computer is an active research field in the computer music community
+and there has been a growing interest in the sound itself over the last
+few years. I believe that the great strength of artistic research in
+general (and I hope that this will be true of my project as well) is
+that the research is informed by the artistic work. For my project this
+means that subjects traditionally belonging to the realm of natural
+sciences, such as sound analysis, can now be informed by the
+values of an artistic practice, which in turn may lead to potentially
+very different results as compared with more traditionally-oriented
+research. At the risk of sounding evasive, I believe that newly posed questions
+will be just as meaningful a response to the research question as a
+clearly defined 'answer.' 
+
+%This is not to say, however, that
+%the research will be meaningless outside the confines of this very
+%specific case. If we take the above-mentioned improvisational model as an
+%example, the way it is structured and the way that it sounds will 
+%create the context within which the research will obtain its full
+%meaning.
+
+%\section{skisser}
+%
+%
+%If we take a CD player as an example one single motion or action - the
+%pressing of a button - may result in hours and hours of music without
+%any need for extra action or interaction from the user. But, at the same
+%time the output will not change in any meaningful way in relation to
+%\emph{how} the button is pressed. There is simply to little information
+%at the source in relation to the requested output of the system.
+%
+%An open form aesthtetics puts certain requirements on the technoligies
+%used. Obviously the otherwise revolutionary method of composing
+%electronic music as was done in the 50's and forward - to record sounds
+%and fixate them on tape - is not a working strategy. Having said that we
+%have also encountered the first issue that has to be dealt with - an
+%issue which is also at the core of the investigation described here: For
+%an artistic work can some parts of the 'techne' stand in opposition to
+%the artistic intentions? In other words, if the intention is to create a
+%musical work in which open endednes in form and content is an important
+%aspect, what happens if the technologies used in the production and
+%performance of this work does not harmonize with these intentions? This
+%is a question that we will return to.
+%
+%
+%
+%One may be tempted to look at any system involving computers or
+%communication technology as a cybernetic system in which information is
+%passed from point A to point B. According to information theory any
+%distortion of the message at the level of transaction is regarded as
+%noise. If the received message is not identical to the message sent the
+%transmission is noisy. The musicologist Jean Molino reminds us that this
+%hypothesis; that there is a 'single, well-defined item of information to
+%be transmitted, all the rest being simply noise' is 'dangerously
+%inaccurate and misleading as soon as we move from the artificial
+%communication of information to a concrete act of human communication as
+%a total social fact.' \cite{molino} \nocite{molino2} I will argue that,
+%when we experience a musical work involving electronic sounds and
+%computers we are expecting an 'act of human communication as a total
+%social fact'.
+%
+%To instead try to understand and design the interactive system based on
+%a semiotic model is for me starting to stand out as a much more feasible
+%way to trace the processes that influence the different parts of the
+%system. In particular semiology as it is proposed by Eco and Barthes, in
+%which the cultural context for the commusication becomes a defining
+%factor is an interesting model in this context. If I take
+%\emph{etherSound} as an example it is very clear that there is not a
+%clear and simple connection between input and output, between the sent
+%message and the received sound object. The transformation of the message
+%can only be understood in relation to the (sub)cultural context defined
+%by me as the composer in relation to the audience as a totality. This
+%would also hold true for an analysis on a lower level of communication.
+%
+%Mika Hannula has suggested hermenutics as a suitable method for artistic
+%research. With its concept of Vorverstehen it is without doubt a valid
+%theoretical approach to artistic work. The key issue with the artistic
+%research project in general is the problematic issue of objectivity. As
+%the artist is performing research on his or her own artistic output, any
+%output that deals with complex object-subject relations will be of
+%benefit to the artistic researcher. Gadamer's thourough work in the
+%field of interpretation is certainly an asset and a possible method to
+%be used by the artist.
+%
+%Finally, experimental phenomenology is a possible method for artistic
+%research and a path that I am pursuing in my search for a stable
+%theoretical and methodological framework for my work.
+
+\bibliography{bibliography} \bibliographystyle{apalike}
+\end{document}
