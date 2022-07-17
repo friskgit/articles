@@ -1,0 +1,676 @@
+% Created 2019-07-30 Tis 22:20
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage[hidelinks]{hyperref}
+\usepackage[lf]{ebgaramond}
+\usepackage{sectsty}
+\allsectionsfont{\sf}
+\usepackage[style=authoryear-ibid,natbib=true,backend=biber,hyperref=false]{biblatex}
+\bibliography{./OS_bibliography.bib}
+\renewcommand*{\nameyeardelim}{\space}%
+\renewcommand{\postnotedelim}{: }%
+\author{Henrik Frisk}
+\date{\today}
+\title{Aesthetics, interaction and machine improvisation}
+\hypersetup{
+ pdfauthor={Henrik Frisk},
+ pdftitle={Aesthetics, interaction and machine improvisation},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 26.1 (Org mode 9.1.9)},
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+% \section*{Info}
+% \label{sec:org8cbdad1}
+% Henrik Frisk, Professor of music, Royal College of Music, Stockholm \\
+% Väderkvarnsgatan 38C, 753 29 Uppsala, Sweden \\
+% henrik.frisk@kmh.se
+
+\begin{abstract}
+    Departing from the artistic research project Goodbye Intuition
+    (GI) hosted by the Norwegian Academy of Music in Oslo, this
+    article discusses the aesthetics of improvising with machines.
+    Playing with a system such as the one described in this article,
+    with limited intelligence and no real cognitive skills, will
+    obviously reveal the weaknesses of the system, but it will also
+    convey part of the preconditions and aesthetic frameworks that the
+    human improviser brings to the table. If we want the autonomous
+    system to have the same kind of freedom we commonly value in human
+    players’ improvisational practice, are we prepared to accept that
+    it may develop in a direction that departs from our original
+    aesthetical ambitions? The analyses is based on some of the
+    documented interplay between the musicians in a group in workshops
+    and laboratories. The question of what constitutes an ethical
+    relationship in this kind of improvisation is briefly
+    discussed. The aspect of embodiment emerges as a central obstacle
+    in the development of musical improvisation with machines.
+\end{abstract}
+
+
+\section*{Introduction}
+\label{sec:org792560d}
+The artistic research project \emph{Goodbye Intuition} (GI), hosted by
+the Norwegian Academy of Music in Oslo, is a platform to explore the
+meaning of intuition, musical structure and aesthetics by means of
+playing with a newly developed improvisation machine, nick-named Kim
+Auto (KA) \citep{grydeland2018}. By introducing this fifth member GI
+attempts to challenge the roles and aesthetical values of the four
+musicians in the group and explore what kinds of music may emerge from
+the experiments. The core method is artistic and the members engage in
+improvisations with the new machine member followed by discussions and
+reflections, sometimes carried out in the context of open
+laboratories. The labs are open and the audience is invited to listen
+and participate in the discussions.
+
+Whether KA is an instrument, a performer, a composer or a composition
+is difficult to define, but the meaning and significance of these
+different modalities of musical knowledge and communication has some
+impact on the relations that are possible within GI. That there is a
+dynamic variability concerning the possible roles of the computer in
+musical applications in interactive music is confirmed by composer
+Cort Lippe who states that:
+\begin{quote}
+    a composer can assign a variety of roles to a computer in an
+    interactive music environment. The computer can be given the role
+    of instrument, performer, conductor, and/or composer. These roles
+    can exist simultaneously and/or change continually, and it is not
+    necessary to conceive of this continuum
+    horizontally. \citep[2]{Lippe2002}
+\end{quote}
+
+The basic outline of KA is that it collects material from whoever is
+playing with it and constructs an archive of material that it uses
+when it performs. It has four different personalities that may be
+configured and that defines how it responds to input. These are used
+to shape its output based on musical concepts such as high/low pitch,
+and structural aspects such as dense or sparse. By interpolating
+between the different personalities the responsiveness of the system
+and its output may be varied.
+
+The research questions in GI revolve around the notion of the
+improviser's identity in the music and whether the presence of a
+creative machine would alter the way they listen or play. Also
+included in the inquiry is the more general aesthetic question of what
+kind of music may emerge from these experiments. The question of
+whether KA is a \emph{good} co-player in a musical, or artistic sense
+is primarily investigated from the point of view of the practice of
+playing with it. Improvising with KA brings forward questions relating
+to the point of view of both what is expected from it and what is
+expected from oneself. GI is not a music technology project and does
+not primarily claim to be innovative on the level of the development
+of KA,\footnote{It is NOTAM in Oslo, a centre for the development and
+    innovative use of technology in music and the arts, that does the
+    development of KA rather than the members of the group.} nor is
+this article a discussion of the underlying technology, except very
+briefly.
+
+As was mentioned above, the project is set up around a series of
+internal workshops in which people external to the group are invited
+to discuss the processes. These include British musician and writer
+David Toop and myself, and on one occasion the workshop was led by
+American director and writer Annie Dorsen. We have been part of the
+discussions and to some extent we also contribute artistically. Worth
+noting is the fact that the methodology of the project does not list
+concerts as the main form for output. Instead the work is presented in
+a laboratory format with the purpose to engage the audience in a
+discussion concerning the general goal of the project.
+
+The focus for this article is to discuss some of the preliminary
+results from my study on the interaction in \emph{Goodbye Intuition}
+and the machine improviser KA with the attempt to identify the aspects
+of the interplay that triggered discussions concerning aesthetical
+judgements and the sensation of interactivity. Analysing some of the
+discussions in a few of the laboratories and workshops performed in
+the project, the music that came out of it, as well as the responses
+from the participating musicians, sheds some light on the way that
+value judgements are developed, and sometimes questioned in the
+group. There is a particular interpretative space that is opened up
+through the experience of playing with the seemingly
+responsive\footnote{KA is responsive in the sense that it listens to a
+    limited number of parameters.} machine co-player that is examined
+within the project and also in this article.
+
+To improvise with a computer running an adaptive software for musical
+interaction raises questions that have relevance to both the designer
+of the improvising system and the musicians playing with it. In these
+cases it is difficult to avoid some level of anthropomorphism among
+the users \citep{Blackwell2004,Young2009}, but it is also clear that
+this effect contributes to the willingness to engage with the system
+\citep{Nowak2003}, and in some cases the ability to learn from it
+\citep{Schneider2018}. In GI the very fact that the machine is given a
+personal name points to the willingness to attribute some aspect of
+human traits to it. While this contributes to the sensation that the
+machine is intelligent in a human sense (which it is not), it also
+puts a limitation to what is possible from a system point of view. If
+it proves to be possible to create a machine system that can improvise
+interactively and creatively, why restrain the machine to behave like
+a human? If not, by what standard do we allow ourselves to limit its
+freedom? Although speculative and abstract in nature, this inquiry
+leads to a number of questions concerning, for example, machine ethics
+that I hope to continue to pursue in the near future, but which may
+also be seen as a backdrop for the present study.
+
+\section*{Method and background}
+\label{sec:org820a2ae}
+Since I have been an active part in many of the workshops and
+laboratories performed by the group Goodbye Intuition from the
+initiation of the project in 2017, I am obviously involved in, and
+influenced by, any findings and discussions. In the workshop in
+Stockholm in February 2019 I also played with the group, but in
+general my role has been that of an external partner, or critical
+friend.
+
+Using a qualitative method of purposeful sampling I have selected a
+few important points during the workshop in Stockholm, 17-19 February,
+that will form the foundation for the discussion in this article. Due
+to the nature of the process in the project's workshops and
+laboratories, in which a shared experience, and to some extent shared
+knowledge\footnote{It is only to a certain degree shared as the
+    various kinds of experience (musical, interactional, intellectual,
+    experiential) is distributed according to the various roles that
+    we have in the project. Only to the extent to which we have had
+    the chance to explore the knowledge acquired is it shared.} has
+developed, this method appeared to be the most appropriate. As
+described by \citep[46]{Patton2002}, purposeful sampling, or judgment
+sampling, "focuses on selecting information-rich cases whose study
+will illuminate the questions under study". Using my first hand
+experience it was relatively easy to choose the relevant parts to
+include in this study. In principle parts that were considered
+particularly unsuccessful and those that were perceived as successful
+were chosen.
+
+In general the workshop in Stockholm in 2019 was an important event in
+the project for many reasons. Essential topics were aired and
+discussed, the software running KA had been improved and its modes of
+interaction had improved, and the laboratory format had
+matured.\footnote{A documentation of the laboratory in Stockholm can
+  be seen here:
+  \url{https://www.researchcatalogue.net/view/411228/431482 (accessed
+    1 September 2019).}} There was also a quartet performance with KA
+that came out both artistically and aesthetically convincing. With the
+purpose to engage in a discussion on the impact of technology in the
+form of artificial musicians on questions concerning musical ethics
+and improvisation aesthetics it seemed natural to pick out a few of
+the many information-rich contributions from this particular event.
+
+That the field of music is also affected by the huge interest in
+artificial intelligence is not surprising. The practice of
+improvisation in music is sometimes seen as a model form for
+organisation, or, as put by \citet[59]{Cook2017}, "[t]here is a long
+standing tradition of seeing jazz, particularly free and avantgarde
+jazz, as the expression of an ideal society". Given such an
+assumption, musical improvisation may appear to be the perfect case
+for evaluating the functionality of humanoid. Would it prove to be
+possible to write a software that can improvise with musicians in a
+manner that is indistinguishable from that of a human player, not only
+is this a significant engineering task, but it may also be assumed
+that this software can function in other social contexts. Music as a
+test bed for intelligent technology. There are a number of criteria
+that would need to be met and the computer system's ability to respond
+to input is a challenge in deciding both what constitutes valid input
+and what is a useful response.
+
+One of the ways in which it has been theorised that a systems ability
+to think, or its responsiveness to human interaction, may be measured
+is the Turing test \citep{Turing1950}. There has been many ideas about
+various designs of a Turing test for music, also those that evaluate
+systems that improvise. In 1988 the topic was discussed in the
+\emph{Computer Music Journal} \citep[7-9]{spiegel1988}. The piano
+competition Rencon, a "forum for presenting and discussing the latest
+research in automatic performance rendering" \citep[120]{Hiraga2004}
+introduced a Turing test for evaluating methods for performance
+expression on the Disklavier in 2004. \citeauthor{Roda2015} likewise
+using the Disklavier, perform a Turing test in the context of a live
+performance. A software developed by \citet{Pachet2003} and his team,
+The Continuator \citep{Pachet2003,Pachet2003b}, is an interactive
+system and a musical imitator that has been tested with a Turing test
+design \citep{pachet2012}. However, as was noted by Laurie Spiegel in
+a comment to the request for a musical Turing test in the
+\emph{Computer Music Journal}, one may question "[w]hat purpose would
+be satisfied by creating qualitative or quantitative metrics for
+musical intelligence, given the lack of successful similar criteria
+for natural musical intelligence, musicality, or even music per se"
+\citep[9]{spiegel1988}. She thereby puts the focus on the real issue
+concerning even a basic notion of artificial musical intelligence.
+
+The question of the nature of an instrument or system such as KA may
+appear to be a matter of primarily theoretical impact. As will be
+demonstrated in the next section, however, it is nevertheless of some
+importance. There has been no shortage of attempts to aim at a working
+metaphor for the emerging field of intelligent instruments. As noted
+by \citeauthor[5]{Bowers2005} "[s]ince 2001 the NIME series of
+conferences has seen the presentation of a wealth of interface and
+instrument design ideas" \Citep[p. 5]{Bowers2005}. Before that the
+notion of the hyperinstrument was introduced by Tod Machover
+\citep{Macover1989}.  In the previous section Cort Lippe pointed to
+how the interactive system can take on any number of roles in a
+musical context, and in her PhD thesis \citeauthor[17]{Fiebrink2011}
+suggests that "when the computer takes the role of an instrument
+within an interactive computer music context, the process of designing
+how a performer will use the computer to play sound can be understood
+as both composition and instrument building". Fiebrink refers to the
+work by \citeauthor{Schnell2002} who used the term "composed
+instruments" \citep{Schnell2002} to define the practice of designing
+computer systems for music. While we have often continued to label
+computer systems designed for music as \emph{instruments}, in some
+cases these systems are as much a part of the score as the score is
+(if one at all exists). This has influenced the way in which new
+interfaces, and composed instruments, impact on the practice of
+musicians and composers alike, as well as on the ontology of the
+musical work \citep{frisk-ost06-2,frisk-ost06}. With a terminology in
+part borrowed from game design composer and musician Per-Anders
+\citeauthor{Nilsson2011} discusses software instrument building as
+part of either "design time" or "play time": "Design time is outside
+time activity, concerned with conception, representation, and
+articulation of ideas and knowledge, whereas play time deals with
+embodied knowledge, bodily activity, and interaction in real-time"
+\citep[2]{Nilsson2011}.
+
+As was mentioned in the introduction, in GI there is a strong aspect
+of anthropomorphism that becomes obvious in a number of situations. KA
+is often talked about as "trying to do" something, being in a
+particular state of mind, or consciously going in a particular
+direction. On the one hand this is obviously false, KA does not have a
+consciousness in the way implied by this way of talking. It mainly
+listens to a few parameters of its input and records sound (a more
+detailed description is found below). On the other hand it says
+something about its output that leads us to anthropomorphise. This can
+be seen as a consequence of the close relationship between traditional
+musical practice and interactive music practices, as is pointed to by
+\citeauthor{Schnell2002}:
+
+\begin{quote}
+    Interpreting the attitude of the performer of a composed
+    instrument with the help of categories from the traditional way
+    music is created leads to various metaphors such as that of
+    playing a musical instrument, conducting an orchestra, playing
+    together (ensemble) with a machine, acting as a one-man
+    band. \citep[140]{Schnell2002}
+\end{quote}
+
+The use of technology in art practices can have several different
+objectives. From a general standpoint one may argue that art should
+engage in available technologies for the simple reason that this
+contributes to our understanding of its social and cultural
+impact. Though this general notion is sometimes contested, most
+famously by Heidegger who instead saw the opposite, that the
+technology frames the human capacity
+\citep{heidegger93},\footnote{Aden Evens has written an interesting
+    commentary on it in the digital age \citep{evens05}.} there are
+good reasons to evaluate uses of technology through artistic
+practices. From the point of view of innovation it has been seen in
+the past that artists' use of technology push the boundaries for what
+is possible \citep[e.g. ][]{harris1999}. Although this has arguably
+been true, the resources that the multinational technology and media
+industry now are in control of makes it increasingly difficult for an
+independent artist, or even a university, to produce artefacts that
+may compete with the R\&D budgets of these companies, although the
+artistic qualities in and of themselves may be uncontested.
+
+\section*{Analysis and results}
+\label{sec:org5fb345b}
+\subsection*{Composition or improvisation}
+\label{sec:orgc6d4b7f}
+One of the topics raised early on in the workshop in Stockholm was the
+notion of KA as a composition rather than a co-improviser, or an
+instrument. This may seem odd at first, after all, GI is an
+improvisation group, what purpose serves the notion of a composition
+in this context? Despite the conceptual contradiction, this is related
+to the notion of composed instruments, as was discussed above: some of
+the performance instructions, the score, is encoded in the system. Or,
+more plainly: "the \emph{work} is replaced by the \emph{interface}"
+\citep[28]{frisk08phd}. As a composition it makes sense that it allows
+a certain type of music, or response, but not other kinds.
+
+It should be noted that constructing a system that plays back a
+preconceived composition is obviously a more manageable task than the
+attempt to create a system that is able to interact to unforeseen
+musical events. This insight may have had something to do with why the
+topic of KA as a compositional frame came up. However, there is a more
+practical and pragmatic aspect to this as well. The goal of the
+project is to challenge the roles and aesthetic values of the four
+musicians in the group, and reflect on the topics of \emph{listening}
+and \emph{playing}. But if the responses from the system are not
+responsive enough, so to speak, if the co-player KA is not
+\emph{listening} attentively enough, then it becomes difficult to make
+meaningful commentaries about either the system, or of one's own
+strategies interacting with the system (even though, as will be shown
+in the next section, not listening may actually be a perfectly valid
+strategy). If the perfect playing companion is not available within
+KA, perhaps it is possible to instead look at it as a compositional
+frame that affords certain musical behaviours?
+
+To some extent KA is already a compositional frame as can be judged
+from its design. A given archive with a specific setting renders a
+music that is recognisable from performance to performance. Assuming
+that the musician and the system share some notion of what is "good"
+music and what is "less good" music it would furthermore be reasonable
+to expect that it makes a judgement on what kind of material it should
+archive and what material to avoid. In the version of the software
+that we played with in the laboratory on 19 February, 2019, it was
+however obvious that it did not do this when I played with it. Another
+interpretation is that KA has a set of aesthetic values that are
+different from mine. I was able to improvise with it and feel
+relatively good about the interaction, but the way it collects
+material allows it to pick up on a phrase that I considered a mistake,
+or a badly shaped motive. Such material then quickly defines the
+character of the music and becomes an obstacle that is difficult to
+come by.\footnote{A discussion on this may be heard at 20'00''
+    \citep{grydeland2019-1}}
+
+One of the members of the group comments on the same fact, saying that
+the system works quite well as long as one goes along with it. If you
+resist it, however, and oppose its playing or the material it uses, it
+is very slow to response.\footnote{This is discussed in
+    \citet{grydeland2019-1} at 15'00''.} In effect, what is emerging
+is a kind of composition, or a compositional frame. As long as one
+stays within the boundaries of the composition and play correctly, the
+musical result can be convincing. Perhaps this is more of a conceptual
+change, a difference in attitude towards the task of playing with a
+machine improviser, rather than a practical, musical change. The
+performance following the discussion of KA as a compositional
+framework rather than an improviser was in some ways quite
+convincing. One of the performers remarked that it felt like the first
+time they were able to construct musical structures \emph{with} the
+machine without it being a struggle.
+\subsection*{Not to listen}
+\label{sec:org36873f8}
+One matter that has come up on multiple occasions is the idea of
+musical rudeness. Both in the sense that KA should be rude but also
+that the improviser may be rude to KA. There is no doubt that this
+freedom to shut another musician off, play louder than everyone else,
+or, in the words of improviser Sten Sandell, to be allowed to change
+direction at any time \citep[p. 33]{Sandell2013}, has been an
+important aspect of some strands of free improvised music and
+jazz. What triggered this discussion was a reflection written by
+Morten Qvenild:
+
+\begin{quote}
+    My playing here is very rude, I am being empathic towards KimAuto
+    here, thats for sure. I am playing with a machine, and this
+    rudeness is possible without hurting someone. I think this
+    assertiveness is a good musical option sometimes. The
+    non-listening and the not taking care of the other. \citep[par
+    12]{qvenild2019}
+\end{quote}
+
+To be rude, or choose to not listen to the other, may appear contrary
+to the notion of music as an activity that creates and maintains
+social networks \citep{monson98}, but may here be seen as a
+possibility to engage in a musical ethics. While it is true that
+listening and adopting are essential in improvisation as well as other
+practices,\footnote{For an exploration of the philosophical impact of
+    listening, see \citet{nancy2007}.} it is impossible to say what is
+generally right in improvisation. Marcel Cobussen writes that:
+
+\begin{quote}
+    Reacting to the unfolding of the music, the musician and his
+    instrument enter into a relation with already produced sounds,
+    concretised musical ideas, present frames. All these cases contain
+    an act of thinking during the act of doing. To listen to oneself
+    and the other(s), to listen to the proceeding and developments of
+    the music, to listen to the noises that direct the music to
+    unknown areas.\footnote{For a discussion on the Self in
+        improvisation, see \citet{frisk12-improv}}
+    \citep[p. 33]{Cobussen2005}
+\end{quote}
+
+Interestingly enough, this could work as a characterisation of KA
+whose archives may actually go beyond sounds recorded and develop into
+a storage of \emph{thinking} through the act of doing. But where does
+the rudeness come in? Well, in another text by Cobussen Keith Rowe's
+concept of non-listening is discussed in a way that appears to be
+approaching what Qvenild calls rude. Cobussen asks "how the concept of
+non-listening, as suggested by improvising guitar player Keith Rowe,
+can undermine, or, conversely, deepen an aural ethics"
+\citep[p. 11]{cobussen2016}. And further:
+
+\begin{quote} [N]on-listening is meant to prevent any form of
+    interaction. It is meant to avoid relapsing into a musical
+    performance which is built on previous explorations and
+    discoveries; it is meant to avoid too many conventions, too many
+    tricks that have already proven their success, it is meant to stay
+    open to another otherness. Rowe opens an ethical space of
+    creativity and change through resistance. His attitudes makes
+    space for musical interactions that demand a response-ability that
+    is not already prescribed, a praxis of risk for which there can be
+    no rules, no codes, no principles and no
+    guarantees. \citep[p. 87]{cobussen2016}
+\end{quote}
+
+The act of not listening is a tool for the improviser, and while a
+similar activity could be problematic in social interaction, in
+improvisation it instead appears to contribute to the
+openness. Non-listening introduces resistance in the interplay whereby
+the ethical capacity is increased rather than hindered. On member of
+the group commented on how in improvisation there is sometimes a
+regulatory force in the form of convention or aesthetics, and that
+this force may block the potential for development in the
+group. Another way to put it is to say that the capacity for being
+rude and break with the convention is somehow interrupted. Playing
+with a machine is deliberating according to the same testimony since
+the machine does not care, so to speak. Although it is not always
+obvious what may constitute a 'correct' intervention, this example
+points to the importance of allowing rudeness in improvisation. In
+some cases it may simply be the most ethical and respectful way
+forward.
+
+In music it is possible, and in principle correct, that the
+aesthetical domain frames the ethical, but in reality it is clearly
+more complex. For now, based on the theory presented and the
+experience and discussions in GI, I believe it is possible to state
+that what constitutes ethical behaviour in musical improvisation and
+artistic practice extends what is generally seen as acceptable, or
+good, in social interaction, and that there is an interrelation
+between ethics and aesthetics.
+
+\section*{Discussion}
+\label{sec:org4fc2881}
+Apart from it being an interesting frame for artistic work, my
+interest in using digital technology in my artistic practice also
+departs from the belief that art practices in general offer a context
+in which experimentation and play is possible. That is, the aesthetics
+of the practice offers a set of value judgements that an engineering
+context may not provide, nor a traditional artistic practice. This,
+however, is not a property of the field of digital art but rather a
+function of it. In other words, only if the artist is consciously
+working for it does this experimental opportunity present
+itself. Furthermore, the framework of artistic practice does not by
+itself guarantee sound values and reasonable ethics, it is merely a
+\emph{possibility}, a potential, albeit an important one. Somewhat
+beside the point, but worth mentioning is that this does not mean that
+the art, nor the artist, is always ethically just, or morally
+defensible. The emphasis here is on the practice and the way the
+practice organises itself when the value system is primarily
+aesthetical.
+
+This, however, introduces a number of difficulties, the most important
+for the current discussion is the impact that this may have on the
+development of the technological systems. Although writing code may be
+considered an art form in itself in practices such as live coding, the
+role that the technology plays in works that are called digital art is
+not always as obvious. An attempt at a definition is made by
+\citeauthor{lopes2009} writing that "a item is a work of digital art
+just in case (1) it's art (2) made by computer or (3) made for display
+by computer (4) in a common digital code" \citep[p. 3]{lopes2009}. Sol
+LeWitt's famous essay on conceptual art predates the digital
+revolution, written long before digital technology became readily
+available in the way it is now, states that: "The idea becomes a
+machine that makes the art. This kind of art is not theoretical or
+illustrative of theories; it is intuitive, it is involved with all
+types of mental processes and it is purposeless" \citep{Lewitt1967}.
+
+The question that remains unanswered is what the actual code of the
+machine improviser constitutes a group such as GI. It was discussed
+above that the ethics of improvisation is negotiated through the
+aesthetics of the context, but what is it actually that guides the
+aesthetics of KA? Judging from the discussions we have had in the
+workshops and laboratories, it is clear there has been, and still is,
+a serious attitude towards KA with a respect for its capabilities and
+an understanding for its flaws. It is accepted and allowed to not
+listen, or to enter into a musical context and change the course of
+action in what may seem to be a disrespectful manner, not through
+negotiation but by introducing change strong enough that it makes a
+difference. In other words, though there was a discussion about the
+way KA introduced music that not all members appreciated, it allowed
+for a very different kind of musical relationship. The group accepts
+KA as a fifth member and as a co-musician and in that sense it is a
+\emph{machine that makes the art}, but what is the identity of this
+machine, and who is in control of it? Is it the code, the hardware
+running it, the sounds it produces, or is it maybe just an extension
+of the programmer that created it?
+
+One may imagine that in the near future there will be tools, like KA,
+but more advanced, that exhibits some notion of what we can call
+musical intelligence. Are we in that situation prepared to allow the
+machine to develop its own aesthetics, as we would with a human
+co-player? It is not difficult to imagine that such a machine can
+develop extremely fast, much faster than a human player. In this case,
+perhaps the machine eventually grows to be uninterested, not only in
+the music that humans play, but even loses interest in playing with
+humans at all. If the machine is still programmable by us we could of
+course put some limitations on the way its knowledge about music
+develops, thus avoiding this scenario. This kind of limitation could
+also be part of the design of the system from the beginning, which may
+appear to be a sensible thing to do, but it would nevertheless be to
+narrow its freedom in a way that is not often done for human
+musicians. If these systems in fact are intelligent in some manner,
+what are the consequences if we introduce constraints on the machines
+potential for development? Introducing a structural divide between one
+class of performers (humans) and another (machines) may also have an
+effect on the way our musical and aesthetical values develop. There
+are (at least) two aspects of this reasoning.
+
+First, the machine's capacity to learn and develop is obviously not
+only dependent on its input. Until machines are capable of creating
+machines without the interference of humans, they depend on designers
+and programmers that create the systems. These also have values and,
+as has been shown through studies such as by \citet{snow2018}, also
+self-organising neural nets inherit the biases of the programmer that
+created the system.\footnote{Twenty-eight members of the US congress
+    where mistakingly matched against pictures of convicted criminals
+    and a disproportionate number of these were people of colour.}
+Following this, even if the software is training itself it does not
+appear to be able to reach outside its own context, and perhaps it
+should not try to.
+
+Secondly, musical aesthetics is commonly developed in a wide field of
+practices, not just music. As a musician my freedom in performance and
+my aesthetics are shaped by a great number of
+impressions. Consequently, if the goal is to allow the machine to
+develop its own aesthetics its input should not be limited to sounds
+in performance, but also include all the other contexts in which music
+is negotiated. This point, however, reveals the most obvious
+difference between KA and human musicians: KA has no real
+physicality. The lack of presence is a great disadvantage for KA, as
+is pointed to by one of the members of GI:
+\begin{quote}
+If you play with humans you have an idea of their aesthetics so that
+part is kind of integrated, on beforehand. So maybe there is always
+some kind of quick preparation, or plan in order to feed into the
+total? \footnote{Lab \#5, part 2, 19 February, 2019.}
+\end{quote}
+The question is not only concerned with aesthetics, but also has a
+bearing on the ethics of improvisation discussed
+above. \citeauthor{benson03} makes the claim that the musical dialogue
+can be said to be ethical in nature “since music making is something
+we inevitably do with others (whether they are present or not)"
+\citep{benson03}. To play with someone is to encounter the other, but
+to play with a machine is not as simply analysed. What is KA in this
+encounter? One of the members comment on this topic and asked: "How
+can I, ethically, relate to and play with KA with the same kind of
+trust and respect as when I play with humans?"
+\citep[p. 4]{endresen2018} Here, the focus is not on the failure of KA
+to be a good musician, but rather on the self.
+
+The larger question that emerges from this is: Is it at all possible
+to play, that is to fully play, without the feeling of a reciprocal
+trust that, one may suspect, goes beyond musical experience? If the
+co-musicians lacks a body and has no extension in the physical realm
+and there is no sensation of the other, the situation becomes
+radically different. The co-musician is a blank slate, not even
+non-existent, but with negative extension. The machine is a void until
+it starts playing and even then it is relatively difficult to
+anticipate the output. But even if the difficult question of empathy
+in music is put aside and disconnected from the question of physical
+presence, the impact of embodiment in music cannot be disregarded
+\citep{godoy2006,Leman2015},and embodiment has had a big impact in the
+field of cognitive science. A slightly different question emerges:
+What are the strategies that may be employed that substitute for the
+lack of presence and lack of trust when playing with a machine? The
+simple answer is that it is possible. There is a great deal of music
+where one or more of the players is a machine, and GI's work with KA
+proves that it is possible, but the challenge is changing as the
+nature of the machine is changing.
+
+Concerning the general situation of computer interaction, it appears
+that we are quick to adopt. There are a number of tasks and activities
+that belong to the social realm that we now carry out virtually such
+as social media. Although the discussion concerning the precariousness
+of committing your social life to social media pops up every so often
+\citep[see, for example, ][]{lanier2018,lanier96} we appear to be able
+to quite quickly adjust and be willing to substitute a physical
+meeting with a chat on a media channel. But because it is possible,
+and maybe even desirable in one context does not mean that it is so in
+another. To play with someone is to encounter this other and the
+ethics of this situation is greatly affected by the extent to which a
+physical meeting takes place. Regardless if this is a person on knows
+or not, a wide range of information is immediately gathered or
+created, merely through the very first encounter. The body and
+posture, the way the instrument is held, the facial expression and
+many other things contribute to what one may expect this musician to
+play. These impressions form the groundwork, or underpinning for what
+will be played.
+
+If music is to be regarded as a social activity that participates in
+expanding the communicative possibilities both within the group of
+musicians playing together and to some extent also among listeners,
+then the very idea of playing with a machine does appear strange. The
+communicative potential in an interactive music system such as KA is
+relatively limited and different in nature from that of human--human
+communication. In the case with GI, however, the output of the machine
+is, after all, relatively well structured and possible to
+anticipate. GI has proved, as many other projects have done before,
+that it is possible to make meaningful music with a machine. But most
+noteworthy are the challenges the practice has shed light on. There is
+a need to better understand the possible modes of musical interaction
+with the kind of machine that KA is. But comparing it to a real
+musician makes little sense, because music in general, and
+improvisation in particular, commonly relies on a myriad of other
+parameters that are simply not available to KA. The most fascinating
+results of this, however, are 1) the extent to which musicians adopt
+and counteract the obvious shortcomings of the machine improviser and
+the reflections this leads to, and 2) the impact a conceptual change
+may have, such as thinking about KA as a composition rather than an
+improviser. Playing with a machine makes the conceptual asymmetry
+between the embodied musician and their instruments on the one hand,
+and the abstract and disembodied computer on the other, come to the
+fore. What we should do to overcome this difference, and why, will be
+an important questions for the future.
+
+\section*{Acknowledgments}
+\label{sec:org9374948}
+I wish to thank all the members of Goodbye Intuition: Ivar Grydeland,
+Morten Qvenild, Sidsel Endresen and Andrea Neumann as well as David
+Toop and Annie Dorsen, all of whom have contributed to the thoughts
+presented in this article. Finally I wish to thank Stefan Östersjö for
+reading the text and making valuable comments.
+
+% \section*{Bibliography} 
+\label{sec:orgce11cbb}
+\printbibliography
+\end{document}

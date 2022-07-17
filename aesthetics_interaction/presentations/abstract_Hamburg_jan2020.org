@@ -1,0 +1,25 @@
+Challenging machine aesthetics and the musical automation
+
+Henrik Frisk
+
+** Abstract
+   :PROPERTIES:
+   :CUSTOM_ID: abstract
+   :END:
+
+Departing from the artistic research project Goodbye Intuition (GI)
+hosted by the Norwegian Academy of Music in Oslo, this presentation
+discusses the aesthetics of improvising with machines. Playing with a
+system such as the one used by GI, with limited intelligence and no real
+cognitive skills will obviously reveal the weaknesses of the system,
+but it will also convey part of the preconditions and aesthetic
+frameworks that the human improviser brings to the table. If we want the
+autonomous system to have the same kind of freedom we commonly value in
+human players' improvisational practice, are we prepared to accept that
+it may develop in a direction that departs from our original aesthetical
+ambitions? The analyses presented here are based on some of the
+documented interplay between the musicians in the group in workshops and
+laboratories. The question of what constitutes an ethical relationship
+in this kind of improvisation is briefly discussed. The aspect of the
+machine's disembodied relation to the music emerges as a central obstacle
+in the development of musical improvisation with machines.
