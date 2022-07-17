@@ -1,0 +1,95 @@
+Time and interaction: 
+
+p. 278, 9 lines from the bottom:
+
+culture, the virtual is nearly... 
+
+insert 'however, ' after 'culture, '
+
+****
+
+p. 280, last section, first sentence:
+
+This sentence does not appear to me to be correct English
+"to tie the action to the object" or "to link the action and the object", but I'm not sure. 
+At the end of the sentece: should temporalities be 'the temporalities'?
+
+****
+
+p. 282, second section, last sentence:
+
+There is no mention of Xenakis's book prior to this (other than the reference page 281). Is it possible to insert the title ("Formalized Music") here?
+
+****
+
+p. 284, third section of 'Performing reflections', 3rd sentence:
+
+Shouldn't this be in plural when it refers to reflections: "Although they are unlikely..."?
+
+****
+
+p. 285, second section of 'Interaction and feedback', parenthesis in the second to the last sentence:
+
+Should 'why' be capitalized? 
+
+****
+
+p. 286: last sentence before 'Interacting with the virtual':
+
+'However it may also...': Isn't 'it' ambiguous here? It is supposed to refer to 'computer' but I'm not sure if it does? Perhaps change to "Using computers, however, may also..."
+
+****
+
+p. 286, first section of 'Interacting with the virtual', third sentence from the end:
+
+'it has great impact on the way we understand and execute...': Should this be changed into: "on the way one understands and executes..."?
+
+****
+
+p. 287, image:
+
+This image shouldn't have the grey background squares. I have made new versions of this image that hopefully has a completely transparent background, as a bitmap and as an eps.
+
+****
+
+p. 287, caption:
+
+Shouldn't it be "an extremely" (last sentence)?
+
+****
+
+p. 287, second line:
+
+'in-time': This should be 'in time', no hyphen.
+
+****
+
+p. 288, second to the last sentece before 'Memory':
+
+Insert comma between 'reflection' and 'although'?
+
+****
+
+p.289, last sentence before 'Summary':
+
+'their practice' should be changed to 'artistic practicies' OR the beginning of the sentence should be changed to 'If arts based researchers are...'. I believe that in either case practice should be in plural.
+
+****
+
+p. 291, middle of the firs section of 'Coda':
+
+'may be a discipline of interest to the artistic researcher but also the computer game designers themselves': remove 'but also the computer game designers themselves'.
+
+****
+
+p. 291, middle of the firs section of 'Coda':
+
+die Zeit.
+
+****
+
+References:
+
+p. 441, Rihm, W.:
+
+The capitalization is incorrect here: I believe it should be "Raum, Zeit, hier. Bemerkungen zu einen Axiom Wagners", but I don't have the original here. Henrik?

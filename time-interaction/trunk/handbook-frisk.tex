@@ -1,0 +1,164 @@
+\documentclass[a4paper]{article}
+
+%% Subtitle code
+\makeatletter
+\def\s@btitle{\relax}
+\def\subtitle#1{\gdef\s@btitle{#1}}
+\def\@maketitle{%
+  \newpage
+  \null
+  \vskip 2em%
+  \begin{center}%
+    \let \footnote \thanks
+    {\LARGE \@title \par}%
+    \if\s@btitle\relax
+    \else\typeout{[subtitle]}%
+    \vskip .5pc
+    \begin{large}%
+      \textsl{\s@btitle}%
+      \par
+    \end{large}%
+    \fi
+    \vskip 1.5em%
+    {\large
+      \lineskip .5em%
+      \begin{tabular}[t]{c}%
+        \@author
+      \end{tabular}\par}%
+    \vskip 1em%
+    {\large \@date}%
+  \end{center}%
+  \par
+  \vskip 1.5em}
+\makeatother 
+%% /Subtitle code
+
+\usepackage[swedish, english]{babel}
+\usepackage[T1]{fontenc}
+\renewcommand{\rmdefault}{pad}
+\renewcommand{\sfdefault}{pfr}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{csquotes}
+\onehalfspacing
+
+\usepackage{fancyhdr}
+\usepackage[
+            style=verbose-ibid,
+            hyperref=false,
+            indexing=cite]{biblatex}
+
+\bibliography{bibliography}
+\DeclareBibliographyCategory{nobib}
+\addtocategory{nobib}{cybernetic08,concours-spat,wiki_synklavier,gnokii}
+\DefineBibliographyStrings{swedish}{}
+
+\pagestyle{fancy}
+
+\lhead{\small{\textit{Henrik Karlsson \& Henrik Frisk}}}
+\chead{}
+\rhead{\small{\textit{Interactivity, Time and Space}}}
+
+\title{Interactivity, Time and Space}
+\subtitle{Research through non-visual arts and media}
+\author{Henrik Karlsson\\{\small henrikkarlsson@msn.net}\\Henrik Frisk\\{\small henrik.frisk@mhm.lu.se}}
+\date{\today}
+
+\begin{document}
+\selectlanguage{english}
+\maketitle
+
+\thispagestyle{empty}
+
+%%% Handling >< Föreställning; se Ricoeur s. 63
+
+\section*{Abstract}
+\label{sec:abstract}
+
+\vspace{.8cm}
+
+\begin{quotation}
+  ``\emph{Du sihst, mein Sohn,\\
+  zum Raum wird hier Zeit.}'' \flushright{\small{Richard Wagner, \emph{Parsifal}, act I}}
+\end{quotation}
+
+\include{introduction}
+
+\vspace{.8cm}
+
+This chapter will discuss the challenges and problems related to arts-based research (AbR) in and through non-visual arts, focussing on the use of virtual tools (interactivity) with specific references to music, sound art and sound design. The needs put forward by these fields of artistic activity, as well as other real-time scenic and performing art forms, are not necessarily synchronous to those deployed by the non-real time arts. Yet the conceptualization in method development, theory and discourse within the field of AbR has hitherto been overshadowed by the visual arts. It is our basic standing point here that the real-time arts, due to their peculiar relation to time and space (also beyond the more obvious ways), both has the need for, and holds within them, their own particular methods. 
+
+Aural and embodied modes of perception, distinct from the otherwise dominating visual modes of communication, obviously play an important role in all phases of musical  creation, from composition through performance to reception. This is not to say that they transcend or move away from spatial properties, because spatial apperception and hearing are closely coupled, also subconsciously: We receive space through sound. The maelstrom of sonic stimuli that we are constantly exposed to help us understand the spaces that surround us, they help us stratify them, discern distances and identify movements within them---all this without falling back on visual stimuli. Composers and artists that have shown particular interest in the sound-space relation are, to only mention a few, Richard Wagner, Iannis Xenakis and sound artist Michael Brewster. Wagner spoke of ``the weight of sound'' and the gravity of harmony. Xenakis devoted much of his artistic life, as an architect as well as a composer, to issues concerning not only sound and space, but also light and movement, and defined the composer as someone who is a ``thinker and plastic artist who expresses himself through sound beings.''\footcite[][255]{xenakis71} Brewster, with his sound sculptures, more consciously introduces interactivity and the user/listener in his creation of space altering works.\footcite[][Ch. 11]{labelle06}
+% (Cage story about high an low sounds?)
+
+If (musical) time is a (non)contiguous chain of (causal) events, memory is the spatial translation of this chain. In other words, we can keep a virtual representation of this chain in memory and understand it as a single event. It is then possible to move through a known piece of music as if it constituted a space, a space fed with the sounds of our memories. May memory be the link between time and space? According to Bergson we can look at the present-past axis as an inverted cone where the tip is the present and the base represents the oldest unconscious memories. Each segment of this cone, where a segment is a line trisecting the cone somewhere between its point and its base, represents a virtual plane.\footcite[][Ch.3]{bergson91} According to Deleuze each such segment contains the totality of past \emph{and} the present in different levels of contraction or relaxation.\footcite[][60]{deleuze88} Interesting in this context is the notion that the plane on which the cone stands is moving, which would suggest that the level of contraction at any other virtual plane would be constantly changing. In other words, the virtual plane of memory is not a static \emph{image} (space) of a time in the past (a sound), but a constantly changing one: The relation between time and space is in all regards a dynamic one.
+
+These virtual planes of memory are likely to be linked to the virtuality present in all musical creation, and common to both the virtual planes of the memory and to the virtuality of music is that, although they generate visual elements and images, they do not depend on them.
+But in real-time, in performance, in improvisation---in the spur of the moment---the leap from `now' to a virtual plane of the past may create a breach. An ontological difference that, in the best case, fuels a musical performance and takes it to new heights, but at its worst, detaches the performance from the logic of the `now', and the virtual plane fails to actualize itself and remains trapped in the memory of the performer(s). These leaps may be carried out as a result of affectivity within the performer or simply by aesthetic choices. The subject-object continuum, particularly so in group improvisation, may play an important role. 
+All of these cases, studied from the performers point of view, will be important areas of inquiry for this chapter. % inspired by Deleuze's analysis of Bergson.
+
+The `real' virtualities---those that belong to the digital domains---are in a way, at least for the musician, a means for bypassing these leaps into memory. Machines are phenomenal individual forgetting devices\footcite[See][]{miller04} partly due to their lack of an embodied relation to their operators (envision the four members of Kraftwerk in front of their keyboards/laptops) further diffusing the subject-object divide. These digital virtualities are truly non-ocular in their complete absence of a consented visual component. (After all, this is one of their great qualities; one is able to mold one's own virtual visuality) But herein lies also our problem: 
+How can these (non-)spaces, the aural and virtual, be truthfully represented outside their own domains? How may they be documented and communicated in the context of AbR?
+
+These questions become even more acute when dealing with real-time technologies in music, because the real-time `object', the music that is a result of real-time processes such as improvisation, live coding, interpretation, etc. is made up of a volatile substance that is not easily transformed to a researchable `object'. While investigating how the virtual sound worlds of computer instruments, created and edited in real-time, may interact with (or fail at interacting with) the real world, we will address these and other questions, all of which are intimately linked to issues of time and space. Although the Western tradition has developed powerful musicological methods to represent and document music visually,\footcite[See]{bregman94} independent of time, are there methods that retain the temporal identity of the object rather than do away with it? Such means of representation may have to include also questions rarely explored in AbR such as the impact of contextuality and listener reception in musical performances. Also more multi disciplinary research projects will here be of great interest, in particular those that actively deal with visuality in different forms such as computer games and film, in particular considering the great impact video works has had on the electro acoustic music community over the last decade.
+
+The disposition of the chapter follows loosely this abstract. It begins with a short introduction with a brief history of the concepts of time and space in music with the main segment dealing with different aspects of virtuality and interactivity. The chapter ends with a discussion on archiving and documentation and the musical artefact.
+
+
+%  We also believe that these questions, addressed in this way, may be % useful outside the field of electronic music and sound art. 
+
+
+
+%Our basic starting point is that music and other real-time scenic and performing art forms hold a very special relation to the temporal and spatial dimensions, also apart from the more obvious ways. The conceptualization that has hitherto dominated the method development, theory and discourse in the field of AbR emanates primarily from the visual arts and from different forms of reading (in the literal sense of the word). I.e. non real-time activities whose methods may not be the optimum for time based arts whose aural and bodily aspects are of much greater significance at all stages of creation--composition, performance and reception--than what they are in visual perception.
+
+
+%In other words, space may be perceived without seeing. 
+%in ways that suggests that the opposite is also true; audible apperception may in some ways be guided by spatial understanding ().
+
+%We discuss the aspect of time and emobodiment and look at the ways that music, being an artform intrinsically bound to time, may be represented in ways that makes PbR possible and meaningful. PbR is sometimes referred to as research in which the artistic work is both the object and the method; a research where the researcher is intertwined with the object of research.\footnote{``Research in the arts [\ldots] concerns research that does not assume the separation of the subject and the object.'' \cite{borgdorff07}} The artist is investigating his or her artistic practice by means of the artistic practice itself; the \emph{work} is at the same time the subject and the object for the research. Though it may be a powerful (elegant) and efficient way of describing this difficult field of work, the concept of the work as both object and method harbors difficulties and contradictions and, as we will show, may lead to paradox. The concept of `the work', perhaps particularly so in music, is a highly difficult matter in itself and far from unambiguous. In the performing arts we may still speak of `objects' but what are our means of representation that brings a piece of music to the point where it may function as method in a transparent way? 
+
+% If the artistic work is a container of experience, of information, how % can this experience be untangled, shared and evaluated by the % researcher and by the researching community? The Western tradition has % developed musicological methods to do this with tools such as music % theory and musical notation but these are, to some degree, leaning on % \emph{visual} representations of the sounding object. What methods and % techniques do we have at our disposal, or what tools need to be % invented, in order to work with the object itself rather than its % representation?
+
+%But we approach the question of the sometimes overly simplified subject-object continuum by way of the already mentioned real-virtual divide. Human-Computer Interaction (HCI) is a field of research informed primarily by how users (humans) can come to interact (use) computers and other kinds of technology as effortlessly as possible. For some reason the human voyage into the virtual worlds of present day technology and information processing should take place without strenuous endeavor. As if the otherwise fairly well established relation between ease of use and level of user influence did not appertain to the world of the virtual (or, perhaps, precisely \emph{becauses} of it). Technology, it is argued, has entered our lives to make things easier and must, in order to fulfil its own purpose be easy to use. This is as troublesome in the real (virtual) world as it is in the musical virtual world: The (electronic) musical instrument that may be learned and mastered in ten minutes is not likly to be able to sustain the users' interest for much more than 20 minutes.\footcite[An example of an instrument that does not obey this rule is the CrackleBox. See][]{waisvisz75} Unfortunately, the opposite is as troublesome: The virtual musical instrument that allows for such minute control and variation as the violin offers its trained practitioner will quickly become so complicated that no one will bother to learn it. Which is however not the same as to assert that an interface must be simple in order to be useful (the violin is certainly not simple to learn, nor to use). One of the reasons the violin is a succesful controller of musical intention is the way it interfaces with the human body of the player in a very efficient way and the very reason, perhaps the only reason, our hypothetical virtual instrument becomes a usability disaster is to do with the body-machine boundary.\footnote{There is much interesting research going on in this field and lots of progress is being done. See in particular the research performed at Canadian McGill university (\cite{wanderley09,wanderley00}) and recent PhD dissertation \cite{jensenius08}}
+
+%Vijay Iyer argues that ``music depends crucially on the structure of our bodies, and also on the environment and culture in which our musical awareness emerges''\footcite[273]{iyer08} which is to say that one of the fundamental strengths of the violin (or any other analog musical instrument) is the way it relates to the human body that plays it: The layour of the fingers, the sensitivity of the skin while pressing the fingers on the strings, the muscular power of the right arm holding the bow, etc., all of these aspects is what makes it possible to learn to play the violin and master it to the level of expression that some musicians have managed. Meanwhile in the virtual world of music there is (yet) no room for the body. The body-machine boundary is more of a wall, or perhaps more correctly referred to as a a mirror; at any rate, at first sight it appears to be an efficient armor to stop anything even related to human physicality to enter. For these reasons the virtual world of music, that is, the world in which computers and similar machines are players comparable to how humans are players in a real world orchestra makes up an interesting and stimulating field of research that may be well informed by the artistic practice that intends to explore and exploit it. Furthermore it is a field in which traditional research methods has failed at successfully disentangle the issues at stake.\footcite[See][]{kirlik04,thomassen03}
+
+%The real-virtual divide\footnote{For the current discussion we need not dwell into the question of how the post-modern society to some degree has reversed the relations bewteen real and virtual (\cite[See for example][]{eco87}), but we may allow us to hold on to the (simple) distinction that the `real' is what we can see around us (regardless of how unreal it may seem) and the `virtual' is that which we need a machine to experience.} is furthermore a useful distinction that maps unto similar distincitions related to Practice based Research (PbR) such as subject/object, true/false and real-time/non real-time.
+
+
+
+
+
+
+
+
+
+% Furthermore the work as both object and method seems to be more % efficient in the visual arts where the object created tends towards % static objects independent of time. 
+
+% To move along the subject-object continuum is a natural part of much % artistic practice. Very rarely does art claim to be `true' in an % objective and general sense; quite contrary may it sometimes deal with % what is explicitely untrue. Fact and fiction may be seamlessly % intermingled\footcite[See Swedish artist Lars Vilks as quoted % in][72]{karlsson} in ways that does not affect the value of the art % work itself. Riitta Nelimarkka's PhD \emph{Self % Portrait}\footnote{Nelimarkka } is evidence that it may however have % an effect on the perceived value of the research. Her PhD dissertation % was dismissed in October 2000 based on its self centered and too % subjective nature. 
+
+%  That it may become problematic when art becomes research 
+
+% There is also a subtle symmetry between the subject-object continuum % and the 
+
+%  and as such it is related to a similar tensions such as `true' and % `false', `real-time' and `non real-time', `man' and `machine' in % interactive arts, etc. Both Pierre Schaeffer's concept of the `objet % sonore' and Marcel Duchamp's `readymades' or `objet trouvés' are % examples of artistic work in which the point of the (artistic) method % is to relieve the work of the artist while at the same time ask the % receiver (the audience) to disregard the origin of the object. 
+
+
+% On a meta-level the real-
+
+% Truth and authenticity, concepts central to research in the broad % sense and to the scientific method more specifically, are largely % useless within the field of art practice. 
+
+% ``Human culture is always derivative''
+% Beethoven's symphony no 1 is not good \emph{because} it sounds like a % Haydn symphony with a twist and John Coltrane's version of ChimChim % Cheree
+
+%If there is a tension to be found between subject and object, a similar tension is a part of much artistic work
+
+%   Practice based Research (PbR hereafter) was early adopted by the % visual arts, architecture and design. 
+
+
+\end{document}
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: t
+%%% End: 
