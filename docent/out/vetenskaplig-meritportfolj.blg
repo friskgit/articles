@@ -1,0 +1,14 @@
+[0] Config.pm:318> INFO - This is Biber 1.8
+[0] Config.pm:321> INFO - Logfile is 'out/vetenskaplig-meritportfolj.blg'
+[75] biber:275> INFO - === tor aug 28, 2014, 14:12:10
+[75] Biber.pm:333> INFO - Reading 'out/vetenskaplig-meritportfolj.bcf'
+[141] Biber.pm:630> INFO - Found 27 citekeys in bib section 0
+[159] Biber.pm:3053> INFO - Processing section 0
+[174] Biber.pm:3190> INFO - Looking for bibtex format file './../biblio.bib' for section 0
+[204] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
+[236] bibtex.pm:812> INFO - Found BibTeX data source './../biblio.bib'
+[398] Biber.pm:2939> INFO - Overriding locale 'en_US.utf8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[399] Biber.pm:2945> INFO - Sorting 'entry' list 'nyt' keys
+[399] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.utf8'
+[490] bbl.pm:482> INFO - Writing 'out/vetenskaplig-meritportfolj.bbl' with encoding 'UTF-8'
+[495] bbl.pm:555> INFO - Output to out/vetenskaplig-meritportfolj.bbl

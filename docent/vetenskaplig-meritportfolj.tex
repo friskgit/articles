@@ -1,0 +1,45 @@
+\documentclass[a4paper]{article}
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage[authoryear,round]{natbib}
+\usepackage[style=authoryear,natbib=true,backend=biber]{biblatex}
+\bibliography{./../biblio.bib}
+\usepackage{url}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\renewcommand{\encodingdefault}{T1}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\rmdefault}{pad}
+\renewcommand{\sfdefault}{pfr}
+%\lhead{\small{\textit{Henrik Frisk}}}
+%\chead{}
+%\rhead{\small{\textit{title}}}
+
+\title{D: Research merits}
+%\author{Henrik Frisk}
+\date{}
+
+\begin{document}
+\selectlanguage{english}
+%\maketitle
+
+\thispagestyle{empty}
+
+\section*{\textsf{IV. Merit och tjänsteförteckning}}
+\subsection*{\textsf{4D. Konstnärlig och vetenskaplig meritförteckning}}
+
+\vspace{1cm}
+\input{meriter}
+
+\subsection*{\textsf{ii. Publikationer - vetenskapliga}}
+\input{publikationer}
+
+\subsection*{\textsf{iv. Forskningsanslag}}
+% \vspace{1cm}
+\input{anslag}
+
+% \newpage
+
+\printbibliography
+\end{document}

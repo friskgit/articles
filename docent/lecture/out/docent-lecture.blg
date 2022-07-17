@@ -1,0 +1,21 @@
+[0] Config.pm:322> INFO - This is Biber 2.0 (beta)
+[0] Config.pm:325> INFO - Logfile is 'out/docent-lecture.blg'
+[36] biber:277> INFO - === tis dec  9, 2014, 14:33:31
+[36] Biber.pm:333> INFO - Reading 'out/docent-lecture.bcf'
+[99] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.5, expected version 2.6
+[100] Biber.pm:635> INFO - Found 8 citekeys in bib section 0
+[118] Biber.pm:3051> INFO - Processing section 0
+[137] Biber.pm:3189> INFO - Looking for bibtex format file '~/shared/Documents/svn/admin/conf/biblio/bibliography.bib' for section 0
+[178] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[204] bibtex.pm:864> INFO - Found BibTeX data source '/home/albert/shared/Documents/svn/admin/conf/biblio/bibliography.bib'
+[352] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
+[352] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[353] Biber.pm:2928> INFO - Sorting list '' of type 'entry' with scheme '' and locale ''
+[353] Biber.pm:2932> INFO - No sort tailoring available for locale ''
+[458] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[459] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
+[459] Biber.pm:2928> INFO - Sorting list 'nyt' of type 'entry' with scheme 'nyt' and locale ''
+[459] Biber.pm:2932> INFO - No sort tailoring available for locale ''
+[478] bbl.pm:517> INFO - Writing 'out/docent-lecture.bbl' with encoding 'UTF-8'
+[481] bbl.pm:608> INFO - Output to out/docent-lecture.bbl
+[481] Biber.pm:106> INFO - WARNINGS: 1

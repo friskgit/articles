@@ -1,0 +1,14 @@
+[0] Config.pm:318> INFO - This is Biber 1.8
+[0] Config.pm:321> INFO - Logfile is 'out/beskrivning.blg'
+[79] biber:275> INFO - === tor aug 28, 2014, 14:12:06
+[79] Biber.pm:333> INFO - Reading 'out/beskrivning.bcf'
+[146] Biber.pm:630> INFO - Found 12 citekeys in bib section 0
+[164] Biber.pm:3053> INFO - Processing section 0
+[179] Biber.pm:3190> INFO - Looking for bibtex format file './../biblio.bib' for section 0
+[211] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
+[242] bibtex.pm:812> INFO - Found BibTeX data source './../biblio.bib'
+[336] Biber.pm:2939> INFO - Overriding locale 'en_US.utf8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[336] Biber.pm:2945> INFO - Sorting 'entry' list 'nyt' keys
+[336] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.utf8'
+[368] bbl.pm:482> INFO - Writing 'out/beskrivning.bbl' with encoding 'UTF-8'
+[370] bbl.pm:555> INFO - Output to out/beskrivning.bbl

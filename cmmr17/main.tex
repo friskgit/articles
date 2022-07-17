@@ -1,0 +1,113 @@
+% Created 2016-10-24 Mon 16:35
+\documentclass[12pt]{article}
+\usepackage[english]{babel}
+
+%% Disable when not using html output
+%\usepackage{tex4ht}
+%\usepackage{pxfonts}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage[T1]{fontenc}
+\usepackage{url}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage{csquotes}
+\usepackage{fixltx2e}
+\renewcommand{\encodingdefault}{T1}
+
+%% Enable for graphics 
+%\usepackage[pdftex]{graphicx}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{setspace}
+\usepackage[]{biblatex}
+\bibliography{./../biblio/bibliography}
+\bibliographystyle{plain}
+
+%% Enable when using PDF output
+ \renewcommand{\rmdefault}{pad}
+ \renewcommand{\sfdefault}{pfr}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\author{Henrik Frisk}
+\title{The archive that writes itself}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+\label{sec:introduction}
+
+
+What is it to document a musical work? If we assume that one possible means of documenting a work is to record the result, what do we gain, or loose, in the transformation from the work's material reality to its digital representation?\footnote{Digital recordings overshadow almost all analog recording techniques although such documentation is als a possibility.} In this paper I will attempt to approach these questions, and others, from the point of view of a piece of music that may contain acoustical instruments but certainly contains electronic parts, of which some may be played live. There are some musicophilosophical questions here that I will attempt to avoid in this paper, or that I will only discuss through other questions that arise. One of these is the question of the ontology of the musical work. 
+
+This research began more than ten years ago and my piece for guitar and electronics that was premiered in Beijing in 2006, Repetition Repeats all other Repetitions, has played an important role. Another related project that has contributed to the research is the Integra project. Integra was a project hosted by Birmingham Conservatoire funded by the EU and its initial ambition was to document electronic works in a sustainable manner: how can we avoid that obsolete technology used in musical works render them unplayable\citation{frisk-bullock08,frisk-bull07,frisK-bull11,bullock06}? The method employed in Integra was to collect piece from several of the countries that were partners in the project and render generic and technology agnostic descriptions of these pieces, in addition to documented software that could be used in order to perform them.
+
+The current project is built on the work done in Integra, in particular the research that Jamie Bullock and I did concerning a hierarchy of documentation classes \citation{frisk09,frisk-bullock08}. Whereas Integra was a work-centered and based on the idea that there is a work identity that any performer should adhere to, the current project is rather process oriented. As such it focusses on the elements of the process that are essential to the recreation of the work in new configurations. These two models, the work centered and the development focused, obviously have very different needs when it comes to documentation but also some important overlaps.
+
+The main difference between these models is that in a traditional view of documentation, in which the work as it was conceived of by its originator, the result, the finished product, is actually a fairly decent means for communicating the intended result, provided that the documented result is in line with the original intentions. A good recording of a solid interpretation of a work can provide a very good entry in trying to recreate it. This is perhaps less so in the case of a electroacoustic work with live electronic components, but with a score and some instructions the recording provides great help. For a work for which the process of creation plays a conceptually important part, the situation is not only aesthetically substantially different, it is also philosophically different. The work's authenticity lies not in the intentions of the originator, but rather in the ears of the listener, or in the hands of the interpreter. How is such a work best documented?
+
+\section{Background}
+\label{sec:background}
+
+One of the strong aesthetic tendencies since the 1960s has been to move away from composition centred view of the work. One of the trends has instead been the open work where the construction of the work is something that a creator does in collaboration with an interpreter. The more radical version is what Eco calls the work-in-movement where the work is a latent or prospective possibility where the composition consists of supplying raw material for a work, delivering a potential work rather than a finished work. Departing from Umberto Eco's reasoning\citation{eco68} we developed an artistic method that leaned strongly on the idea of the work as a continously developing field of possibilities. What started as a fairly standard composition for guitar and electronics, Repetition Repeats all other Repetitions developed into a work-in-movement whose work identity was located in the change rather than the fixity. In a few articles published early in the process we discuss how our view on the work developed in the process \citation{frisk-ost06,frisk-ost06-2} 
+
+The ruling principle is that there is no such thing as an ultimate performance or rendering of a work. The work is not a singelton but a realizable potential. Each performance of each work makes possible a new work and this development is the true nature of the work identity. It simultaneously makes impossible an exact repetition. How can this incremental process be documented to allow the work-in-movement to continue to move? Is an archive that archives in order to allow for change possible or even desirable? To add to the complexity, there is the need to collect material necessary for a systematic investigation of the process. To perform research upon the process of creation there is a need to develop systems that surfaces and makes visible the activities that relate to the work creation.
+
+The development of RRAOR coincided with the development of a documentation database for the Integra project. Originally conceived of as a fairly traditional contemporary piece for instrument and electronics RRAOR instead developed as a kind of open work, or rather, a work-in-motion \citation{eco68,frisk08}\footnote{Umberto Eco defines the work-in-movement as a more radical kind of open work: ``It invites us to identify inside the category of `open' works a further, more restricted classification of works which can be defined as `works in movement', because they characteristically consist of unplanned or physically incomplete structural units.''} As such it invited interpreters to create their own work out of an assembly of segments that could be combined in a number of different manners. Had these segments only consisted of written instructions in musical notation the challenge of creating this particular work's documentation may have been slightly easier. However, the documentation had to contain not only all previous versions and their modes of construction, but also all the different parts in terms of electronic sounds (soundfiles, software for interaction, DSP processes for altering the acoustic sounds, etc.). The idea of a documentation database for the piece appeared as a sensible solution. Although the database developed in the Integra project was mainly designed for the preservation of works it turned out to be apt also for the current context.
+
+In the field of artistic research the topic of documentation is important but largely unresolved. Given the novelty of the field it may even be relevant to ask what artistic research data actually consists of. The issue may be divided into several subtopics but first and foremost it is important to distinguish between the gathering of research data, and the documentation of the result. Even if the result may be easily documented, the data, the processes that led to the result, is commonly of central importance to the research process. How can the integrity of the data be preserved in an artistic research project that may contain a number of different kinds of data, as well as raw material from the artistic process? 
+
+One preliminary, however unconclusive, way to understand this is that in artistic research the material basis of the artistic practice may be both data and result. The way in which either should be represented in the research is however largely still an unsolved issue. Particularly in the context of performative arts and music. One point of departure for the research presented here is that it is necessary to critically examine the relations between artistic practice in music and its possible representations in various forms for archives. An archive of musical material most often archives representations of musical content, and to be meaningful it has to go beyond a mere collection of resources. An archived score is relatively easy to represent accurately but is a poor representation of the actual music. A recording of a performance is an accurate representation of the sound but a poor representation of the material performance. There is a continuum between the two categories of what we might call the concert documentation and the edited recording. Both of these are reductions of the materiality of the performance to the archivable documentation/representation format. How, then, may an archive for artistic research and artistic practice be structured?
+
+\section{Method}
+\label{sec:method}
+
+Conveninetly, in the case of RRAOR the research data and the artistic practice coincide to a significant degree. Hence, the method for exploring what are the efficient means for archiving data coincides with the artistic methods used in the creation of the development of the piece. It is the development of the piece that can give answer to the question of what is required of the archive. Leaning on the previously mentioned work in the Integra project, itself to a large degree influenced by the MUSTICA project \citation{Bachimont:03} a set of documentation classes was developed and tried.
+
+
+
+In order to approach this question 
+The methods employed in this project is a combination of scientific and artistic 
+
+\section{The archive}
+\label{sec:archive}
+
+\section{Discussion}
+\label{sec:discussion}
+
+
+% The question of documenting an artistic work in a sustainable manner is far from easy.
+
+
+% If we wish to include in our collection documentation and data from a research activity geared towards the artistic process this aim is even more complicated. If we limit the notion of the work to be documented to an electroacoustic piece of music that may contain live elements and alsoe interactions with acoustic instruments and attempt to document such a piece and include all necessary data to to recreate it there are a number of considerations we need to do.
+
+% Although a written score is obviously not far from enough even for acoustic music, let alone electronic music with its lack of systems for systematic notation, there is no obvious replacement. 
+
+
+
+% I, however, had something
+\noindent
+
+
+% Today the digital is almost ubiquitous. The attempt to document musical practice almost exclusively also involves a transformation to the digital realm at some point - both in the ways that the actual process is encoded and in the way it is archived and meta-data is applied to it. The importance of both of these two phases of documentation is described by Walter Benjamin in the following passage (here with metaphorical reference to archaeology, excavation and memory): ``And the man who merely makes an inventory of his findings, while failing to establish the exact location of where in today's ground the ancient treasures have been stored up, cheats himself of his richest prize.''\citationp[p. 576]{benjamin2005} A contemporary example of the predominant focus of collection at the expense of context and meta-data are the popular commercial music listening databases. This is of course consistent with the rest of the internet, probably the largest archive ever created, and, as such, in complete absence of structure. %As a result we see a huge market for those that attempt to create structure out of the digital pandemonium.
+
+% An archive of musical material most often archives representations of musical content, and to be meaningful it has to go beyond a mere collection of resources. An archived score is relatively easy to represent accurately but is a poor representation of the actual music. A recording of a performance is an accurate representation of the sound but a poor representation of the material performance. There is a continuum between the two categories of what we might call the concert documentation and the edited recording. Both of these are reductions of the materiality of the performance to the archivable documentation/representation format. How, then, may an archive of musical content be structured so that we are not cheated of the richest prize, as Benjamin puts it? 
+
+% Jacques Derrida, to little surprise, points to the dangers of the structures of the archival process: ``[\ldots] the technical structure of the archiving archive also determines the structure of the archivable content even in its very coming into existence and in its relationship to the future. The archivization produces as much as it records the event.'' \citationp[p. 17]{derrida1998} Even the \emph{wish} to archive and to make content accessible in a structured format creates delimitation and determined articulations that exclude as much as it makes available.
+
+% %, or more, which will provide a loose theoretical framework to the discussion in this paper.
+% The discussion so far is well connected to some of the central philosophical discussions in the last century. Derrida's deconstruction of the archive is situated in a psychoanalytical framework that rests on the notion of the impression/inscription/recording of the unconscious. Though this will constitute part of the theoretical frame for the discussion, the method employed will depart from my own artistic practice: the musical materiality discussed here will be that experienced by me in performance. Furthermore, in artistic research rehearsal data, performer interaction, gestural data, listener interaction and many other kinds of data may need to be collected, stored, shared and researched. In my own practice and research I have designed an experimental archive for addressing some of these needs and this experience will also be discussed here.
+
+% %Hence, in this paper this will be the theoretical framework. 
+% %However, it will also be situated in my own experience as an artistic researcher engaged in this topic. Specifically I will present some of my thoughts in relation to the experimental database for artistic work that has been in development during several years.
+
+% % Benjamin points to the impact of context. The location for the excavators finding is more important than the what is found.
+
+
+
+
+\printbibliography
+\end{document}
