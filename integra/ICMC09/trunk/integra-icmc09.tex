@@ -1,0 +1,473 @@
+% Template: LaTeX file for ICMC 2009 papers, with hyper-references
+%
+% derived from the DAFx-06 templates
+%
+% 1) Please compile using latex or pdflatex.
+% 2) Please use figures in vectorial format (.pdf); .png or .jpg are working otherwise 
+% 3) Please use the "papertitle" and "pdfauthor" commands defined below
+
+%------------------------------------------------------------------------------------------
+\documentclass[twoside,10pt]{article}
+\usepackage{icmc2009,amssymb,amsmath} 
+%\setcounter{page}{1}
+
+\usepackage{mathptmx} 
+
+%____________________________________________________________
+%  !  !  !  !  !  !  !  !  !  !  !  ! user defined variables  !  !  !  !  !  !  !  !  !  !  !  !  !  !
+%==== set the title ====
+\def\papertitle{An object oriented model for the representation of temporal data in the Integra framework}
+%\def\papertitle{}	%-- should be empty for the submission anyway!
+
+%==== 1st submission: author name and affiliation are empty for anonymous submission ====
+%\def\paperauthorA{} 
+%\affiliation{}{}
+
+
+%==== final submission: author name and affiliation ====
+%---- uncomment 1 to 4 lines, for 1 to 4 authors
+\def\paperauthorA{Jamie Bullock}
+\def\paperauthorB{Henrik Frisk, Ph.D.}
+%\def\paperauthorC{Third Author}
+%\def\paperauthorD{Fourth Author}
+
+%%---- set correspnding affiliation data for...
+%%-- 1 author
+%\affiliation{\paperauthorA}
+%  {School\\ Department, City, Country \\ {\tt \href{mailto:email@domain.icmc}{email@domain.icmc}}}
+
+%%-- 2 authors with same affiliation
+%\affiliation{\paperauthorA, \paperauthorB}
+%  {School\\ Department, City, Country \\ {\tt \href{mailto:email@domain.icmc}{email@domain.icmc}}}
+
+%-- 2 authors with different affiliations
+\twoaffiliations{\paperauthorA}{Birmingham Conservatoire \\ Birmingham City University \\ {\tt \href{mailto:james.bullock@bcu.ac.uk}{james.bullock@bcu.ac.uk}}}
+  {\paperauthorB}{Malm\"o Academy of Music \\ Lund University \\ {\tt \href{mailto:henrik.frisk@mhm.lu.se}{henrik.frisk@mhm.lu.se}}}
+
+%%-- 3 authors with different affiliations
+%\threeaffiliations{\paperauthorA}{School A\\ Department X}
+%  {\paperauthorB}{Company\\ Address}
+%  {\paperauthorC}{School B\\ Department Y}
+
+%%-- 4 authors with different affiliations
+%\fouraffiliations{\paperauthorA}{School A\\ Department X}
+%  {\paperauthorB}{Company\\ Address}
+%  {\paperauthorC}{School B\\ Department Y}
+%  {\paperauthorD}{School C\\ Department Z}
+
+%  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^ user defined variables  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^ 
+%------------------------------------------------------------------------------------------
+
+%%-- if using .ps or .eps figure files, they will be converted on the fly
+%%-- RMK: for faster LaTeX runs, use it only once after adding new \includegraphics[]{} cmds
+%\usepackage{epstopdf}	 
+
+%---- the hyperref package must be last to properly work
+\usepackage[pdftex,
+pdftitle={\papertitle},
+pdfauthor={\paperauthorA},
+colorlinks=false,bookmarksnumbered,pdfstartview=XYZ]{hyperref}
+% \pdfcompresslevel=9
+\usepackage[pdftex]{graphicx}	% for compatible graphics with hyperref
+\usepackage[figure,table]{hypcap}	% corrects the hyper-anchor of figures/tables
+
+% \newenvironment{smallverb}
+% {
+% \small
+% }
+% {
+% \end{verbatim}
+% }
+
+\title{\papertitle}
+
+%------------------------------------------------------------------------------------------
+\begin{document}
+
+\DeclareGraphicsExtensions{.pdf} % used graphic file format for pdflatex
+    
+\maketitle
+
+\begin{abstract}
+In this paper we describe a model for the representation and storage of time-related data in the context of the Integra framework. We highlight the need for a portable, sustainable data format that can be shared between common environments for audio and multimedia processing. Since the storage of spectral and gestural data has been covered by the SDIF and GDIF formats,  we focus on the storage of multimedia processing module state, and changes in state over time. After a review of existing research in this area we propose an object-oriented approach to both the storage format and the runtime-handling of module state in keeping with the Integra design paradigms. We also show how an XML-based format can lead to a semantically-rich, flexible and robust approach to storage of module state and interpolated or non-interpolated state sequences. 
+\end{abstract}
+
+\section{Introduction}\label{sec:introduction}
+
+%Musical time and representing time in music is a complex matter. Jonathan D. Kramer's seminal book explored the dual nature of musical time and, albeit briefly, points to how electronic music makes time an even more intricate issue\cite{kramer88}. Composer Curtis Roads goes further and points to the new time scales made possible by computer music: There is a ``multi layered stratum'' below the temporal level of the note event that technology only recently has made us aware about\cite{roads}. To explore and find ways to represent these new possibilities for working and playing with time is one of the motivations behind the current project.
+
+The primary motivation for this research is to attempt at complementing the concept of the Integra module \cite{frisk-bull07,frisk-bullock08}; a self contained and largely synchronous sound processing module, with the ability to store and edit time based, asynchronous data. The address space design and storage format specification of Integra modules makes way for a generalized and interchangeable time format in which sequences of events are dispatched to module instances. As a result of the generic and abstract nature of the Intgera framework and the abstraction layer it contains, any time-related data stored according to the model proposed below can be shared by any module instance that has a compatible interface.
+
+%\subsection{Background}
+%\label{sec:background}
+
+\subsection{Related Work}\label{subsec:previous-work}
+The dominant mechanism for the representation and storage of time-based control data in a musical context is the MIDI protocol and its related formats. The file format we propose draws upon the strengths of MIDI whilst providing an alternative that is more suited to the complex demands of interactive and generative music. The facilities offered by the format are discussed in sections ~\ref{sec:player-module} to ~\ref{sec:ixd}. We will first proceed with a review of existing developments in the field that are related to our current work.
+
+\subsubsection{SDIF}\label{subsubsec:sdif}
+
+SDIF is an extensible standard for the storage and interchange of `sound description' information including, but not limited to spectral data and `higher-level' audio features\cite{Schwarz00extensionsand, Chaudhary99audioapplications}. SDIF is a portable binary file format that is currently supported in a number of widely-used programming environments including Max/MSP, OpenMusic and CLAM. The GDIF format extends SDIF by adding the capability to store gesture-related data including controller data, sensor data and meta-data about the gesture capturing session \cite{1142258}. One of the limitations of SDIF as a {\em general purpose} format for time-related data is that it trades semantic richness for efficiency of representation. This is a sensible design choice given that the original purpose of SDIF was to standardise the storage of spectral data frames. We have decided in Integra to use SDIF and GDIF where appropriate, supplementing these standards with our own XML-based format, described in section~\ref{sec:storage}.
+%An SDIF library developed by IRCAM is freely available under the GNU GPL, making it straightforward to add SDIF capabilities to applications written in C.
+
+\subsubsection{MetriXML}\label{subsubsec:MetriXML}
+
+MetriXML is a format developed by Xavier Amatriain for the original CLAM software, and can be thought of as a Music-N style Generator/Score language implemented in\linebreak XML\cite{Amatriain:PhD05}. A MetriXML score is an XML file containing a header tag, which is used store meta data about the score, and a body tag, which contains a series of event tags representing time stamped messages destined for Instruments declared in the header. An example MetriXML event is shown below.
+
+{\small
+\begin{verbatim}
+<Event>
+    <Time type="temporal">
+        <Seconds>01</Seconds>
+    </Time>
+    <Receiver>clarinet</Receiver>
+    <Message>
+        <Parameter>Gain</Parameter>
+        <Value>0,1 1,0.5</Value>
+    </Message>
+</Event>
+\end{verbatim}
+}
+
+The Integra IXD sequence format is similar to MetriXML in both syntax and semantics, particularly in its notion of `events'. MetriXML also incorporates the SDIF format by reference using the $<SDIFDefinitionFile>$ tag.
+
+%\isubsubsection{IanniX}\label{subsubsec:IanniX}
+%Originally developed by La Kitchen in Paris, IanniX is inspired by the UPIC system devised by the late Iannis Xenakis. The software proposes a graphical representation of a `multi-dimensional and multi-formal score, a kind of poly-temporal meta-sequencer'\cite{iannix}. We include it in our survey here, because of its novel approach to the representation and encoding of time-related data. In IanniX, time is represented visually on both axes of a 2-dimensional drawing space. Objects drawn in the space are `read' as they are encountered when time processes, and OSC data is emitted by the program accordingly. In IanniX the visual representation of the score {\em is} the score, and this is reflected in the file format, which stores the co-ordinates, geometry and colours of the shapes displayed in the IanniX workspace. Despite its innovations, this makes IanniX XML tightly coupled to the IanniX visual representation and unsuitable as a general-purpose format for time-related data.
+
+%\subsubsection{Ad-hoc approaches}\label{subsubsec:adhoc}
+
+%All of the Music-N derived programming environments for audio and multimedia processing include a built-in facility for storing and scheduling events/messages in time. Csound, for example is based on an `orchestra and score' model, where the orchestra defines `instruments' which are played by a score, which contains a list of instrument-specific events to be scheduled in time. An example Csound score is shown below:
+
+%{\small
+%\begin{verbatim}
+%f1	0	4096	10	1
+%i1	0	4
+%e			
+%\end{verbatim}
+%}
+
+%A similar approach can be taken in the Max/MSP and Pure Data environments, using
+%built-in $[coll]$ and $[qlist]$ objects respectively. Likewise, the SuperCollider language allows for very flexible scheduling and storage of sequenced events, however, there remains no common format for sharing data such as sequences, cue lists and break-point functions between environments and languages.
+
+\subsubsection{SMIL}
+
+The Synchronized Multimedia Integration Language, or SMIL \cite{bulterman}, is a general purpose multi media format. Supported by W3C it is an XML-based language with which authors may write interactive multimedia presentations among other things. It had some support in InternetExplorer 5.5 and 6, Apple's QuickTime player, RealAudio and Helix players, as well as the reference Ambulant player. SMIL has sophisticated methods for synchronizing multiple multi media streams and it was an inspiration in the early stages of the development of the Integra time format. For example, the $seq$ and $par$ element in SMIL loosely correspond to the $sequence$ and $preset$ element in the IXD format. With the modularization of SMIL 3.0 it is feasible to imagine incorporating SMIL elements in IXD files.
+
+% {\small
+% \begin{verbatim}
+% <seq begin="5s" repeatCount="3" >
+%    <img src="img1.jpg" dur="5s" />
+%    <img src="img2.jpg" dur="4s" />
+%    <img src="img3.jpg" dur="4s" />
+% </seq>
+% \end{verbatim}
+% }
+
+An important difference between SMIL and the proposed format is that SMIL is a \emph{language} that may be used to construct content whereas the primary purpose of the Integra format is to store time based information created elsewhere. 
+
+\section{The Player module}\label{sec:player-module}
+
+The Integra framework seeks to address the issue of interchange between environments by defining a set of protocols and file formats for portable development, along with a shared library, which implements these protocols and provides transparent IXD file parsing (see section~\ref{sec:ixd}). Integra modules consist of three components: an interface definition; an implementation and instance data representing the module's state at `save time'. The Player module is a special module in the sense that it is responsible for instigating synchronous state changes in other modules. Time and timing in the Integra framework are almost always handled asynchronously. The Player module is different, in that it is expected to implement an internal clock, which can be used to schedule future events. These events can be sequenced in time as Sequences, or bundled up into Presets, which enable multiple attributes of a given module to be changed simultaneously. The Player interface supports the following features:
+
+\begin{itemize}
+  \item looped and reverse-looped playback of sequenced data
+  \item random access to sequence data
+  \item non-linear sequences: 
+  \begin{itemize}
+            \item sequences that contain other sequences
+            \item sequences that control the playback of other sequences
+  \end{itemize}
+  \item relative representation of time (non-absolute)
+  \item non-track based: each time location can have an arbitrary number of `events' with an arbitrary number of `targets'
+\end{itemize}
+
+\subsection{The Event Interface}\label{subsec:events}
+`events' can be thought of as class instances that conform to the Event interface. Event inherits from the Integra base class, adding the attributes for the event {\em address}, {\em value} and {\em interpolation} setting. %A minimal Event class definition is shown in table~\ref{tab:event}.
+
+%\begin{table}[htbp] 
+%\begin{center}
+%\begin{tabular}{|l|p{12em}|l|}
+%\hline
+%Attribute & Description &  Type \\ 
+%\hline
+%address    & Holds a reference to the address we are storing a value for & String \\
+%interpolation & The interpolation code for the given event & Int \\
+%value        & The stored value corresponding to the event address & Value \\
+%\hline
+%\end{tabular}
+%\end{center}
+%\caption{The Event interface}
+%\label{tab:event}
+%\end{table}
+%
+`events' are useful for containing data for a single attribute, or small sets of uncorrelated attributes, e.g. recorded sensor data, BPF data, note data. However, often we will want to store a snapshot of all of the attributes of a module at a given point in time. For this we have the Preset class. Preset inherits from the Event class, and can be thought of as a special type of event: an event that contains other events in a set where each event is guaranteed to have a different address. Presets have certain implicit rules associated with them:
+
+  % A Preset can be implemented using the Integra Collection class to make an encapsulated collection containing the Event instances. 
+
+\begin{itemize}
+  \item They contain no time information (all events in a preset can be said to coexist simultaneously)
+  \item All event address strings must be unique within a given preset.
+\end{itemize}
+
+
+%\begin{table*}[tbp]
+%\begin{center}
+%\begin{tabular}{|p{8em}|p{32em}|p{3em}|}
+%\hline
+%Attribute & Description &  Type \\ 
+%\hline
+%address    & Holds a reference to the address we are storing a value for. This is a module instance address (e.g. harmonizer.1) rather than an attribute address & String \\
+%interpolation & The interpolation code for the given event. If this value set to 0 then individual event interpolation values are used & Int \\
+%value (overridden) & The stored value corresponding to the Preset address. The value contains a list of Event instances i.e. attribute value pairs & List \\
+%size          & The size of the preset, i.e. the number of events stored in the value attribute & Integer \\
+%\hline
+%\end{tabular}
+%\end{center}
+%\caption{The Preset interface}
+%\label{tab:preset}
+%\end{table*}
+
+%The class definition for a Preset, extends the Event definition as shown in table~\ref{tab:preset}. Since their interfaces are largely the same, a Preset instance can be loaded into a Player instance and used in the same way as an Event instance. That is presets can be sequenced.
+Since the Preset class definition conforms to the Event interface, Preset and Event instances can be used interchangeably in contexts such as sequences.
+
+\section{Storage: The IXD file format}\label{sec:ixd}
+\label{sec:storage}
+
+%\begin{figure}$[$htbp$]$
+%\centerline{\framebox{
+%	\includegraphics$[$width=0.9\columnwidth$]${figure}}}
+%\caption{Figure captions are placed below the figure.}
+%\label{fig:example}
+%\end{figure}
+%Place Tables/Figures in text as close to the reference as possible
+%(see Figure \ref{fig:example} and Table \ref{tab:example}). They may extend
+%across both columns to a maximum
+%width of 17.5cm (6.9").
+
+The IXD file format is an XML-based format that is already used within the Integra framework for storing Module definitions and Collections of modules\cite{frisk-bullock08}. The time-based data format described in this paper will form an extension to the existing IXD formats and the various Schemas can be re-used extensively. %Below is a brief outline of the format.
+
+%The player instance data can be stored as an object in a Collection file used for any kind of instance data in the Integra framework. The list of values refer to the attributes of the player module in the order defined in the module definition. As can be seen from this example, it is an important part of the Integra module construction protocol that port/attribute ordering is always consistent:
+
+%{\small
+%\begin{verbatim}
+%<object id="obj.1">
+%  <definition id="cd.1"/>
+%  <name>player</name>
+%  <state>
+%    <value>1000</value>  <!-- ticks -->
+%    <value>1000</value>  <!-- tps -->
+%    ...
+%  </state>
+%</object>
+%\end{verbatim}}
+
+\subsection{Sequences}
+\label{sec:sequences}
+
+For maximum flexibility and re-usability both sequences and presets are stored as separate entities and linked to in the collection using standard XLink syntax \cite{arbouzov}. Should the included file contain multiple sequences or presets an additional selector argument may be supplied. In the example below, the sequence with id 2 from the file mysequence.ixd will be embedded.
+
+{\small
+\begin{verbatim}
+<state>
+  <value title="mysequence"
+         xlinktype="simple"
+         href="mysequence.ixd"
+         show="embed" 
+         selector="2" />
+</state>
+\end{verbatim}}
+
+Sequence files contain list of events according to the following trivial example which sets delay.time to 400 at tick 0, starts another Player, and changes delay.time to 800 at tick 100:
+
+{\small
+\begin{verbatim}
+<sequence id=0>
+  <event tick="0" id="1"
+         marker="Foo Bar">
+    <address class="delay" 
+             attribute="time"/>
+    <value>400</value>
+  </event>
+  <!-- we deleted event id="2" 
+       at some point -->
+  <event tick="0" id="3" 
+         marker="">   
+    <!-- this goes to 'another' 
+         player -->
+    <address class="player" 
+             attribute="play"/>
+    <value>1</value>
+  </event>
+  <event tick="100" id="4" 
+         marker="Baz Bam">
+    <address class="delay" 
+             attribute="time"/>
+    <value>800</value>
+  </event>
+</sequence>
+\end{verbatim}}
+
+It is important to note that the implication of sending the value `1' to another Player is that events can trigger sequences, which can in turn contain further events. This provides an implicit arbitrary nesting of sequences and events through the mechanism of Player instances `playing' other Player instances.
+
+\subsection{Preset}
+\label{sec:preset}
+
+
+If an event is of type `preset' it contains a link (again using standard XLink syntax \cite{arbouzov}) to a preset file which may contain one or many presets. Selection of individual presets may be achieved using the same selector attribute used in the sequence link.
+
+{\small
+\begin{verbatim}
+<event tick="100" 
+       type="preset"
+       href="mypreset.ixd"
+       id="5"
+       marker="Load delay preset 1"
+       selector="2">
+\end{verbatim}}
+
+A stored preset defines events with address/value pairs. These events have no time information associated with them but are merely `snapshots' and there must be no duplicate addresses in any given preset. Below is a simple example:
+
+{\small
+\begin{verbatim}
+<preset class="delay" name="delay preset 1">
+  <event>
+    <address attribute="frequency"/>
+    <value>800</value>
+  </event>
+  <event>
+    <address attribute="phase"/>
+    <value>0.5</value>
+  </event>
+</preset>    
+\end{verbatim}}
+
+%\subsection{Inheritance and extension}
+%\label{sec:inheritance}
+
+%Sequences as well as presets can inherit data from other sequences and presets. It should be noted that this is data inheritance rather than class inheritance: the model is not changed, only the data applied to the model. Or, put differently, an instance of a sequence class may extend another instance of a sequence class. 
+
+%In the IXD format for Sequences and Presets, inheritance is indicated in conformance with the IntegraCoreSchema using the 'parent' tag.
+
+%\begin{small}
+%\begin{verbatim}
+%<parent title="my_sequence"
+%        xlinktype="simple"
+%        href="my_sequence.ixd"
+%        role="InstanceData"
+%        show="embed" />
+%\end{verbatim}
+%\end{small}
+%
+%Data inheritance in \emph{sequences} allows for changing and updating existing data efficiently and without altering the original. It also makes it possible to reuse parts of \emph{sequences} in other contexts. To further expand the possibilities of data inheritance the Integra IXD format supports a basic set of primitives that may be used to describe alterations in \emph{sequences} and \emph{presets} by means of operators. Hence if preset $A$ defines values for the attributes of synth $s$, then preset $B$ may extend $A$, either by adding attributes to it, overriding existing attribute values, or by describing a relation to the data present in preset $A$. For example, preset $B$ could define and apply some operation to any or all values of preset $A$. Though the number of primitives supported is rather limited (addition, subtraction, division, multiplication, modulo, average and absolute), in the future a more elaborate scripting syntax which allows for user defined functions may be implemented.
+
+%In the example below `10' is added to the value of attribute \emph{frequency} of a given module. The `address' node may be omitted in which case the operation will be applied to all attribute values of the parent preset.
+
+%\begin{small}
+%\begin{verbatim}
+%<event>
+%  <address attribute="frequency"/>
+%  <value operation="+">10</value>
+%</event>
+%\end{verbatim} \end{small}
+%In a sequence class the value of the tick attribute may be used as a variable and multiple operations may be performed sequentially:
+%\begin{small}
+%\begin{verbatim}
+%<event>
+%  <address attribute="*"/>
+%  <value operation="+">10</value>
+%  <value operation="*">tick</value>
+%  <value operation="*">0.01</value>
+%</event>
+%\end{verbatim}
+%\end{small}
+%
+%The relation between the two presets, the parent and the child, remains dynamic for as long as the two files exist separately. That is, changes in the parent will affect all of its children. However, an independent, self contained \emph{preset} or \emph{sequence} file may be generated and stored in the Integra database at any time. Data validation of all generated attribute values can optionally be performed against the module definition for the target module to ensure that data range integrity is maintained.
+%%%Furthermore, prior to the child \emph{preset}/\emph{sequence} being loaded as an in-memory instance in libIntegra\footnote{\href{http://www.sf.net/projects/integralive}{http://www.sf.net/projects/integralive}}, it is transformed using an XSL transform. 
+%
+%\subsubsection{Example}\label{subsubsec:example}
+%
+%The following XML fragment (filename: sawtooth\_mod.ixd) describes a sequence controlling the frequency attribute of a sawtooth generator module. 
+%
+%\begin{small}
+%\begin{verbatim}
+% <sequence>
+%  <name>sawtooth_mod</name>
+%  <description>Simple linear ramping to 
+%  modulate the frequency of a sawtooth 
+%  oscillator</description>
+%  <tag>ramp</tag>
+%  <event tick="0" id="1" 
+%         marker="Section 1">
+%    <address class="SawTooth" 
+%             attribute="frequency"/>
+%    <interpolation>1</interpolation>
+%    <value>550</value>
+%  </event>
+%  <event tick="100" id="2" marker="">
+%    <address class="SawTooth" 
+%             attribute="frequency"/>
+%    <interpolation>1</interpolation>
+%    <value>800</value>
+%  </event>
+%  <event tick="100" id="3" 
+%         marker="Section 2">
+%    <address class="SawTooth" 
+%             attribute="frequency"/>
+%    <interpolation>0</interpolation>
+%    <value>100</value>
+%  </event>
+% </sequence>
+%\end{verbatim}
+% \end{small}
+%
+%The child inherits the sequence data by reference, and modifies it.
+%
+%\begin{small}
+%\begin{verbatim}
+%<parent title="sawtooth_mod"
+%            xlinktype="simple"
+%            href="sawtooth_mod.ixd"
+%            role="InstanceData"
+%            show="embed" />
+%
+%<event tick="*" id="*" marker="*">
+%      <address attribute="frequency"/>
+%      <value operation="+">10</value>
+%      <value operation="*">tick</value>
+%      <value operation="*">0.01</value>
+%</event>
+%\end{verbatim}
+%\end{small}
+%
+%This is equivalent to the following pseudo-code:
+%
+%\begin{small}
+%\begin{verbatim}
+%for(i = 0; i < n_events; i++) {
+%   if(attribute == "frequency")
+%        value[i] = value + 10 * tick * 0.01
+%}
+%\end{verbatim} \end{small}
+%Where \texttt{tick} is a variable holding the current tick number and \texttt{n\_events} is the number of events in sawtooth\_mod.ixd.
+%
+%\subsection{XSL transforms}
+%\label{sec:xsl-transforms}
+%
+%As was mentioned above, two or more \emph{sequence} or \emph{preset} files may be combined using a XPath 2.0 compliant XSL processor \cite{berglund1,berglund2} and the IXD stylesheet provided by the Integra framework. A simple cross platform processor in Perl is also included with the framework. With it users may process any child \emph{sequence} and produce a self contained \emph{sequence} file. Future extensions to the style sheet includes generating HTML documentation from sequence files, SVG timelines that plot graphically events, etc.
+%
+\subsection{Tagging and Meta-Data}\label{sec:tagging}
+Because our temporal model uses the XML-based Integra IXD format for data storage it inherits the ontological possibilities provided by our existing schema. This means that sequences and presets can be given `tags' containing semantic information, and that `relations' can be created between different sequences, or for example presets and module instances. We also provide the possibility to embed sequence descriptions, and links to documentation about a given sequence or preset. This could have applications in the musicology of live electronic music for example where multiple versions of performances could be encoded and given additional semantic markup to inform future study.
+
+\subsection{Evaluation}
+Whilst the IXD format alluded to in this paper has a formally defined schema, and is currently used for a range of example module definitions provided with the Integra framework, the temporal model and storage constructs have not yet been implemented and tested in practice. We therefore defer evaluation of the proposed model to future research. However, it is worth noting at this point the similarity of aspects of IXD with the RDF and OWL specifications. RDF is a W3C recommendation that defines a language for describing resources using subject-predicate-object expressions\cite{StaabS04}. Whilst RDF is primarily useful for encoding objects and object properties, OWL places a greater emphasis on relationships {\em between} objects to create descriptive ontologies. This capability is provided by Integra IXD through the `relation' construct and although OWL is currently more exhaustive in the types of relationship it can define, there is no reason why the Integra Relation class could not be extended in future versions of the schema. In general we decided to develop our own XML-based format rather than use RDF or OWL because on the one hand with specific requirements that can't be met by these standards and on the other, Integra IXD provides enough semantic richness and potential for ontological description along with extensibility to make OWL unnecessary. 
+
+%\section{Future work}
+%One future possibilitiy we would like to explore, is the notion of runtime data inheritance between module instances to mirror the file-level inheritance implemented in XML. This could allow for very interesting possibilities in multiperformer live scenarios: one player could `subscribe' to another player's performance data and algorithmically transform it in real time. 
+
+
+\section{Conclusion}
+In this paper, we have outlined a proposal for an extension to the Integra framework that allows the representation and storage of temporal data. We have acknowledged the significance of existing formats, such as SDIF and GDIF for the storage of high-rate data such as spectral analysis frames and gesture capture data. However, we have highlighted a need for an environment neutral format for the storage of multimedia processing module state, and state change over time, even though such format may well reference SDIF, GDIF and even SMIL formats. Hence we have proposed an XML-based extension to the existing Integra file formats, which addresses some of these problems, and opens new possibilities for file-based transformation of temporal data for multimedia processing modules. Finally, we argue that using an XML-based format provides a level of semantic richness not possible with binary, and simpler text-based formats.
+
+\bibliographystyle{IEEEtranS}
+\bibliography{ICMC09-biblio}
+
+\end{document}

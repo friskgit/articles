@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<integra xmlns="http://www.integralive.org/DTD"
+         xmlns:score="http://www.integralive.org/DTD-extensions/scoreDTD">
+  <head>
+    <!-- Documentation and instance name and class path of the
+         module.
+      -->
+    <module class-path="/Integra/GeneralAudioModule/GeneralSynth/SimpleSynth"
+            instance="smplsnt"/>
+    ...
+  </head>
+  
+  <body>
+    <preset>
+      <pattern id="1">
+        <!-- Holds all the parameters for one (1) static 'preset' or
+             one or several notes. Calling this is the equivalent of
+             calling a program on a synthesizer.
+          -->
+      </pattern>
+      <pattern id="2">
+        <!-- Holds another preset. -->
+      </pattern>
+      <pattern id="3">
+        <!-- Holds another preset. -->
+      </pattern>
+      ...
+    </preset>
+    <current update-interval="1s" N="20">
+      <!-- Holds the current and last 'N' states of the module with a
+           resolution of 1 second.
+        -->
+      <pattern id="crnt_1"
+               frq="200"
+               ... />
+      <pattern id="crnt_2"
+               frq="230"
+               ... />
+      <pattern id="crnt_3"
+               frq="290"
+               ... />
+      ...
+    </current>
+    <synchro>
+      <!-- Calling "seq_1" starts playing back the events contained within
+           the seq tags. Calling "par_1" starts playing back the
+           events contained in the par tags. Calling "event_n" plays
+           that one event. 
+
+           In the example below event_1 calls pattern 1 and
+           interpolates between this pattern and pattern 2 over the
+           course of 4 seconds. event_2 calls pattern 1 and
+           recursively re-triggers par_1 11 times. event_3 does
+           interpolation between pattern 3 and 1 with an offset of 2
+           seconds (The offset should be ignored when the event is
+           called outside of a seq or par).
+
+           In the next seq the current states are called which allows
+           for a different kind of recursion.
+        -->
+      <seq id="seq_1" offset="0s">
+        <par id="par_1" offset="0" recursion-depth="11">
+          <event id="event_1"
+                 length="4s"
+                 pattern-start="1"
+                 pattern-end="2"
+                 interpolation="lin" />
+          <event id="event_2"
+                 offset="1s"
+                 trigger="/Integra/GeneralAudioModule/GeneralSynth/SimpleSynth.smplsnt::par_1"
+                 length="4s"
+                 pattern-start="1" />
+        </par>
+        <event id="event_3"
+               offset="2s"
+               length="4s"
+               pattern-start="3"
+               pattern-end="1"
+               interpolation="log" />
+      </seq>
+      <seq id="seq_2">
+        <event id="seq_2::event_1"
+               trigger="crnt_1" />
+        <event id="seq_2::event_2"
+               trigger="crnt_2" />
+        ...
+      </seq>
+    </synchro>
+  </body>
+</integra>

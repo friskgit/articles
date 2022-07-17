@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="720"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46+devel"
+   version="1.0"
+   sodipodi:docname="code_list_inh-2.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path1194"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path1197"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective4042"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="246.39798"
+     inkscape:cy="276.08393"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     height="644.09px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="0"
+     inkscape:window-y="24" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;opacity:1"
+       x="57.267593"
+       y="34.756073"
+       id="text12"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="34.756073"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2509">&lt;sequence&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="59.756073"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2888"> &lt;name&gt;sawtooth_mod&lt;/name&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="84.756073"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2890"> &lt;description&gt;Simple linear ramping to </tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="109.75607"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2892"> modulate the frequency of a sawtooth </tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="134.75607"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2894"> oscillator&lt;/description&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="159.75607"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2896"> &lt;tag&gt;ramp&lt;/tag&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="184.75607"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2898"> &lt;event tick=&quot;0&quot; id=&quot;1&quot; </tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="209.75607"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2900">        marker=&quot;Section 1&quot;&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="234.75607"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2902">   &lt;address class=&quot;SawTooth&quot; </tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="259.75607"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2904">            attribute=&quot;frequency&quot;/&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="284.75607"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2906">   &lt;interpolation&gt;1&lt;/interpolation&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="309.75607"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2908">   &lt;value&gt;550&lt;/value&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="334.75607"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2910"> &lt;/event&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="359.75607"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2912"> &lt;event tick=&quot;100&quot; id=&quot;2&quot; marker=&quot;&quot;&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="384.75607"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2914">   &lt;address class=&quot;SawTooth&quot; </tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="409.75607"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2916">            attribute=&quot;frequency&quot;/&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="434.75607"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2918">   &lt;interpolation&gt;1&lt;/interpolation&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="459.75607"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2920">   &lt;value&gt;800&lt;/value&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="484.75607"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2922"> &lt;/event&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="509.75607"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2924"> &lt;event tick=&quot;100&quot; id=&quot;3&quot; </tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="534.75604"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2926">        marker=&quot;Section 2&quot;&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="559.75604"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2928">   &lt;address class=&quot;SawTooth&quot; </tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="584.75604"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2930">            attribute=&quot;frequency&quot;/&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="609.75604"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2932">   &lt;interpolation&gt;0&lt;/interpolation&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="634.75604"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2934">   &lt;value&gt;100&lt;/value&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="659.75604"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2936"> &lt;/event&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="57.267593"
+         y="684.75604"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter;fill:#000000;fill-opacity:1"
+         id="tspan2938">&lt;/sequence&gt;</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot62"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><flowRegion
+         id="flowRegion64"><rect
+           id="rect66"
+           width="131"
+           height="305"
+           x="445"
+           y="499.09448" /></flowRegion><flowPara
+         id="flowPara68" /></flowRoot>  </g>
+</svg>

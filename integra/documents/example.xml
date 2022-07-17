@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE root-element SYSTEM "http://www.somewhere.org/integraDTD-0.1.dtd">
+<integra>
+  <head>
+    <inputs physical="2" virtual="2" />
+    <outputs physical="2" />
+  </head>
+  <body>
+    <generalAudioModule>
+      <generalSynth>
+	<simpleSynth name="smplsnt" frq="200" unit="hz"
+                     controlSource="generalController/physicalSlider/midiFader/fader1"
+                     audioIn1="0" audioOut1="3"> 
+	  <documentation title="Simple oscilliator" 
+			 content="Documentation can be included in the elements."/>
+	</simpleSynth>
+      </generalSynth>
+      <util>
+	<gain name="gain1"
+              range="0, 127"
+              default="64"
+              map="0., 1." 
+              controlSource="null"
+              audioIn1="3"
+              audioOut="1, 2" />
+      </util>
+    </generalAudioModule>
+    <generalController>
+      <generalFader>
+	<physicalFader>
+	  <midiFader name="fader1"
+                     range="0, 127"
+                     map="100, 1000" 
+                     receiveCh="1" 
+                     controller="7" />
+	</physicalFader>
+      </generalFader>
+    </generalController>
+  </body>
+</integra>

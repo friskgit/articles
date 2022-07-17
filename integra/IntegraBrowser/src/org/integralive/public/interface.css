@@ -1,0 +1,428 @@
+/* Nifty corners thanks to Alessandro Fulciniti */
+.rcorners{ 
+    margin: 0 10%;
+    background-color: #DCDCDC; /* gainsboro */
+}
+
+b.rtop, b.rbottom{
+    display:block;
+    background-color: #FFF
+}
+
+b.rtop b, b.rbottom b{
+    display:block;
+    height: 1px;
+    overflow: hidden; 
+    background-color: #DCDCDC; /* gainsboro */
+}
+
+b.r1{margin: 0 5px}
+b.r2{margin: 0 3px}
+b.r3{margin: 0 2px}
+
+b.rtop b.r4, b.rbottom b.r4 {
+    margin: 0 1px;
+    height: 2px
+}
+/* End of Nifty Corners */
+
+body{
+    font-family:verdana, arial, helvetica, sans-serif; 
+    font-size: 12px
+/*    height: 100%;*/
+}
+
+TD{
+    font-family: verdana, arial, helvetica, sans-serif; 
+    font-size: 12px;
+}
+
+th {
+    background-color: #E6E6FA; /*lavender*/
+    font-size: 12px
+}
+
+TR{
+/*     vertical-align: middle; */
+/*    width: 200px;
+  */  text-align: left;
+}
+
+ .gwt-Button { 
+               color:#000;
+               font-family:verdana, arial, helvetica, sans-serif; 
+               font-size:90%; 
+               }
+ 
+.gwt-FileUpload { 
+                  color:#000;
+                  font-family:verdana, arial, helvetica, sans-serif; 
+                  font-size:90%;
+                  background-color:#E6E6FA;
+                  border:1px solid;
+                  border-top-color:#CCC;
+                  border-left-color:#CCC;
+                  border-right-color:#CCC;
+                  border-bottom-color:#CCC;
+                  }
+
+.gwt-Image { 
+             padding-top: 20px;
+             }
+
+tbody.modules {
+    height: 15em;
+    overflow: auto;
+    width: 100%;
+/*    overflow-x:hidden;
+    width: 50em;*/
+}
+
+tbody.classes {
+/*    height: 20em;  */
+    overflow: auto;
+    width: 100%;
+/*    overflow-x:hidden; */
+/*    width: 50em;*/
+}
+
+h1 {
+    text-align: center;
+}
+
+/* Added by henrikfr for xslt */
+h4.xslt { 
+     text-align: left;
+     padding-left: 10px;
+     }
+
+p.xslt { 
+         padding-left: 10px;
+         }
+pre {
+    text-align: left;
+}
+
+table {
+/*     width: 400px; */
+/*    border-collapse: separate;
+    border-spacing: 0; */
+}
+
+.rh {
+    background-color: #E6E6FA; /*lavender*/
+    font-size: 8px;
+    font-weight: bold;
+      cursor: default;  
+}
+
+/* Unselected meny table row */
+.r1-clickable {
+      font-size: 8px;
+      cursor: pointer;
+    background-color:#F5DEB3; /* wheat */
+                                color: blue;
+}
+
+.r1 {
+      font-size: 8px;
+      cursor: default;
+    background-color:#F5DEB3; /* wheat */
+}
+
+/* Selected table row */
+.r2 {
+     font-size: 8px;
+        cursor: default;
+    background-color: #FFFACD; /* lemonchiffon */
+}
+
+.r2-clickable {
+     font-size: 8px;
+        cursor: pointer;
+    background-color: #FFFACD; /* lemonchiffon */
+                color: blue;
+}
+/* Last row in a table or list */
+.last {
+    background-color:#E6E6FA; /*lavender;*/
+}
+
+/* Cell outside the edge of a table row */
+.edgeCell {
+    background-color:#E6E6FA; /*lavender;*/
+}
+.dummy {
+    background-color: #DCDCDC; /*gainsboro */
+}
+
+#login {
+    position: absolute;
+    top: 0;
+    right: 20px;
+}
+
+/*#help { */
+/*    position: absolute; */
+/*    top: 6;
+    left: 480; */
+/*    top: 0;
+    right: 0; */
+/* } */
+
+a.help {
+
+    background-color: #FFFF33; /* yellow */
+    font-weight: bold;
+     text-decoration: none;
+}
+
+a.help:link {
+    color: #000000;
+}
+a.help:visited {
+    color: #000000;
+
+}
+
+#mainContent {
+position: relative;
+     text-align:center; 
+    top: 1.5em;
+    margin-right: 10%; 
+}
+
+/*Tabular section */
+#section {
+    width: 100%;
+    min-width: 550px;
+    background-color: #DCDCDC; /*gainsboro */
+}
+
+#error {
+    min-width: 550px;
+    background-color: #FF6666; /*gainsboro */
+    font-weight: bold;
+}
+
+/*Tabular subsection */
+#subsection {
+    width: 100%;
+    background-color: #DCDCDC; /* lightgray */
+    min-width: 700px;
+}
+
+/* Info page */
+
+#info {
+    width: 100%;
+    background-color: #DCDCDC; /* lightgray */
+    min-width: 700px;
+    text-align:left;
+}
+
+.gwt-DialogBox {
+  border: 2px outset;
+  background-color: white;
+}
+
+.gwt-DialogBox .Caption {
+  background-color: #E6E6FA;
+  padding: 3px;
+  margin: 2px;
+  font-weight: bold;
+  cursor: default;
+}
+
+.ntg-Panel-layout {
+/*   height: 300px; */
+  width: 600px;
+  border: 1px solid #DCDCDC;
+  margin: 5px;
+  padding: 10px;                    
+}
+
+.ntg-AttributeTable-name { 
+  width: 250px;                           
+                           }
+
+.ntg-AttributeTable-value { 
+  width: 350px;                           
+                           }
+
+.ntg-MenyTable { 
+  width: 300px;                           
+                           }
+
+.ntg-AttributeTable-clickable { 
+  cursor: pointer; 
+  color: blue;
+  text-decoration: underline;                             
+ }
+
+.ntg-MenyList-style { 
+  padding-top: 10px;
+  border: 1px solid #DCDCDC;
+  margin: 5px;
+  padding: 10px;         
+ }
+
+.ntg-NorthPane-style { 
+  padding-top: 10px;
+  color: #999999;
+  margin: 5px;
+  padding-top: 10px;         
+  padding-left: 10px;         
+  padding-right: 10px;         
+  padding-bottom: 7px;         
+}
+
+.inputBox { 
+   color:#000;
+   font-family:verdana, arial, helvetica, sans-serif; 
+   font-size:90%;
+   background-color:#E6E6FA;
+   border:1px solid;
+   border-top-color:#CCC;
+   border-left-color:#CCC;
+   border-right-color:#CCC;
+   border-bottom-color:#CCC;                             
+ }
+
+/* Links at bottom */
+p#topSectionLinks {
+}
+
+/* Links at top */
+p#bottomSectionLinks {
+}
+
+p#header {
+    position: relative;
+    top: 1em;
+}
+
+p#footer {
+    position: relative;
+    bottom: 0;
+/*    margin-top: -7.5em; */
+}
+
+.gwt-TabPanel {
+    width: 800px;
+	
+}
+
+.gwt-TabPanelBottom {
+	border: 1px solid #DCDCDC; /* #87b3ff; */
+	padding: 10px
+
+}
+
+.gwt-TabBar {
+/* 	background-color: #e6e6fa; */
+ 	background-color: #ffffff;
+	font-size: smaller;
+}
+
+.gwt-TabBar .gwt-TabBarFirst {
+	height: 100%;
+	border-bottom: 0px solid #dcdcdc;
+	padding-left: 3px;
+}
+
+.gwt-TabBar .gwt-TabBarRest {
+	border-bottom: 0px solid #dcdcdc;
+	padding-right: 3px;
+}
+
+.gwt-TabBar .gwt-TabBarItem {
+    background-color: #e8eef7;
+	border-top: 1px solid #fff;
+	border-bottom: 0px solid #dcdcdc;
+	padding: 2px;
+	cursor: pointer;
+	cursor: hand;
+	white-space: nowrap;
+	border-left: 5px solid #ffffff;
+	border-right: 5px solid #ffffff;
+  margin-right: 2px;
+}
+
+.gwt-TabBar .gwt-TabBarItem-selected {
+/*     font-weight: bold; */
+	background-color: #dcdcdc;
+	border-top: 1px solid #ffffff;
+	border-left: 5px solid #ffffff;
+	border-right: 5px solid #ffffff;
+	border-bottom: 0px solid #e8eef7;
+	padding: 2px;
+	cursor: default;
+	white-space: nowrap;
+   margin-right: 2px;
+}
+
+.ntg-Spacer { 
+              margin-bottom: 5px;
+ }
+
+.gwt-MenuBar {
+               background-color: #E6E6FA;
+/*                border: 1px solid #ccc; */
+               margin-left: 30px;
+               margin-top: -2px;
+               cursor: pointer;
+               }
+
+.gwt-MenuBar .gwt-MenuItem {
+                             font-family:verdana, arial, helvetica, sans-serif; 
+/*                              background-color: #e6e6fa; */
+                             padding: 2px 25px 2px 25px;
+                             margin-left: 10px;
+                             margin-right: 10px;
+                             cursor: pointer;
+                             border: 1px solid;
+                             border-color: #ccc;
+                             }
+
+.gwt-MenuBar .gwt-MenuItem-selected {
+                                      background-color: #e8eef7;
+                                      }
+
+.gwt-inputBox {
+                color:#888;
+                font-family:verdana, arial, helvetica, sans-serif; 
+                font-size:100%;
+                background-color:#E6E6FA;
+                border:1px solid;
+                border-top-color:#CCC;
+                border-left-color:#CCC;
+                border-right-color:#CCC;
+                border-bottom-color:#CCC; 
+                padding-top: 3px;
+                width: 155px;
+                  }
+
+.gwt-suggestField { 
+                    font-family:verdana, arial, helvetica, sans-serif; 
+                    padding-left: 35px;
+ }
+
+.gwt-searchButton { 
+                    font-family:verdana, arial, helvetica, sans-serif; 
+                    margin-right: 10px;
+                    margin-left: 4px;
+                 }
+
+.gwt-SuggestBoxPopup { 
+                       background-color: #e6e6fa;
+}
+
+.gwt-SuggestBoxPopup .item { 
+                             cursor: pointer;   
+                       border: 1px solid;
+                       border-color: #ccc;
+}
+.gwt-SuggestBoxPopup .item-selected {
+                                      background-color: #e8eef7;
+                                      }

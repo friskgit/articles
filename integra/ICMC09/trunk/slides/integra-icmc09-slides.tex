@@ -1,0 +1,368 @@
+% $Header: /cvsroot/latex-beamer/latex-beamer/solutions/generic-talks/generic-ornate-15min-45min.en.tex,v 1.4 2004/10/07 20:53:08 tantau Exp $
+
+\documentclass[xcolor=table]{beamer}
+
+\mode<presentation>
+{
+  \usetheme{Integra}
+  \useinnertheme{circles}
+  \setbeamercovered{transparent}
+}
+
+\usepackage[english]{babel}
+% or whatever
+
+\usepackage[latin1]{inputenc}
+% or whatever
+
+\usepackage{times}
+\usepackage[T1]{fontenc}
+% Or whatever. Note that the encoding and the font should match. If T1
+% does not look nice, try deleting the line with the fontenc.
+
+\usepackage{multimedia}
+
+\usepackage{graphicx}
+
+\usepackage{colortbl}
+
+\title[Temporal data representation] % (optional, use only with long paper titles)
+{An object oriented model for the representation of temporal data in the Integra framework}
+
+\author[Bullock \& Frisk] % (optional, use only with lots of
+				 % authors)
+{James Bullock\inst{1} \and Henrik Frisk\inst{2}}
+
+\institute[Birmingham, Lund] % (optional, but mostly needed)
+{
+\inst{1}Music Technology Department at Birmingham Conservatoire\\
+Birmingham City University
+\and
+\inst{2}Composition Department at Malm\"{o} Academy of Music\\
+Lund University
+}
+% - Use the \inst command only if there are several affiliations.
+% - Keep it simple, no one is interested in your street address.
+
+\date[ICMC 2009] % (optional)
+{ICMC 2009}
+
+\subject{Talks}
+% This is only inserted into the PDF information catalog. Can be left
+% out. 
+
+% If you have a file called "university-logo-filename.xxx", where xxx
+% is a graphic format that can be processed by latex or pdflatex,
+% resp., then you can add a logo as follows:
+
+ \pgfdeclareimage[height=1cm]{university-logo}{../img/integra_logo_colour}
+ \logo{\pgfuseimage{university-logo}}
+
+\beamerdefaultoverlayspecification{<+->}
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+% \begin{frame}
+%   \frametitle{Outline}
+%   \tableofcontents[pausesections]
+% \end{frame}
+
+\section{Introduction}
+
+\begin{frame}
+  \frametitle{What is Integra?}
+  % - A title should summarize the slide in an understandable fashion
+  %   for anyone how does not follow everything on the slide itself.
+  \begin{itemize}
+  \item ``A European Composition and Performance Environment for
+    Sharing Live Music Technologies''
+   \item An EC financed project led by Birmingham Conservatoire in the UK
+   \item Attempts to address the problems of persistent storage,
+     portability and standardized intercommunication between systems
+     for electronic music.
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Objective}
+
+  \begin{block}{For this research the objectives are:}
+    \begin{itemize}
+    \item<1-> To complement the (synchronous) Integra module with the
+      ability to store and edit time-based data.
+    \item<2-> \alert{Integra module?}
+      \begin{itemize}
+      \item<3-> An abstract definition (and possible implementation)
+        of a DSP process, a documentation item or a relation between
+        modules.
+      \end{itemize}
+    \item<4-> It should be possible to use the same time data
+      regardless of module implementation.
+    \item<5-> It should be possible to extend and alter existing work.
+    \item<6-> The work here is a proposal, and work is currently at the development stage.
+    \end{itemize}
+  \end{block}
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{Related work (music)}
+  \begin{block}{MIDI}
+    The (still?) dominant mechanism for time based information.
+  \end{block}
+  \begin{block}{SDIF and GDIF}
+    Spectral and gestural data. May be incorporated in IXD.
+  \end{block}
+  \begin{block}{MetriXML}
+    CLAM's XML based score file format. Similar to IXD sequences.
+  \end{block}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Related work (general)}
+  \begin{block}{SMIL}
+    A W3C endorsed multimedia format for synchronizing multimedia.
+  \end{block}
+  \begin{block}{RDF}
+    A language for describing resources (on the web).
+  \end{block}
+  \begin{block}{OWL}
+    Exhaustive (RDF related) language for descriptive ontologies.
+  \end{block}
+\end{frame}
+
+\section{The Player Module}
+
+\begin{frame}
+  \frametitle{The Integra framework}
+  \centering
+    \includegraphics<1>[width=30em]{../img/framework_illustration-1}
+    \includegraphics<2>[width=30em]{../img/framework_illustration-2}
+    \includegraphics<3>[width=30em]{../img/framework_illustration-3}
+    \includegraphics<4>[width=30em]{../img/framework_illustration-4}
+  % \begin{itemize}
+
+%   \item 
+%     An Integra module encapsulates a specific piece of message or
+%     signal processing functionality (e.g. a waveform generator or
+%     digital filter).
+%   \item A module 
+%     \begin{itemize}\item 
+%       must have an interface definition
+%     \item may have an implementation
+%     \item may be associated with instance data.
+%     \end{itemize}
+% %  \item Only the implementation is platform specific.
+%   \item A module may inherit the interface from any other module.
+%   \item A module definition can be thought of as an abstract class.
+%   \end{itemize}
+%   \begin{block}{ }
+%     Only the \alert{implementation} is platform specific.
+%   \end{block}
+\end{frame}
+
+\begin{frame}
+  \frametitle{The player module}
+
+  \begin{block}{Schedule events}
+    \begin{itemize}
+    \item<1-> continuously in Sequences
+    \item<1-> statically as in state changes in Presets
+    \end{itemize}
+  \end{block}
+  
+  \begin{block}{Player features}
+    \begin{itemize}
+    \item<2-> looped and reverse-looped playback of sequenced data
+    \item<3-> random access to sequence data
+    \item<4-> non-linear sequences
+      % \begin{itemize}
+      % \item<5-> sequences that contain other sequences
+      % \item<6-> sequences that control the playback of other sequences
+      % \end{itemize}
+    \item<5-> relative representation of time (non-absolute)
+    \item<6-> non-track based
+    \end{itemize}
+  \end{block}
+\end{frame}
+
+\begin{frame}
+  \frametitle{The Event interface}
+  \begin{block}{Events}
+    `events' scheduled by the player are instances of the Event interface. Its attributes are:
+    \begin{itemize}
+    \item<2-> address
+    \item<3-> value
+    \item<4-> interpolation
+    \end{itemize}
+  \end{block}
+  \begin{block}<5->{Presets}
+    Presets inherit from the Event class: An event that contains events.
+    \begin{itemize}
+    \item<6-> No time information
+    \item<7-> All addresses must be unique
+    \end{itemize}
+  \end{block}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Player module example}
+  \hspace{0em} 
+
+  \setbeamercolor{postit}{fg=black,bg=white}
+  \begin{beamercolorbox}[sep=0em, wd=9.7cm,rounded=true, shadow=true]{postit}
+    
+    \includegraphics<1>[width=25em]{../img/player_module_graph}
+    
+  \end{beamercolorbox}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Storage }
+  \begin{block}{The IXD file format}
+    % An XML-based format already used for module definitions and collections of modules (patches). An extension to the current IXD format will provide means for storing and sharing time based data. 
+    \begin{itemize}
+    \item<2-> Already used for module definitions and collections of modules (patches).
+    \item<3-> Time based data forms an extension to the existing formats.
+    \end{itemize}
+  \end{block}
+  \begin{block}<4->{Sequence}
+    Sequences of events in time.
+  \end{block}
+  \begin{block}<5->{Preset}
+    A set of events describing a state.
+  \end{block}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Storing Sequences}
+   \begin{block}{Re-usability}
+    A Sequence can link in other Sequences, or parts of other Sequences:
+  \end{block}
+  
+  \only<2-3>{
+  \setbeamercolor{postit}{fg=black,bg=white}
+  \hspace{4.6em} \begin{beamercolorbox}[sep=0em,wd=6cm, rounded=true, shadow=true]{postit}
+
+    \includegraphics<2>[width=10em]{../img/code_list_link-1}
+    \includegraphics<3>[width=10em]{../img/code_list_link-2}
+
+\end{beamercolorbox}
+}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Storing Sequences}
+   \begin{block}{Sequences}
+    List of timed events. Sequences may trigger other Sequences.
+  \end{block}
+  
+  \setbeamercolor{postit}{fg=black,bg=white}
+  \hspace{4.6em} \begin{beamercolorbox}[sep=0em,wd=6cm, rounded=true, shadow=true]{postit}
+
+    \includegraphics<1>[width=10em]{../img/code_list_seq-1}
+    \includegraphics<2>[width=10em]{../img/code_list_seq-2}
+
+\end{beamercolorbox}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Storing Presets}
+   \begin{block}{Preset}
+     Presets define events: address/value pairs with no time information
+  \end{block}
+  
+  \setbeamercolor{postit}{fg=black,bg=white}
+  \hspace{4.6em} \begin{beamercolorbox}[sep=0em,wd=6cm, rounded=true, shadow=true]{postit}
+
+    \includegraphics<1>[width=14em]{../img/code_list_preset-1}
+    \includegraphics<2>[width=14em]{../img/code_list_preset-2}
+    \includegraphics<3>[width=14em]{../img/code_list_preset-3}
+
+\end{beamercolorbox}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Inheritance}
+   \begin{block}{Overriding properties}
+     Existing data may be extended, dynamically or statically.
+  \end{block}
+  
+  \setbeamercolor{postit}{fg=black,bg=white}
+  \hspace{4.6em} \begin{beamercolorbox}[sep=0em,wd=8cm, rounded=true, shadow=true]{postit}
+
+    \includegraphics<1>[width=17em]{../img/code_list_inh-1}
+    \includegraphics<2>[width=17em]{../img/code_list_inh-2}
+
+\end{beamercolorbox}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Meta-Data}
+  \begin{block}{Tags}
+    \begin{itemize}
+    \item<2-> Sequences and Presets may be tagged with semantic information.
+    \item<3-> Relations between entities may be created.
+    \end{itemize}
+  \end{block}
+  \begin{block}<4->{Documentation}
+    \begin{itemize}
+    \item<5-> Documentation resources may be linked in with Sequence and Preset files.
+    \end{itemize}
+  \end{block}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Implementation}
+  \begin{block}{Integra Environment (beta)}
+    \only<1>{\includegraphics<1>[width=17em]{../img/designs5/integra_05_arrange}}
+    \only<2>{\includegraphics<2>[width=17em]{../img/designs5/integra_05_arrange_module}}
+    \only<3>{\includegraphics<3>[width=17em]{../img/designs5/integra_05_arrange_scripting}}
+  \end{block}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Summary}
+  \begin{block}{A proposed format for storing and sharing time based data.}
+    \begin{itemize}
+    \item<1-> XML-based drawing on MIDI, RDF and SMIL with the ability to include SDIF and GDIF.
+    \item<2-> Extending the IXD Schemas for Module definitions, Collections and Integra documentation.
+    \item<3-> Employ semantic richness and sustainability.
+    \end{itemize}
+  \end{block}
+\end{frame}
+
+\section{Final note}
+
+\begin{frame}
+  \frametitle{Thank you!}
+
+
+  \begin{block}{Funding}
+    The Integra project is funded by the European Commission and is a
+    collaboration between Universities, research centers and New Music
+    Ensembles in Europe.
+  \end{block}
+
+  \begin{block}<2->{Questions?}
+    \ldots
+  \end{block}
+
+  \setbeamercolor{postit}{fg=black,bg=white}
+  \vspace{1.5em}
+  \hspace{5.6em} 
+  \begin{beamercolorbox}[sep=0em,wd=5cm, rounded=true, shadow=true]{postit}
+    \begin{figure}[h]
+      \centering
+      \includegraphics[width=10em]{../img/EU_logo}
+    \end{figure}
+  \end{beamercolorbox}
+\end{frame}
+
+\end{document}
+
+

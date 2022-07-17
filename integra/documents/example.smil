@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 2.0//EN" 
+	  "http://www.w3.org/2001/SMIL20/WD/SMIL20.dtd">
+<smil xmlns="http://www.w3.org/2000/SMIL20/CR/Language" 
+      xmlns:rn="http://features.real.com/2001/SMIL20/Extensions">
+
+  <head>
+    <meta name="title" content="A great song"/>
+    <meta name="author" content="Henrik Frisk"/>
+    <meta name="abstract" content="This item may be used for comments"/>
+    <layout>
+      <root-layout width="0" height="0" />
+      <region id="t" top="0" left="0" width="300" 
+	      height="200" z-index="1" 
+	      background-color="black" />
+    </layout>
+  </head>
+  
+  <body>
+    <par repeatCount="1">
+      <audio src="http://www.somewhere.com/aSoundFile.au" 
+	     clip-begin="0s" />
+    </par>
+  </body>
+</smil>

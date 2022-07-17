@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="620"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46+devel"
+   version="1.0"
+   sodipodi:docname="code_list_preset-3.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path1197"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective1669"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5864"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="285.63399"
+     inkscape:cy="209.32704"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     height="644.09px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="0"
+     inkscape:window-y="24" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="58.412079"
+       y="380.98926"
+       id="text12"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="58.412079"
+         y="380.98926"
+         id="tspan60"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter">&lt;event tick=&quot;100&quot; </tspan><tspan
+         sodipodi:role="line"
+         x="58.412079"
+         y="405.98926"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter"
+         id="tspan347">       type=&quot;preset&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="58.412079"
+         y="430.98926"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter"
+         id="tspan349">       href=&quot;mypreset.ixd&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="58.412079"
+         y="455.98926"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter"
+         id="tspan351">       id=&quot;5&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="58.412079"
+         y="480.98926"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter"
+         id="tspan353">       marker=&quot;Load delay preset 1&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="58.412079"
+         y="505.98926"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter"
+         id="tspan355">       selector=&quot;2&quot;&gt;</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot62"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(44.254786,-50.766813)"><flowRegion
+         id="flowRegion64"><rect
+           id="rect66"
+           width="131"
+           height="305"
+           x="445"
+           y="499.09448" /></flowRegion><flowPara
+         id="flowPara68" /></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text357"
+       y="31.72464"
+       x="58.412079"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         id="tspan369"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter"
+         y="31.72464"
+         x="58.412079"
+         sodipodi:role="line">&lt;preset class=&quot;delay&quot; name=&quot;delay preset 1&quot;&gt;</tspan><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter"
+         y="56.72464"
+         x="58.412079"
+         sodipodi:role="line"
+         id="tspan391">  &lt;event&gt;</tspan><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter"
+         y="81.72464"
+         x="58.412079"
+         sodipodi:role="line"
+         id="tspan393">    &lt;address attribute=&quot;frequency&quot;/&gt;</tspan><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter"
+         y="106.72464"
+         x="58.412079"
+         sodipodi:role="line"
+         id="tspan395">    &lt;value&gt;800&lt;/value&gt;</tspan><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter"
+         y="131.72464"
+         x="58.412079"
+         sodipodi:role="line"
+         id="tspan397">  &lt;/event&gt;</tspan><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter"
+         y="156.72464"
+         x="58.412079"
+         sodipodi:role="line"
+         id="tspan399">  &lt;event&gt;</tspan><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter"
+         y="181.72464"
+         x="58.412079"
+         sodipodi:role="line"
+         id="tspan401">    &lt;address attribute=&quot;phase&quot;/&gt;</tspan><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter"
+         y="206.72464"
+         x="58.412079"
+         sodipodi:role="line"
+         id="tspan403">    &lt;value&gt;0.5&lt;/value&gt;</tspan><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter"
+         y="231.72464"
+         x="58.412079"
+         sodipodi:role="line"
+         id="tspan405">  &lt;/event&gt;</tspan><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CM Typewriter;-inkscape-font-specification:CM Typewriter"
+         y="256.72464"
+         x="58.412079"
+         sodipodi:role="line"
+         id="tspan407">&lt;/preset&gt;    </tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#cb0000;stroke-width:15.88264942;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path91"
+       sodipodi:cx="227"
+       sodipodi:cy="363.5"
+       sodipodi:rx="204"
+       sodipodi:ry="123.5"
+       d="m 431,363.5 a 204,123.5 0 1 1 -408,0 204,123.5 0 1 1 408,0 z"
+       transform="matrix(0.48464062,0,0,0.29446711,88.98658,392.96121)" />
+  </g>
+</svg>

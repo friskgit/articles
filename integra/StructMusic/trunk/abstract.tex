@@ -1,0 +1,20 @@
+\documentclass{article}
+\begin{document}
+
+\title{From abstract to concrete: towards an ontology of the `live electronic' performance}
+\date{}
+\maketitle
+
+%\begin{abstract}
+
+\section*{Abstract}
+\label{sec:abstract}
+
+In this chapter we discuss research conducted as part of the Integra project exploring ways in which live electronics performance data can be represented and stored. An object-oriented model for information relating to compositions and performances involving live electronic processing is proposed. A set of abstract base classes are described, which provide generalised constructs for the representation of entities required for the reconstruction of all elements in a given performance. These entities include {\it documents} such as documentation, scores and digital media; {\it modules} for signal, control data, and video processing; and {\it module implementation} data, which is specific to a given software environment or programming language. Classes for defining relationships between {\it collections} of entities, multiple collection `views' and mechanisms for collection encapsulation are also described. We show how all of the elements in an Integra collection form a complete ontology of the live electronics performance, with additional possibilities for documenting production {\it processes}, semantic tagging, and performance data versioning. Although each documentation initiative---i.e. each added element, be it a document, a module or an entire collection---is signified by its `author', the model offers a possibility for a multiplicity of documentation trajectories. This, we argue, blurs the limits of the notion of a musical work and allows for a `faithful' representation of many different kinds of works: Improvisations, Compositions, Video works, Sound installations, etc.
+
+In the first part of the chapter we outline the abstract data model and the general philosophical considerations behind it. A rationale for the object-oriented approach is provided along with justifications for the base classes chosen. This discussion is situated in the broader context of music performance information representation. In the second part of the chapter we describe how the Integra base classes can be extended to provide a means for representing increasingly specialised entities -- individual signal processing modules, document and media types, people and organisations, and texts required for a given performance. Together these entities form a taxonomy from which a runtime namespace can be (automatically) derived. %This namespace provides a simple object-attribute-value (OAV) model for accessing or setting the state of object attributes using a protocol such as Open Sound Control (OSC) or Representational State Transfer (REST). 
+Finally, we present a novel XML schema and XML file format for storing objects in serialized form. Practical examples of schema instance application and usage are provided and discussed in the context of the broader socio-cultural concerns. This concluding discussion brings up the meaning and significance of a genre-agnostic representation such as this as well as the increased possibilities offered by the XML file format for sharing and altering musical performance data.
+
+%\end{abstract}
+
+\end{document}

@@ -1,0 +1,53 @@
+% \twoauthors
+% {Jamie Bullock} {UCE Birmingham Conservatoire \\ Music Technology}
+% {Henrik Frisk} {Lund University\\ Malm\"{o} Academy of Music\\ Composition and Performance}
+
+\documentclass[a4paper, onecolumn]{article}
+\usepackage[english]{babel}
+%% \usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\renewcommand{\rmdefault}{pad}
+\usepackage{tabularx}
+\usepackage{amsmath}
+\usepackage[sectionbib, round, authoryear, longnamesfirst]{natbib}
+\numberwithin{equation}{section}
+\usepackage{url}
+\usepackage{lscape}
+\usepackage{graphicx}
+
+% Different font in captions
+\newcommand{\captionfonts}{\footnotesize}
+\makeatletter  % Allow the use of @ in command names
+\long\def\@makecaption#1#2{%
+  \vskip\abovecaptionskip
+  \sbox\@tempboxa{{\captionfonts #1: #2}}%
+  \ifdim \wd\@tempboxa >\hsize
+    {\captionfonts #1: #2\par}
+  \else
+    \hbox to\hsize{\hfil\box\@tempboxa\hfil}%
+  \fi
+  \vskip\belowcaptionskip}
+\makeatother   % Cancel the effect of \makeatletter
+
+\renewcommand{\figurename}{Fig.}
+\newcommand\T{\rule{0pt}{2.6ex}}
+\newcommand\TT{\rule{0pt}{3.6ex}}
+\newcommand\B{\rule[-1.2ex]{0pt}{0pt}}
+\newcommand\BB{\rule[-2.2ex]{0pt}{0pt}}
+
+\title{libIntegra: a system for software-independent multimedia module description and storage}
+\author{Jamie Bullock \& Henrik Frisk}
+% \date{\today}
+
+\begin{document}
+\selectlanguage{english}
+\maketitle
+\thispagestyle{empty}
+
+\input{include/IntegraICMC-short-abstract}
+\tableofcontents
+\newpage
+\input{include/IntegraICMC-short-main}
+\input{include/IntegraICMC-bib}
+
+\end{document}

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46+devel"
+   version="1.0"
+   sodipodi:docname="framework_illustration.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path838"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path841"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3759521"
+     inkscape:cx="304.87979"
+     inkscape:cy="204.09629"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="0"
+     inkscape:window-y="24" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#fcffff;stroke-width:2.74387335999999982;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2620"
+       width="919.2561"
+       height="494.2561"
+       x="37.871937"
+       y="116.96642"
+       ry="20.393187" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#af7548;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect12"
+       width="342.58841"
+       height="229.2552"
+       x="73.070129"
+       y="191.62033"
+       ry="24.816288"
+       inkscape:export-filename="/home/henrikfr/Documents/mhm/forskning/artiklar/integra/svn/ICMC09/papers/ICMC-09/img/integra_framework.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="94.823326"
+       y="247.16005"
+       id="text786"
+       inkscape:export-filename="/home/henrikfr/Documents/mhm/forskning/artiklar/integra/svn/ICMC09/papers/ICMC-09/img/integra_framework.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan788"
+         x="94.823326"
+         y="247.16005">Environment A</tspan></text>
+    <rect
+       ry="24.384874"
+       y="193.79034"
+       x="557.87524"
+       height="225.26978"
+       width="342.603"
+       id="rect794"
+       style="fill:#ffffff;fill-opacity:1;stroke:#af7548;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/henrikfr/Documents/mhm/forskning/artiklar/integra/svn/ICMC09/papers/ICMC-09/img/integra_framework.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text790"
+       y="249.33734"
+       x="580.84668"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/henrikfr/Documents/mhm/forskning/artiklar/integra/svn/ICMC09/papers/ICMC-09/img/integra_framework.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="249.33734"
+         x="580.84668"
+         id="tspan792"
+         sodipodi:role="line">Environment B</tspan></text>
+    <g
+       id="g2614"
+       transform="translate(-2,105)">
+      <g
+         transform="translate(11,-159)"
+         id="g2224">
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;fill-opacity:1;stroke:#0f5f15;stroke-opacity:1"
+           id="path806"
+           sodipodi:cx="789"
+           sodipodi:cy="398.09448"
+           sodipodi:rx="84"
+           sodipodi:ry="84"
+           d="m 873,398.09448 c 0,46.39192 -37.60808,84 -84,84 -46.39192,0 -84,-37.60808 -84,-84 0,-46.39192 37.60808,-84 84,-84 46.39192,0 84,37.60808 84,84 z"
+           transform="matrix(0.87573965,0,0,0.87573965,105.54142,42.967364)" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="731.8125"
+           y="402.62964"
+           id="text808"><tspan
+             sodipodi:role="line"
+             id="tspan810"
+             x="731.8125"
+             y="402.62964">player</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g2219"
+       transform="translate(15,208)">
+      <path
+         d="m 617,315.09448 c 0,35.34623 -64.471,64 -144,64 -79.529,0 -144,-28.65377 -144,-64 0,-35.34622 64.471,-64 144,-64 79.529,0 144,28.65378 144,64 z"
+         sodipodi:ry="64"
+         sodipodi:rx="144"
+         sodipodi:cy="315.09448"
+         sodipodi:cx="473"
+         id="path802"
+         style="fill:#ffffff;fill-opacity:1;stroke:#af7548;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <text
+         id="text796"
+         y="326.12964"
+         x="377.23828"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="326.12964"
+           x="377.23828"
+           id="tspan798"
+           sodipodi:role="line">libIntegra</tspan></text>
+    </g>
+    <g
+       transform="translate(-634,-53)"
+       id="g2601">
+      <g
+         id="g2609"
+         transform="translate(0,-1)">
+        <path
+           transform="matrix(0.87573965,0,0,0.87573965,105.54142,42.967364)"
+           d="m 873,398.09448 c 0,46.39192 -37.60808,84 -84,84 -46.39192,0 -84,-37.60808 -84,-84 0,-46.39192 37.60808,-84 84,-84 46.39192,0 84,37.60808 84,84 z"
+           sodipodi:ry="84"
+           sodipodi:rx="84"
+           sodipodi:cy="398.09448"
+           sodipodi:cx="789"
+           id="path2603"
+           style="fill:#ffffff;fill-opacity:1;stroke:#0f5f15;stroke-opacity:1"
+           sodipodi:type="arc" />
+        <text
+           id="text2605"
+           y="402.62964"
+           x="731.8125"
+           style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             y="402.62964"
+             x="731.8125"
+             id="tspan2607"
+             sodipodi:role="line">player</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="450"
+       y="165.09448"
+       id="text2622"><tspan
+         sodipodi:role="line"
+         id="tspan2624"
+         x="450"
+         y="165.09448">IXD</tspan></text>
+    <path
+       style="stroke-width:1px;stroke:#000000;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       d="M 627.92882,507.89441 752.93316,390.15775"
+       id="path2644" />
+    <path
+       style="stroke-width:1px;stroke:#000000;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       d="M 351.75642,499.17317 C 212.21668,392.33806 212.21668,392.33806 212.21668,392.33806"
+       id="path2646" />
+    <path
+       style="stroke-width:1px;stroke:#000000;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-mid:none;marker-end:url(#Arrow1Lend)"
+       d="m 574.14789,470.82916 c 21.80309,-50.1471 21.80309,-50.1471 21.80309,-50.1471"
+       id="path67" />
+    <path
+       id="path1791"
+       d="m 395.3626,473.73624 c -21.80309,-50.1471 -21.80309,-50.1471 -21.80309,-50.1471"
+       style="stroke:#000000;stroke-width:1px;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-mid:none;marker-end:url(#Arrow1Lend)" />
+  </g>
+</svg>
