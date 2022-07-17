@@ -1,0 +1,291 @@
+% $Header: /cvsroot/latex-beamer/latex-beamer/solutions/generic-talks/generic-ornate-15min-45min.en.tex,v 1.4 2004/10/07 20:53:08 tantau Exp $
+
+\documentclass{beamer}
+
+% This file is a solution template for:
+
+% - Giving a talk on some subject.
+% - The talk is between 15min and 45min long.
+% - Style is ornate.
+
+
+
+% Copyright 2004 by Till Tantau <tantau@users.sourceforge.net>.
+%
+% In principle, this file can be redistributed and/or modified under
+% the terms of the GNU Public License, version 2.
+%
+% However, this file is supposed to be a template to be modified
+% for your own needs. For this reason, if you use this file as a
+% template and not specifically distribute it as part of a another
+% package/program, I grant the extra permission to freely copy and
+% modify this file as you see fit and even to delete this copyright
+% notice. 
+
+
+\mode<presentation>
+{
+  \usetheme{Antibes}
+  \useinnertheme{circles}
+  \setbeamercovered{transparent}
+  % or whatever (possibly just delete it)
+}
+
+
+\usepackage[english]{babel}
+% or whatever
+
+% \usepackage[latin1]{inputenc}
+\usepackage[utf8]{inputenc}
+% or whatever
+
+\usepackage{times}
+\usepackage[T1]{fontenc}
+% Or whatever. Note that the encoding and the font should match. If T1
+% does not look nice, try deleting the line with the fontenc.
+
+\usepackage{multimedia}
+
+\usepackage{graphicx}
+
+\usepackage{colortbl}
+
+\usepackage[sectionbib, round, authoryear, longnamesfirst]{natbib}
+
+\title[Improvisation, Computers, and Primary Process]% (optional, use only with long paper titles)
+{Improvisation, Computers, and Primary Process: Why improvise with computers?}
+
+\author % (optional, use only with lots of
+% authors)
+{Henrik Frisk}
+%{Henrik Frisk \and Stefan
+%\"{O}stersj\"{o}\\ \texttt{henrik.frisk@mhm.lu.se}, \texttt{stefan_ostersjo@hotmail.com}}
+% - Use the \inst{?} command only if the authors have different
+%   affiliation.
+
+\institute[MHM] % (optional, but mostly needed)
+{
+  Malm\"{o} Academy of Music, Lund University\\
+  http://www.mhm.lu.se\\
+  http://www.henrikfrisk.com
+}
+% - Use the \inst command only if there are several affiliations.
+% - Keep it simple, no one is interested in your street address.
+
+\date[Artistic research...] % (optional)
+{\tiny{ARTISTIC RESEARCH IN CONTEMPORARY MUSIC: COMPOSITION – INTERPRETATION - IMPROVISATION}\\[0.1cm]Odense, Oct. 29, 2008}
+
+\subject{Talks}
+% This is only inserted into the PDF information catalog. Can be left
+% out. 
+
+% If you have a file called "university-logo-filename.xxx", where xxx
+% is a graphic format that can be processed by latex or pdflatex,
+% resp., then you can add a logo as follows:
+
+% \pgfdeclareimage[height=1cm]{university-logo}{../img/mhm-logo}
+% \logo{\pgfuseimage{university-logo}}
+
+% \beamerdefaultoverlayspecification{<+->}
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+  \includegraphics[height=1.5cm]{../img/mhm-logo}
+\end{frame}
+
+\section{Introduction}
+
+\begin{frame}
+  \frametitle{Artistic Research}
+    \begin{figure}[h]
+    \centering
+    \includegraphics<2>[width=10em]{../img/forskning}
+  \end{figure}
+\end{frame}
+
+  \begin{frame}
+    \frametitle{Improvisation,  Computers and Interaction}
+      \begin{figure}[h]
+    \centering
+    \includegraphics[width=12em]{../img/ImpCompInt-cover}
+  \end{figure}
+  \end{frame}
+
+\section{Improvisation: definition?}
+
+\begin{frame}
+  \frametitle{What is Improvisation?}
+  % - A title should summarize the slide in an understandable fashion
+  %   for anyone how does not follow everything on the slide itself.
+
+  \begin{block}
+    
+  \begin{itemize}
+
+  \item<1-> A substitute for organization?
+
+  \item<2- | alert@4> Bruno Nettl: ``[i]n the conception of the art music world,
+    improvisation embodies the absence of precise planning and
+    discipline'' {\footnotesize(\emph{An art neglected in
+        scholarship})}
+
+  \item<3-> Bruno Nettl: ``discipline, intricacy, and control of
+    complexities all play major roles in various kinds of
+    improvisation'' {\footnotesize (\emph{Ibid.})}
+
+  \item<5-> But, improvisation is \emph{also} absence of control.
+
+  \end{itemize}
+  \end{block}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Basis for current discussion}
+  \begin{block}{The nature of improvisation}
+    \begin{itemize}
+    \item<1-> Lack of control may in fact be important features.
+    \item<2-> Computer technology may help to `un-learn' stylistically bound musical knowledge.
+    \item<3-> The `un-learning' may be understood in terms of the concept of \emph{primary process}.
+    \end{itemize}
+  \end{block}
+\end{frame}
+
+\section{Computers and Improvisation}
+
+\begin{frame}
+  \frametitle{Computers and Improvisation}
+  \begin{block}<1->{Computers-as-improvisers}
+    \begin{itemize}
+    \item<2-> Computers are poor improvisers.
+    \item<3-> The human capacity for making ``good choices'' spontaneously is enormous
+      and still close to impossible to model in a computer program.
+    \end{itemize}
+  \end{block}
+  \begin{block}<4->{Computers-as-instruments}
+    \begin{itemize}
+    \item<5-> A human `computer-player' is the interface.
+    \item<6-> Any sound is possible: dream or disaster?
+    \end{itemize}
+  \end{block}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Computer and Improvisation}
+  \begin{block}{Summary}
+    \begin{itemize}
+    \item<1-> Non-intuitive musical UI.
+    \item<2-> No physical contact between body and sound.
+    \item<3-> No unified notion of what the computer-as-instrument consist of.
+    \item<4-> The computer is useless as an instrument for improvisation(?)
+    \item<5-| alert@5> Yet, the computer is an agent in the practice of improvisation.
+    \end{itemize}
+  \end{block}
+\end{frame}
+
+\section{Improvisation and the Mind}
+
+
+\begin{frame}
+  \frametitle{Improvisation and sensibility}
+  \begin{block}{Personhood}
+    \begin{itemize}
+    \item<1-> G. Lewis: ``Afrological sensibility''
+    \item<2-> G. Russel: ``Intuitive Intelligence''
+    \item<3-> The personal sound.
+    \item<4-> Conclusion: Improvised music thrives on sensibility.
+    \item<5-> In what sense may the computer be an agent of sensibility?
+    \end{itemize}
+  \end{block}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Primary process}
+  \begin{block}{The language of the unconscious}
+    \begin{itemize}
+    \item<1-> Bateson: The Algorithms of the heart.
+    \item<2-> Music as a method of translation between primary and secondary process.
+    \item<3-> Habit: actions become unconscious.
+    \item<4-> Habit formation is not a guarantee for access to the unconscious.
+    \end{itemize}
+  \end{block}
+\end{frame}
+
+\section{In practice}
+
+
+\begin{frame}
+  \frametitle{Ornette Coleman}
+  \begin{block}{Picking up the violin and the trumpet.}
+    \begin{itemize}
+    \item<1-> To rid himself of the Parker legacy.
+    \item<2-> Striving to play ``without memory''
+    \item<3-> Free from extra-musical parameters: Denardo Coleman
+    \item<4-> Unknown instruments gave him internal freedom, liberated from physical memory.
+    \end{itemize}
+  \end{block}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Marcel Duchamp}
+  \begin{block}{\emph{The Bride Stripped Bare by Her Bachelors, Even
+        (The Large Glass)} (1915-1923)}
+    \begin{itemize}
+    \item<1-> To rid himself of old fashioned drawing.
+    \item<2-> Knowledge reversed but not forgotten: Memory as a function of the future''
+    \item<3-> Duchamp: ``I unlearned to draw. The point was to forget
+      \emph{with my hand}.''
+    \item<4-> To consciously unlearn: Is it at all possible?
+    \end{itemize}
+  \end{block}
+\end{frame}
+
+\section{Why computers?}
+
+\begin{frame}
+  \frametitle{Resistance}
+  \begin{block}{Why forget?}
+    \begin{itemize}
+    \item<1-> To \emph{increase} resistance.
+    \item<2-> To oppose habit.
+    \item<3-> The computer is an agent in improvised music not despite its shortcomings but \emph{thanks to them}
+    \item<4-> Frustration of an instrument's shortcomings are secondary process. 
+    \item<5-> Playing it is primary process.
+    \end{itemize}
+  \end{block}
+\end{frame}
+
+\section{Conclusion}
+
+\begin{frame}
+  \frametitle{Summary}
+  \begin{block}<1->{The computer as a forgetting machine}
+    \begin{itemize}
+    \item<2-> Musicians and artist have developed methods to achieve
+      that which the computer allows us do prior to its existence.
+    \item<3-> Habit formation is economy of conscious thought rather than access to unconscious.
+    \end{itemize}
+  \end{block}
+  \begin{block}<4->{Aden Evens and the body}
+    \begin{itemize}
+    \item<5-> ``The musician who just allows his body to do what it
+      will cannot be immerse in the music [\ldots] the one who lets his body play is not putting
+      himself on the line''
+    \end{itemize}
+  \end{block}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Thank you}
+I wish to thank the Center for Ny Musik for the invitation.
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{Questions?}
+\includegraphics<1>[width=13em]{../img/QuestionMark}  
+\end{frame}
+\end{document}
+
+

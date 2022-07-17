@@ -1,0 +1,76 @@
+# Created 2020-11-22 sön 13:03
+#+TITLE: GI and the critique of a machine
+#+AUTHOR: Henrik Frisk, henrik.frisk@kmh.se
+* Litterature
+[[file:~/Docs/articles/biblio/bibliography.bib::Keyt1987][Keyt 1987: Three Fundamental Theorems Aristotles Politics]]
+
+[[file:~/Docs/articles/biblio/bibliography.bib::Knoll2017][Jaulin & Güremen 2017: Aristotle Arguments Political]]
+
+[[https://partiallyexaminedlife.com/2014/03/04/henri-bergson/][PEL on Bergson]]:
+
+- Bergson, handen avhuggen PEL 39.00
+- The Flux.
+- The severed hand. The hand transforms to a different thing. The hand is a hand if it can fulfill its function. Parts only exist in the way they relate to each other. Reality is mobility.
+
+https://lucian.uchicago.edu/blogs/elucidations/2012/08/10/episode-38-christopher-frey-discusses-aristotle-on-living-organisms-and-their-parts/
+
+Aristoteles from /Categories/:
+"When things have only a name in common and the account of being [λόγος τῆς οὐσίας] which corresponds to the name is different, they are called homonymous … When things have the name in common and the account of being which corresponds to the name is the same, they are called synonymous"
+
+See: https://core.ac.uk/download/pdf/30817764.pdf
+
+ebib:sontag2013
+[[file:~/Docs/articles/biblio/notes/bibnotes.org::#Sontag1986][Sontag, S. (1986): Against interpretation: and other essays]]
+
+* Method development, style and the nature of machine improvisation
+** Introduction
+One of the great challenges of any research project that spans over several years is to keep the project contained and avoid it from going into directions that are not fruitful for answering the questions posed. Yet, it has to be kept open enough to allow for unexpected findings in the fringes of the practice. This is especially true of artistic research projects that have a tendency to be interdisiplinary and soemtimes broad-brushed. In fact, this may be seen as one of the qualities. The practice, in some cases also initself difficult to describe and contain, and its context are the primary framers of an artistic research project and these are the parameters that should participate in delimiting the field, at least at the outset. The main difficulty, however, is to know when a chosen path should be given up or when to stay, and not give up, what appears to be hopelessly unfruitful trajectory.
+
+A useful mode of thinking about an improvising group is to take a holistic view, simply put as the whole is greater than the sum of its parts. However, this whole as well as the parts, are bound together in a very heterogenous manner and their inherent relations to each other are especially interesting in the case of a musician playing their instrument. The kind of instrument obviously plays a part, but in the case of an acoustic instrument its function while beeing played is very diferent from when it is not being played. One could possibly say that, say a saxophone, is becoming music, but the thought I would like to propse here is that it is not even that. It is little more than a collection of brass, cork and rubber. In the hands of an able musicina, however, it is no longer that, it is an extension of the musician's body in a way that transforms it. It is not an object but part of the limbs and hands of the musician. This can be compared to the famous passage in Aristotele's Politics where he says that a hand is no longer a hand if it is detached from the body. The nature of the hand is fully dependent on it's ability fo perform its task. 
+
+Playing an electronic instrument, one that has some kind of intelligence build in to it challenges this understanding of the musical instrument as an extension of the body in a number of ways. First, if the instrument is generative we may conclude that it is not dependent on a musician to play it. It could be used all by itself. Secondly, unless it has a very advanced UI for interaction, it will be very difficult to get to the point where the player will experience it as an extension of their body.
+** On the experience of improvisation
+
+The meaning of Goodbye Intuition is on one hand, at least for a musician that has engaged in improvisation, easy to understand. There is something stifling about the need to be intuitive when so often music making is about knowledge, skill and experience. On the other hand, trying to make music without intuition would be difficult, if not impossible. So, is Goodbye Intuition then reducible to the attempt to raise awareness on the various roles that intuition may have in musical practice? No, the picture is much more complex than that and the discussion touches on a wide range of topics that are related to concepts like interpretation, communication, narrative, form and conctent, and style. At the center is an improvising machine whose primary purpose is to provoke the interrogation our of the various safe zones that all musiciancs build up for themselves. But also intellectually does this machine provide resistence. What does the notion of "good music" really hold? Who has the power of authority on what is "good music" and how transparent are these roles? By which standards can we judge the output of an improvising machine without also judging ourselves? The last question can be rephrased as: what is the actual autonomy of the system infront of us?
+
+These questions can then be expanded and used to further our understanding of the giant revolution that we are experiencing in which data is the currency used to gain economic, social and political control. It is an enormous transformation where human labour is replaced by automated processes. It has been described and fetischised since a century in a way that makes it difficult to see whether it is the fiction that has produced the future or if the future simply was predestined in a way that made it easy for the science fiction narrative to project it. 
+
+A rudimentary machine, an automated improvisor, may not have anything directly to say about a development that takes place in closed rooms far from here, but it nevertheless  allows us to study questions pertaining to the field of ethics and morality in a way that is of some importance. The sensibility of a musician improvising  with another musician is of the kind that makes it possible to study the interaction and this kind of data may prove to be invaluable in studying other kinds of human-machine systems. If the co-musician is a machine it tells us something about the lengths to which a human musician is willing to go in order to attempt to understand the other.
+
+I will discuss this in more detail further on in this text, but for now I will suffice to say that it is related to the particular relation that a musician has to whatever they are listening and interacting to. This relation transgresses that of a utilitarian object, or an object for interpretation. The musical interaction is at its best one in which the negoatiation is constantly taking place. This in order to understand the other, the subject with whom one is improvising, and this understnading does not require knowing what it is, it rests on an ethics of listening, on the willingsness to engage. Here the main interest may be said to be focused on the question on what the music /does/, rather than what it is. Far from all musical interaction fulfills this objective but all possible interactions have the potential to do it. For these reasons music specifically, and artistic practice in general, are useful practices to study the furture impact on the communication with machines, or lack thereof.
+
+Meanwhile, this is also a useful, albeit not conclusive, definition for what artistic research in music is. It is the  study of what artistic practice does, and it rests on the assumption that the doing of the practice there is a knowledge that may be studied and understood. The assumption that the /doing/ of the music has an epistemological impact has some empirical justification in the many testimonies that music has the potential to move us, engages us, has a deliberating effect on us, makes us angry, etc. In other words, it is not in the research that the feeling of commitment and dedication is created, it is because it exists in listeners, practicioners, compsers and the like that the field is interesting from the point of research activities. I have discussed the necessity for taking this kind of musical relation seriously and abandon some of the mer prevailing modes of historical and musicological analysis in the past and some of those threads will be briefly revisited here 
+
+This discussion is obviously closely related to the huge topic of artificial intelligens (AI). AI in music production has also a long history, and specific technologies have been created for different reasons and with different purposes for decades. AI is already used in many areas of music production: audio processing plug-ins, composition tools, analysis tool and many other types of software explore different kinds of machine intelligence in order to assist musicians to better perform their tasks. To distinguish what part of the result is actually the outcome of machine, rather than human, intelligence is not a distinction that is easily drawn, nor is it necessarily an interesting one. 
+
+Furthermore, it is a feature of connectionist strategies for artificial intelligence that the structures that guide them are hidden.
+
+The use of technology in artistic practices, however, can have different objectives. First, from a general standpoint one may argue that art should engage in available technologies for the simple reason that this contributes to our understanding of its social and cultural impact. Though this general notion is sometimes contested, most famously by Heidegger who instead warned about the ways in which technology frames the human capacity, it may be considered equally reasonable to claim that AI should be a field for artistic exploration [[#heidegger93][heidegger93]].
+
+Secondly, from the point of view of innovation, it has been seen in the past that artists' use of technology push the boundaries for what is possible [[#harris1999][harris1999]]. Although this has arguably been true, the resources that the multinational technology and media industry now control, along with the increased complexity of the technology, make it more difficult for an independent artist, or even an institution or a university, to invent methods of production that can compete with the powers of these companies. The artistic qualities in and of themselves may be uncontested, but as far as creative power is concerned the playing field has changed. 
+
+Thirdly, the challenge to create a machine that is able to compose music with the same level of integrity, witfulness and inspiration as that of a great musician may be seen as a test of the potentiality of the technology. A machine that can compose music is likely to be able to perform a whole range of tasks with a high level of proficiency. However, unlike, say, a self driving car, it is difficult to fully grasp the (economic) value of such an achievement.
+
+There is an underlying ethical dilemma that has impact on the whole field of AI, also in the field of music. The emergence of AI depends on designers and programmers that create the systems and as has been shown through studies such as [[#snow2018][snow2018]]  technology as a valueless blank slate may be contested. With an increased use of intelligent technology in artistic practice, there is a broadening of the practice that may include not only the programmer of the software but also the designer and manufacturer of the hardware.
+
+And following this there are at least two intriguing questions that arise:
+
+1. What, if any, are the artistic and ethical responsibilities in the development of AI in music? What are the implications on aspects such as copyright?
+2. If musical machine intelligence is truly possible, to what extent are we prepared for it to develop its own musical aesthetics? After all, a body less musician is likely to develop a different musical conception than a human embodied musician.
+
+Or, to summarize: What are the artistic implications of AI?
+
+** Method development in GI
+
+French philosopher Henri Bergson sought to address the problem of what possible knowledge one may have of the world exterior to oneself and in this effort he defined the method of intuition. The point here is not to give a full account of Bergson's philosophy, nor of his method, but in order to better understand its kinship to the method development in GI, and the actual work that was performed within the project I will make a brief overview of what it entails. However, anyone with a particular philosophical interest should go to the source for more information. Furthermore, the method contains certain idiosyncharsies that may or may not work to the full extent in the frame of the other theories presented.
+
+Bergson defines two incommensurable ways to approach an object: either from a point of view through signs and concepts, a /relative/ perspective, or through entering into the object, exploring it from the inside, an /absolute/ apprehension. This second method is achieved by entering into sympathy with the possible states of the object which allows him to "insert myself in them by an effort of imagination."  [[#Bergson1912][Bergson1912]] This, he continuos, enables him to "no longer grasp the movement from without, remaining where I am, but from where it is, from within, as it is in itself. I shall possess an absolute." [[#Bergson1912][Bergson1912]] This is a quite radical proposition that Bergson is presenting here, in contrast to the dominant theories of mediated perception that most notably Kant had put forward. The concept of actually being able to possess the object, or rather, the motion, as is makes 
+
+It is important to stress that Bergson is focusing here on 
+
+
+
+** Understanding improvisation
+** What does music do beyond without interpretation?
+** Acknowledgments
+** Biblography

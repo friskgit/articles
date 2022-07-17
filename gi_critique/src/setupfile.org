@@ -1,0 +1,9 @@
+#+LATEX_HEADER: \usepackage[lf]{ebgaramond}
+#+LATEX_HEADER: \usepackage{sectsty}
+#+LATEX_HEADER: \allsectionsfont{\sf}
+#+latex_header: \hypersetup{colorlinks=true,linkcolor=black,urlcolor=black}
+
+#+LATEX_HEADER: \usepackage[style=authoryear-ibid,natbib=true,backend=biber,hyperref=false]{biblatex}
+#+LATEX_HEADER: \renewcommand*{\nameyeardelim}{\space}%
+#+LATEX_HEADER: \renewcommand{\postnotedelim}{: }%
+

@@ -1,0 +1,1143 @@
+---
+author:
+- 'Henrik Frisk, henrik.frisk\@kmh.se'
+bibliography: 'gi\_biblio.bib'
+title: On the intuition of a machine
+---
+
+Introduction {#sec:orgb3a7e34 .unnumbered}
+============
+
+One of the great challenges of any research project that spans over
+several years is to keep the project contained and avoid it from going
+off in directions less useful for answering the questions posed. Yet, it
+has to be open enough to allow for unexpected findings in the fringes of
+the practice. This is especially true of artistic research projects, as
+they have a tendency to be interdisciplinary and sometimes
+broad-brushed, which in fact may be seen as one of the qualities of the
+field. Furthermore, the artistic practice and its contexts, which may
+sometimes itself be difficult to delimit, are at least at the outset the
+original bounds of an artistic research project. The difficulties,
+however, remains to know when a trajectory should be given up or stayed
+with: When is this particular issue exhausted in the context of the
+project? It is through method development that a field of research
+practice can evolve, and we, as artists and researchers, can learn to
+become better at making those decisions.
+
+The main purpose of this essay is to explore the methods used in the
+artistic research project *Goodbye Intuition* from the point of view of
+the often repeated claim that artistic research is about acquiring
+knowledge from within the process, from the inside.[^1] This claim is
+often put forward as opposed to scientific research in which, in this
+extremely simplified model, the researching subject is not as often
+entangled with the object of research. This is not only a simplified
+model, it is also not accurate as has been discussed in numerous
+contexts.[^2] Exactly what constitutes this privileged *inside*, or how
+it is made accessible to an artist is perhaps less commonly addressed.
+On the surface it is perhaps principally a way to explain the central
+ambition of much artistic research, namely to research the artistic
+process. This is achieved either by doing it while being engaged in it,
+or by working with documentation of the practice that allows the
+researcher to reenter the process. The research performed in *Goodbye
+Intuition* has been performed in both of these modes, but it is
+primarily the work that has taken place in the actual artistic process
+that is the main concern here. I am not concerned with the results of
+*Goodbye Intuition* here, nor with the actual process other than in
+methodological terms. For this I would like to direct the reader to the
+paper [@Frisk2020] as well as to other texts on this website.[^3]
+
+At a larger scale the definition of the outside/inside divide points to
+there being an epistemological difference between these positions that
+rests on there being a knowledge in artistic practice that is only
+accessible from the inside, and another kind, accessible also from the
+outside that is primarily oriented towards analysis. Research on art as
+this latter form is sometimes referred to has been more concerned with
+traditions--their developments and disruptions--than with finding the
+what the nature of the art is from the inside, although there are
+examples of that too [see e.g. @monson96 ]. This has probably something
+to do with the particular status that this *inside* has, and the ways in
+which it is inaccessible for everyone except the artist--why else would
+it be important that artists do the research? This is somewhat at odds
+with a common view on scientific analysis where the researcher is
+*outside* the thing analyzed which thereby allows for an objective
+stance. But, as is well known by now, neither position is a good
+description of how research is performed. However, for the following
+discussion there are some interesting aspects of the way that deduction
+and analysis is traditionally understood.
+
+The *inside* is often mystified and given a shimmer of romantic light,
+seen as the sight for true creativity. This convention should be
+challenged by artistic research, but, unfortunately, is sometimes
+instead reinforced by it. The main challenge lies in the lack of
+credible research methods with which the *inside* can be properly
+investigated, and this should be a focus area for artistic researchers
+for the years to come. This essay is an attempt to open up the
+discussion and explore the notion of the *inside* as a site for
+metaphysics that has much in common with other human activities. The
+French philosopher Henri Bergson and his theory of duration, metaphysics
+and intuition constitutes a point of departure when looking at the
+methods employed and developed in the project *Goodbye Intuition*. One
+of the advantages of his theory is that the gap between metaphysical
+experience and analytical knowledge is reduced, and by placing oneself
+on the *inside* of the object one may experience it in the process of
+its unfolding. Bergson is particularly interesting through the unified
+theory he proposes in which the possibility for an experience from the
+*inside* is not a privilege only to a practitioner, such as an artist,
+but a method for any type of experience.
+
+On the experience of machine improvisation {#sec:org2c084c1 .unnumbered}
+==========================================
+
+The meaning of the expression *Goodbye Intuition* is on the one hand, at
+least for a musician that has engaged in improvisation, easy to
+understand. There is something stifling about the need to be intuitive
+when music making so often is about knowledge, skill and experience. On
+the other hand, trying to make music together with other musicians
+without intuition would be extremely difficult, if not impossible. So,
+is the project *Goodbye Intuition* then reducible to the attempt to
+raise awareness on the various roles that intuition may have in musical
+practice? No, it is more complex than that, and the discussion here
+touches on a wide range of topics that are all related to concepts like
+interpretation, communication, narrative, form, content, and style. At
+the center of the interrogation is an improvising machine developed
+during the course of the project, henceforth named *Kim-Auto*, or KA,
+whose purpose it is--among other things--to provoke the discussion
+between the project members and move it out of the various safe zones
+that all musicians build up for themselves. That being perhaps the
+practical aspect, the machine also provided intellectual resistance. The
+quality of the possible music afforded by improvising with KA was hard
+to judge: By which standards can the output of an improvising machine be
+judged without also judging ourselves? Who has the power of authority on
+what is \"good music\", and how transparent are these roles? What is the
+actual autonomy of KA and how does it affect ours?
+
+These questions can then be expanded and used to further our
+understanding of much larger questions pertaining to the giant
+revolution in which data is the currency used to gain economic, social
+and political control. It is an enormous transformation where human
+labor is replaced by automated processes, and where transactions are
+even more abstract and opaque than ever. This change has been described
+and almost fetishized since over a century in literature and media in a
+way that makes it difficult to discern whether it is the fiction that
+has produced the future or if the future simply was predestined in a way
+that made it easy for the science fiction narrative to project it.
+Unless we subscribe to determinism, the most rational explanation
+appears to be that the present is so influenced by culturally iconic
+descriptions of the future produced portrayed in the past, that these
+are realized. That many of these commonly has had a negative
+connotation, such as *Skynet* created by *Cyberdyne Systems* in the
+*Terminator* movies, or the surveillance society of Orwell's *Nineteen
+Eighty-Four* may not have mattered. The benefits of this future may
+still have appeared to be greater than the risks. This discussion is
+obviously closely related to the huge topic of artificial intelligence
+(AI) and AI in music production has had a long history. Specific
+technologies have been created for different reasons and with different
+purposes for many years already. AI is already used in many areas of
+music production: audio processing plug-ins, composition tools, analysis
+tool and many other types of software explore different kinds of machine
+intelligence in order to assist musicians to better perform their tasks.
+To distinguish what part of the result is actually the outcome of human,
+rather than machine intelligence, is not a distinction that is easily
+drawn, nor is it necessarily an interesting one. As long as the
+intelligent machine has been created by humans the distinction is mainly
+one in time: AI can be seen as merely a delayed action determined by a
+human programmer. This may not be easily detected though, as a feature
+of connectionist strategies for artificial intelligence is that the
+structures that guide them are hidden and perhaps one of the greater
+dangers with AI is to think that it is the machine that is intelligent.
+
+However, the use of technology in artistic practices, intelligent or
+otherwise, can obviously have a range of different objectives. First,
+from a general standpoint one may argue that art should engage in
+available technologies for the simple reason that this contributes to
+our understanding of its social and cultural impact. Though this general
+notion is sometimes contested, most famously by Heidegger who instead
+warned about the ways in which technology frames the human capacity
+[@heidegger93], it may be considered equally reasonable to claim that AI
+should be a field for artistic exploration. Secondly, from the point of
+view of innovation, it has been seen in the past that artists' use of
+technology push the boundaries for what is possible [@harris1999].
+Although this has arguably been true, the resources that the
+multinational technology and media industry now control, along with the
+increased technological complexity, make it more difficult for an
+independent artist, or even an institution or a university, to invent
+methods of production that can compete with the powers of these
+companies. The artistic qualities in and of themselves may be
+uncontested, but as far as creative power is concerned the playing field
+has changed. Thirdly, the challenge to create a machine that is able to
+compose music with the same level of integrity, witfullness and
+inspiration as that of a great musician may be seen as a test of the
+potentiality of the technology. A machine that can compose music is
+likely to be able to perform a whole range of tasks with a high level of
+proficiency. However, unlike, say, a self driving car, it is difficult
+to fully grasp the (economic) value of such an achievement. Finally,
+there is an underlying ethical dilemma that should concern the whole
+field of AI, also the field of music. The emergence of AI depends on
+designers and programmers that create the systems, and as has been shown
+through studies such as @snow2018 technology as a valueless blank slate
+needs to be contested. With an increased use of intelligent technology
+in artistic practice, there is simultaneously a broadening of the
+practice where not only the programmer of the software but also the
+designer and manufacturer of the hardware should be included as
+significant agents in the artistic development.
+
+A rudimentary machine such as KA, an automated improviser, may have
+nothing directly to say about the dystopic development of an economy
+governed by data acquisition, but it nevertheless opens up a window to
+the question of an ethics of communication technology in a way that is
+of relevance for the wider discussion of this field. The sensibility of
+a musician improvising with another musician is an activity that is
+still exceptionally difficult to model in a machine, and one that we
+still know very little about. It can by itself be seen as one of the
+critical things that still separates us from machines and that cannot be
+reduced to a statistical or analytical model. But to study this, and
+better understand interaction between musicians in performance will
+provide us with data that may prove to be invaluable in understanding
+how to construct ethically sustainable human-machine, or machine-machine
+systems. One aspect of this that points to the complexity of the present
+study, and that the method used in *Goodbye Intuition* allowed us to
+explore, is the various ways that we as musicians anthropomorphize the
+machine. The lengths to which a human musician is willing to go in order
+to attempt to understand the other is fascinating and provocative. In
+other words, it is sometimes difficult to tell whether a reaction from a
+musician playing with a machine is primarily coupled with the machine
+behaving like a human, or whether the human performer produces the idea
+of a fictional man-machine that responds like a human. In musical
+performance the subject feels sympathy for the other even if the other
+is a machine. I will discuss this in more detail further on in this
+text, but for now it will suffice to say that the particular relation
+that a musician has to whoever, or whatever, they are listening to and
+interacting with has a big impact on the turnout on how one may
+understand the interaction. That the object for interaction is a thing,
+or a piece of software, makes this relationship more difficult to
+establish, but by anthropomorphizing the machine the relationship is
+easier to comprehend for the subject. Hence, the machine in this case is
+not a means to an end, or merely an object for interpretation. It
+becomes the *other*, possible to sympathize with, and this point is
+important in the discussion in the next sections.
+
+At its best musical interaction is one in which the other is understood
+through a constant negotiation. This understanding does not require
+knowing what or who the other is, it rests on an ethics of listening,
+and on the willingness to engage. The main interest may be said to be
+focused on the question on what the music *does*, rather than what it
+*is*, which is a central theme in Susan Sontag's that will be discussed
+more later. Far from all musical interaction fulfills this objective,
+but all possible interactions have the potential to do so. For these
+reasons music specifically, and artistic practice in general, are useful
+practices to study in order to better understand the impact that the
+quality of the communications with machines may have. Meanwhile, to
+return to the introductory remarks on the epistemological status of
+artistic research, a useful, albeit not conclusive, definition for what
+artistic research in music is could be summarized as in the following:
+The study of what artistic practice does based on the assumption that
+the *doing* in the practice rests on a knowledge that may be
+communicated. There is a some empirical justification in the assumption
+that the *doing* of the music has an epistemological impact on our well
+being. Judging from the many testimonies that music has the potential to
+move us, engage us, and that it has a deliberating effect on us, or may
+make us angry, happy, sad or euphoric [@viper20; @horwitz18; @juslin19],
+it is not difficult to understand the curiosity in finding out what
+exactly what it is that arouses our sensibilities and emotions. In other
+words, one of the primary drives behind artistic research is not *if*
+there are emotional responses connected to practicing and listening to
+music, but rather *how* these responses are established.
+
+On intuition {#sec:org3588265 .unnumbered}
+============
+
+French philosopher Henri Bergson sought to address the problem of what
+knowledge one may have of the world exterior to oneself, and one of the
+central tenets in this effort is the method of intuition. It may appear
+bordering on defensive to get into an in depth investigation of the term
+*intuition* in a project that that has attempted to do away with it
+altogether. In the way that it is used in the title of the project,
+however, it points to the ordinary use of the word, the meaning of which
+can be summarized as the \"ability to understand or know something
+immediately based on your feelings rather than facts.\"[^4] Though not
+completely unrelated, Bergson's notion of *intuition* is rather
+different, and therefore also of interest to the present discussion.
+Intuition as a method will by necessity include also other modes of
+thinking than what is given by the more common view of intuition. The
+point here, though, is not to give a full account of Bergson's
+philosophy, nor of the method. In order to better understand its kinship
+to the method development in *Goodbye Intuition*, and the potentiality
+of the work that was performed within the project, I will give an
+overview of what it entails. Anyone with a particular philosophical
+interest, however, should obviously go to the sources for more
+information. Furthermore, the method contains certain idiosyncrasies
+that may not always fully harmonize with the way the project has
+developed.
+
+To understand intuition in the a Bergsonian way it may also be necessary
+to contrast it with other uses and definitions of intuition. The more
+general interpretation of intuition, as has already been alluded to,
+relates to the things we do without thinking about them; the intuitive
+knowledge that something is, for example, wrong or dangerous. In this
+sense intuition may be likened to an automated system that gives us
+pre-reflected information about what is going on in the world around us.
+In phenomenology intuition has a slightly different meaning. Intuition
+gives the subject first-person knowledge whereby an object can be said
+to be *intuited*. Kant's distinction between concept and intuition may
+confuse the field even more though it is clearly a point of departure
+for Bergson's argument here. It is however in contrast to Kant that
+Bergson defines his own theory of metaphysics.
+
+In his essay Bergson defines two incommensurable ways to approach an
+object: either from a point of view through signs and concepts--a
+*relative* perspective--or through entering into the object, exploring
+it from the inside--an *absolute* apprehension. This second method is
+achieved by entering into a sympathy with the possible states of the
+object which allows him, as he describes it, to \"insert myself in them
+by an effort of imagination.\" [@Bergson1912 p. 2] This, he continues,
+enables him to \"no longer grasp the movement from without, remaining
+where I am, but from where it is, from within, as it is in itself.\"
+[@Bergson1912 p. 3] The latter is what he refers to as the *absolute*
+knowledge: \"the absolute is the object and not its representation, the
+original and not its translation, is perfect, by being perfectly what it
+is\" [@Bergson1912 p. 5-6]. This is a quite radical proposition, in
+contrast to the dominant theories of mediated perception. The concept of
+actually being able to possess the object, or rather, its motion as
+Bergson will say, in itself makes possible a range of conceptions.
+
+The example that Bergson gives us to better understand what he means by
+representational knowledge is a photographic model of a city. One where
+all angles and all surfaces have been photographed and documented to
+achieve something similar to the street view that online map programs
+sometimes offer. Exploring such a model can obviously never be equated
+with the experience of being in the city and is hence relative knowledge
+of the city. Another example given is the translation of a poem into
+different languages.[^5] Each such translation can give the reader a
+good idea of the meaning of the poem, sometimes with even more details,
+but it will never form a complete image, and would \"never succeed in
+rendering the inner meaning of the original\" [@Bergson1912 p. 5]. One
+of the central propositions is that analytical knowledge as is the
+result of a relative perspective is always a reduction of the thing
+being analyzed. *Analysis* is what might be referred to as an empirical
+understanding of which a defining aspect is its reductive force. By
+dividing the object into ever smaller elements we may create analytical
+precision, but that eventually resonate more with what we already know
+than with the thing we analyze. The thing analyzed then becomes merely a
+function of the receiver rather than an object in and of itself. Such an
+analysis creates representations that are discontinuous in the flow of
+time:
+
+> In its eternally unsatisfied desire to embrace the object around which
+> it is compelled to turn, analysis multiplies without end the number of
+> its points of view in order to complete its always incomplete
+> representation, and ceaselessly varies its symbols that it may perfect
+> the always imperfect translation. It goes on, therefore, to infinity.
+> But intuition, if intuition is possible, is a simple act.
+> [@Bergson1912 p. 8]
+
+The *absolute* is given from this *intuition* and an *intellectual
+sympathy* with an object that allows one to perceive its unique
+qualities beyond words. Hence, the *perfect absolute* should be
+understood in relation to the *imperfect analysis*. Metaphysics is what
+allows one to experience what it means to have an *intuition* of the
+object at hand. To Bergson, the science of intuition is metaphysics, and
+metaphysics is \"the science which claims to dispense with symbols\"
+[@Bergson1912 p. 9]. Rather than engaging in representations of objects
+by means of symbols and concepts, we are urged to understand the object
+from within. This may be compared to self-reflection and Bergson gives a
+description of the various strata of introspection in this process
+towards the center of the self. Moving from the outside, through a
+protecting \"crust\" made up of all the perceptions from the outside
+world, via memories that are interpretations of the perceptions, down to
+the motor habits that are both connected and detached from memories and
+perceptions. But at well the core, Bergson describes the continuous flux
+of a concatenation of states, the beginnings and ends of which are
+merged together and extend back and forward. The metaphor used here is
+that of a coil constantly unrolled and rolled up again, although,
+admittedly, this comparison is far from perfect. There are no two
+identical moments in consciousness and the rolling up of the coil may
+thus be misleading. Even going back in memory to a past event invades
+that memory with all the present and past events. This evokes a passage
+in his earlier work, , of the cone whose tip is moving over a moving
+plane, and where the point of the cone represents the present and the
+cone itself the accumulated memories and experiences:
+
+> The bodily memory, made up of the sum of the sensori-motor systems
+> organized by habit, is then a quasi-instantaneous memory to which the
+> true memory of the past serves as base. Since they are not two
+> separate things, since the first is only, as we have said, the pointed
+> end, ever moving, inserted by the second in the shifting plane of
+> experience, it is natural that the two functions should lend each
+> other a mutual support. So, on the one hand, the memory of the past
+> offers to the sensori-motor mechanisms all the recollections capable
+> of guiding them in their task and of giving to the motor reaction the
+> direction suggested by the lessons of experience. It is in just this
+> that the associations of contiguity and likeness consist. But, on the
+> other hand, the sensori-motor apparatus furnish to ineffective, that
+> is unconscious, memories, the means of taking on a body, of
+> materializing themselves, in short of becoming present. [@bergson91 p.
+> 152-3]
+
+The sensory motor-habits are informed by memories through which they
+will be guided to do the work they are set out to do, and because no
+single memory is ever stable--it is always altered by the present in the
+interaction between what Bergson refers to as the \"pointed end\" and
+the past memory--the present experience is continuously altered by past
+experience which in turn is influencing the present. Hence, the general
+understanding of intuition, as an action guided by feelings rather than
+by facts, may be said to still hold true, but a comparison quickly
+becomes very difficult without defining what constitutes a *feeling* or
+a *fact*. More interesting, however, is the connection brought up
+between sensori-motor mechanisms and past experience, and the fact that
+this connection is not only going one-way, from memory to habit, but
+also from habit back to memory. Embodied memory is in a changing flux
+and in constant interaction with experience and habit. There is an
+inclination to understand learned behavior, such as playing an
+instrument or lifting a glass of water, as a pre-conscious act, almost
+as if independent of reflection. To this there is a whole range of
+relevant research in embodied cognition and consciousness that is
+outside the scope of this essay. Here the purpose is mainly to look at
+intuition as a method for a better understanding of musical interaction
+with electronic instruments.
+
+It is in thinking about embodiment and motor-habits that Bergson's
+understanding of what an intuition can be is perhaps best understood. If
+I move my leg or my hand I can only access the information that guides
+this movement through intuition. Analyzing the movement fails to
+understand it completely since the analysis only pins the movement to a
+sequence of states: first the arm was here, then here, then there. The
+actual change, the mobility or, as Bergson would put it, the duration,
+is only possible to understood through intuition. Furthermore, any new
+experience within a movement, and any past experience will introduce
+change:
+
+> When you raise your arm, you accomplish a movement of which you have,
+> from within, a simple perception; but for me, watching it from the
+> outside, your arm passes through one point, then through another, and
+> between these two there will be still other points; so that, if I
+> began to count, the operation would go on forever. [@Bergson1912 p. 6]
+
+Bergson is again critiquing an analytical understanding as an activity
+that is not able to fully understand movement, but only apprehend a
+sequence of states and concepts. Conceptual knowledge is reached by way
+of concepts that represent the thing of which knowledge can be said to
+be had. These, says Bergson, have the \"disadvantage of being in reality
+symbols substituted for the object they symbolize\" [@Bergson1912 p.
+17], and as such they demand very little of us. Furthermore, each
+concept merely expresses a comparison between itself and the object that
+resembles it. By way of this resemblance we imagine that by taking
+concept after concept and putting them side by side we are actually
+reconstructing the analyzed object. Through analysis we create concepts
+and symbols that allow us to structure and organize the world in a
+systematic manner. If metaphysics, then, is a serious science by which
+the world can be understood and experienced, rather than just a mind
+operation, \"it must transcend concepts in order to reach intuition\"
+[@Bergson1912 p.21]. I have learned to move my arm, and every new piece
+of information about what I can do with it will add to my
+arm-moving-knowledge, and intuition is the modality through which this
+process is carried out. For a subject able to observe the thing from the
+inside, intuitively, there are no states, only duration and mobility
+informed by experience and knowledge.
+
+The methods of analysis and the method of intuition proposed by Bergson
+has important relevance to the field of artistic research in general,
+and to the project *Goodbye Intuition* specifically, though perhaps less
+because of the project's title and more due to the way in which the
+method development has evolved over time. As was discussed in the
+introduction, one of the defining ideas of artistic research is that
+there is a difference between knowledge that has been acquired from
+observing an artistic practice, and knowledge that is the result of
+practicing art. A common metaphor used to described the difference
+between these two modalities is to see the former as knowledge from the
+outside, and the latter as knowledge from the inside. Simplified like
+this the comparison becomes problematic, as the concepts of *inside* and
+*outside* are rarely stable, and difficult to determine. Also, the word
+*inside* here may be confusing as it has not the same meaning as
+Bergson's *inside* but, as we will see, may coincide in a useful way.
+The inside as a qualifier of a perspective is here unique to the artist,
+whereas in Bergson's method it is a possible perspective for any kind of
+experience. In Sören Kjörup's contribution to he comments on what may be
+the difference between the outside and the inside perspective claiming
+that:
+
+> if artistic research is supposed to be different from all other kinds
+> of research, it is natural to focus on the artist as the researcher,
+> and what is specific for the artist is her or his privileged access to
+> her or his own creative process. [@kjorup10 p. 25]
+
+This \"privileged access\" may be seen as an alternative to knowledge
+mediated by symbols and concepts, but a particular difficulty lies in
+the relation between traditional epistemology and this inside
+perspective. One of the recurring themes in the early discussions on the
+identity of artistic research was, and still is, what kind of knowledge
+artistic knowledge and methodology could lead to, and what kind of
+relation it would have to other kinds of knowledge. How can artistic
+research as a discipline make sense \"in a way that does not subordinate
+\[it\] to other activities of thought taken to be superior modes of
+knowing\" [@johnson2010 p. 150]? Johnson further stresses that the
+potential in this kind of knowing lies in the experience, rather than
+empirical knowledge:
+
+> The *research* here would not be geared toward the accumulation of
+> empirical facts or propositional knowledge, although that might be
+> part of the story. Instead, *arts research* would be inquiry into how
+> to experience and transform the unifying quality of a given experience
+> in search of deepened meaning, enhanced freedom, and increase of
+> connections and relations. [@johnson2010 p. 150]
+
+Henk Borgdorff is another often mentioned reference and has been one of
+the key figures in defining the development of European artistic
+research. His claim that \"it is not formal knowledge that is the
+subject matter of artistic research, but thinking in, through, and with
+art\" [@borgdorff2012 p. 143] has gained traction in the field with its
+focus on creating art. It is possible to contest the proposed opposition
+between formal knowledge and what may be extracted from thinking in,
+through or with art, but what Borgdorff is pointing to is that there is
+a possibility for a \"special articulation of the pre-reflective,
+non-conceptual content of art.\" [@borgdorff2012 p. 143] This may be
+understood as leaning on a Kantian notion of aesthetic experiences as
+pre-conceptual, invoking a free play of imagination, with the
+consequence that the kind of mediation through conceptual and symbolic
+representation that characterize most forms of knowledge is sidestepped.
+This creates a number of conflicts, the most obvious of which is the
+question of what kind of knowledge we are dealing with if the art
+(practice) is understood directly, in and of itself. How can something
+that evades conceptualization at all be represented in a stable manner?
+In other words, the question is how this unmediated experience may be
+useful to the artistic researcher and, more importantly: how may it be
+described in a way that makes the results relevant for other
+researchers?
+
+This is, without a doubt, one of the more pressing and still
+controversial questions in artistic research and the point on which this
+discipline is most often criticized, but it is not my aim to address it
+directly here.[^6] Instead, my focus is to approach it through Bergson's
+method of intuition in the context of the method development of the
+project *Goodbye Intuition*, how I have approached the method in my
+attempt to understand what KA is and can be in an artistic practice.
+Bergson's method of intuition may contribute to showing that not only is
+it possible to gain formal knowledge from artistic research in a
+methodologically sound manner, but also that the difference compared to
+other fields of knowledge production is perhaps less significant than
+what is commonly believed. Artistic research could in this regard be
+seen as a possibility to widen the perspectives of how the formation of
+knowledge may take place.
+
+Bergson's description of the two profoundly different ways of knowing a
+thing, through *relative* and *absolute* knowledge may at first adhere
+to the idea of the difference between conceptual and non-conceptual
+knowledge. As was described above, however, it is in fact in contrast.
+According to Bergson, through the method of intuition, and by way of
+*sympathy*, it is in every way possible to achieve absolute knowledge
+about a thing through an understanding from the *inside*. Without this
+inside access one is left with the option of analysis from the outside,
+and regardless of how many different perspectives this analysis is
+performed from, it will never fully capture the true *motion* of the
+object resulting in relative knowledge. Yet, this is the faculty of
+knowledge that is often seen as the principle mode of thinking. The
+contradictions between this and the intuitive, absolute, knowledge that
+Bergson is arguing for:
+
+> arise from the fact that we place ourselves in the immobile in order
+> to lie in wait for the moving thing as it passes, instead of replacing
+> ourselves in the moving thing itself, in order to traverse with it the
+> immobile positions. They arise from our professing to reconstruct
+> reality--which is tendency and consequently mobility--with precepts
+> and concepts whose function it is to make it stationary. [@Bergson1912
+> p. 67]
+
+One central aspect of the distinction between analytical and intuitive
+knowledge made here is that the intuitive, being in the motion or the
+duration, can always develop concepts and form the basis for analytical
+knowledge, whereas it is impossible to reconstruct motion from fixed
+concepts. An analysis may result from intuition, but intuition cannot
+arise from analysis. The analysis is performed on one particular state
+of the duration, and from multiple analyses or states it is possible to
+imagine that the mobile may be reconstructed by simply adding the
+different states together. This is however the critical point that
+Bergson objects against: It is only through intuition that the
+variability of reality may be fully experienced as mobility, and a
+succession of states is radically different in nature. It is a series of
+frozen frames of time, one slice at a time. The error in thinking that
+reality may be accessed through analysis, claims Bergson, \"consists in
+believing that we can reconstruct the real with these diagrams. As we
+have already said and may as well repeat here--from intuition one can
+pass to analysis, but not from analysis to intuition\" [@Bergson1912 p.
+48]
+
+One important aspect of this is how the whole relates to the parts.
+Following the reasoning from above, dividing a whole up in parts is
+possible, but reconstructing the whole from these parts is utterly
+impossible. Again taking the example of the moving hand, it is possible
+to analyze its movement as a succession of states, but impossible to
+reconstruct the motion from these states. This holds true regardless of
+the precision and resolution of the collected frames--there will always
+be a space between current and previous frame. This corresponds to the
+Aristotelian view that the whole is always prior to the parts and that
+things can not be reduced to parts without loosing a significant part
+their identity.[^7] The hand is not a hand, except by name, unless it
+can perform the function of a hand. If the hand is removed from the body
+it is only a hand by appearance:
+
+> What a thing is always determined by its function: a thing really is
+> itself when it can perform its function; an eye, for instance, when it
+> can see. When a thing cannot do so it is that thing only in name, like
+> a dead eye or one made of stone, just as a wooden saw is no more a saw
+> than one in a picture. The same, then, is true of flesh, except that
+> its function is less clear than that of the tongue. [^8]
+
+In essence this means that the hand as an object is less than the hand
+that performs its function, and that the hand, when still a part of the
+body, obviously stretches out beyond the merely physical hand; it is
+connected to the arm with muscles and tendons and to the brain with
+nerves. This is true of most instruments that has a specified function.
+A hammer can be said to only be a hammer when it performs as a hammer,
+and a piano is only a piano when it is performed by a pianist. The
+hammer as a sign is signified by both the physical hammer in general,
+and the hammer that performs a function, although the latter, of course,
+is dependent on a whole range of other things and energies in order to
+perform. From a more personal perspective, for me as a saxophonist, my
+saxophone is similarly an object--a saxophone, or a musical instrument.
+However, once I pick it up and start playing it, it is a rather
+different thing. In my hands it becomes an extension of my body similar
+to how the hand is a part of my body. This may be primarily a result of
+the many hours of practice that I have performed on it, and as such it
+becomes an instrument of my musical ambition. But as soon as I put it
+down it is nothing more than a piece of brass again, and in that state
+it is as useless as the severed hand.[^9]
+
+It may at first be counter intuitive to think of a musical instrument as
+two different kinds of objects depending on if they are being played or
+not, and this fact is further complicated by the fact that instruments
+also hold socio-cultural meanings that are independent, but related, to
+the music they are used perform, multiplying their possible signifiers
+manifold. With electronic instruments it is slightly different due to
+the fact that they commonly lack a physical interface that has a clear
+relation to the core sound producing engine. If the instrument is also
+intelligent in some way, that is, if its musical output is greater than
+what it is given as input, the relations can become very obscure. In
+other words, while the musician playing an acoustic instrument quite
+easily becomes *one* system which it is possible to gain an intuitive
+understanding of, that is, understanding it from within, for the
+electronic instrument this is much more convoluted.
+
+The consequence of this discussion is that it is not enough to merely
+attempt to perceive the movement from within, as Bergson is urging us to
+do, it is first necessary to see the full context of the system for
+which the intuition is desired, and then experience it from the inside.
+In other words, to understand an object from the inside, to fully
+understand its mobility, it is important to understand what the
+boundaries of the system are. If I wish to understand what it means to
+play the saxophone, it is not the saxophone I need to enter inside, nor
+is it merely my own ambition with playing an instrument. I need to
+engage with the larger system that contains both myself and the
+instrument. This unity is what creates the conditions for expression and
+musical creativity, and analyzing the parts by themselves will only tell
+us what the parts are capable of. Even if I manage to explore the
+saxophone from the inside, I will only be able to understand it as an
+independent object. Only if I see the integrated system, and only if I
+manage to get on the inside of it, will I be able to fully understand
+it, and the way it is conditioned by its motion.
+
+Then, what does it mean to get on the inside of a system such as a
+computerized instrument, the boundaries of which are seemingly unknown,
+and may include programmers and designers that are disconnected from the
+performer in both time and space? An electronic instrument that is
+connected to the internet and that continuously fetches information that
+influences its output in live performance is a very different thing from
+an acoustic musical instrument. Especially so if the mapping of the
+physical input from one or several performers is hidden from both
+performers and audience, or even remapped during the course of the
+performance. What is the embodied relation between such an instrument
+and its performer that allows for it to be understood as a unified
+system? For a typical computer based instrument in the shape of a
+software running on a computer, which is what KA is, in what ways can it
+be embedded in a similar way?
+
+As alluded to above, an argument can be made that for self-playing
+systems involving some kind of artificial intelligence, the system that
+rules the musical outcome is much larger than what may be experienced at
+first. What I see when I start such a program on my computer, what I
+experience to be the system in play, is just myself and the computer,
+where in reality it may involve previous input and output, as well as
+the programmer's various positions and biases. The programmer is
+concealed in this system, detached in both time and space, which makes
+it difficult to fully understand their impact. In this sense the
+electronic musical instrument is a system which is by some degree larger
+and more elaborate than an acoustic instrument. Furthermore, many
+electronic instruments, by their immediate relation to engineering and
+science, lend themselves naturally to an understanding based on analysis
+rather than intuition, which enforces their role as mere tools. The
+development of musical artificial intelligence and advanced electronic
+instruments has obviously profited from this which in turn has
+contributed to their quick development. At the same time there is a
+great interest in interfaces and systems that convey a certain stability
+that encourages long term development between performer and instrument,
+such as modular synthesizers. In other words, whereas quick development
+cycles of software serves its purpose at several stages of the design of
+the instrument, it may become an obstacle when trying to understand it
+in a musical context, and as an integrated part of a larger system.
+
+Clearly, part of the challenge is understanding the interface between
+musician and an instrument, and part of it is understanding what type of
+electronic instrument is being used. My attempt here is not to make a
+general theory of the various types of electronic instruments that could
+be of interest, but instead to mainly focus on the particular case of KA
+of *Goodbye Intuition*. Hence, it should be noted that other types of
+electronic instruments that holds a whole range of possible modes of
+engagements, allow for quite a different set of possibilities than what
+a piece of software does, completely lacking a physical interface. But I
+believe that it is possible to approach also other kinds of systems with
+the same method, and even though the results would be different, this
+could contribute to furthering the knowledge about the musical
+opportunities of electronic instruments.
+
+The question now is how it may be possible to achieve the kind of
+*sympathy* that Bergson is referring to towards KA that will allow for
+an inside experience of the system as a combination of the performer and
+the instrument? He describes it in a way that has a great deal of
+resonance with artistic practice in general and the work in *Goodbye
+Intuition* specifically when referring to the *absolute* movement and
+the states of mind that gives him access to the inside:
+
+> I also imply that I am in sympathy with those states, and that I
+> insert myself in them by an effort of imagination. Then, according as
+> the object is moving or stationary, according as it adopt one movement
+> or another, what I experience will vary. And what I experience will
+> depend neither on the point of view I may take up in regard to the
+> object, since I am inside the object itself, nor on the symbols by
+> which I may translate the motion, since I have rejected all
+> translations in order to possess the original.[@Bergson1912 p. 2-3]
+
+In the following sections of this essay I will show some examples of how
+this method may be used in artistic practice.
+
+Method development in Goodbye Intuition {#sec:orgccbd5bc .unnumbered}
+=======================================
+
+As already stated, *Goodbye Intuition* is an artistic research project
+that is methodologically relatively closely connected to the stream of
+artistic research projects in music and neighboring fields of practice
+over the last decade. The Swedish projects *Music in Disorder*[^10] and
+*(Re)Thinking Improvisation* [@friskostersjo2013] both shared the kind
+of discursive based methodologies with *Goodbye Intuition*. These, which
+Östersjö and myself have developed further using methods such as
+stimulated recall, [See e.g. @FriskOstersjo2020 ] have proven to be
+rather effective to surface the knowledge embedded in musician's
+practices. The general idea is to allow for a safe space where the
+musicians involved practice under scrutiny are allowed to discuss what
+they did, would have liked to do, and did not like that they did. This
+involves the possibility to rethink, or redo the performance, starting
+it anew so to speak, after which a new round of reflection may start.
+Commonly, and in order to increase the possible strata of reflections,
+guests are invited to the sessions that can introduce new and
+alternative perspectives.
+
+In *Goodbye Intuition* the purpose was not merely to discuss the
+performances and interactions of the group members, but specifically to
+investigate in what ways the improvising machine could participate in
+the improvisations and in the re-thinking of the improvisatory
+strategies of the members of the group. The purpose involved to see how
+the machine could disrupt the improvisational motor-habits, and give
+rise to aesthetically different music than that of the group's usual
+performances. As already mentioned, these sessions were usually carried
+out with one or more external guests in the room and more often than
+not, with only one musician at the time playing with KA. In most
+sessions that I was part of there would have been a new set of features
+of KA that had to be discussed, and a lot of the introductory
+discussions commonly circled around the core issue for the project,
+relating to its core research questions:
+
+-   How do we improvise with \"creative\" machines, how do we listen,
+    how do we play?
+
+-   How will improvising within an interactive human-machine domain
+    challenge our roles as improvisers?
+
+-   What music emerge from the human-machine improvisatory dialogue?
+
+There is clearly no way to quantitatively compare a
+*with-machine-improvisation* to a *without-machine-performance*, so an
+investigation directed towards answering these questions has to be
+carried out qualitatively. The quoted word \"creative\" in the first
+research question points to the fact that there is no real creativity
+present within the machine's performance since its activities are
+governed mainly by statistical analysis of the material being fed to it.
+Hence, the only true creative act is that performed by the human
+improviser.
+
+To work through the different stages of development of KA through
+conversation is only one of many possible means to approach this task.
+Conversation on improvisation is a discourse interwoven with aesthetic
+judgments, social practices and stylistic preferences. Nevertheless, if
+the goal is to reach beyond language and approach the music from the
+inside, in Bergsonian terms, conversations and discussions about the
+music is an effective method. However, it would likewise be fair to
+argue *against* using discourse, because language, by its symbolic
+nature, may be seen to disguise the inside rather than relieve it.
+Roland Barthes describes the photograph as \"always invisible: it is not
+it that we see\" [@Barthes1980 p. 6], and similarly, in a method for
+artistic research in music the purpose may be said to be to remove the
+layers of signification that surrounds the music and understand and
+analyze it for what it is. In this case the discourse on improvisation
+may be said to disguise the potentiality of the development of the
+music, and it is only through unwrapping this discourse, through
+discussion paradoxically, that the concealed qualities may surface. This
+is by no means simple and it requires time and patience and it is
+important to appreciate all the different kinds of discussion on music
+that may take place.
+
+Susan Sontag, in her still highly topical , points to the dangers of
+interpretation to excavate and destroy the thing interpreted in search
+for its true and inner meaning [@Sontag1986 ch. 3]. This kind of
+interpretation has an ideological undertone that organizes the contents
+in a way that fits the purpose of the interpreter, and thus results in a
+situation where events \"have no meaning without interpretation\"
+[@Sontag1986 ch. 3]. Sontag continues: \"To interpret is to impoverish,
+to deplete the world--in order to set up a shadow world of 'meanings.'
+It is to turn the world into *this* world\" [@Sontag1986 Ch. 4]. The
+focus, according to Sontag, should be on what art *is* rather than what
+it *means* [@Sontag1986 Ch. 9]. This should also be the focus on the
+discursive method proposed here, and that was carried out in *Goodbye
+Intuition*.[^11] The main point is not to explain what is or should be
+going on, but to make it possible to move inside of it, to observe the
+ways in which it is ticking from the inside, so to speak. In order to
+avoid \"intuition\", that is, the automated responses of the
+motor-habits that are the result of years and years of training, it is
+necessary to get on the inside of these habits by means of a different
+kind of intuition, and experience them in motion: to be in the same
+duration.
+
+An example of how the disruption of discourse can create access to the
+material reality of the artwork is Annie Dorsen's *Hello Hi There*
+[@dorsen2010]. The work is derived from a televised debate between Noam
+Chomsky and Michel Foucault the voices of whom are rendered by two chat
+bots. In a single stroke the discursive power balance of the two men is
+neutralized and given a comic nature, although some of the uttering they
+make is clearly derived from the two philosophers talking. Annie Dorsen
+took part in one of the *Goodbye Intuition* workshops in which we
+discussed similar topics. This particular session was an important step
+for my own understanding of the complex inter dependencies between
+*Goodbye Intuition* the group, the stylistic properties and the machine
+improviser.
+
+One of the principal difficulties, however, remains to get on the inside
+of an electronic instrument such as KA. Even if we in *Goodbye
+Intuition* had a rudimentary idea of the logic of the system it took us
+a long time to understand how it worked in a way that would make it
+possible to predict--predict in the wide sense of the word--the output.
+Furthermore, in the ambition to develop the *sympathy* that Bergson is
+referring to, knowledge *about* KA is analytical knowledge acquired from
+the outside. Helpful, but not the core issue here. When playing with a
+human improviser who has knowledge about the same general genre as
+oneself, reaching a common understanding of the field of possibilities,
+is usually not that difficult. Neither of the players will obviously be
+able to predict exactly what the other will play, but this is rarely the
+point with improvising together anyway. How musicians are able to
+negotiate the field of possibilities as efficiently as they are is a
+question that may be addressed through artistic research. It points to
+the multi-modality of communication that human-human interaction allows
+for, and how this is severely limited in human-machine interaction.
+Which brings us back to the conversational and practice based method of
+*Goodbye Intuition*. It succeeded in creating an understanding of the
+musical possibilities of KA within the group that eventually allowed for
+artistically consistent improvisations. Through this method the members
+of the group managed to infer the properties of the larger system of a
+musician improvising with KA and create an *intuitive* understanding of
+it. This understanding operates from the inside and proceeds to analysis
+that promotes the discursive practice of the group, which in turn allows
+for a wider understanding. This is not to be confused with knowledge
+about how KA operates technically speaking, but it is an understanding
+of what the possible musical actions are, and what the delimitation of
+the system are.[^12]
+
+To summarize, the project's polemic stance against intuition can be
+compared to Susan Sontag's reasoning in : there is no true, inner
+meaning of art that is revealed through interpretation, and likewise,
+there is no naturally intuitive musical response that is brought to the
+forefront through introspection.[^13] \"Against interpretation\" may
+translate to \"against motor-habits\", the learned responses that may
+appear to be intuitive, but are in fact automated through repetition and
+conditioned by cultural and stylistic practice. In order to understand
+the motor-habits and how they operate from the inside, Bergson's method
+of *intuition* may be used, from where they may be dismantled and
+understood. From this perspective it is also possible to sympathize with
+larger systems including a machine improviser: Where interpretation
+disguises the object as it is, intuition can deliver it.
+
+At the inside of the system {#sec:org7d01bef .unnumbered}
+===========================
+
+As an example of how I have attempted to move to the *inside* of KA I
+have created three small examples using existing sound material that I
+have fed the software with. The idea behind this was to see to what
+extent KA would decipher the content, and use it in a way that is
+meaningful in relation to the material itself, and how I thereby
+understand the system from the inside. The first example uses a range of
+samples from a piece I did in 2010 called *The Mystic Writing Pad*.[^14]
+The composition has a middle movement that is purely electronic and
+which is the part used here. In the first and third part of the piece
+there is a midi guitar part that uses a large number of micro tonal
+samples. Both the samples for the guitar instrument and the raw files
+for the second movement was added to KA to make an improvisation. In the
+first instance I used merely the guitar samples which, without much
+interaction, created a nice repetitive, only slightly varied, track.
+This is expected as the software analyzes the content for information to
+be used in the playback of the material. If there is little or no
+variation from sample to sample, consequently there is very little
+variation in the output. In the case of the guitar samples, each sound
+file is the exact same length, and only the pitch differs. In the tuning
+of the samples the octave is divided in 23 steps for a total of 83
+samples. Nevertheless, I liked the sound of these sometimes quite
+complex harmonies as one possible layer of the music. The material for
+the second movement of *The Mystic Writing Pad* is more varied with
+samples of different lengths and character, and adding this material to
+KA instantly created a more differentiated and musical result. The
+repetitiveness of the initial test is retained and phrases are created
+in a rhythmically consistent manner with all phrases having about the
+same length.[^15] The spatialization was controlled by the MIDI output
+of KA. The music has here a dreamy, repetitive character, and reducing
+the options and limiting the material has the benefit of achieving
+understanding: departing from known material I can establish a dialogue
+with the system. Had I made this track without KA, which is not really a
+sensible comparison because the very premise was to make a track with
+KA, I would have chosen a more dynamic rhythmical layout that was less
+predictable on the level of the musical phrases.
+
+In the second, and quite short example,[^16] I added another archive of
+sounds to the patch. A similarly repetitive structure but with a wider
+range of sounds. The first example had mainly synthesized sounds whereas
+the new material added here also contain field recordings used in the
+video piece *Machinic Propositions*.[^17] Also in this example the MIDI
+output is used to spatialize the output. By feeding KA another archive
+of sounds with a rather different set of qualities I was able to explore
+how the repetitiveness of the original set of sounds also influenced the
+second set of sounds, although the patterns were dispersed in a slightly
+different fashion, influenced by the variation. After these two
+experiences I felt I was actually able to predict the third and last
+stage of my attempts to compose and improvise with KA. It is important
+to note that the way I make use of it here is somewhat different from
+the primary way in which we have worked with it in the workshops: I have
+not fed KA a live signal that it is recording in real time and uses to
+structure its output as well as use to collecting sounds from the input.
+
+The last example[^18] takes all of the material from the first two tests
+but now also adding voice samples, also taken from *Machinc
+Propositions*. At this point the textures sometimes get much more dense,
+and because the repetitiveness is reduced by the timbral and structural
+variation in the sound archives, it is also sometimes more sparse.
+Hence, the musical result can perhaps be said to be closer to the way I
+had organized the material in the original pieces. This point is of some
+relevance, because it means that I was able to get under the skin of KA,
+get on the inside of it, and create music in a way similar to what I
+would have done without the machine. In Bergsonian terms I have
+developed a *sympathy* that makes it possible for me to not just work
+from the point of an analysis of KA as a tool, but rather explore it as
+a part of my general attempt to create. Another way of expressing this
+is to say that I have transgressed the boundary between myself and the
+machine and allowed an improvisation in kind, not on the software, and
+not with it, but *within* it. As such it also defines the possibilities
+and limitations. The prize here is in case I should ever have wanted it,
+I have to give up the idea of being in control of the machine.
+
+Summary {#sec:orgcca63a0 .unnumbered}
+=======
+
+I find that one of the challenges in artistic practice in music is to
+find a proper balance between a systematic approach to the treatment of
+the musical and non musical material, and some kind of intuitive method
+with which the system can be manipulated and mastered. The system, which
+can be almost any conceptual structure, including a tonal system, a
+sound source and its possible variations, a data set to sonify, a
+synthesis model, or whatever is of relevance to the artistic idea. The
+manipulation part of it can also be any one technique, in a range of
+possible methods. The purpose is to allow oneself to get acquainted with
+the system to the point where it becomes second nature when explored,
+examined and scrutinized. One should reach the point that allows a truly
+*play* on the system, to be able to improvise with it. It is possible to
+get to this point quickly, sidestepping some aspects of this process at
+the risk of ending up doing a repetition of something previously done.
+But in order to experiment and move into new grounds I find this balance
+between system and practice invaluable.
+
+The mastering of the systems, or concepts, is not a question of
+interpreting them. The main purpose here is not, to paraphrase Sontag
+again, to find out what the concept means and dwell into it, but rather
+to understand what it does [@Sontag1986 Ch. 9]. Any one system by itself
+is rarely what makes a piece work. Instead it is how it is set in
+motion, how it operates; to understand what it can do under different
+conditions. Or, to relate back to the discussion of the relation between
+the whole and the parts: A concept as a point of departure for an
+artistic expression is like a part without a whole. Before it can be
+made useful it has to be conceptualized within the frame of the
+expression, and instantiated together with the practice with which it
+can unite. This can be achieved through play and improvisation.
+Considering my exercises with KA I started with a concept, a set of
+sounds, that by themselves were not really interesting. They have a
+certain meaning to me, because I have gone through the process of
+playing with them in a different context. But now, as I feed them to KA,
+they are empty. It is in the playing process that I interact with KA,
+and it is here that the concept is set in motion. For some of the sounds
+I fed it I could not reach a point that felt meaningful, but through the
+process of making the three etudes I managed to not only feel that *we*,
+KA and me, were playing the sounds in a way that I could sympathize
+with. More importantly, however, I also reached a position in which the
+boundary between myself and KA was dismantled and I could understand the
+larger system consisting of me and KA from the *inside*.
+
+For a long time I have been interested in the ways in which technology
+affects how and what I play. One of the defining ideas has been to
+understand the interaction with technology as an encounter with another,
+and understand it less as a tool and more as an agent that I influence
+as much as it influences me. In my PhD thesis [@frisk08phd] I labeled
+this *interaction-as-difference* and this something I have continued to
+work with since then. One of the research questions in the thesis dealt
+with ways that would improve the sense of interaction in improvised
+music performances as well as in composed music. The project led to
+questioning what interaction actually means in artistic practice and
+took a stance against the defining character of what I labeled
+*interaction-as-control*. The main thread was the idea that all kinds of
+encounters with tools of some kind in the artistic process is an
+opportunity to enter into a larger sphere of interaction that creates
+difference. The prevailing idea of *control*, on the other hand,
+controlling the technology, is a drive that may have a negative effect
+on the possibilities of the system. If it is alien to me to go into a
+improvised music performance and attempt to control whoever I am playing
+with, which it is, I should not do so with any other agent that I engage
+with in the process. This reasoning has its roots in an ethical
+standpoint, also related to an aesthetic choice more concerned with the
+human capacity for collaboration than with personally and individually
+rooted attempts at artistic expression.
+
+In a romantic view of artistic practice inspiration is typically seen to
+emanate from a spark of genius, sometimes subconscious, or linked to
+divine inspiration [@frisk2013]. Partly this may be related to the fact
+that art, dreams and subconsciousness may be seen to share the same code
+[for a more in-depth discussion of this, see @frisk2015; @frisk09:improv
+], a code which is not accessible through ordinary language. This brings
+us back to the Kantian idea of the beautiful, aesthetically pleasing
+experience that brings about a *free play* of imagination and
+understanding and a judgment of beauty [for a discussion on Kant's
+judgment of beauty, see @Coate2018]. Cognition on this level is a
+category quite different from conceptual appreciation, and one of the
+things Bergson criticizes in discussed above. What he is proposing as a
+means for approaching not only aesthetic judgment, but any attempt at
+understanding movement, is radically different from a practice focused
+on introspection and analysis. The *duration* that is central to
+Bergson's philosophy is the common mode of operation for any musician,
+and it makes sense to also try to understand it as a movement. It is
+dynamic in the widest sense of the word, dynamic with regard to context
+in non real-time, as a multiplicity of possibilities, questioning the
+notion of a *work*, constantly re-evaluating and transforming according
+to changing needs. What follows from this is the potential for a deep
+and holistic understanding of artistic practice in music.
+
+Instead of the self centered artistic work departing from the identity
+of the originator it is possible to approach a musical collaboration as
+a potential for interaction that allows for differences to occur. These
+differences make a difference when they are encountered from the inside,
+so to speak, in a manner that short circuits the motor-habits of
+intuition. It does not matter much if the 'other' is an instrument, a
+computer running a particular software, or a musician performing--there
+are differences of course, but the general approach is similar--to
+understand it from the inside as Bergson asks us too makes the
+experience blend together. With regard to the particular examples
+presented above I can listen back to them and think that I would
+probably have done it differently if I was doing it without KA. When
+others are allowed to enter the constructive and defining phases of a
+musical process, one's sense of identity and control is likewise likely
+to be reconfigured. Through the dynamics of the larger system of oneself
+and one's collaborator the impact of a particularly individual
+articulation will be less salient, or meaningful. Common identifiers
+such as \"my aesthetics\" or \"my expression\" that are meant to define
+and limit a field of possible artistic outcomes also introduce a
+hierarchy that organizes this field. The hierarchy is part of the idiom
+of control, or *interaction-as-control*, and it may be neutralized by
+approaching the system of collaborators from the inside, as a whole.
+Hence, what I think about the result of my examples from the point of
+view of my individual preferences is only partly relevant in this
+context. When I understand myself and KA as a system of
+*interaction-as-difference* it is only within that frame that the result
+is meaningful, and from the inside this system contains a wide range of
+agents that influence the field of possible outcomes.
+
+Acknowledgments {#sec:org2f7e74f .unnumbered}
+===============
+
+I wish to thank all the members of *Goodbye Intuition*: Ivar Grydeland,
+Morten Qvenild, Sidsel Endresen and Andrea Neumann as well as David Toop
+and Annie Dorsen, all of whom have contributed to the thoughts presented
+in this article.
+
+Bibliography {#sec:org3ed3c87 .unnumbered}
+============
+
+[^1]: Since I have been an active part in many of the workshops and
+    laboratories performed by the group *Goodbye Intuition* from the
+    initiation of the project in 2017, I am obviously involved in, and
+    influenced by, any findings and discussions and in that regard I
+    have been on the inside of it. In some of the workshops I also
+    played with the group, but in general my role has been that of an
+    external partner, or critical friend.
+
+[^2]: See @frisk-ost13 for an overview.
+
+[^3]: See <https://www.researchcatalogue.net/view/411228/424771>
+    (visited on October 12, 2020)
+
+[^4]: Intuition. (n.d.). In *Cambridge Dictionary online*. Retrieved
+    from <https://dictionary.cambridge.org/dictionary/english/intuition>
+
+[^5]: As Swedish artist Andreas Gedin has proved, sequential
+    translations of a poem into multiple languages changes the character
+    of its content.
+
+[^6]: For a more complete discussion on this topic, see @frisk-ost13.
+
+[^7]: See Aristotle *Politics*, I.2 and *Metaphysics* VII, 1035b.
+
+[^8]: See Aristotle, *Meteorology* IV, 12
+
+[^9]: There is obviously a whole range of social, cultural and political
+    connotations attached to the immobile object which commonly allows
+    us to contextualize it in a way that allows for a much wider
+    impression of the instrument than that. The purpose here is to
+    compare the object in use with the unused object.
+
+[^10]: See <http://musicindisorder.se/> (visited on October 8, 2020)
+
+[^11]: It should be pointed out that this is not related to (Critical)
+    Discourse Analysis since we did not attempt to do any systematic
+    analysis of the discourse, but many of the core aspects of discourse
+    analysis holds true also here in that the discourse here is a social
+    practice, and the way we talk about e.g. improvisation is, as has
+    already been mentioned, to a high degree shaped by the larger
+    discourse on music.
+
+[^12]: There are several documented examples where the parts fall into
+    place, so to speak, from the workshop in Stockholm in 2019. A
+    documentation of this laboratory can be seen here:
+    <https://www.researchcatalogue.net/view/411228/431482> (accessed 1
+    September 2019)
+
+[^13]: This is my own reading of the project's intention and it may not
+    coincide completely with those of the project leaders.
+
+[^14]: The second movement can be heard here: [Mystic Writing Pad,
+    II](../../../../Dropbox/Music/music/Frisk/Mystic-tape.aif)
+
+[^15]: The result can be heard here: [Etude
+    \#1](/home/henrikfr/Docs/uppdrag/GI/kimauto/final_project/final_stuff/KA_example_2.wav).
+    This track, as well as the following examples, is mixed to a
+    binaural format and is best listened to on a pair of closed back
+    headphones.[\[orge1ed47b\]]{#orge1ed47b label="orge1ed47b"}
+
+[^16]: [Etude
+    \#2](../../../uppdrag/GI/kimauto/final_project/final_stuff/KA_example_1.wav)
+    can be listened to here. See the notes in
+    ^[\[orge1ed47b\]](#orge1ed47b){reference-type="ref"
+    reference="orge1ed47b"}^ for listening instructions.
+
+[^17]: See <https://vimeopro.com/feed2212/mongrel/video/304376625> for a
+    web version of the piece (visited October 15, 2020). For a more in
+    depth discussion of it see @frisk2017e [@frisk_elberling_2019].
+
+[^18]: [Etude
+    \#3](../../../uppdrag/GI/kimauto/final_project/final_stuff/KA_example_3.wav).
+    See the notes in ^[\[orge1ed47b\]](#orge1ed47b){reference-type="ref"
+    reference="orge1ed47b"}^ for listening instructions.
