@@ -1,0 +1,117 @@
+# Created 2020-11-22 sön 12:57
+#+TITLE: In pursuit of the perfect performance
+#+AUTHOR: Henrik Frisk, henrik.frisk@kmh.se
+It may appear as nothing but a contradiction in terms that artistic research may in fact /not/ always aim for the 'better' or more efficient artistic result. Why would a research activity not strive to improve the activity in focus of the researcher? Well, of course this is the goal. The 
+
+, in one sense. The problem that needs to be faced however is to define what the activity really is. What constitutes the primary, and ultimate goal of perfoming music for a particular musician? If this is not possible to univocally determine, then it is exceptionally dificult to determine what may be done to improve the result.
+
+The classical performer is a proxy. A means in the listener´s emanciaptory search for the volatile musical message. The music consumer wants to be dazzled by her powers to move, but ultimately it is not the performer as a human that listeners are interested in, but the musical trace she leaves behind. Listeners depend on her, but not more than what allows them to turn against her if she fails, and there is always another one waiting to serve as an agent for their desires. While we as listeners know that the music performed is incredibly difficult to perform, and that it requires countless hours of practice, the performer as an embodied quality is not valued. Though the physicality of the performers body may be a parameter of interest, as well as its aesthetical qualities, the body itself is nothing but a distraction. The virtuosity is a property of the virtuous performer, but it is in the ease of the performance that the secret to the listener's approval lies. No visible sweat on stage. Beauty, smile and wonder.
+
+The performer is in it for a higher good and in the fulfillment of that wish, her body and physicality, even her psychological identity, are all secondary. In a recent panel discussion on equality in music at the Royal College of Music in Stockholm a representative for a performer's agency for female classical singers commented that they would always inform their artists to beware of sexual invites from conductors and others. Though commendable as such, it is difficult to ignore how the art was prioritized above the general sense of morality, and the alternative, to actively fight the destructive systems of subordination, or even refuse to send young women into a distorted environment, appears not to have been an option. The body of the performer is necessary, but much less important than the performance, and at best it is possible to avoid that the body is abused.
+
+While the dominant traits of Western epistemology is slowly being transformed in a 'one step forward, two backwards' fasion, the classical performance tradition is firmly rooted in a nearly divine view upon Western classical music as the epitome of human endeavour. The golden age may have ended at the time of the end of the second World War, but the tradition is kept alive by conservatories, symphony orchestras, record companies, artist's agencies, public funding organisations, radio broadcasting companies (though to a less degree in recent years) and many others. The field is a complex web of interrelated interests and it would be false to define it as solely conservative. Quite the contrary, at times it can be progressive and unpredictable. However, the narrative of Western classical music as one of the most sophisticated and pure artforms ever created is not in harmony with the concept of a scattered field of dispersed agents with a range of different motives. 
+
+In this text, loosely departing from Donna Haraway's seminal text A Cyborg Manifesto, we will attempt to map the pursuit for the perfect performance onto this complex field of agency and look at the various ways in which the structural domination of a system of domination participates in the construction of fear. Another point of departure is the complexity of defining quality in this system. Seemingly contradictory in terms, in music, both of the following two statements may be true at the same time:
+
+1. A perfect performance rests on knowledge of and understanding for the tradition.
+2. A perfect performance must break with prior performances and traditions.
+
+Many similar non-binary and complex value systems exists and although we are not attempting to explain these or come up with robust and non-contradictory systems, it is our ambition to relate these to the common experience of performance anxiety among classical performers.
+
+The romantic and still influential idea that music in some respects have intrinsic values that go beyond whatever social or political frameworks it is otherwise bound to has been challenged many times, in particular within the field of artistic research. In this context we are interested in the interaction between the value of music as a pure value and the various socially, including commercially, and politically constituted environments and structures in which the music is produced. It is not difficult to understand that these different levels in which music may be understood, analyzed and interpreted may be confusing to the classical performer. Furthermore, on a socia-musical meta-level there is a discourse that attempts to rule out certain elements while favouring others. One exampel of this is that a performer that has received a great review, generating income from record sales and performances, may, given that the revenue is coming from well respected institutions,[fn:5] receive great artistic respect. 
+
+This lack of acceptance of the impact of the radical commodification of music that began in the 19th century, developed during the 20th century to reach a point beyond anything probably even Adorno would have anticipated is striking. Commonly when representatives for music institutions are to defend programming that appears to be governed by commercial interests rather than other relevant aspects such as gender equality, it is rather the artistic freedom that is referenced.[fn:6] In the highly commercial world of classical music it appears that an important part of the narrative is that the commercial aspect of the practice may disrupt the view upon the a priori qualities of the music. Hence, though commercial aspects relating to the number of ticket sales, CD sales, number of streams, etc. are crucial to any artist's career, the are rarely mentioned nor discussed.
+
+Irony will be one of our methods with which we approach this dificult field and we will use Donna Haraway's seminal text from 1984 to guide us. In the very first paragraph she writes:
+
+Irony is about contradictions that do not resolve into larger
+wholes, even dialectically, about the tension of holding incom-
+patible things together because both or all are necessary and
+true. Irony is about humor and serious play. It is also a rhetorical
+strategy and a political method, one I would like to see more
+honored within socialist-feminism. At the center of my ironic
+faith, my blasphemy, is the image of the cyborg.
+
+The aforementioned statements about quality in performance are an example of irony in the way we need to hold on to both at the same time without attempting to resolve them into unity and structure. They are both true and necessary. Irony is humour and play and it is necessary to allow ourselves to see the humour in the rituals of classical music performance without ressuming to denial or rejection. Our task here is a political method and by approaching irony we can deconstruct value systems that govern us as musicians and researchers. Finally, the cyborg is for Haraway a possibility to deconstruct binary gender divisions but we see that the performer is already a cyborg in becoming and resolving its identity as such we are able to reconstruct alternative social narratives for the classical music performer. 
+
+
+If Donna Haraway saw the cyborg as a way to understand 
+
+For Donna Haraway the cyborg is a step towards a view of the world where dispersion is key. It is politics because the cyborg points towards a utopian future without  
+
+The cyborg is a kind of disassembled
+and reassembled, postmodern collective and personal self. This
+is the self feminists must code.(p.33)
+
+Feminist practice is
+the construction of this form of consciousness—that is, the
+self-knowledge of a self-who-is-not. (p.24)
+
+What kind of politics could embrace partial, contradictory,
+permanently unclosed constructions of personal and collective
+selves and still be faithful, effective—and, ironically, socialist-
+feminist? (p. 21)
+
+It is also an effort to contribute to socialist-feminist cul-
+ture and theory in a postmodernist, non-naturalist mode and
+in the utopian tradition of imagining a world without gender,
+which is perhaps a world without genesis, but maybe also a
+world without end.( 7.)
+
+and through irony and blasphemy allow herself to sketch a possible future
+
+[fn:5] The evaluation involved here is dependent on a complex system of value markers
+
+[fn:6] Referens till AB debatten
+
+* Litteratur
+
+[[pdfview:/Users/henrik_frisk/Docs/articles/lib/DonnaHaraway1988.pdf::3][/Users/henrik_frisk/Docs/articles/lib/DonnaHaraway1988.pdf]]
+
+"So, I think my problem, and "our" problem, is how to have simultaneously an account of radical historical taneously contingency for all knowledge claims and knowing subjects, a critical practice for recognizing our own "semiotic technologies" for making meanings, and a no-nonsense commitment to faithful accounts of a "real" world, one that can be partially shared and that is friendly to earthwide projects of finite freedom, adequate material abun- dance, modest meaning in suffering, and limited happiness." (p. 579)
+
+- Decarsin, F., & Dunsby, J. (1985). Liszt's 'nuages gris' and kagel's
+  'unguis incarnatus est': a model and its issue. Music Analysis,
+  4(3), 259–263.
+
+- Ellestr\"om, L. (2002). Divine madness: on interpreting literature,
+  music, and the visual arts ironically. : Bucknell University Press.
+
+- Cook, N. (2013). Western music as world music. In P. V. Bohlman
+  (Eds.), The Cambridge History of World Music (pp. 75–100). :
+  Cambridge University Press.
+
+- Al-Taee, N. (2017). Representations of the orient in western music:
+  violence and sensuality. : Taylor \& Francis.
+
+https://books.google.se/books?hl=en&lr=&id=r_Kd6Dtm3egC&oi=fnd&pg=PP9&dq=western+classical+music+canon&ots=jrb8l6sLO_&sig=Lvl6QLuRsKJElIMQDoFHwtLAFWs&redir_esc=y#v=onepage&q=western%20classical%20music%20canon&f=false
+
+* Steinway
+
+The ultimate irony of Steinway's initiative, however, is that it is difficult to see a better way to push on the escalating dismantling of the practice of amateur piano playing and thus, the destruction of the grand piano as a conspicuous symbol for the bourgeousie. After all, who will want to hear your daughter's lousy piano performance when the piano can play perfect performances of an ever growing repertoire. The performer on the other hand is as important an figure even after the cybernetic transformation of the performance has been perfected because the credibility of the system lies in the authority of the artistic competence of the performer who lends her name to the recording. As a consequence Spirio is a natural continuation of the developemnt of music as commodity and it should be seen as a gadget, albeit one with strong cultural and social connotations. At a fraction of the price a sound system could be bought that would play back recordings that to most listeners would be sonically inseparable to those that the piano plays back (room acoustics would in the ne be more important), but, ovbviously, a pair of speakers has none of the values that the grand piano delivers.
+
+* Haraway
+
+"A cyborg is a cybernetic organism, a hybrid of machine and organism, a creature of social reality as well as a creature of fiction."
+
+The classical performer is a hybrid between non-human and human. Part of the performer's  attraction lies in the way s/he differes from the perceived self, because only if the performance reaches far beyond what the listeners may imagine or play by themselves does the performer qualify as a true virtuouso. A creature of fiction and of myth the social presence of the classical performer is complex and ultimately political. By altering what counts as experience the performer is a powerful construct, a machine capable of evoking a myriad of emotions the performers themselves are not able to fully live out. In a recent review of a concert by one of the authors the reviewer noted that the audience was so moved they started crying. This emotional experience is not one that performers may allow themselves to fully appreciate in performance: it is almost absurd to imagine a full orchestra with conductor and solosit burst out into crying while playing Rachmaninov. The emotions they evoke are reserved for the listener, not the performer.
+
+"By the late twentieth century, our time, a mythic time, we are all chimeras, theorized and fabricated hybrids of machine and organism—in short, cyborgs. The cyborg is our ontology; it gives us our politics. The cyborg is a condensed image of both imagination and material reality, the two joined centers struc- turing any possibility of historical transformation. In the traditions of “Western” science and politics—the tradition of racist, male-dominant capitalism; the tradition of progress; the tradition of the appropriation of nature as resource for the productions of culture; the tradition of reproduction of the self from the reflections of the other—the relation between organism and machine has been a border war."
+
+In the tradition of Western classical music there is an unholy alliance between tradition and renewal and caught in between the joined centers of imagination, emotion and material reality is the performer. In an oedipal configuration in which it is impossible to tell what is renewal and what is conservation, the performer is an important part of the ontology of the musical work: All performers will have to marry their mothers and kill their fathers at some point because the listeners demand it. 
+
+The political deception in play is sophisticated and powerful and the performers are useful agents in the process. Part and parcel of the Western science and politics the world of classical music is exclusive, yet inviting, open yet closed. It is a marker and a proponent of the male-dominant capitalism of the 21st century disguised as sheer beauty: not even post-modern music managed to break with the Western hegemony. The stakes are high and involve not so much the territory as the right to become a trust worthy member of the community. In a recent call in the European Union's Horizon2020 call for reasearch proposals the cherished value of European culture is held in high esteem:[fn:7]
+
+"Research will result in better knowledge of cultural Europeanisation in the making and in new, innovative tools and material for formal and informal education. The results and their dissemination will contribute to the renewal of cultural narratives of Europe that speak to Europeans of different languages, cultures, religions and origins beyond national borders."
+
+It is, in other words, the role of European culture to fulfill the wish of a united Europe and homogenize the cultures that deviate from the Western European norm exemplified in the call with anything from "the ancient Greek myth of Europa to Tolstoy's depiction of Napoleonic Europe in "War and Peace" and to Beethoven's 9th Symphony passing by medieval sacred arts or iconic European films. The musician used to be minstrels before, but in the contemporary schema they are cybernetic shamans that act as intermediaries allowing the audience access to the spiritual and emotional world of the epithany of Western culture: Classical music.
+
+[fn:7] Europe in a changing world – inclusive, innovative and reflective Societies
+Call : H2020-SC6-CULT-COOP-2016-2017 
+
+* The music is a proxy
+
+In the view upon the field of agents involved in a classical music performance the music may be seen as the proxy that binds together the performer and the listener. It is through the music that the listener connects with the performer even if the performer, in this particular context, is disposable. In Adorno's categories of musical listener the third and final is an example of a listener for whom the performer is only a means towards an end. The details surrounding the performance (or recording) is of equal importance to this category and the performed music is really only necessary to provide a frame for the experience.
+
+In the field of the performance the range of possible ways of expressing emotional stimuli is determined by the role of each agent in the system and each group is closed off by strict boundaries. As was alluded to earlier for a member of the audience it is not uncommon to cry as a response to some music. It would however be unthinkable for a performer to start crying as an emotional response to the music. For the performer, however, it is perfectly acceptable to shake the head or otherwise move with the music while performing in a manner rarely seen in the audience. There appears to be a particular code associated with the role of a performer that is not possible for the audience to pick up on.
+

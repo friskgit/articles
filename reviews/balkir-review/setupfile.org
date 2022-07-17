@@ -1,0 +1,7 @@
+#+LATEX_HEADER: \usepackage[lf]{ebgaramond}
+#+LATEX_HEADER: \usepackage{sectsty}
+#+LATEX_HEADER: \allsectionsfont{\sf}
+#+LATEX_HEADER: \hypersetup{colorlinks=true,linkcolor=black,urlcolor=black}
+#+LATEX_HEADER: \usepackage[style=bath,natbib=true,backend=biber,hyperref=false, doi=false, url=false]{biblatex}
+#+LATEX_HEADER: \bibliography{./../../biblio/bibliography.bib}
+#+LATEX_HEADER: \renewcommand*{\ppspace}{\addspace}

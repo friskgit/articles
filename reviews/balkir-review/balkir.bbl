@@ -1,0 +1,220 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\preamble{%
+\hyphenation{Post-Script}%
+}
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Balkir2018}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e17d007e66b6ddd72b534a1cc99ccda5}{%
+           family={Balkir},
+           familyi={B\bibinitperiod},
+           given={Elif},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Sorbonne Université}%
+      }
+      \list{publisher}{2}{%
+        {Department of Culture}%
+        {Aesthetics, Stockholm University}%
+      }
+      \strng{namehash}{e17d007e66b6ddd72b534a1cc99ccda5}
+      \strng{fullhash}{e17d007e66b6ddd72b534a1cc99ccda5}
+      \strng{bibnamehash}{e17d007e66b6ddd72b534a1cc99ccda5}
+      \strng{authorbibnamehash}{e17d007e66b6ddd72b534a1cc99ccda5}
+      \strng{authornamehash}{e17d007e66b6ddd72b534a1cc99ccda5}
+      \strng{authorfullhash}{e17d007e66b6ddd72b534a1cc99ccda5}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-91-7797-361-4}
+      \field{issn}{1103-6362}
+      \field{note}{Joint PhD supervision between Sorbonne Université, École Doctorale V / Concepts et Langages, Institut de Recherche en Musicologie (UMR 8223) and Stockholm University, Department of Culture and Aesthetics}
+      \field{number}{24}
+      \field{series}{studier i musikvetenskap}
+      \field{title}{{É}Etude comparative dex approches créatrices et technologiques au Group de Recherce Musicales {à} Paris et l'Elektroonmusikstudion {à} Stockholm 1965-1980 : Deux directions artistique différente {à} partir d'une idée commune}
+      \field{type}{phdthesis}
+      \field{year}{2018}
+      \field{pages}{352}
+      \range{pages}{1}
+    \endentry
+    \entry{frisk08phd}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8af23739c8c5ddb97564f1e486149be2}{%
+           family={Frisk},
+           familyi={F\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {Malm{ö} Faculty of Fine}%
+        {Performing Arts, Lund University}%
+      }
+      \list{publisher}{1}{%
+        {Lund University Press}%
+      }
+      \strng{namehash}{8af23739c8c5ddb97564f1e486149be2}
+      \strng{fullhash}{8af23739c8c5ddb97564f1e486149be2}
+      \strng{bibnamehash}{8af23739c8c5ddb97564f1e486149be2}
+      \strng{authorbibnamehash}{8af23739c8c5ddb97564f1e486149be2}
+      \strng{authornamehash}{8af23739c8c5ddb97564f1e486149be2}
+      \strng{authorfullhash}{8af23739c8c5ddb97564f1e486149be2}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1653-8617}
+      \field{title}{{Improvisation, Computers, and Interaction: Rethinking Human-Computer Interaction Through Music}}
+      \field{type}{phdthesis}
+      \field{year}{2008}
+    \endentry
+    \entry{groth2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=268163e736630b0f3958b7b69b801a88}{%
+           family={Krogh\bibnamedelima Groth},
+           familyi={K\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Sanne},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{268163e736630b0f3958b7b69b801a88}
+      \strng{fullhash}{268163e736630b0f3958b7b69b801a88}
+      \strng{bibnamehash}{268163e736630b0f3958b7b69b801a88}
+      \strng{authorbibnamehash}{268163e736630b0f3958b7b69b801a88}
+      \strng{authornamehash}{268163e736630b0f3958b7b69b801a88}
+      \strng{authorfullhash}{268163e736630b0f3958b7b69b801a88}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Contemporary Music Review}
+      \field{number}{6}
+      \field{title}{Composers on Stage: Ambiguous Authorship in Contemporary Music Performance}
+      \field{volume}{35}
+      \field{year}{2016}
+      \field{pages}{686\bibrangedash 705}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1080/07494467.2016.1282650
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/07494467.2016.1282650
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/07494467.2016.1282650
+      \endverb
+    \endentry
+    \entry{schaeffer77}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=319b34a2e0d628fc8b5fc00a78f409e4}{%
+           family={Schaeffer},
+           familyi={S\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Éditions du Seuil}%
+      }
+      \strng{namehash}{319b34a2e0d628fc8b5fc00a78f409e4}
+      \strng{fullhash}{319b34a2e0d628fc8b5fc00a78f409e4}
+      \strng{bibnamehash}{319b34a2e0d628fc8b5fc00a78f409e4}
+      \strng{authorbibnamehash}{319b34a2e0d628fc8b5fc00a78f409e4}
+      \strng{authornamehash}{319b34a2e0d628fc8b5fc00a78f409e4}
+      \strng{authorfullhash}{319b34a2e0d628fc8b5fc00a78f409e4}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Traité des objets musicaux:essai interdisciplines}
+      \field{year}{1977}
+    \endentry
+    \entry{skold2019}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e43e5988029d4227070ed69a21158ab9}{%
+           family={Sköld},
+           familyi={S\bibinitperiod},
+           given={Mattias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e43e5988029d4227070ed69a21158ab9}
+      \strng{fullhash}{e43e5988029d4227070ed69a21158ab9}
+      \strng{bibnamehash}{e43e5988029d4227070ed69a21158ab9}
+      \strng{authorbibnamehash}{e43e5988029d4227070ed69a21158ab9}
+      \strng{authornamehash}{e43e5988029d4227070ed69a21158ab9}
+      \strng{authorfullhash}{e43e5988029d4227070ed69a21158ab9}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{14th International Symposium on Computer Music Multidisciplinary Research}
+      \field{title}{Visual Representation of Musical Rhythm in Relation to Music Technology Interfaces-an Overview}
+      \field{year}{2019}
+      \field{pages}{725}
+      \range{pages}{1}
+    \endentry
+    \entry{wiggen1972}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b870962f601e92bbc9defd30e7f9ce09}{%
+           family={Wiggen},
+           familyi={W\bibinitperiod},
+           given={Knut},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Sveriges Radio}%
+      }
+      \strng{namehash}{b870962f601e92bbc9defd30e7f9ce09}
+      \strng{fullhash}{b870962f601e92bbc9defd30e7f9ce09}
+      \strng{bibnamehash}{b870962f601e92bbc9defd30e7f9ce09}
+      \strng{authorbibnamehash}{b870962f601e92bbc9defd30e7f9ce09}
+      \strng{authornamehash}{b870962f601e92bbc9defd30e7f9ce09}
+      \strng{authorfullhash}{b870962f601e92bbc9defd30e7f9ce09}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{De två musikkulturerna}
+      \field{year}{1972}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
