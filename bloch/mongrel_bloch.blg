@@ -1,0 +1,15 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is 'mongrel_bloch.blg'
+[42] biber-darwin:313> INFO - === Mån Maj 27, 2019, 20:03:27
+[67] Biber.pm:371> INFO - Reading 'mongrel_bloch.bcf'
+[156] Biber.pm:857> INFO - Found 2 citekeys in bib section 0
+[171] Biber.pm:3976> INFO - Processing section 0
+[183] Biber.pm:4136> INFO - Looking for bibtex format file '/Users/henrik_frisk/Dropbox/Documents/articles/biblio/bibliography.bib' for section 0
+[199] bibtex.pm:1500> INFO - LaTeX decoding ...
+[859] bibtex.pm:1316> INFO - Found BibTeX data source '/Users/henrik_frisk/Dropbox/Documents/articles/biblio/bibliography.bib'
+[927] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[927] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[927] Biber.pm:3804> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[927] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[930] bbl.pm:617> INFO - Writing 'mongrel_bloch.bbl' with encoding 'UTF-8'
+[931] bbl.pm:720> INFO - Output to mongrel_bloch.bbl

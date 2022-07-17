@@ -1,0 +1,200 @@
+# Created 2022-02-10 tor 12:31
+#+title: Annika & Henrik
+#+author: Henrik Frisk
+
+#+cite_export: csl /home/henrikfr/Documents/articles/biblio/csl-styles/apa-7th.csl
+[[mu4e:msgid:00000000000091ec3d059f8a83b9@google.com][Musikavhandlingar_Henrik_Annika]]
+#+begin_src emacs-lisp
+  (setq line-spacing 10)
+  (set-window-margins nil 20 50)
+#+end_src
+
+#+RESULTS:
+: t
+
+#+begin_src emacs-lisp
+(setq line-spacing 2)
+(set-window-margins nil 0 0)
+#+end_src
+
+#+RESULTS:
+
+* Introduction
+
+#+cite_export: csl /home/henrikfr/Documents/articles/biblio/csl-styles/apa-7th.csl
+
+In the seminal book /Elements of Computer Music/[fn:36] by F. Richard [cite/t:@moore90] the following remark is made:
+
+#+begin_quote
+Most academic disciplines are disciplines of thought. They exist in order to define a "correct" (or at least useful) view of some subset of humans konwledge. Computer music, however, is strangly interdsciplinary. (p. 23)
+#+end_quote
+
+Although it is uncontested that also interdisciplinary research may define useful views of human knowledge, this genuinely interdisciplinary nature of electronic music is particularly distinct. A little later Moore continues:
+
+#+begin_quote
+To be on the same level with the phenomenon of computer music, we shall need to resolve to a considerable beyond musical tradition, into the realms of digital signal processing, acoustics, psycho acoustics, and traditional musical structures, all of which is unified by the rich cross-fertilization of music and computers. (p. 25)
+#+end_quote
+
+In other words, there is no single discipline, not a single epistemological trace, that we can turn to in the practice or research of computer music. The field "is strangely interdisciplinary" [cite/p:@moore90; p. 23] in nature. It is not impossible to argue that art, or at least music in general, requires an interdisciplinary methodology but the particular needs of research and practice in electronic music makes it nevertheless stand out in this respect.
+
+One of the attempts to approach the complexities of not only computer music, but also artistic pratice in general is artistic research. A simple definition may be formulated as consisting of a conglomerate of methods centered around the artistic practice with the overarching purpose to better understand the processes behind artistic creation: the result of this process, one may say, is both object and method, and the ambition is to expand knowledge on creative solutions to complex problems.
+
+Musicology being the source for music research, there is a naturally strong connection backwards from artistic research in music to music pedagogy and musicology, but there is an equally strong path that may be traced through music theory, music psychology, music and technology and engineering. Furthermore, research disciplines from the human and social sciences such as philosophy, cognitive science, anthropology, architecture, socialology and many others have been highly influential. The tendency to lean on an interdisciplinary framework does no prevent artistic research in music from forming its own identity. An identity, however, that is firmly rooted in its interdisciplinary nature.
+
+We both started working at KMH roughly at the same time. Partly, Henrik's job was to supervize PhDs and explore the possibilities for building an artistic research environment in music. Annika's job was research office so both our missions coincided. Developing research at KMH, in particular artistic research was not easy, but we eventually sketched out a possible collaboration with KTH to design a joint PhD program in music and technology. It took us less than a year before the program was up and running which by all standards most be seen as a quite short time considering the negotiations that had to be followed through. It was obvious that one of the reasons it was relatively easily accomplished was because we attached to a collaboration that had been going on for a long time. Someone had done the ground work.
+
+Not only is the EAM program at KMH well designed in both the bachelor and masters education. The studios and utilities are characterized by discipline and rigorous design. The teachers collaborate and share the same goal and the international collaborations are carefully chosen. Someone has really worked on this for a long time. 
+
+Of course, this someone is Bill Brunson in both cases. At KMH Bill was the one who always had answers. Through the many different positions he had occupied he had been entangled with almost every aspect of KMH for many years. And it doesn't stop there. When he discusses his research with us there is true interdisciplinary and visionary thinking, and the same meticulous intellect that designed the studios at KMH is revealed. A trademark of his music is the scrupulous attention to detail and diligent precision in the mixing. 
+
+At a memorably event some years ago, when we were still in the old building, Bill, Annika and I gathered to discuss a range of things concerning the development of our research environment, Bill's own research and our joint frustration of the slow pace that KMH maintained concerning research development. We had an intense discussion all three of us and Annika tried hard to focus our thinking. For every obstacle Bill and I saw Annika would say "Skit i det!", the polite translation of which would be "Don't mind that!". This was to some extent foreign to Bill, to *not* mind some aspect of a problem, and probably the reason it stuck with us. "Skit i det" is simply not something Bill does, but at the time it was exactly what we had to do.
+
+To re-connect to F. Richard Moore thoughts above, we believe that the general spirit in the USA with initatives such as Bell Labs and Xerox Parc encouraged interdisiplinary thinking in a way that influenced the (then) young generation of composers. We are happy that Bill brought some of it with him when he came to Sweden in the 70's, and we are happy that he decided to stay. The work he has done for KMH will impact many generation of students, researchers, composers and musicians long after he has retired.
+
+#+print_bibliography: title: "Bilbliography"
+
+* Den elektroakustiska musikens obestämbarhet: en konstnärlig epistemologi                                                            
+Att man i Sverige på strukturell nivå inte skiljer konstnärlig och vetenskaplig kunskap åt har haft ett stort inflytande på hur konstnärliga utbildningar har kunnat utvecklas. På denna punkt skiljer sig Sverige från många andra länder och det har möjliggjort en på många sätt gynnsam utveckling av konstnärlig forskning. I andra länder tvingas den konstnärliga forskningen in i det vetenskapliga paradigmet, något som ger vissa fördelar men också tydliga nackdelar. Baksidan av den svenska modellen är att den inte tydligt kan hantera det som överlappar mellan de två kunskapsfälten (vetenskapligt och konstnärligt) och därmed riskerar den att i vissa fall skapa åtskillnad snarare än överbyggnad. Med andra ord, tvär-- och interdisciplinäritet mellan det konstnärliga och det vetenskapliga har inte varit en nödvändighet på samma sätt som i andra länder, där vägen till en konstnärlig forskningsmiljö alltsom oftast gått genom vetenskapliga miljöer. När man i den svenska modellen snarare pekat på den konstnärliga grundens särprägel och som ett eget specifikt kunskapsfält har konstnärlig forskning i andra fall blivit underordnad den övergripande vetenskapligheten. Men det är inte givet att det behöver vara så: även i vårt system kan konstnärlig praktik och forskning nära samverka med vetenskapliga miljöer utan att det /konstnärliga/ i forskningen eller kunskapen går förlorat.
+
+Utvecklingen av konstnärlig forskning i Sverige kan ses utifrån minst tre delvis överlappande processer. Den ena rör den utbildningspolitiska aspekten av konstnärlig utbildning i Bolgnamodellen, men i Sverige började den ännu tidigare än så, med högskolereformen 1977 (se bland annat[cite/t:@Lilja2015]). Då alla högskolor ska bygga på utbildning som är baserad på forskning så måste även de konstnärliga utbildningarna bedriva forskning och eftersom dessa bedriver konstnärlig undervisning eller undervisning i konstnärliga metoder så måste de bedriva konstnärlig forskning. I grunden ligger ett jämställande av konstnärlig och vetenskaplig forskning som ses som två kompletterande uttryck för kunskapsutveckling. Den andra processen är mer svårfångad men handlar om hur konst- och kulturlivet i samhället har utvecklat sig under de senaste decennierna. Det fält inom vilket konstnärliga uttryck diskuteras och kommuniceras har för vissa uttryck, som musik, förändrats i ganska stor grad. Dagspressens recensionsverksamhet, Public Service avtryck på musiklivet och det offentligas stöd till musiklivet har förändrats vilket har skapat behov för nya ytor på vilka konstnärliga uttryck kan  diskuteras och experimenteras med. En tredje process rör en mer filosofiskt orienterad epistemologisk fråga om vad kunskap kan ses vara och hur den kan kommuniceras. En vanlig, initial, invändning mot konstnärlig forskning är att något som i allt väsentligt är beroende av sinnesintryck, som konstnärliga uttryck kan sägas vara, inte kan utgöra grunden för forskningsmässig kunskap. Även om denna invändning vilar på en missuppfattning av såväl forskningsmässig kunskap som konstnärlig kunskap så rör den vid en viktig grundförutsättning för all kunskapsutveckling: att det finns en grundläggande överenskommelse om vad ramarna är som man kan enas omkring.
+
+En konstnärlig epistemologi, som ett komplement och expansion av det vetenskapliga paradigmet, kan bidra till att komplexa problem kan omformuleras, och själva tänkandet i görandet--det vill säga att låta praktiken vara ett system som möjliggör tänkande--är i detta sammanhang centralt. Det är inte alltid görandet som är det centrala utan tänkandet genom görandet. På samma sätt som en forskare kan "ställa frågor" till forskningsdata kan en konstnärlig forskare ställa frågor genom en praktik. Frågor som kanske formuleras och besvaras i text, men där processen går genom praktiken. Det som gör att detta intressant är att den estetiska dimensionen utgör en valideringsgrund: /låter det bra/ så vet jag att undersökningen har lyckats även om det konstnärlig utfallet inte vad det huvudsakliga syftet. 
+
+Vissa konstnärliga fält är beroende av andra discipliner för att kunna utvecklas. Musik är ett sådant och i elektroakustisk musik blir det väldigt tydligt. Både vad interdisciplinäriteten består i och på vilka sätt musiken skiljer sig från de kunskapsfält från vilka musiken lånar. Man kan för exempel fundera över vad skillnaden blir mellan, säg en synt, som utvecklats på vetenskapliga grunder och en som utvecklats framförallt för att spela musik på i en given genre? Men det är inte skilnnaderna som är det mest intressanta utan hur disciplinerna kan samverka.
+I interdisciplinäriteten uppstår nya möjligheter. Musik, i synnerhet musik som har ett stort behov av teknik, är ett fält där många olika discipliner spelar en viktig roll och olika typer av kunskaper och metoder samsas: psykologi, teknik, kognitionsvetenskap, design, mnm. I musikteknikfältet  överlappar dessa och andra i hög grad i kraft av att det finns en delvis gemensam bas i hur musikteknik konstituerar sig. Men det har även att göra med vilken roll teori spelar, och det inflytande den har i processen:
+
+#+begin_quote
+one of most intriguing aspects about art today is its entanglement with theory. in fact, contemporary art practice is now so highly saturated with theoretical knowledge that it is becoming a research practice in and of itself. [cite/p:@Busch2009]
+#+end_quote
+Jag skulle hävda att denna överexponering av teori framförallt gäller bildkonsten, och att för musiken är situationen annorlunda. Men framförallt ligger inte utmaningen där, i att hitta vad skärningspunkten mellan teori och praktik ska vara. Istället är den stora utmaningen att finna fram till teorin genom praktiken: vad är det för teori som praktiken vilar på, och hur kan den lyftas fram och kritiskt granskas?
+
+Konstnärlig kunskap kan sägas vara den kunskap som leder fram till ett konstnärligt resultat, men det är även den kunskap som gör det möjligt att göra en bedömning av ett konstnärligt arbetes kunskapspotential. Att det ska behövas kunskap för att finna kunskap kan först te sig elitistiskt och motsägelsefullt men är i själva verket helt naturligt och motverkar den populära synen på konstnärlig kvalitet som något arteget och ett värde som står för sig själv. Men för att kunna gå bortom ytan behövs det en förståelse för att förstå vad som kan förstås. I det här fallet så talar vi om en kunskap som delvis valideras av vad vi lite slarvigt kallar en estetisk bedömning. Att föra in det estetiska här underlättar men inte utan att det riskerar att skapa nya problem, helt enkelt eftersom begreppet /estetik/ både kan referera till en persons uppsättning av värderingar och till de kvaliteter man faktiskt uppfattar i ett objekt. En estetisk bedömning kan alltså både syfta till vad lyssnaren tycker sig förstå av musiken /och/ hur väl musiken passar lyssnarens värderingar. Ofta så är den distinktionen inte så tydlig, utan de två perspektiven glider ihop. 
+
+Den konstnärliga kunskapen bidrar hursomhelst till att förstå, inte bara när man lyssnar till någon annans musik, utan likaså när man lyssnar till sin egen. Det är i den processen som ett tankesystem kan framträda, en teori som musiken vilar på men som är helt inbäddad i musiken. Det kan var något så enkelt som en tonart och något extremt flyktigt som en filosofisk teori. Oavsett är förhållandet det att teorin vilar i musiken. Det gör det möjligt att genom praktiken reflektera över, och söka svar på, frågor som går bortom det musikaliska och det konstnärliga. Det är detta som avses när man talar om att "tänka genom praktik" och i musik medieras det framförallt genom lyssnandet. En undersökning som görs genom konstnärlig praktik kan valideras genom resultatet av det konstnärliga arbetet. Helt enkelt: låter det bra är resultatet värdefullt och därmed är både det och processen validerad. Här framträder dock direkt metodologiska baksidor.
+
+I ett samhälle präglat av vetenskap och objektivt belagd kunskap är det lätt att ställa sig frågande till validiteten i sådan kunskap som inte låter sig underordnas detta paradigm. Men det finns många exempel på vetenskapliga discipliner som inte heller utan problem kan valideras utifrån en strikt positivistisk syn på vetenskap. Syftet med en konstnärlig forskningsdisciplin är självklart inte att göra det vetenskapen redan gör, utan att erbjuda nya sätt att se på kunskapsutveckling. Om man ser till den konstnärliga kunskapen som konstnärlig forskning kan leda fram till så har den en rad olika möjliga betydelser eller områden som den kan verka på:
+
+- Konstnärens kunnande för konstnären
+  Att jämföra med konstnärligt utvecklingsarbete. Frågor som rör den egna kunskapsutvecklingen ställs och besvaras.
+- Konstnärens kunnande för konsten
+  Den bredare praktiken som konstnären verkar i kan gagnas av arbetet.
+- Betraktarens kunnande för konsten
+  Hur kan vi se på konst och hur kan konstnärliga processer förklaras på ett sätt som påverkar hur lyssnaren eller betraktaren kan ta sig an konsten.
+- Konsten som källa till kunnande
+  Själva praktiken i en bredare bemärkelse, alltså utöver den enskilda konstnärens/forskarens sfär blir bidrar till kunskapsbildningen.
+- Praktiken som källa till kunnande
+  Praktiken används som en testbädd för tänkande. Frågeställningen behöver inte vara relaterad till konstnärlig praktik utan kan ställs och besvaras genom praktiken.
+- konsten är en form för kunskap
+  Konsten själv är här en källa för kunskap.
+
+Det finns en möjlig negativ, om än ofullständig, definition av vad konstnärlig kunskap kan utgöra som grundar sig i empiri. Föreställ dig allt som du kan kan säga någonting om utifrån vedertagna vetenskapliga definitioner såsom gravitationens inverkan på din kropp, luftens och vattnets sammansättning, de politiska och sociala system som du ingår i och påverkas ev, etc. En konstnärlig undersökning kan angripa alla de frågorna men kommer (sannolikt) aldrig kunna komma upp med ett nytt Tperiodiskt system eller utmana gravitationsteorierna. 
+Det konsten kan säga någonting om är vad som händer när man blir utsatt för gravitation, hur luften doftar och vattnet smakar och de känslomässiga konsekvenser som det sociala och politiska har på dig. Eller som Eisner skriver: 
+
+#+begin_quote
+For me, the defining feature that allows us to talk collectively about the arts is that art forms share the common mission of achieving expressiveness through the ways in which form has been crafted or shaped. The arts historically have addressed the task of evoking emotion. We sometimes speak of the arts as resources that can take us on a ride. The arts, as I have indicated elsewhere, provide a natural high. They can also provide a natural low. The range of emotional responses is enormous. These emotional consequences in relation to a referent color the referent by virtue of the character of the emotion that the artistically crafted form possesses. Through art we come to feel, very often, what we cannot see directly. [cite/p:@Eisner2008]
+#+end_quote
+
+Målsättning här är inte att definiera vad konstnärlig forskning är, utan snarare att bättre förstå hur olika forskningsgrenar samverkar, eller skulle kunna samverka, i situationer där denna samverkan positivt bidrar till kunskapsutvecklingen. Samverkan har sällan ett egensyfte och det finns ofta goda anledningar att låta projekt försigå helt och hållet inom en disciplin.
+Men det är ingen tvekan om att det redan finns tydliga likheter mellan konstnärlig forskning i musik och till exempel vetenskaplig forskning. Det är heller ingen tvekan om att det finns stora skillnader. Den kanske främsta anledningen till att det ibland kan vara svårt att samarbeta över gränserna när det gäller konstnärlig forskning är det som ger konstnärlig forskning sin särprägel, nämligen den konstnärliga metoden. Själva grundvalen för att avgöra om forskningen håller hög kvalitet är i vissa fall helt annorlunda för de två disciplinerna, för vilket det måste finnas förståelse och respekt om ett samarbete ska kunna bli ömsesidigt värdefullt.
+
+Det finns en mer jordnära och konkret anledning till varför vi behöver stabil samverkan över gränserna inom just musikforskningsfältet. De stora och viktiga samhällsfrågor som vi har framför oss att lösa behöver den praktiknära kunskap och den sensibilitet som det konstnärliga området kan erbjuda. Det är i samverkan mellan kunskapsformerna som potentialen till utveckling finns. Denna samverkan kan bidra till att respektive metodologier stärker varandra och utan att endera fältet blir relativiserat. Det finns många exempel på forskning de senaste decennierna som visar på hur musik och musikutövande kan vara kraftfulla verktyg för att ta itu med sociala och politiska frågor. Men även inom forskning i neurovetenskap, kognition samt hälsa och välbefinnande har utvecklat sitt utbyte med konstnärlig praktik och forskning. Den nära och väletablerade kontakten mellan teknik och musik är ytterligare ett bra exempel.
+
+Den förestående digitaliseringen med etableringen av artificiell intelligens visar på behovet av nya metoder för att bättre förstå vidden av förändringen som vi är inne i. Även om Norbert Wiener redan på 40-talet spekulerade om ett världsomspännande nätverk som skulle göra all information tillgänglig för alla, var det inte många som för tio år sedan hade trott att vi idag, genom våra telefoner, trådlöst har kontakt med en till synes oändlig samling musik, t.ex. Följden av detta är att en majoritet av människor i västvärlden själva designar sin egen ljudmiljö. Vad är det vi inte tror idag kommer vara verklighet om ytterligare tio år fram i tiden? Många av de verktyg som har möjliggjort denna transformation är produkter av en ingenjörskonst på mycket hög nivå. Spotify tog dock utgångspunkt i teknik som vuxit fram i en dunkel periferi genom /Pirate Bay/ och gjorde delningen legal och legitim, fick tekniskt försprång och blev ensam herre på täppan. Detta är dock en utveckling som har skett helt och hållet på kommersiella grunder och helt utan konstnärliga ambitioner. Tvärtom var själva förutsättningen för /Spotifys/ framgång att man sänkte ersättningen till de artister som spelades vilket kan ses som ett makroekonomisk variant av att såga av den gren man sitter på. Ändå talar man om  /Spotify/ som del av det svenska musikundret [cite/p:@konig2018].
+
+Här framträder problemet som musiken som konst och kunskapsform lider av. Musiklivet har aldrig gjort upp med skillnaden mellan /musik-som-konst/ och  /musik-som-produkt/, utan de båda är i allt väsentligt sammanvävda. Eftersom /musik-som-produkt/ är så dominant har musiken blivit helt och fullt kommodifierad. Därför kan "det svenska musikundret" samtidigt inkludera /Sound Cloud/ och /Ann-Sofie von Otter/. Nu finns det naturligtvis extremt starka kommersiella krafter även i operabranschen, men skillnaden är att von Otter aldrig hade kunnat ta sig till den position hon har utan att hon hade otvetydiga konstnärliga kvaliteter och teknisk precision, medan teknikföretag som /Sound Cloud/ och /Spotify/ kan utvecklas helt utan att dessa konstnärliga överväganden styr utvecklingen. Det är i det här sammanhanget som den konstnärliga forskningen kan finna plats. Inom ramarna för de konstnärliga högskolornas forskningsverksamhet finns möjligheten att re-appropriera musiken som konstform och studera den kunskap som gör det möjligt för musiker att åstadkomma det de gör delvis frigjord från de kommodifierande krafterna: Konstnärlig forskning som en ny arena för experimentell konst. Experimentell i den bemärkelsen att den utmanar de gängse metoderna för såväl konst som forskning, resultatet däremot behöver inte vara experimentellt rent stilistiskt. Det kan vara Barockmusik eller elektroakustisk musik, eller någon annan genre.
+
+Paradoxalt nog är det också här som behovet av interdisciplinäritet blir allt tydligare. Utmaningen för konstnärliga forskning i musik, och det konstnärlig utvecklingsarbetet innan dess, har varit att resultaten har varit för otydlig och att projekten ibland inte har tagit sig ur den privata sfären. Egentligen kan man gå tillbaka till den breddning av musikvetenskapen i Göteborg som skedde under Jan Lings ledning för att se att delvis samma utmaningar fanns då och 2007 kunde författarna i en rapport beställd av VR konstatera att:
+
+#+begin_quote
+metodutvecklingen inom KFoU i Sverige, särskilt som den redovisats av kollegierna, har gått betydligt långsammare än förväntat. De konkreta resultaten är få; flera har prövat olika arbetsformer och metoder som visat sig obrukbara eller gett alltför magra resultat. Däremot märks en påtaglig utveckling och fördjupning av de metoder som använts inom projekten. [cite/t:@Dunin2007; p. 105]
+#+end_quote
+
+Med andra ord, utvecklingen i (de konsntärliga) projekten nära det konstnärliga arbetet är starkt men den övergripande inramningen saknas delvis och gör resultaten mindre användbara inom och utanför det egna fältet. Dessvärre får man självkritiskt konstatera att detta fortfarande är ett problem, och att den gemensamma utmaningen i praktiknära forskning kvarstår: att kombinera olika typer av av kunskap på ett sätt som gör resultaten stabila och användbara  även utanför praktiken.
+
+Den underliga obestämbarheten av den elektroakustiska musikens identitet kan sägas vara en egenskap i all konstnärlig forskning, oavsett disciplin och en av de aspekter som ibland gör det svårt att finna gemensam mark för vetenskapliga och konstnärliga undersökningar. Även om en vetenskaplig experimentell metod kan användas även i konstnärliga undersökningar kräver den även andra metoder för att bidra till en meningsfull kunskapsutveckling och är liksom många andra humanistiska discipliner ett väsentligt komplement till den metodologisk stabila naturvetenskapen. Svårigheten, eller i vissa fall kanske oviljan, att hitta hållbara lösningar vid mötespunkten mellan konst och vetenskap har präglat mycket av utvecklingen av konstnärlig forskning i Sverige, där friheten i det konstnärliga i vissa fall har setts hotad av rigiditeten av den förra. Eva Lilja tar upp detta i sin definition av konstnärlig forskning och skriver bland annat att den "vetenskapliga forskningen framläggs ofta i det vi kallar dokument, medan den konstnärliga forskningen redovisas i det konstnärliga verket som kan vara materialiserat eller teoretiserat". Utifrån den beskrivningen så är det inte svårt att se att interaktionen kan bli problematisk. Utgångspunkten borde istället vara att kunskap behöver utvecklas på sätt som varken vetenskapen eller konsten ensamma kan tillfredställa och därför behöver vi rikta fokus på hur kommunikationen mellan olika modaliteter av kunnande kan utvecklas tillsammans. Här räcker det inte med att helt enkelt jämställa konstnärlig och vetenskaplig kunskap, utan vi behöver gå längre än så. Det gör vi redan naturligt i elektroakustisk musik, men den interdisciplinära praktiken kan, och ska, fortfarande utvecklas. Det har Bill förtjänstfullt gjort genom hela sin karriär på ett sätt som har plöjt ny mark för flera kommande generationer av tonsättare, musiker, forskare, lärare, studenter och ljudtekniker.
+
+#+print_bibliography: title: "Bilbliography"
+* möjliga frågor
+
+- Hur har det musikforskningsfält som föregått den konstnärliga musikforskningen sett ut och utvecklats historiskt i en svensk kontext?
+- Hur har de som forskar från en konstnärlig utgångspunkt utvecklat musikforskningsfältet i stort och utifrån det historiska musikforskningsfältet i synnerhet?
+
+Utifrån dessa frågor hoppas vi kunna dra slutsatser som kan vara användbara för den framtida utvecklingen. Musikforskning är ofta tvärdisciplinär och utmaningen är att kunna behålla särprägeln utan att förlora möjligheterna till samarbete. Interdisciplinaritet får inte bli en ideologi utan är framförallt intressant när det uppstår ett behov av interdisciplinäritet innifrån ett forskningfält.
+
+* underlag
+- [[mu4e:msgid:HE1PR10MB1578AA2799E9F8C15852AC3DC3D40@HE1PR10MB1578.EURPRD10.PROD.OUTLOOK.COM][KFoU]]
+- [[https://docplayer.se/6049355-Doktorander-och-disputerade-inom-det-konstnarliga-omradet-i-sverige-2014.html][lista doktorander]]
+* NAVET 2021 key note
+(setq-default line-spacing 10)
+** The structurality of artistic research
+In the Swedish Higher Education Ordinance there are two distinct and equal disciplinary foundations: scientific or artistic. This is a cornerstone in both education and research in Sweden. It is a great advantage in many respects and has been a driving force behind the strong development of artistic research in Sweden. It gives artistically merited teachers a solid foundation upon which to build and develop their competences on par with scientifically merited teachers. However, and this should come as no surprise, it also creates a structural and epistemological dividing line between arts and science which sometimes appears as an unfortunate obstacle in interdisciplinary projects.
+
+But why is this separation a problem? The idea that science is the
+sole valid producer of knowledge is obviously debatable and as a
+consequence the strict dividing line between the sciences and all
+other possible kinds of knowledge production is unfortunate. In an
+artistic practice or research project that in one way or another uses
+scientific methods or modes of thinking, or that attempts to
+critically confront these, the separation may become an issue. And in music, subjects such as musicology and music psychology are structurally separated from artistic higher education in music. 
+
+It is not always self evident how the gap between arts and science should be approached or understood, and in explicitly interdisciplinary projects it may be difficult to achieve a solid ground for the research. Due to the organizational distance between the artistic and scientific modes of thinking there is a risk that whatever interdisciplinary work is produced is absorbed by the gap and useful knowledge that was produced in the project remains hidden to either of the two disciplines. By the sheer difference in the size between art and science, the risk of loss is commonly greater from the point of view of the arts, but the consequences may be equally problematic.
+
+The role that science has played in the development of modernity and
+creation of wealth (in the West) is undeniable. "Science and modernity
+have become inseparable" citep:nowotny2013 as put in the book /Re-Thinking Science: Knowledge and the Public in an Age of Uncertainty/. However, they go on to suggest that this is continuously being challenged. Bruno Latour makes a similar claim in his 1998 /Essays on Science and Society/  pointing to the breathtaking scientific development characterized by a movement from the "culture of 'science' to the culture of 'research'" [[citep:Latour1998]]. That art has had an equally undeniable influence on the development of society for much longer than what science has had is clear--after all, art is much older than science. Nevertheless, art has had obvious difficulties in competing with the attention given to science during the post-war era of capitalist-driven development.
+
+Latour continues:
+#+begin_quote
+Science is certainty; research is uncertainty. Science is supposed to be cold, straight, and detached; research is warm, involving, and risky. Science puts an end to the vagaries of human disputes; research creates controversies.  Science produces objectivity by escaping as much as possible from the shackles of ideology, passions, and emotions; research feeds on all of those to render objects of inquiry familiar. [[citep:Latour1998]]
+#+end_quote
+In this quote, it is possible to replace 'research' with 'art' and
+come up with a partly relevant and preliminary characterization of
+some of the contemporary art fields. Characteristics such as
+uncertainty, involving, risky, and controversial could be seen as a
+reasonable way to depict art practices of the 21st century: an
+activity that feeds on passion and emotion in various
+constellations. Following from this, it is possible to draw the
+conclusion that it is /science/, not
+/research/ that differs from /art/ and the activity of
+/research/ may be seen as the common ground.
+
+At any rate, the way Latour represents research is not at odds with
+/artistic/ research, at least not in my view: the issue here is
+again structural, not practical. I wish to claim that regarding
+research as the common activity between art and science is a fruitful
+way in which interdisciplinarity may be addressed. What appears to
+sometimes be a steep difference between /artistic research/ and
+/research/, as two distinct disciplines, can be overcome by
+regarding the act of /research/ as the common denominator between
+science and art. That one is scientific and the other artistic is
+perhaps less important (and the difference between art and science may
+even be less compared to, say gender studies and physics).
+
+In addition, arts and science have a shared interlocutor
+/society/ that contextualizes and participates in the validation
+of the research. Because, just as "science and society cannot be
+separated, they depend on the same foundation"  [[citep:Latour1998]],
+neither can art and society. In other words, if research is the common
+aspect of arts and sciences, their respective relation to society is
+another. In this view the prefix /artistic/ is merely a
+contextualization of the activity, an indication that practice, method,
+and theory may differ from scientific research practices. Regardless
+of the type of activity, the validity of the results is measured by
+its usefulness for other research, for the field of practice, or
+society. The freedom that the discipline of /artistic
+    research/ provides will remain untouched. This view, merely allows
+us to disregard the obstacles of the structurality of research
+disciplines and instead focus on the search for knowledge, which in
+all cases should be the driving force.
+
+* For Bill
+** About the study
+
+The study we are currently working on is an attempt to map out the field, or the possibility of a field of music research that is inclusive of a whole range of perspectives and disciplines. This to better understand how the various disciplines in music research that we find today, and that has been actively contributing in the past, how these can collaborate and interact in ways that strengthen an interdisciplinary field of music research. This study, can furthermore cdontribute to the design of an interdisciplinary masters program that we have been discussing in a collaboration with KTH. Such a program, we feel, would be a natural continuation to Bill Brunson's work and legacy at KMH
+
+** Movies For Your Ears
+
+Inside Pandoras Box
+1. Live Action
+2. The Most Significant Bit
+3. Meanwhile In The Boardroom

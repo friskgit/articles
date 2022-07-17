@@ -1,0 +1,86 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\preamble{%
+\hyphenation{Post-Script}%
+}
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Huhtamo2013}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=3a81596640a49c3937cf4586db6c205a}{%
+           family={Huhtamo},
+           familyi={H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{3a81596640a49c3937cf4586db6c205a}
+      \strng{fullhash}{3a81596640a49c3937cf4586db6c205a}
+      \strng{bibnamehash}{3a81596640a49c3937cf4586db6c205a}
+      \strng{authorbibnamehash}{3a81596640a49c3937cf4586db6c205a}
+      \strng{authornamehash}{3a81596640a49c3937cf4586db6c205a}
+      \strng{authorfullhash}{3a81596640a49c3937cf4586db6c205a}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Leonardo (MIT Press)}
+      \field{title}{Illusions in Motion: Media Archaeology of the Moving Panorama and Related Spectacles}
+      \field{year}{2013}
+    \endentry
+    \entry{Schroder2011}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=1cf3df717518f431d8a5b1d6964ee8ee}{%
+           family={Schr{ö}der},
+           familyi={S\bibinitperiod},
+           given={S.M.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nordeuropa-Institut der Humboldt-Universit{ä}t}%
+      }
+      \strng{namehash}{1cf3df717518f431d8a5b1d6964ee8ee}
+      \strng{fullhash}{1cf3df717518f431d8a5b1d6964ee8ee}
+      \strng{bibnamehash}{1cf3df717518f431d8a5b1d6964ee8ee}
+      \strng{authorbibnamehash}{1cf3df717518f431d8a5b1d6964ee8ee}
+      \strng{authornamehash}{1cf3df717518f431d8a5b1d6964ee8ee}
+      \strng{authorfullhash}{1cf3df717518f431d8a5b1d6964ee8ee}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{pt. 2}
+      \field{series}{Berliner Beitr{ä}ge zur Skandinavistik}
+      \field{title}{Ideale Kommunikation, reale Filmproduktion: zur Interaktion von Kino und d{ä}nischer Literatur in den Erfolgsjahren des d{ä}nischen Stummfilms 1909-1918}
+      \field{year}{2011}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

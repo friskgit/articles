@@ -1,0 +1,9 @@
+#+title: Notes on Marx, Engels, The German Ideology
+#+filetags: bibnote:marx1970
+
+[cite:@marx1970]
+
+
+This a test.
+
+#+print_bibliography:

@@ -1,0 +1,575 @@
+* Bibliography notes
+** 1968 - The Open Work
+  :PROPERTIES:
+  :Custom_ID: eco68
+  :AUTHOR:   Eco
+  :JOURNAL:
+  :YEAR:     1968
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL:
+  :END:
+
+  cite:eco68
+
+
+** TODO 1978 - Violence and Metaphysics: {A}n essay on the thought of Emmanuel Levinas
+ :PROPERTIES:
+  :Custom_ID: derrida78-3
+  :AUTHOR: Derrida
+  :JOURNAL: 
+  :YEAR: 1978
+  :VOLUME: 
+  :PAGES: 246--92
+  :DOI: 
+  :URL: 
+ :END:
+
+cite:derrida78-3
+
+* Handledning
+** Mats
+*** Seeger, C. (1958): Prescriptive and descriptive music-writing
+    :PROPERTIES:
+    :Custom_ID: seeger1958
+    :END:
+
+**** Skickad till Mats, kan vara intressant med diskussionen om deskriptiv/preskriptiv notation.
+
+* Stoeltje, B. J., Fox, C. L., & Olbrys, S. (1999): The self in "fieldwork": a methodological concern
+  :PROPERTIES:
+  :Custom_ID: Beverly1999
+  :END:
+
+  Intressant för TEAM
+
+* Haraway, D. (1984): A cyborg manifesto : science, technology, and socialist-feminism in the late twentieth century
+  :PROPERTIES:
+  :Custom_ID: Haraway1984
+  :END:
+
+** Notes for article with Francisca 2018
+
+"I am making an argument for the cyborg as a fiction mapping our social and bodily reality and as an imaginative resource suggesting some very fruitful couplings." (p. 6-7)
+
+I am making an argument for the performer as a fiction mapping our social and bodily reality and as an imaginative resource suggesting some very fruitful couplings.
+
+* Ku\vcinskas, D., & Kennaway, G. (2015): Music and technologies 2   :artdoc:
+  :PROPERTIES:
+  :Custom_ID: Kuvcinkas2015
+  :END:
+
+  https://books.google.se/books?id=r\_OmBgAAQBAJ
+#+ATTR_HTML: :width 500
+
+  [[file:~/org/images/catalog.png]]
+
+* Frisk, H. (2018): The archive that writes itself
+  :PROPERTIES:
+  :Custom_ID: frisk2018
+  :END:
+
+- Frisk, H. (2018). The archive that writes itself. Swedish Journal of
+  Music Research.
+
+* Born, G., & Hesmondhalgh, D. (2000): Western music and its others: differrence, representation, and appropriation in music
+  :PROPERTIES:
+  :Custom_ID: born2000
+  :END:
+
+Quotation p.12
+
+[[file:~/org/images/Born2000-1.png]]
+
+p. 8
+
+[[file:~/org/images/Born2000-8.png]]
+
+* Kramer, L. (1995): Classical music and postmodern knowledge
+  :PROPERTIES:
+  :Custom_ID: kramer1995
+  :END:
+  #+ATTR_HTML: :width 500
+  [[file:~/org/images/books/Kramer1995_p60.png]]
+
+* Rrenban, M. (2005): Wild, unforgettable philosophy: in early works of walter benjamin
+  :PROPERTIES:
+  :Custom_ID: rrenban2005
+  :END:
+  #+ATTR_HTML: :width 500
+  [[file:~/org/images/books/Rrenban2005_p117.png]]
+
+* Jones, A. (1998): Body art/performing the subject
+  :PROPERTIES:
+  :Custom_ID: jones1998
+  :END:
+  #+ATTR_HTML: :width 500
+  [[file:~/org/images/books/jones1998_p10.png]]
+
+* Dahlhaus, C., & Robinson, J. (1989): Nineteenth-Century Music
+  :PROPERTIES:
+  :Custom_ID: dahlhaus1989
+  :END:
+  #+ATTR_HTML: :width 500
+  [[file:~/org/images/books/Dahlhaus1989_p42.png]]
+
+  #+ATTR_HTML: :width 500
+  [[file:~/org/images/books/Dahlhaus1989_p43.png]]
+
+* Born, G., Lewis, E., & Straw, W. (2017): Improvisation and social aesthetics
+  :PROPERTIES:
+  :Custom_ID: born2017
+  :END:
+
+** Introduction
+*** What is social aesthetics?
+ 
+    #+ATTR_HTML: :width 600
+    [[file:~/org/images/books/born2017-intro-3.png]]
+
+    #+ATTR_HTML: :width 600
+    [[file:~/org/images/books/born2017-intro-4.png]]
+
+    #+ATTR_HTML: :width 600
+    [[file:~/org/images/books/born2017-intro-5.png]]
+
+* Dahlhaus, C. (1970): Analyse und werturteil
+  :PROPERTIES:
+  :Custom_ID: Dalhaus
+  :END:
+
+* Balkir, E. (2018): \’e;tude comparative des approches cr\’e;atrices et technologiques au groupe de recherches musicales à paris et à l’elektronmusikstudion à stockholm 1965-1980 : deux directions artistiques diff\’e;rentes à partir d’une id\’e;e commune
+  :PROPERTIES:
+  :Custom_ID: Balkir2018
+  :END:
+
+Wiggen: visionen om en framtida musik
+Analys av musiken mellan 1960-70
+
+Wiggen p. 54: [Wiggen 1972 (a), 124] Liksom Schaeffer tror jag att den typ av tonsättare som vi i dag behöver är tonsättaren/forskaren, alltså en konstnär som är medveten om vad han syftar till med sitt kompositionarbete att han kan förmå sig att med forskarens metodik och tålamod leta fram sina uttrycksmedel utan att han under detta arbete förlorar kontakten med det han vill uttrycka 55 .
+
+
+Balkir, E., Étude comparative des approches crèatrices et technologiques au groupe de recherches musicales à paris et à l’elektronmusikstudion à stockholm 1965-1980 : deux directions artistiques diffèrentes à partir d’une idèe commune (Doctoral dissertation) (2018). Sorbonne Université, .
+
+Denna avhandling är en översikt och jämförelse mellan två ledanade miljöer för elektroakustisk musik mellan åren 1965-1980; GRM på franska radion ledd av Pierre Schaeffer och EMS i Stockholm under ledning av bland annat Knut Wiggen. Den utgår ifrån producerade verk, litteratur och intervjuer samt ifrån en analys av ett urval av verk producerade vid respektive institution och är omfattande både i omfång (närmare 350 sidor) och med hänsyn till metodologi. 
+
+I den första delen görs en översikt över de konstnärliga och vetenskapliga riktningar i den elektroakustiska musiken, samt en studie över de tekniska utvecklingar som skett på GRM ocn EMS i ljuset av de musikaliska inriktningar som representeras av Schaeffer och Wiggen. Här ges en överblick över hur EAM utvecklades även i andra länder i Europa vid samma tid. Förutom Sverige och Frankrike diskuteras utvecklingen Tyskland, Italien och USA. Den digitala teknikens intåg, samt datorn som ett verktyg, både som intstrument och i datorassisterad komposition, lyfts fram i ett historiskt perspektiv.
+
+GRM och EMS gemensamma projekt SYNTOM diskuteras i andra kapitlet där Schaeffers och Wiggens olika ingångar, såväl estetiskt som teknologiskt, blir synliga. Inledningsvis ges en jämförelse mellan Schaeffers och Wiggens musikaliska koncept, med Scheaffers utgångspunkt i ett fenomenologiskt lyssnande och Wiggens fokus på praktiken och maskinen. Projektet läggs så småningom ner men visar, enligt Balkir, på en avgörande skillnad och entydig närhet mellan de två miljöerna. Kapitlet avslutas med en grundlig jämförelse mellan den teknikska forskningen på GRM respektive EMS.
+
+I den andra delen presenteras analysteori för elektroakustiskm musik, analyser av totalt sju verk från de båda institutionerna samt en jämförande semiologisk analys av resultaten av musikanalysen. Nattiez och Molinos tredelade analysmodell diskuteras liksom Lasse Thoresens utveckling av Schaeffers morfologi och förslag till notationsverktyg för elektroakustisk musik. Verk av Reibel, Parmegiani, Bayle, Bodin, Hanson, Wiggen och Ungvary analyseras och jämförs med olika metoder. Analysen av verken korrelerar hon mot diskussionen av hur estetik och teknik har gestaltat sig på de olika institutionerna. Avhandlingen avslutas av en kortare sammanfattning.
+
+Det är en på många sätt viktig avhandling med stor relevans för aktuell konstnärlig forskning. Som en studie av svensk elektroakustisk musik bygger den vidare på Sanne Krogh-Groths avhandling från 2014. Till viss del repeterar den det som framkommer i Krogh-Groths /Politics and aesthetics in electronic music/ som också lyfter fram mötet mellan Schaeffer och Wiggen i början av sjuttiotalet. Balkir påvisar hur musiken och dess estetik, under de år hon tittat på, har vuxit fram ur en växelverkan mellan fenomenologiskt förhållningssätt och en teknologisk utveckling. Hon pekar på likheten mellan de svanska och de franska tonsättarna men också på Wiggens mycket speciella attityd som också den är sammanvävd med teknikutvecklingen som han drev fram.
+
+* Sterna, Å. (2018): Before sound: transversal processes in site-specific sonic practice
+  :PROPERTIES:
+  :Custom_ID: Stjerna2018
+  :END:
+
+Sterna, Å., Before sound: transversal processes in site-specific sonic practice (Doctoral dissertation) (2018). University of Gothenburg. Faculty of Fine, Applied and Performing Arts.
+
+Åsa Stjernas avhandling utforskar konstnärlig transformation i Stjernas egen konstnärliga praktik som ljudkonstnär. Den utgår från ljudinstallationen som en komplex och multidisciplinär offentlig praktik. Denna praktik beskrivs som en där det oförutsedda är regel och bygger på en lång erfarenhet som konstnär. Fyra konstnärliga projekt är del av avhandlingen och de resulterade i tre platsspcifika ljudinstallationer. Den transversala processen i det som Stjerna kallar en platsspecifik sonisk praktik är en förståelse av konstnärlig praktik som en process som etablerar relationer mellan alla de komponenter som ingår i en "ömsesidig kontinuerlig process av tillblivelse." Genom tre väl definierade forskningsfrågor utforskar hon processen i sin egna verk.
+
+Efter inledningen kontextualiserar Stjerna sin praktik och beskriver konstnärliga strategier såsom spatial känslighet, ljudets kontextuella kapacitet och plats och teknik. I kapitel 3, om det konceptuella ramverket, använder hon sig framförallt av Deleuze & Guattari och diskuterar begrepp som immanence, affektion och kroppslighet. Kapitel 4 utmejslas de centrala begrepp hon sen använder sig av. Därefter kommer fyra kapitel som diskuterar de verk som ingår i avhandlingen genom det konceptuella ramverket och de utforskande begrepp som hon definierat. Sista kapitlet är en kort sammanfattning.
+
+Genom ett antal begrepp och metoder bearbetar hon sin egen och verkets roll som agenter vid sidan av en mängd andra agenter. Ett sådant begrepp är /non-autonomous/ som ställs i kontrast till synen på den fria och autonoma konstnären. Tillsammans med /mapping the affective lines/ och /establishing new connections/ etablerar hon tre centrala tillvägagångssätt med vilka hon angriper och förhandlar de konstnärliga strategier som ligger till grund för den konstnärliga praktik hon befinner sig i. Dessa är i sig utvunna ur en praktisk erfarenhet och tas upp som fallstudier i kapitel 5-8. Hon tecknar system där återkoppling är en central kraft och där de tre tillvägagångssätten används för att förstå de transversala processerna i praktiken samtidigt som de omformas av samma praktik.
+
+/Before Sound/ är en välskriven och intressant avhandling som är metodologiskt tydlig sin något snåriga teori till trots och ett viktigt bidrag till konstnärlig forskning i Sverige. Den visar på hur effektivt praktik, teori och metod kan diskuteras och utvecklas. Den vill bejaka komplexitet som Stjerna pekar på som en nödvändighet för sensibilitet i den platsspecifika praktiken. Genom att /överskrida/ och gå bortom förenkling kan man komma till en punkt innan ljudet.
+
+* Bostrom, N., & Yudkowsky, E. (): The ethics of artificial intelligence
+  :PROPERTIES:
+  :Custom_ID: Bostrom2014
+  :END:
+  #+ATTR_HTML: :width 400
+  [[file:~/org/images/books/Bostrom2014-1.png]]
+
+* Roads, C. (1996): Early electronic music instruments: time line 1899-1950
+  :PROPERTIES:
+  :Custom_ID: Roads1996
+  :END:
+
+  [[file:~/org/images/books/roads2015_pxi.png]]
+
+* Young, M. W. (2009): Creative computers, improvisation and intimacy
+  :PROPERTIES:
+  :Custom_ID: Young2009
+  :END:
+
+Sid 2: "Adaptation is a useful concept in free improvisation with autonomous
+computers because it evades the potential pitfalls of anthropomorphism. If all performers
+adapt to sound (the environment), rather than trying to adapt to one another, this is
+comparable to the biological process of stigmergy [4] [5]."
+
+* Nowak, K. L., & Biocca, F. (2003): The effect of the agency and anthropomorphism on users' sense of telepresence, copresence, and social presence in virtual environments
+
+  :PROPERTIES:
+  :Custom_ID: Nowak2003
+  :END:
+
+  Abstract:	 We report on an experiment that examined the
+                  influence of anthropomorphism and perceived agency
+                  on presence, copresence, and social presence in a
+                  virtual environment. The experiment varied the level
+                  of anthropomorphism of the image of interactants:
+                  high anthropomorphism, low anthropomorphism, or no
+                  image. Perceived agency was manipulated by telling
+                  the participants that the image was either an avatar
+                  controlled by a human, or an agent controlled by a
+                  computer. The results support the prediction that
+                  people respond socially to both human and
+                  computer-controlled entities, and that the existence
+                  of a virtual image increases
+                  tele-presence. Participants interacting with the
+                  less-anthropomorphic image reported more copresence
+                  and social presence than those interacting with
+                  partners represented by either no image at all or by
+                  a highly anthropomorphic image of the other,
+                  indicating that the more anthropomorphic images set
+                  up higher expectations that lead to reduced presence
+                  when these expectations were not met. 
+
+* Loy, D. G. (1989): Preface to the second special issue on parallel distributed processing and neural networks
+  :PROPERTIES:
+  :Custom_ID: Loy1989b
+  :END:
+
+  https://www.jstor.org/stable/3679549?read-now=1&seq=1#page_scan_tab_contents
+
+* Busch, K. (2009): Artistic research and the poetics of knowledge
+  :PROPERTIES:
+  :Custom_ID: Busch2009
+  :END:
+
+* Lippe, C. (2002): Real-time interaction among composers, performers, and computer systems
+  :PROPERTIES:
+  :Custom_ID: Lippe2002
+  :END:
+
+On relations in performance:
+
+While I stated that I am not interested in modeling performers or instruments, I am interested in using the computer to model the relationship that exists between musicians during a performance.
+
+* Cobussen, M. (2005): Noise and ethics: on evan parker and alain badiou
+  :PROPERTIES:
+  :Custom_ID: Cobussen2005
+  :END:
+
+p.33:
+Reacting to the unfolding of the music, the
+musician and his instrument enter into a relation with already produced
+sounds, concretised musical ideas, present frames. All these cases contain an
+act of thinking during the act of doing. To listen to oneself and the other(s),
+to listen to the proceeding and developments of the music, to listen to the
+noises that direct the music to unknown areas. Not just to listen, however,
+but to really listen, for in truth to listen also means being able to adjust, to
+react, to reflect on what is taking place. The core of practice-based research is
+the reframing of events, experiences, ideas and problems in the light of information
+supplied by a practical and singular situation. Searching and researching:
+this is the artistic assignment in improvisation.
+
+p33: Real improvisation means appropriating the right to make
+noise.
+
+p.37:
+The sounds, transformed
+by Lytton’s own use of live electronics as well as the contribution of the other
+sound processors, challenge the musician to travel through his homeland (the
+homeland of percussive sounds) as a stranger, to leave his house, to leave that
+familiar place of dwelling, to leave his ethos – which must encompass also the
+manner in which one relates to oneself and to others (see Derrida 2001: 16).
+
+p.41:
+‘The Good in artistic action is the invention of new forms that convey the
+meaning of the world’, Badiou emphasises in an interview (Badiou 2001:
+online). This invention of new forms should be understood as an immanent
+break. ‘Immanent’ because a truth proceeds within the situation and nowhere
+else – there is no heaven of truths; ‘break’ because what enables the truthprocess
+– the event – means nothing according to the prevailing language and
+established knowledge of the situation (see Badiou 2002: 42–43).
+
+jmfr 4.2 Stanford Philosophy Encyclopedia on Levinas:
+Transcendence is, above all, relational: it is a human affair. It is difficult to determine whether transcendence
+is an “event” per se or not. An event should be characterized as a force that introduces a decisive break into the
+historical status quo and redirects it in function of its own magnitude. The encounter with the other person, so
+far as it is an event, merely inflects history or leaves a trace in it. But this is not the history found in the
+textbooks. It is more like a history of isolated acts or human ideals (justice, equity, critique, self-sacrifice).
+Transcendence in Levinas is lived and factical. How could transcendence be factical? While it has the temporality
+of an interruption that ‘I’ cannot represent to myself, transcendence nevertheless has a circular relationship with
+everyday life. That is, transcendence, understood as the face-to-face relation, lives from our everyday enjoyment
+and desire even as it precedes these. Human existence, as sensibility, is full and creative, before it is
+instrumentalist or utilitarian. From enjoying the elements to constructing a home, human existence is never
+solipsistic. Our life with others is never a flight from a more resolute stance toward our reason for being (our
+mortality). We are always already in social relations; more importantly, we have always already been impacted by
+the expression of a living other. Because this impact is affective, because transcendence is not conceptualizable,
+we forget the force the other's expression has on us. We therefore carry on, in our respective worlds, motivated by
+our desire for mastery and control. Nevertheless, desire in Totality and Infinity always proves to be double. There
+is a naturalistic desire, subject to imperatives of consumption and enjoyment. This desire is coextensive with the
+exercise of our concrete freedom. And there is a desire that comes to light in the failure of our will to mastery.
+This failure of the will is experienced in the face-to-face encounter. The other's face is not an object, Levinas
+argues. It is pure expression; expression affects me before I can begin to reflect on it. And the expression of the
+face is dual: it is command and summons. The face, in its nudity and defenselessness, signifies: “Do not kill me.”
+This defenseless nudity is therefore a passive resistance to the desire that is my freedom. Any exemplification of
+the face's expression, moreover, carries with it this combination of resistance and defenselessness: Levinas speaks
+of the face of the other who is “widow, orphan, or stranger.” These figures are more than allegorical. Each one
+lacks something essential to its existence: spouse, parents, home.
+
+* Nicholls, T. (2012): An ethics of improvisation: aesthetic possibilities for a political future
+  :PROPERTIES:
+  :Custom_ID: nicholls2012
+  :END:
+
+p.77:
+  [[file:~/org/images/books/nicholls2012-1.png]]
+
+* Patton, M., & Fund, R. E. C. M. (2002): Qualitative research \& evaluation methods
+  :PROPERTIES:
+  :Custom_ID: Patton2002
+  :END:
+
+  [[file:~/org/images/books/Patton2002-230.png]]
+
+* Putnam, K. W. (1997): David cope: experiments in musical intelligence.
+  :PROPERTIES:
+  :Custom_ID: Putnam1997
+  :END:
+
+  [[file:~/org/images/books/putnam1997_103.png]]
+
+* Battier, M. (2003): A constructivist approach to the analysis of electronic music and audio art – between instruments and faktura
+  :PROPERTIES:
+  :Custom_ID: Battier2003
+  :END:
+
+"These limitations appear as boundary conditions which artists yearn to grasp to some extent in order to turn them into a context in which they will create art and, in the process, recreate technology." (p.254)
+
+* lopes, d. (2009): a philosophy of computer art
+  :properties:
+  :custom_id: lopes2009
+  :end:
+
+  P.5
+  #+ATTR_HTML: :width 400
+  [[file:~/org/images/books/lopes2009_intro00.png]]
+  
+  p.3
+  #+ATTR_HTML: :width 400
+  [[file:~/org/images/books/lopes2009_intro_p3.png]]
+
+* Cobussen, M., & Nielsen, N. (2016): Music and ethics
+  :PROPERTIES:
+  :Custom_ID: cobussen2016
+  :END:
+  p. 87
+  #+ATTR_HTML: :width 500
+    [[file:~/org/images/books/cobusen2016_p87-2.png]]
+
+  p. 87
+  #+ATTR_HTML: :width 500
+  [[file:~/org/images/books/cobusen2016_p87.png]]
+
+  p. 11
+  #+ATTR_HTML: :width 500
+  [[file:~/org/images/books/cobusen2016_p11.png]]
+
+* Sack, W. (2019): The Software Arts
+   :PROPERTIES:
+   :Custom_ID: Sack2019
+   :END:
+   Tip from Benoit
+
+   "In this book, I will argue that Jobs was right: the arts and the humanities are at the heart of computing." (p.2)
+
+* Kristeva, J. (1982): Powers of horror: an essay on abjection
+  :PROPERTIES:
+  :Custom_ID: Kristeva1982
+  :END:
+
+On immersion and subjectivity in art:
+
+#+ATTR_HTML: :width 400
+[[file:~/org/images/books/Kristeva1982_p26.png]]
+
+#+ATTR_HTML: :width 400
+[[file:~/org/images/books/Jardine2002_pxx.png]]
+
+* Sontag, S. (1986): Against interpretation: and other essays
+  :PROPERTIES:
+  :Custom_ID: Sontag1986
+  :END:
+
+For Plato everything is an imitation and art is an imitation of an imitation. Mimesis.
+
+"that a work of art says something"
+
+"The modern style of interpretation excavates, and as it excavates, destroys; it digs “behind” the
+text, to find a sub-text which is the true one"
+
+The question is no what art is but what it does:
+
+"The aim of all commentary on art now should be to make works of art—and, by analogy, our own
+experience—more, rather than less, real to us. The function of criticism should be to show how it is
+what it is, even that it is what it is, rather than to show what it means." section 9
+
+"Interpretation takes the sensory experience of the work of art for granted, and proceeds from there." section 9
+
+* Healey, M., & Jenkins, A. (2006): Strengthening the teaching-research linkage in undergraduate courses and programs.
+  :PROPERTIES:
+  :Custom_ID: Healye2007
+  :END:
+
+Om forskningsanknytning
+
+* Bergson, H. (1912): An introduction to metaphysics
+  :PROPERTIES:
+  :Custom_ID: Bergson1912
+  :END:
+
+  From SEP: 
+  'These antinomies of concepts and positions, according to him, result from the normal or habitual way our intelligence works.'
+
+  'In the fourth chapter to Matter and Memory, Bergson calls this reversal of habitual intelligence “the turn of experience” where experience becomes concerned with utility, where it becomes human experience (Matter and Memory, pp.184–85).'
+
+  'Bergsonian intuition then consists in entering into the thing, rather than going around it from the outside.'
+
+  'In any case, for Bergson, intuition is entering into ourselves – he says we seize ourselves from within – but this self-sympathy develops heterogeneously into others.'
+
+  'Then one shows how the duality is actually a monism, how the two extremes are “sewn” together, through memory, in the continuous heterogeneity of duration. Indeed, for Bergson, intuition is memory; it is not perception.'
+
+  Wiki
+  'Depending on the viewpoint from which one begins, he will either reconstruct the absolute Duration as a unity or a multiplicity. Hence the antinomy of substance pluralism and substance monism, which can only be resolved through showing they are two representations of the same thing via a simple act of intuition'
+
+  [[file:~/Dropbox/Documents/articles/lib/Bergson1912.pdf::%PDF-1.4 (agl)][Page 47, important note:]]
+  "analysis operates always on the immobile"
+* Bergson, H. (1991): Matter and memory
+  :PROPERTIES:
+  :Custom_ID: bergson91
+  :END:
+
+  [[file:~/org/images/books/Bergson1991-p152.png]]
+
+  #+begin_quote
+  The bodily memory, made up of the sum of the sensori-motor systems organized by habit, is then a quasi-instantaneous memory to which the true memory of the past serves as base. Since they are not two separate things, since the first is only, as we have said, the pointed end, ever moving, inserted by the second in the shifting plane of experience, it is natural that the two functions should lend each other a mutual support.  So, on the one hand, the memory of the past offers to the sensori-motor mechanisms all the recollections capable of guiding them in their task and of giving to the motor reaction the direction suggested by the lessons of experience. It is in just this that the associations of contiguity and likeness consist. But, on the other hand, the sensori-motor apparatus furnish to ineffective, that is unconscious, memories, the means of taking on a body, of materializing themselves, in short of becoming present.  For, that a recollection should reappear in consciousness, it is necessary that it should descend from the heights of pure memory down to the precise point where action is taking place. In other words, it is from the present that comes the appeal to which memory responds, and it is from the sensori-motor elements of present action that a memory borrows the warmth which gives it life.  
+#+end_quote
+
+* Hernandez, K. C., Chang, H., & Ngunjiri, F. W. (2017): Collaborative autoethnography as multivocal, relational, and democratic research: opportunities, challenges, and aspirations
+  :PROPERTIES:
+  :Custom_ID: Hernandez2017
+  :END:
+
+Of interest to Musical Transformations.
+
+* Said, E. W. (1989): Representing the colonized: anthropology's interlocutors
+  :PROPERTIES:
+  :Custom_ID: said89_repres_colon
+  :END:
+
+
+** TODO 1989 - Representing the Colonized: Anthropology's Interlocutors
+ :PROPERTIES:
+  :CUSTOM_ID: Said1989
+  :AUTHOR: Edward Said
+  :JOURNAL: Critical Inquiry
+  :YEAR: 1989
+  :VOLUME: 15
+  :PAGES: 205-225
+  :DOI: 10.1086/448481
+  :URL: https://doi.org/10.1086/448481
+ :END:
+
+cite:Said1989
+
+* Tresch, J., & Dolan, E. I. (2013): Toward a new organology: instruments of music and science
+  :PROPERTIES:
+  :Custom_ID: Tresch2013
+  :END:
+
+"To get at these differences and similarities, we will take a lesson from a prominent
+focus of attention in recent history of science: the different ethical ideals at work in
+scientifi c research. In parallel with studies of “epistemic virtues” and the ethics of the
+knowing subject, we propose as a thought experiment—one that will surely provide
+more questions than answers—a comparative study of the ethics of instruments." (p. 281)
+
+"A comparative ethics of scientifi c instruments
+could also be juxtaposed with the relations of selves and instruments found in fi elds
+other than science; for instance, in music" (p. 283)
+
+". Any history of instruments must also account for their changing forms of
+agency and visibility. Do we understand a given instrument within a given context as
+passive and obedient to the hand of the user, or does it appear as active, occasionally
+beyond the user’s complete control? How much does the instrument control the user,
+and vice versa?" (p. 289)
+
+* Huhtamo, E. (2011): Media archaeology : approaches, applications, and implications
+  :PROPERTIES:
+  :Custom_ID: huhtamo2011
+  :END:
+
+
+
+#+DOWNLOADED: screenshot @ 2021-03-08 17:23:51
+[[file:org/images/Huhtamo,_E._(2011):_Media_archaeology_:_approaches,_applications,_and_implications/2021-03-08_17-23-51_screenshot.png]]
+
+
+
+#+begin_quote
+they create a cyclical motion in a way
+many media archaeologists no doubt endorse. There is no separation; instead,
+there is constant interchange, a cruise in time. The past is brought to the present,
+and the present to the past; both inform and explain each other, raising questions
+and pointing to futures that may or may not be. (p.15)
+#+end_quote
+* Cox, G., & Riis, M. (2018): (micro)politics of algorithmic music
+  :PROPERTIES:
+  :Custom_ID: cox18_micro_polit_algor_music
+  :END:
+
+  Sec. 33.3
+  
+ the media archaeological approach is far more complex and diverse. The media archaeological approach emphasizes cyclical rather than chronological development, which is in contrast to the customary way of thinking about technological culture in terms of a constant progress from one technological breakthrough to another, making earlier machines obsolete along the way.
+
+* Knuth, D. E. (1984): Literate Programming
+  :PROPERTIES:
+  :Custom_ID: knuth84_liter_progr
+  :END:
+
+* Latour, B. (1998): Essays on science and society: from the world of science to the world of research?
+  :PROPERTIES:
+  :Custom_ID: Latour1998
+  :END:
+
+  See also Re-Thinking Science: Knowledge and the Public in an Age of Uncertainty
+
+- Nowotny, H., Scott, P., & Gibbons, M. (2013). Re-thinking science:
+  knowledge and the public in an age of uncertainty. : Polity Press.
+
+* Tomita, H. (2021): The second offline: doubling of time and place
+  :PROPERTIES:
+  :Custom_ID: tomita2021
+  :END:
+
+https://books.google.se/books?id=ZshAEAAAQBAJ
+
+* Berleant, A. (2015): Aesthetic Sensibility
+  :PROPERTIES:
+  :Custom_ID: berleant2015
+  :END:
+
+"By sensibility I mean perceptual awareness that is developed, guided, and focused. It is more than simple sensation, more than sense perception. Perhaps one can consider it educated sensation. It requires the perceptual knowledge and skills that we are continually enhancing in and through our encounters and activities. Aesthetic sensibility develops and uses this capacity at the deliberate center of conscious experience.  In Western cultures, the arts have been the primary medium for promoting such awareness, and we can consider changes in artistic style, the emergence of new movements, and even entire historical periods in the arts as fundamentally changes in sensibility. " (Under 'Sensibility')
+
+"Such perceptual openness enables us to recognize experientially how well the object functions in that situation and, if desirable, to form a judgment about its success. Such a judgment is the product of a complex perceptual process and can provide a clear grounding for assessing the object’s success. We have, then, the possibility of positive and negative aesthetic judgment along a multi-dimensional scale, for no object is an undifferentiated whole. Perceptual success, then, is the criterion for a positive and negative aesthetics, the negativity being based on perceptual failure."
+(Under 'Aesthetics and sensibility')
+
+* Cubarsi, R. (2019): Harmonic distance in intervals and chords
+  :PROPERTIES:
+  :Custom_ID: Cubarsi2019
+  :END:
+
+  About Harmonic distance, Tenney and Helmholtz
+
+* Taylor, M. M. (1985): Music in the daily experience of grade six children: an interpretive study :stimrec:
+  :PROPERTIES:
+  :Custom_ID: Taylor1985
+  :END:
+
+  Stimulated recall

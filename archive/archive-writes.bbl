@@ -1,0 +1,1110 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\preamble{%
+\hyphenation{Post-Script}%
+}
+
+
+\refsection{0}
+  \sortlist[entry]{nyt/global/}
+    \entry{rc2017}{misc}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Web resource}
+      \field{note}{Accessed May 15, 2017}
+      \field{title}{About the Research Catalogue}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://www.researchcatalogue.net/portal/about
+      \endverb
+    \endentry
+    \entry{joselit2016}{article}{}
+      \name{author}{42}{}{%
+        {{uniquename=0,hash=5ad6c5acb827fe09cfa159109ef5fb74}{%
+           family={Apter},
+           familyi={A\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod}}}%
+        {{uniquename=0,hash=4d22e5e27084afc77618629cb0e9a401}{%
+           family={Atkins},
+           familyi={A\bibinitperiod},
+           given={Ed},
+           giveni={E\bibinitperiod}}}%
+        {{uniquename=0,hash=f101e239c19b13e71fca60f861491cae}{%
+           family={Avanessian},
+           familyi={A\bibinitperiod},
+           given={Armen},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=858fcf9483ec29b7707a7dda2dde7a6f}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod}}}%
+        {{uniquename=0,hash=ce8f1f8e6110aea623162593520806b0}{%
+           family={Bruno},
+           familyi={B\bibinitperiod},
+           given={Giuliana},
+           giveni={G\bibinitperiod}}}%
+        {{uniquename=0,hash=6f3df024cf43d9b7b39932fd4dc14d5a}{%
+           family={Bryan-Wilson},
+           familyi={B\bibinithyphendelim W\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=43b1819ca3a1cf2021c1d9e1ec759b99}{%
+           family={Burnett},
+           familyi={B\bibinitperiod},
+           given={D.\bibnamedelimi Graham},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{uniquename=0,hash=634deb5ad08905382849cf37602de1cb}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Mel\bibnamedelima Y.},
+           giveni={M\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{uniquename=0,hash=7170092bbf0f8904c752b25e2c880c7f}{%
+           family={Cole},
+           familyi={C\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=53ad1530deb076989bc3908aee809f77}{%
+           family={Cox},
+           familyi={C\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=b26f8ed171e0e7dcf093f0741d6c28e9}{%
+           family={Malik},
+           familyi={M\bibinitperiod},
+           given={Suhail},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=4172e26dfab805feeea58f60bda5ca6d}{%
+           family={Demos},
+           familyi={D\bibinitperiod},
+           given={T.\bibnamedelimi J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{uniquename=0,hash=b233743e8974a56a4d4eb151bef307e9}{%
+           family={Dolven},
+           familyi={D\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=f7ef76d4555616e4437bf1e363c228ee}{%
+           family={Doris},
+           familyi={D\bibinitperiod},
+           given={David\bibnamedelima T.},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{uniquename=0,hash=fea356662e4a52273ca45655d58e61cd}{%
+           family={Draxler},
+           familyi={D\bibinitperiod},
+           given={Helmut},
+           giveni={H\bibinitperiod}}}%
+        {{uniquename=0,hash=eb744cb1f54728870821faa074cf62c9}{%
+           family={Falguières},
+           familyi={F\bibinitperiod},
+           given={Patricia},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=a3312b1d9095719c76f76490a04d24ea}{%
+           family={Galison},
+           familyi={G\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=9bc6be08d5f7c81829901e4abb4e6653}{%
+           family={Galloway},
+           familyi={G\bibinitperiod},
+           given={Alexander\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{uniquename=0,hash=b6793e1664575e2c2a996f81e8098339}{%
+           family={Haidu},
+           familyi={H\bibinitperiod},
+           given={Rachel},
+           giveni={R\bibinitperiod}}}%
+        {{uniquename=0,hash=aef6c14d8d857f76a7c28719429150db}{%
+           family={Harman},
+           familyi={H\bibinitperiod},
+           given={Graham},
+           giveni={G\bibinitperiod}}}%
+        {{uniquename=0,hash=9fcf64d089332fd0395caa13367e579f}{%
+           family={Henrot},
+           familyi={H\bibinitperiod},
+           given={Camille},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=22cba8d17d43355c1212a6b10bec0959}{%
+           family={Holmes},
+           familyi={H\bibinitperiod},
+           given={Brooke},
+           giveni={B\bibinitperiod}}}%
+        {{uniquename=0,hash=d1e3c7c06b9d3db26f339a94f09e8ece}{%
+           family={Ingold},
+           familyi={I\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+        {{uniquename=0,hash=d4fdbef0aadc7edb430e9b361960450c}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Caroline\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{uniquename=0,hash=aefc1184767e6d29ca1436941024bccc}{%
+           family={Kitnick},
+           familyi={K\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=c2566a2767f2610b3fabdf5d8fff4af2}{%
+           family={Lewitt},
+           familyi={L\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=28f9a6ebd50d1d9fc943f6b0ff9f526f}{%
+           family={Molesworth},
+           familyi={M\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod}}}%
+        {{uniquename=0,hash=4896b31d9217348ae050235d2641f459}{%
+           family={Nemerov},
+           familyi={N\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=2a839e605c1060e49ae2167b1709c4af}{%
+           family={Newman},
+           familyi={N\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=cec59fd65c165fa891fcc76fca6dcc0d}{%
+           family={Papapetros},
+           familyi={P\bibinitperiod},
+           given={Spyros},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=9e52f5a2302cf97e6660f2921b39300f}{%
+           family={Pfeffer},
+           familyi={P\bibinitperiod},
+           given={Susanne},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=cc438449ecb7b1d21702bba459def15f}{%
+           family={Quack},
+           familyi={Q\bibinitperiod},
+           given={Gregor},
+           giveni={G\bibinitperiod}}}%
+        {{uniquename=0,hash=bbbda02c7892f477a2a80e64541a7a7a}{%
+           family={Ray},
+           familyi={R\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=7a3871882b5ea1134b4fce7eb830a3d6}{%
+           family={Ritchie},
+           familyi={R\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=54001a4c0462f0856683c76b800feda7}{%
+           family={Rottmann},
+           familyi={R\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=803aa823d22a3d20e924713909b9072c}{%
+           family={Siegel},
+           familyi={S\bibinitperiod},
+           given={Amie},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=9288dd4406fb0cd96fc6d2705f83b5e5}{%
+           family={Stakemeier},
+           familyi={S\bibinitperiod},
+           given={Kerstin},
+           giveni={K\bibinitperiod}}}%
+        {{uniquename=0,hash=5b97f693570e184e9391b12d5133e254}{%
+           family={Vierkant},
+           familyi={V\bibinitperiod},
+           given={Artie},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=f69abe71d47df2fa05300833246d6c68}{%
+           family={Wark},
+           familyi={W\bibinitperiod},
+           given={McKenzie},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=c04ca8fe14cf27bf9b93e7ff025d40cf}{%
+           family={Weizman},
+           familyi={W\bibinitperiod},
+           given={Eyal},
+           giveni={E\bibinitperiod}}}%
+        {{uniquename=0,hash=68a9ff331c22d50e085b1cb92ae8e31a}{%
+           family={Wood},
+           familyi={W\bibinitperiod},
+           given={Christopher\bibnamedelima S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{uniquename=0,hash=05d9f73982e0711405e532d24787732d}{%
+           family={Ga},
+           familyi={G\bibinitperiod},
+           given={Zhang},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{52d1415c9b3269b2c962331c185e0119}
+      \strng{fullhash}{f916d658c7ab597757c17ccfaa605ef4}
+      \strng{authornamehash}{52d1415c9b3269b2c962331c185e0119}
+      \strng{authorfullhash}{f916d658c7ab597757c17ccfaa605ef4}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Recent philosophical tendencies of “Actor-Network Theory,” “Object-Oriented Ontology,” and “Speculative Realism” have profoundly challenged the centrality of subjectivity in the humanities, and many artists and curators, particularly in the UK, Germany, and the United States, appear deeply influenced by this shift from epistemology to ontology. October editors asked artists, historians, and philosophers invested in these projects—from Graham Harman and Alexander R. Galloway to Armen Avanessian and Patricia Falguières to Ed Atkins and Amie Siegel—to explore what the rewards and risks of assigning agency to objects may be, and how, or if, such new materialisms can be productive for making and thinking about art today.}
+      \field{journaltitle}{October}
+      \field{title}{A Questionnaire on Materialisms}
+      \field{volume}{-}
+      \field{year}{2016}
+      \field{pages}{3\bibrangedash 110}
+      \range{pages}{108}
+    \endentry
+    \entry{attali85}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=743a9a6fc12510acebc3095a2de7083a}{%
+           family={Attali},
+           familyi={A\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=238b29053394b097fcec97692480edd6}{%
+           family={Massumi},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Minnesota Press}%
+      }
+      \strng{namehash}{743a9a6fc12510acebc3095a2de7083a}
+      \strng{fullhash}{743a9a6fc12510acebc3095a2de7083a}
+      \strng{authornamehash}{743a9a6fc12510acebc3095a2de7083a}
+      \strng{authorfullhash}{743a9a6fc12510acebc3095a2de7083a}
+      \strng{translatornamehash}{238b29053394b097fcec97692480edd6}
+      \strng{translatorfullhash}{238b29053394b097fcec97692480edd6}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{indextitle}{Noise: The Political Economy of Music}
+      \field{series}{Theory and History of Literature}
+      \field{shorttitle}{Noise}
+      \field{title}{{Noise: The Political Economy of Music}}
+      \field{volume}{16}
+      \field{year}{1985}
+    \endentry
+    \entry{Bachimont:03}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,hash=bd9098e7104a1848a7474753e727d80f}{%
+           family={Bachimont},
+           familyi={B\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{uniquename=0,hash=0cdfef1c3487b086e99c0d742cd16931}{%
+           family={Blanchette},
+           familyi={B\bibinitperiod},
+           given={J.-F.},
+           giveni={J\bibinithyphendelim F\bibinitperiod}}}%
+        {{uniquename=0,hash=641f1cccb1850486d4395b635352c3d6}{%
+           family={Gerzso},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=dac6d513ba08f28fae2fb09c0e645e05}{%
+           family={Swetland},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=a6b504c139937e3004c0de1c88e9d6ca}{%
+           family={Lescurieux},
+           familyi={L\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{uniquename=0,hash=2cf0ef4353d31ebe2afe4b3172013ae4}{%
+           family={Morizet-Mahoudeaux},
+           familyi={M\bibinithyphendelim M\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=b1d4416946e18a7c148261b3671e2d22}{%
+           family={Donin},
+           familyi={D\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{uniquename=0,hash=90c1622860d8c80b4873ef7945adabad}{%
+           family={Teasley},
+           familyi={T\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {WEDELMUSIC}%
+      }
+      \strng{namehash}{04de86aceab0b112f1705384419ff27f}
+      \strng{fullhash}{f16aa7290fc06f6b598fb02a28e1e755}
+      \strng{authornamehash}{04de86aceab0b112f1705384419ff27f}
+      \strng{authorfullhash}{f16aa7290fc06f6b598fb02a28e1e755}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings. Third International Conference on Web Delivering of Music.Web Delivering of Music}
+      \field{title}{Preserving interactive digital music: a report on the MUSTICA research initiative}
+      \field{year}{2003}
+    \endentry
+    \entry{barrett2013}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=6561fe85a7db32656ad0e08b0b1b66d2}{%
+           family={Barrett},
+           familyi={B\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{uniquename=0,hash=6baea81fd2397c31c00011e22b43f9f2}{%
+           family={Bolt},
+           familyi={B\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {I. B. Tauris}%
+      }
+      \strng{namehash}{901ddbc22132dc0621c9725312df025d}
+      \strng{fullhash}{901ddbc22132dc0621c9725312df025d}
+      \strng{authornamehash}{901ddbc22132dc0621c9725312df025d}
+      \strng{authorfullhash}{901ddbc22132dc0621c9725312df025d}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Carnal Knowledge: Towards a 'New Materialism' Through the Arts}
+      \field{year}{2013}
+    \endentry
+    \entry{barthesMus}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1b230e91c108eeaca0348e9eba71249c}{%
+           family={Barthes},
+           familyi={B\bibinitperiod},
+           given={Roland},
+           giveni={R\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=29bfcafaa5b1462339b82ddc7d8ac4b8}{%
+           family={Heath},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Fontana Press, London}%
+      }
+      \strng{namehash}{1b230e91c108eeaca0348e9eba71249c}
+      \strng{fullhash}{1b230e91c108eeaca0348e9eba71249c}
+      \strng{authornamehash}{1b230e91c108eeaca0348e9eba71249c}
+      \strng{authorfullhash}{1b230e91c108eeaca0348e9eba71249c}
+      \strng{translatornamehash}{29bfcafaa5b1462339b82ddc7d8ac4b8}
+      \strng{translatorfullhash}{29bfcafaa5b1462339b82ddc7d8ac4b8}
+      \field{sortinit}{b}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Music, Image, Text}
+      \field{title}{Musica Practica}
+      \field{year}{1971}
+      \field{pages}{149\bibrangedash 54}
+      \range{pages}{6}
+    \endentry
+    \entry{baudrillard96}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ca5d044a17fe9219663ae523796adb1e}{%
+           family={Baudrillard},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=9509d04ec1594f8d1fbb9338fac6b502}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Verso, London, UK}%
+      }
+      \strng{namehash}{ca5d044a17fe9219663ae523796adb1e}
+      \strng{fullhash}{ca5d044a17fe9219663ae523796adb1e}
+      \strng{authornamehash}{ca5d044a17fe9219663ae523796adb1e}
+      \strng{authorfullhash}{ca5d044a17fe9219663ae523796adb1e}
+      \strng{translatornamehash}{9509d04ec1594f8d1fbb9338fac6b502}
+      \strng{translatorfullhash}{9509d04ec1594f8d1fbb9338fac6b502}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{indextitle}{Perfect Crime, The}
+      \field{title}{The Perfect Crime}
+      \field{year}{1996}
+    \endentry
+    \entry{beetz2016}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e97ec0626eb5e03f957b27b1ec297ea8}{%
+           family={Beetz},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan UK}%
+      }
+      \strng{namehash}{e97ec0626eb5e03f957b27b1ec297ea8}
+      \strng{fullhash}{e97ec0626eb5e03f957b27b1ec297ea8}
+      \strng{authornamehash}{e97ec0626eb5e03f957b27b1ec297ea8}
+      \strng{authorfullhash}{e97ec0626eb5e03f957b27b1ec297ea8}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Materiality and Subject in Marxism, (Post-)Structuralism, and Material Semiotics}
+      \field{year}{2016}
+    \endentry
+    \entry{benjamin2005}{book}{}
+      \name{author}{5}{uniquelist=2}{%
+        {{uniquename=0,hash=1439b2f8b322b87aa1bce00e621c0a34}{%
+           family={Benjamin},
+           familyi={B\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{uniquename=0,hash=1fab56dd272142c1a4be2ff75399db59}{%
+           family={Jennings},
+           familyi={J\bibinitperiod},
+           given={M.W.},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=956cc95bab580006eda63b11412372e6}{%
+           family={Bullock},
+           familyi={B\bibinitperiod},
+           given={M.P.},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=ea8cd4bbcedc6cc1e1986bada98db0cc}{%
+           family={Eiland},
+           familyi={E\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{uniquename=0,hash=9844efc9bb9133ea2a0bab83dd62cc73}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Belknap Press of Harvard University Press}%
+      }
+      \strng{namehash}{a4b8b98f7b79446890ac05d71c1d4448}
+      \strng{fullhash}{dc9eff405eb86e3eb24c9601d7c703f2}
+      \strng{authornamehash}{a4b8b98f7b79446890ac05d71c1d4448}
+      \strng{authorfullhash}{dc9eff405eb86e3eb24c9601d7c703f2}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Selected Writings}
+      \field{title}{Selected writings}
+      \field{year}{2005}
+    \endentry
+    \entry{benjamin1999}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=1439b2f8b322b87aa1bce00e621c0a34}{%
+           family={Benjamin},
+           familyi={B\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{uniquename=0,hash=ae08ef888d0cf24b53bcf7673c78f150}{%
+           family={Tiedemann},
+           familyi={T\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Belknap Press of Harvard University Press}%
+      }
+      \strng{namehash}{a3728e78ae0f45c39fb5ec166fb82ccb}
+      \strng{fullhash}{a3728e78ae0f45c39fb5ec166fb82ccb}
+      \strng{authornamehash}{a3728e78ae0f45c39fb5ec166fb82ccb}
+      \strng{authorfullhash}{a3728e78ae0f45c39fb5ec166fb82ccb}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Arcades Project}
+      \field{year}{1999}
+    \endentry
+    \entry{bennett2009}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=19447bb2a3ddf84a01e7e67c132b3bdf}{%
+           family={Bennett},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{19447bb2a3ddf84a01e7e67c132b3bdf}
+      \strng{fullhash}{19447bb2a3ddf84a01e7e67c132b3bdf}
+      \strng{authornamehash}{19447bb2a3ddf84a01e7e67c132b3bdf}
+      \strng{authorfullhash}{19447bb2a3ddf84a01e7e67c132b3bdf}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{a John Hope Franklin Center Book}
+      \field{title}{Vibrant Matter: A Political Ecology of Things}
+      \field{year}{2009}
+    \endentry
+    \entry{boutard2012}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=b16a3bc5b3b15f7b0ef3310f6d1adf11}{%
+           family={Boutard},
+           familyi={B\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod}}}%
+        {{uniquename=0,hash=8e3e2ef8e452aeaed33d27e7a68652c7}{%
+           family={Guastavino},
+           familyi={G\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{9b904a7f0561b290f24ff454ca1dc0b4}
+      \strng{fullhash}{9b904a7f0561b290f24ff454ca1dc0b4}
+      \strng{authornamehash}{9b904a7f0561b290f24ff454ca1dc0b4}
+      \strng{authorfullhash}{9b904a7f0561b290f24ff454ca1dc0b4}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Documentation}
+      \field{number}{6}
+      \field{title}{{Archiving electroacoustic and mixed music: Significant knowledge involved in the creative process of works with spatialisation}}
+      \field{volume}{68}
+      \field{year}{2012}
+      \field{pages}{749\bibrangedash 771}
+      \range{pages}{23}
+    \endentry
+    \entry{cuervo2011}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b7d7cc0b0ec1b1fd56d101995667d7f4}{%
+           family={Cuervo},
+           familyi={C\bibinitperiod},
+           given={Adriana\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{b7d7cc0b0ec1b1fd56d101995667d7f4}
+      \strng{fullhash}{b7d7cc0b0ec1b1fd56d101995667d7f4}
+      \strng{authornamehash}{b7d7cc0b0ec1b1fd56d101995667d7f4}
+      \strng{authorfullhash}{b7d7cc0b0ec1b1fd56d101995667d7f4}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Notes.}
+      \field{number}{1}
+      \field{title}{{Preserving the Electroacoustic Music Legacy: A Case Study of the Sal-Mar Construction at the University of Illinois}}
+      \field{volume}{68}
+      \field{year}{2011}
+      \field{pages}{33\bibrangedash 47}
+      \range{pages}{15}
+    \endentry
+    \entry{der78}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c75af80d0625b8028e36e574012f277e}{%
+           family={Derrida},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge \& Kegan Paul Ltd.}%
+      }
+      \strng{namehash}{c75af80d0625b8028e36e574012f277e}
+      \strng{fullhash}{c75af80d0625b8028e36e574012f277e}
+      \strng{authornamehash}{c75af80d0625b8028e36e574012f277e}
+      \strng{authorfullhash}{c75af80d0625b8028e36e574012f277e}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Writing and difference}
+      \field{year}{1978}
+    \endentry
+    \entry{derrida1998}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c75af80d0625b8028e36e574012f277e}{%
+           family={Derrida},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{c75af80d0625b8028e36e574012f277e}
+      \strng{fullhash}{c75af80d0625b8028e36e574012f277e}
+      \strng{authornamehash}{c75af80d0625b8028e36e574012f277e}
+      \strng{authorfullhash}{c75af80d0625b8028e36e574012f277e}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Religion and Postmodernism}
+      \field{title}{Archive Fever: A Freudian Impression}
+      \field{year}{1998}
+    \endentry
+    \entry{Douglas2007}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1e1aec9606c2d581e9121b9be63eaf41}{%
+           family={Douglas},
+           familyi={D\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e1aec9606c2d581e9121b9be63eaf41}
+      \strng{fullhash}{1e1aec9606c2d581e9121b9be63eaf41}
+      \strng{authornamehash}{1e1aec9606c2d581e9121b9be63eaf41}
+      \strng{authorfullhash}{1e1aec9606c2d581e9121b9be63eaf41}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{General Study 03 Final Report : Preserving Interactive Digital Music – The MUSTICA Initiative}}
+      \field{type}{techreport}
+      \field{year}{2007}
+    \endentry
+    \entry{eco68}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=eeb9256075038567a106101346ca2995}{%
+           family={Eco},
+           familyi={E\bibinitperiod},
+           given={Umberto},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Hutchinson Radius}%
+      }
+      \strng{namehash}{eeb9256075038567a106101346ca2995}
+      \strng{fullhash}{eeb9256075038567a106101346ca2995}
+      \strng{authornamehash}{eeb9256075038567a106101346ca2995}
+      \strng{authorfullhash}{eeb9256075038567a106101346ca2995}
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{indextitle}{Open Work, The}
+      \field{note}{English translation published in 1989.}
+      \field{title}{The Open Work}
+      \field{year}{1968}
+    \endentry
+    \entry{evens05}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=76198f978a9cc9030e4d714eadb48916}{%
+           family={Evens},
+           familyi={E\bibinitperiod},
+           given={Aden},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Minnesota Press}%
+      }
+      \strng{namehash}{76198f978a9cc9030e4d714eadb48916}
+      \strng{fullhash}{76198f978a9cc9030e4d714eadb48916}
+      \strng{authornamehash}{76198f978a9cc9030e4d714eadb48916}
+      \strng{authorfullhash}{76198f978a9cc9030e4d714eadb48916}
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{indextitle}{Sound Ideas}
+      \field{series}{Theory out of bounds}
+      \field{shorttitle}{Sound Ideas}
+      \field{title}{Sound Ideas : Music, Machines, and Experience}
+      \field{volume}{27}
+      \field{year}{2005}
+    \endentry
+    \entry{freud1997}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=fff9433d56520ed38c35bc223040af60}{%
+           family={Freud},
+           familyi={F\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Simon}%
+        {Schuster, Touchstone}%
+      }
+      \strng{namehash}{fff9433d56520ed38c35bc223040af60}
+      \strng{fullhash}{fff9433d56520ed38c35bc223040af60}
+      \strng{authornamehash}{fff9433d56520ed38c35bc223040af60}
+      \strng{authorfullhash}{fff9433d56520ed38c35bc223040af60}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{His collected papers}
+      \field{title}{General Psychological Theory: Papers on Metapsychology}
+      \field{volume}{6}
+      \field{year}{1997}
+    \endentry
+    \entry{frisk08phd}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=2,hash=0543b682453d322f71fa75ab5714ec91}{%
+           family={Frisk},
+           familyi={F\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Malmö Faculty of Fine}%
+        {Performing Arts, Lund University}%
+      }
+      \list{publisher}{1}{%
+        {Lund University Press}%
+      }
+      \strng{namehash}{0543b682453d322f71fa75ab5714ec91}
+      \strng{fullhash}{0543b682453d322f71fa75ab5714ec91}
+      \strng{authornamehash}{0543b682453d322f71fa75ab5714ec91}
+      \strng{authorfullhash}{0543b682453d322f71fa75ab5714ec91}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1653-8617}
+      \field{title}{{Improvisation, Computers, and Interaction: Rethinking Human-Computer Interaction Through Music}}
+      \field{type}{phdthesis}
+      \field{year}{2008}
+    \endentry
+    \entry{frisk2017}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8af23739c8c5ddb97564f1e486149be2}{%
+           family={Frisk},
+           familyi={F\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {13th International Symposium on Computer Music Multidisciplinary Research (CMMR)}%
+      }
+      \strng{namehash}{8af23739c8c5ddb97564f1e486149be2}
+      \strng{fullhash}{8af23739c8c5ddb97564f1e486149be2}
+      \strng{authornamehash}{8af23739c8c5ddb97564f1e486149be2}
+      \strng{authorfullhash}{8af23739c8c5ddb97564f1e486149be2}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ArtDoc - an Experimental Archive and a Tool for Artistic Research}
+      \field{year}{2017}
+    \endentry
+    \entry{frisk2016b}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=2,hash=0543b682453d322f71fa75ab5714ec91}{%
+           family={Frisk},
+           familyi={F\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{0543b682453d322f71fa75ab5714ec91}
+      \strng{fullhash}{0543b682453d322f71fa75ab5714ec91}
+      \strng{authornamehash}{0543b682453d322f71fa75ab5714ec91}
+      \strng{authorfullhash}{0543b682453d322f71fa75ab5714ec91}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Seismograf}
+      \field{month}{5}
+      \field{note}{http://seismograf.org/fokus/composer-performer}
+      \field{title}{Hell is full of musical amateurs, but so is heaven}
+      \field{year}{2017}
+    \endentry
+    \entry{friskcoessens2013}{incollection}{}
+      \name{author}{3}{}{%
+        {{uniquename=2,hash=0543b682453d322f71fa75ab5714ec91}{%
+           family={Frisk},
+           familyi={F\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{uniquename=0,hash=c3efc9de12e3a34e43480a0c800ac867}{%
+           family={Coessens},
+           familyi={C\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=823648f7b4857ee2daa601191f11a9af}{%
+           family={Östersjö},
+           familyi={Ö\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4d8adc468cbb66a8876c30eea9fec312}{%
+           family={Crispin},
+           familyi={C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7a8fd277d44b760fc23186835977284c}{%
+           family={Gilmore},
+           familyi={G\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Orpheus Institute Series, Gent}%
+      }
+      \strng{namehash}{0e1fb545158b5fe72e65cd7e91e6407b}
+      \strng{fullhash}{0e1fb545158b5fe72e65cd7e91e6407b}
+      \strng{authornamehash}{0e1fb545158b5fe72e65cd7e91e6407b}
+      \strng{authorfullhash}{0e1fb545158b5fe72e65cd7e91e6407b}
+      \strng{editornamehash}{d936f70c49077c6d8511fa05716d7c42}
+      \strng{editorfullhash}{d936f70c49077c6d8511fa05716d7c42}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Artistic Experimentation in Music}
+      \field{title}{Repetition, resonance and discernment}
+      \field{year}{2014}
+    \endentry
+    \entry{frisk-ost06}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=2,hash=0543b682453d322f71fa75ab5714ec91}{%
+           family={Frisk},
+           familyi={F\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{uniquename=0,hash=823648f7b4857ee2daa601191f11a9af}{%
+           family={Östersjö},
+           familyi={Ö\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ICMA}%
+      }
+      \list{publisher}{1}{%
+        {San Francisco, Calif.: Computer Music Assoc.}%
+      }
+      \strng{namehash}{067786eb036213000306732804da9ae3}
+      \strng{fullhash}{067786eb036213000306732804da9ae3}
+      \strng{authornamehash}{067786eb036213000306732804da9ae3}
+      \strng{authorfullhash}{067786eb036213000306732804da9ae3}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extrayear}{1}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Proceedings of the International Computer Music Conference 2006}
+      \field{indextitle}{Negotiating the Musical Work II}
+      \field{shorttitle}{Negotiating the Musical Work II}
+      \field{title}{Negotiating the Musical Work. An empirical study}
+      \field{year}{2006}
+      \field{pages}{242\bibrangedash 9}
+      \range{pages}{8}
+    \endentry
+    \entry{frisk-ost06-2}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=2,hash=0543b682453d322f71fa75ab5714ec91}{%
+           family={Frisk},
+           familyi={F\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{uniquename=0,hash=823648f7b4857ee2daa601191f11a9af}{%
+           family={Östersjö},
+           familyi={Ö\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Electroacoustic Music Studies}%
+      }
+      \list{publisher}{1}{%
+        {EMS}%
+      }
+      \strng{namehash}{067786eb036213000306732804da9ae3}
+      \strng{fullhash}{067786eb036213000306732804da9ae3}
+      \strng{authornamehash}{067786eb036213000306732804da9ae3}
+      \strng{authorfullhash}{067786eb036213000306732804da9ae3}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extrayear}{2}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Proceedings of EMS -06, Beijing. Terminology and Translation}
+      \field{indextitle}{Negotiating the Musical Work I}
+      \field{shorttitle}{Negotiating the Musical Work I}
+      \field{title}{Negotiating the Musical Work. {A}n empirical study on the inter-relation between composition, interpretation and performance}
+      \field{urlday}{29}
+      \field{urlmonth}{11}
+      \field{urlyear}{2009}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://www.ems-network.org/spip.php?article245
+      \endverb
+    \endentry
+    \entry{latour2007}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1c5ec24545aae8ec4bb9a21fe100e212}{%
+           family={Latour},
+           familyi={L\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {OUP Oxford}%
+      }
+      \strng{namehash}{1c5ec24545aae8ec4bb9a21fe100e212}
+      \strng{fullhash}{1c5ec24545aae8ec4bb9a21fe100e212}
+      \strng{authornamehash}{1c5ec24545aae8ec4bb9a21fe100e212}
+      \strng{authorfullhash}{1c5ec24545aae8ec4bb9a21fe100e212}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Reassembling the Social: An Introduction to Actor-Network-Theory}
+      \field{year}{2007}
+    \endentry
+    \entry{marx1970}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=1,hash=b7091f9e92795998d13fde4e4b9dec26}{%
+           family={Marx},
+           familyi={M\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{uniquename=0,hash=e5462f25cd074bf2c6f7670bdcbe0874}{%
+           family={Engels},
+           familyi={E\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {International Publishers}%
+      }
+      \strng{namehash}{9309742ef1b3a23237653dd6bbbb0ccb}
+      \strng{fullhash}{9309742ef1b3a23237653dd6bbbb0ccb}
+      \strng{authornamehash}{9309742ef1b3a23237653dd6bbbb0ccb}
+      \strng{authorfullhash}{9309742ef1b3a23237653dd6bbbb0ccb}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The German Ideology}
+      \field{year}{1970}
+    \endentry
+    \entry{benjamin2007}{book}{}
+      \name{author}{4}{}{%
+        {{uniquename=1,hash=b6f215c05be8af50bfb5b16c9feda315}{%
+           family={Marx},
+           familyi={M\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod}}}%
+        {{uniquename=0,hash=ae7aeea5d8bc6a56644607d14ffb7658}{%
+           family={Schwarz},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=46ae0e3a8e8c2a82135337dbfc633821}{%
+           family={Schwarz},
+           familyi={S\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{uniquename=0,hash=d294b3b2c152c693fad31711136c0d37}{%
+           family={Wizisla},
+           familyi={W\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Verso}%
+      }
+      \strng{namehash}{647644dd9f39f6d7922019537aa73f60}
+      \strng{fullhash}{c14cba01876d9617af9862c47a853652}
+      \strng{authornamehash}{647644dd9f39f6d7922019537aa73f60}
+      \strng{authorfullhash}{c14cba01876d9617af9862c47a853652}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Walter Benjamin's Archive: images, texts, signs}
+      \field{year}{2007}
+    \endentry
+    \entry{vr2017}{misc}{}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Web resource}
+      \field{month}{1}
+      \field{note}{Accessed August 1, 2017}
+      \field{title}{Nationella riktlinjer för öppen tillgång till vetenskaplig information}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://www.vr.se/omvetenskapsradet/regeringsuppdrag/avrapporterade2015/avrapporterade2015/nationellariktlinjerforoppentillgangtillvetenskapliginformation.4.7e727b6e141e9ed702b1307e.html
+      \endverb
+    \endentry
+    \entry{Roeder2006}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ba1d398beba3200e0da2fd6929bc4e3b}{%
+           family={Roeder},
+           familyi={R\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba1d398beba3200e0da2fd6929bc4e3b}
+      \strng{fullhash}{ba1d398beba3200e0da2fd6929bc4e3b}
+      \strng{authornamehash}{ba1d398beba3200e0da2fd6929bc4e3b}
+      \strng{authorfullhash}{ba1d398beba3200e0da2fd6929bc4e3b}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Unpublished report}
+      \field{title}{{Authenticity of digital music : key insights from interviews in the MUSTICA project}}
+      \field{type}{techreport}
+      \field{year}{2006}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

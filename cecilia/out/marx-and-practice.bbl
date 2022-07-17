@@ -1,0 +1,154 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\preamble{%
+\hyphenation{Post-Script}%
+}
+
+
+\refsection{0}
+  \sortlist{entry}{nyt}
+    \entry{engels47}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=e5462f25cd074bf2c6f7670bdcbe0874}{Engels}{E\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e5462f25cd074bf2c6f7670bdcbe0874}{Engels}{E\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Progress Publishers}%
+      }
+      \strng{namehash}{e5462f25cd074bf2c6f7670bdcbe0874}
+      \strng{fullhash}{e5462f25cd074bf2c6f7670bdcbe0874}
+      \field{sortinit}{E}
+      \field{labelyear}{1947}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Anti-Dühring. Herr Eugen Dühring’s Revolution in Science}
+      \field{title}{Anti-Dühring. Herr Eugen Dühring’s Revolution in Science}
+      \field{year}{1947}
+    \endentry
+    \entry{hegel08}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=4ba154c9052ad5250596334663c4b35a}{Hegel}{H\bibinitperiod}{G.W.F.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=4ba154c9052ad5250596334663c4b35a}{Hegel}{H\bibinitperiod}{G.W.F.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Thales, Stockholm}%
+      }
+      \strng{namehash}{4ba154c9052ad5250596334663c4b35a}
+      \strng{fullhash}{4ba154c9052ad5250596334663c4b35a}
+      \field{sortinit}{H}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Andens fenomenologi}
+      \field{title}{Andens fenomenologi}
+      \field{year}{2008}
+    \endentry
+    \entry{hultberg2007}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=4f6d7525afddb5a9ef8a9d939a47b3f1}{Hultberg}{H\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=4f6d7525afddb5a9ef8a9d939a47b3f1}{Hultberg}{H\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=35cea91a8f0523784acc375d1e43e15c}{Folkestad}{F\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Malmö academy of music}%
+      }
+      \strng{namehash}{4f6d7525afddb5a9ef8a9d939a47b3f1}
+      \strng{fullhash}{4f6d7525afddb5a9ef8a9d939a47b3f1}
+      \field{sortinit}{H}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The printed score as a mediator of musical meaning}
+      \field{booktitle}{A Decade of Research in music education}
+      \field{number}{no 9}
+      \field{series}{Studies in music and music education}
+      \field{title}{The printed score as a mediator of musical meaning}
+      \field{year}{2007}
+      \field{pages}{75\bibrangedash 88}
+    \endentry
+    \entry{jones1986}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=35ef8e97ff40a3fbdc89531fbe14ede1}{Jones}{J\bibinitperiod}{R.A.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=35ef8e97ff40a3fbdc89531fbe14ede1}{Jones}{J\bibinitperiod}{R.A.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications}%
+      }
+      \strng{namehash}{35ef8e97ff40a3fbdc89531fbe14ede1}
+      \strng{fullhash}{35ef8e97ff40a3fbdc89531fbe14ede1}
+      \field{sortinit}{J}
+      \field{labelyear}{1986}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Emile Durkheim: an introduction to four major works}
+      \field{series}{Masters of social theory}
+      \field{title}{Emile Durkheim: an introduction to four major works}
+      \field{year}{1986}
+    \endentry
+    \entry{marx1970}{book}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=b7091f9e92795998d13fde4e4b9dec26}{Marx}{M\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e5462f25cd074bf2c6f7670bdcbe0874}{Engels}{E\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=b7091f9e92795998d13fde4e4b9dec26}{Marx}{M\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e5462f25cd074bf2c6f7670bdcbe0874}{Engels}{E\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {International Publishers}%
+      }
+      \strng{namehash}{9309742ef1b3a23237653dd6bbbb0ccb}
+      \strng{fullhash}{9309742ef1b3a23237653dd6bbbb0ccb}
+      \field{sortinit}{M}
+      \field{labelyear}{1970}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The German Ideology}
+      \field{title}{The German Ideology}
+      \field{year}{1970}
+    \endentry
+    \entry{smith2000}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=8ece1fbd0a8ba1c02cfb6df6cc532447}{Smith}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8ece1fbd0a8ba1c02cfb6df6cc532447}{Smith}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Random House Publishing Group}%
+      }
+      \strng{namehash}{8ece1fbd0a8ba1c02cfb6df6cc532447}
+      \strng{fullhash}{8ece1fbd0a8ba1c02cfb6df6cc532447}
+      \field{sortinit}{S}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The Wealth of Nations}
+      \field{series}{Modern Library}
+      \field{title}{The Wealth of Nations}
+      \field{year}{2000}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

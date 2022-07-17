@@ -1,0 +1,16 @@
+[0] Config.pm:318> INFO - This is Biber 1.8
+[0] Config.pm:321> INFO - Logfile is 'out/marx-and-practice.blg'
+[68] biber:275> INFO - === Tue Nov 10, 2015, 17:31:30
+[68] Biber.pm:333> INFO - Reading 'out/marx-and-practice.bcf'
+[143] Biber.pm:630> INFO - Found 6 citekeys in bib section 0
+[157] Biber.pm:3053> INFO - Processing section 0
+[173] Biber.pm:3190> INFO - Looking for bibtex format file './../biblio/bibliography.bib' for section 0
+[198] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
+[232] bibtex.pm:812> INFO - Found BibTeX data source './../biblio/bibliography.bib'
+[261] Utils.pm:169> WARN - BibTeX subsystem: /tmp/braw9qx21l/bibliography.bib_20656.utf8, line 160, warning: 1 characters of junk seen at toplevel
+[293] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[293] Biber.pm:2945> INFO - Sorting 'entry' list 'nyt' keys
+[294] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[307] bbl.pm:482> INFO - Writing 'out/marx-and-practice.bbl' with encoding 'UTF-8'
+[308] bbl.pm:555> INFO - Output to out/marx-and-practice.bbl
+[308] Biber.pm:105> INFO - WARNINGS: 1
