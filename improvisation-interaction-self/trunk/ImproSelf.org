@@ -1,0 +1,740 @@
+* 
+  :PROPERTIES:
+  :CUSTOM_ID: section
+  :CLASS: unnumbered
+  :END:
+
+To listen to the other. The phrase raises an incalculable number of
+issues. One of the central topics in teaching improvisation is to learn
+how to listen to those with whom one plays, but in my experience the
+most difficult task to listen to the self. The point of listening to the
+other in performance is not completely to give up the self, nor is it to
+become the other, but to attune to, or find resonance with the other. It
+is in the interaction between two or more musicians the open and unbound
+improvisation is unfolding, in the space between adjusting to the other,
+and listening to the self. In this paper, I will use my artistic
+practice in the Swedish-Vietnamese group The Six Tones as a context for
+approaching some of these questions concerning self and other by means
+of three concepts, each of which have a profound influence on the self:
+freedom, habit and individuality. Though these concepts are very broad
+and deep, they will be tackled in a relatively limited and practical
+context.
+
+The impact of freedom, being such an essential concept in the
+understanding of improvisation, is closely related to some of the more
+social and political topics that I will touch upon, and can be
+understood in a number of ways, such as freedom /of the self/ and
+freedom /from the self/. Habit is a factor that can both limit the space
+for freedom and participate in allowing for it, and there are a number
+of examples of habit destruction as a creative force. Habit is part of
+the constitution of the self and detaching habit from the self may be a
+method to introduce change. Individuality, an equally important aspect
+of jazz and improvised music, is interesting and complex and can
+participate in turning freedom-of-the-self into a power of domination.
+Freedom is a necessary condition for the individual expression which in
+turn may reduce the space of freedom to others. In The Six Tones,
+situated as it is in an intercultural context, the meanings of self,
+other, listening, habit and individuality are investigated also outside
+a purely musical realm. Starting from the conceptually, stylistically as
+well as geographically local perspective the paper is ending with a
+discussion on center and periphery in a post-colonial context, and, as a
+preliminary remark, I believe that it is both possible and important to
+engage in a social and political discourse, and I am confident that the
+art field, and specifically the field of artistic research, is an
+appropriate arena for this.
+
+I am not attempting to use a theoretical framework and applying it to
+the artistic work flow. Rather, I am concerned with understanding what
+was going on in the early stages of our work in the group, and to
+understand my own initial and consequent reactions. By filtering these
+experiences through the thoughts presented below, and understanding my
+own reactions as expressions of a system of domination I can approach my
+own artistic practice as a vehicle for social and political thinking
+through music, and I can approach the difficult questions concerning
+self, habit and freedom. The method employed is a recursive cycle
+through stages of artistic practice, reflection, evaluation, and theory
+as practice.
+
+* 
+  :PROPERTIES:
+  :CUSTOM_ID: sec:self-artist-prod
+  :CLASS: unnumbered
+  :END:
+
+The notion of the self is a philosophically complex issue, and I am not
+claiming that this text is an exhaustive account of all possible angles.
+My primary interest is the role of the self as seen from a very
+practical perspective: In a musical interaction how can the self at the
+same time be responsive to the other, be free and be individual and what
+is the epistemology for this aspiration? By virtue of the subjective
+nature of improvisation, and many other creative practicies, the role of
+the self is essential to the various processes in artistic work such as
+creation, evaluation, construction and presentation. Many theories have
+been developed to explain the operations of the "mysterious nature of
+the self" \citep[][p. 167]{griffiths10}, subject to constant change, but
+the mere attempt to define its nature appears to change it. That ones
+reflection upon the self in fact alters it is a founding property of
+most kinds of therapy, though there is no way of knowing whether it is
+the understanding of the self or the self itself that is altered. The
+connection and interdependence of self with time and place, with the
+other, with the body and the socio-political spheres and power relations
+makes it clear that it is in a consistently uncompleted state, in a
+capacity of constant becoming. Anthropologist Gregory Bateson, to whom
+we will return later in this text, identifies the self as an aggregation
+of "habits of perception and adaptive action"
+\citep[p. 242]{bateson72:steps}. Although his definition may appear to
+be too formal in this context, bringing in habit as a defining property
+of the self is significant, and part of my argument here is that
+altering habitual responses is a way to alter the self.
+
+As an illustration of one of the ways in which the meeting with the
+other changes, not only the self but also the other, Deleuze and
+Guattari claims it to be possible to move across, or transgress, the
+border between self and other: "Whenever there is transcoding, we can be
+sure that there is not a simple addition, but the constitution of a new
+plane, as of a surplus value. A melodic or rhythmic plane, surplus value
+of passage or bridging" \citep[p. 346]{deleuze80}.[fn:1] I would like to
+argue that improvisation in particular is a powerful site for exploring
+questions concerning subjectivity, identity and the spheres of self and
+other, and many of the principal aspects of the meeting between self and
+other can be anticipated and expanded in the domain of musical practice.
+Counterpoint, and the simultaneous interaction between several voices at
+once, would render any verbal discussion incomprehensible and impossible
+to follow, whereas in music, it may even do the opposite: create greater
+clarity. Listening is fundamental to all musical practices and listening
+to the other is an essential aspect of any relation: "since music making
+is something we inevitably do with others (whether they are present or
+not), musical dialogue is /fundamentally/ ethical in nature"
+\citep[p. 164]{benson03}.
+
+Although very difficult to define, freedom in general is a recurring
+concept in the discussion of musical improvisation. What is the function
+of freedom in the constitution of the self? In a more general context
+Hanna \citet{arendt77} claims that "to raise the question, What is
+freedom? seems to be a hopeless enterprise", and freedom is no less
+complicated when discussed in relation to musical practices. Free jazz
+has been a genre since Ornette Coleman's epic release /Free Jazz: A
+Collective Improvisation/ \citep{coleman60} and ever since has there
+been a discussion as to what has actually been freed in the process. Is
+it the musician that is liberated or the music? Or something else? The
+free jazz movement in the USA in the 1960's was intimately linked to the
+civil rights movement adding a political dimension to the discussion. On
+the surface improvisation may seem as a means to create music that is
+free from the chains of the formal structures that, e.g. notation
+imposes on the musician. Subjectivity and individuality is, and has
+been, a powerful agent in much of jazz and improvised music, as it has
+rejected the generality that other kinds of music has advocated.[fn:2]
+Even though we know that such descriptions are not correct, the
+prevailing notion is that jazz is a music that may be created on the
+spot and whose substance is defined by the will of the improviser rather
+than by external factors or structures.
+
+Many have rightly criticized the understanding of jazz and improvised
+music as devoid of planning, and ignorant to history and memory, but the
+field is complex and the concept of improvisation will not let itself be
+defined on only one axis. The idea of the improvising musician as a
+"mystic who is unable to describe his or her own creative process is a
+staple of conventional cultural wisdom about jazz"
+\citep[p. 170]{lewis-1}, proposed by established, privileged and
+canonical composers as well as by improvising musicians themselves. It
+should however be noted that many of the attempts to target
+improvisation as unforeseen, unplanned, spontaneous and based primarily
+on "feelings" is to a significant degree a political strategy with which
+jazz musicians has been kept outside the central structures of cultural
+funding. An expression that according to a popular view to a significant
+degree is made up in the moment cannot be taken seriously in a culture
+otherwise driven by the auteur.
+
+The claim on jazz musicians to be both strongly individual and free at
+the same time quickly becomes problematic as the two concepts are
+connected. With reference to one's right to be individual one may may
+end up using one's personal freedom to claim the right to control the
+situation at the expense of the freedom of the other. This is a
+surprisingly common mode in jazz improvisation where both freedom and
+power of expression and musical readability are highly valued. In his
+book /The Philosophy of Improvisation/ Gary \citet{peters09} calls it
+the "aporia of freedom". Though freedom is generally thought of as a
+positive concept he claims it to be a mistake to neglect its
+"questionable duality" (p. 21): "my freedom comes at the expense of the
+other's freedom, my own autonumous world at the expense of the other's
+heteronomy" \citep[p. 165]{benson03}. This duality is perhaps even more
+obvious in the light of the mythical view of the creator, a Kantian
+genius, who enjoys the undeniable freedom of the artist. To this artist
+subjectivity and individuality are not choices, they belong to his
+vocation and constitute the very nature and value of artistic work. As
+an emblematic representation of the notion of the true creative
+virtuouso Pierre Boulez expressed a sheer lack of understanding for
+Cage's idea of setting ones own intention to the side. To avoid or even
+neglect the qualified projection of the self in determination would be
+simply irresponsible \citep{boulez64}.[fn:3] In the context of
+improvisation the autonomous creator may not be as intrusive, but the
+combination of creativity as an immanent and individually constituted
+property, and freedom will indeed risk to circumbscribe the freedom of
+the other. Furthermore, the romantic nineteenth century artist has
+created a mythology so powerful that, still today, it has an impact on
+authors, composers and musicians alike. The creative act is so strongly
+soldered to this image that even the understanding of an improvising
+musician, whose creativity depends not on work creation but on the
+real-time impulses in performance is informed by it and as such, the
+individual self is influenced.
+
+Although the search for an individual sound in most cases is a very
+conscious act there is a corresponding search for the pure, or
+unconscious, expression, exemplified by Ornette Coleman's attempts to
+short-circuit the habitual aspects of his saxophone playing. In order to
+be able to "create as spontaneously as possible--'without memory,' as he
+has often been quoted as saying" \citet[p. 117]{litzweiler92}, without
+any 'real' training he started playing the violin and the trumpet. These
+instruments gave him the freedom to play and improvise in a manner that
+his memory made it difficult for him to do on saxophone. When playing
+the saxophone he would be partly ruled by his meta-knowledge, his
+knowledge /about/ playing the saxophone. Habits encoded mentally as well
+as bodily would also influence him and, to Ornette Coleman, this was a
+hindrance to his spontaneity. On the violin he adopted a highly original
+technique that allowed him to bypass "not only the jazz tradition, but
+Western musical traditions altogether. He had no teachers or guides to
+show him how to play trumpet and violin and purposely avoided learning
+standard techniques" \citet[p. 117]{litzweiler92}. Freedom of memory and
+freedom of influence from extra-musical parameters. The 'unknown'
+instruments gave Coleman a sense of /internal/ freedom, liberated from
+the physical memory associated with his saxophone playing. He approached
+a self expression where the transformation from intention to result was
+not ruled by a preconceived notion of what it should sound like. Coleman
+identify the embodied memory as perhaps the most important dimension in
+the struggle to be free, and by using a new tool he neutralizes the
+impact of the habits related to his saxophone playing.
+
+* 
+  :PROPERTIES:
+  :CUSTOM_ID: sec:tu-dai-oan
+  :CLASS: unnumbered
+  :END:
+
+In early 2006 Stefan Östersjö and I initiated a project together with
+Ngyen Thanh Thuy and Ngo Tra My, two Vietnamese musicians temporarily
+visiting Sweden at the time, as guest teachers at Malmö Academy of
+Music. Thuy plays dan tranh, a traditional Vietnamese zither played by
+plucking the strings with the right hand, adding vibrato and glissandi
+with the left hand. The dan tranh is related to the Korean kayagum and
+the Japanese koto. The dan bau, played by My, is a single chord
+instrument played with a bamboo plectrum with the right hand while
+altering the pitch with the left hand by pushing, or pulling, a rod,
+thus stretching or relaxing the string. Different overtones can be
+produced depending on where the string is plucked and the sound of the
+string is picked up with a magnetic pickup and amplified through a small
+speaker. Since 2006 we have done a number of tours and projects in many
+different constellations and settings under the name The Six Tones.
+
+The Six Tones is an encounter between traditional Vietnamese music and
+experimental Western European music, and since the very beginning the
+main objective has been to find forms for interaction between these two
+musical cultures on more or less equal terms. However, apart from the
+musical intercultural intentions the group has become a site for
+experimentation and examination of the political and social meaning and
+impact of that ambition. Experimentation is a central concept to us and
+"by definition, experimental data must be able to behave in a way not
+predicted by the hypothesis. Thus, the experiment is conceived as an
+excellent setting for exploration and discovery, a perfect opportunity
+for an encounter with the new, the unforeseen, and the unfamiliar"
+\citep[p. 165]{corbett2000}. In order to truly encounter the new and the
+unforeseen, challenging different aspects of the notion of center and
+periphery was necessary: is Western art music the norm and traditional
+Vietnamese music an exotic other? Are Stefan and I 'visiting' a music
+outside of our own sphere, or is it rather Thuy and My that are forced
+to approach us. Is it at all possible to communicate on equal terms in a
+context that holds so many economic and social inequalities? Are we as
+Westerners able to rid ourselves of the colonial heritage that in many
+respects still govern our interactions with the east when we meet Thuy
+and My in this group? These are questions belong to the larger project
+of The Six Tones, and will not be thoroughly probed in this text, but it
+is nevertheless possible to distil the questions into the more
+individually oriented: What is the role of the self in the encounter
+with the other? Even though my own interest in the self in artistic
+practice started more than a decade before we initiated The Six Tones
+the project strengthened my belief that self, individuality, freedom and
+habit were important agents whose interrelations are substantial in, and
+outside of, my musical practice.
+
+To begin with we had to reevaluate our own musical identities, and for
+myself I had to question my roles as composer and improviser and
+reconsider what my level of influence should be, and what it could
+become. In order to create the necessary preconditions for the two
+different musical traditions to intermingle rather than coexist void of
+deeper interaction, the individual influence on the musical structures
+had to be carefully negotiated. As a result of our lack of experience in
+such collaborations our first meetings were very tentative. I found it
+extremely difficult to balance my own initiatives and leaving enough
+space for the input of Thuy and My. One reason was the lack of a shared
+language and another was the social asymmetry between the two subgroups.
+The fact that the geographic origin of the four members was paralell to
+their gender made the collaboration saturated with disparity and
+inequality. Although music can be seen as a neutral form for
+communication with the prospect of compensating social differences, it
+may equally well disguise them. While we were in the known environment
+of the music academy--at home musically, culturally and socially--they
+were visitors and foreigners without language or context.
+
+Reflecting upon the situation brings forth questions concerning
+identity, culture, power and habit, all of which are to some degree
+interrelated, and in a culturally and socially homogeneous context many
+of these questions are not even raised. They are unnecessary as much of
+the negotiation has been going on in a larger context, outside of the
+rehearsal space. Common signifiers, references and aesthetic
+negotiations, inherited and nurtured since the early development of
+musician and composer are easily accessible. A collaboration, however,
+does not have to be between two different musical and artistic cultures
+in order to raise issues such as those we encountered in The Six Tones.
+Simply bringing together musicians from different genres may create
+obstacles difficult, or plain impossible, to maneuver.
+
+At our first meeting in the composition studio at the Malmö Academy of
+Music I became incredibly self aware of the asymmetry between Stefan and
+I and Thuy and My. Given the history of Vietnam in particular, and the
+history of the white man in general, the fear that my identity,
+individuality and cultural background would get in the way of Thuy's and
+My's freedom to participate on their own terms. But instead of letting
+them /speak for themselves/, I leaned on my preconception of what it
+means to be a female Vietnamese visitor in Sweden. While trying to
+compensate for what I perceived as vulnerability I accomplished the
+opposite: I subjugated them to my own understanding of the world, the
+context, the music and our interaction. Because they could not speak
+within our regulatory framework they remained voiceless. This is an
+archetypal way in which the Western subject has dealt with the other, it
+is habitual response.[fn:4] Much later I learned that I was wrong in my
+assumptions of Thuy and My. Yes, they felt they were in a foreign
+environment with limited latitude, but initially they had no problem
+with the interaction with us, other than my behaviour. After all, they
+were not only foreigners, they were also professional musicians ready to
+get involved in a new project. It is possible to argue that the
+predicament was now settled, that there was no need to dig deeper into
+the imbalance between the two subgroups. Part of my argument here,
+however, is that some of the behavioural patterns involved in an
+intercultural meeting such as this are centuries old and will influence
+the self even after the insight. As is so well described by Edward Said,
+for a change to be carried out it is not enough to speak of the
+asymmetry, it is necessary to also restore that which was once
+converted:
+
+#+BEGIN_QUOTE
+  Formally the Orientalist sees him-self as accomplishing the union of
+  Orient and Occident, but mainly by reasserting the technological,
+  political, and cultural supremacy of the West. History, in such a
+  union, is radically attentuated if not banished. Viewed as a current
+  of development, as a narrative strand, or as a dynamic force unfolding
+  systematically and materially in time and space, human history---of
+  the East or the West---is subordinated to an essentialist, idealist
+  conception of Occident and Orient. Because he feels himself to be
+  standing at the very rim of the East-West divide, the Orientalist not
+  only speaks in vast generalities; he also seeks to convert each aspect
+  of Oriental or Occidental life into an unmediated sign of one or the
+  other geo-graphical half. \citep[246-7]{said1978}
+#+END_QUOTE
+
+In the following I will attempt to describe the continuous growth of the
+group that followed this initial, and largely unsuccessful encounter,
+and describe the evolution of our project through our interpretation of
+the song /Tu Dai Oan/.
+
+** 
+   :PROPERTIES:
+   :CUSTOM_ID: sec:tu-ddai-oan
+   :CLASS: unnumbered
+   :END:
+
+/Tu Dai Oan/ is a popular traditional Vietnamese tune in the Oan mode.
+Although the idea of playing Vietnamese traditional music in The Six
+Tones occurred soon after our first meetings in 2006 /Tu Dai Oan/ was
+first picked up in 2007 when we started working on the version that we
+have since been playing. In Vietnam the song is very popular and it is
+often heard played on a dan tranh, an instrument on which the tune is
+naturally idiomatic. Stefan did a transcription for ten-stringed guitar
+and to have a greater control over vibrati and glissandi, he played it
+with a slide. Such ornamentations are important in the Vietnamese
+tradition and the musical mode depicts how, and where, to perform them.
+
+The decision to do a trio version of /Tu Dai Oan/ for dan tranh,
+ten-stringed guitar and live electronics was an attempt to create a
+structure with a wide range of expressive opportunities. Being a plucked
+string instrument with a wooden resonance box, the ten-stringed guitar
+bridges the gap between the dan tranh, and the electronics. Distinct
+from the Vietnamese lute, the ty ba,[fn:5] the ten-stringed guitar, has
+many properties in common with the dan tranh. The challenge to create a
+coherent version of the tune was obviously not resolved merely by
+instrumentation, and the predicament we found ourselves in 2006 had to
+be avoided. Thuy is a master musician in the tradition, Stefan had at
+the time practiced playing Vietnamese music on his instrument for about
+six months and I had explored it for about the same time period. With no
+more than a rudimentary sense for Vietnames music Stefan and I had
+little understanding for the nuances of the tradition, and, at the time,
+Thuy had only just begun to explore contemporary Western music.
+Furthermore, we had barely no commen spoken language. With the ambition
+to create a shared space to explore the music without beeing too closely
+tied to neither Thuy's tradition nor our own while at the same time
+retain enough signifying traits from both styles of music to make them
+identifiable, performance was the only useful means of communication.
+Hence, we had to improvise.
+
+In his presentation at EMS 2006 /Appropriation, exchange, understanding/
+British electronic music authority Simon \citet{emmerson06} points to
+how musicians have always exchanged concepts and ideas through the act
+of performance itself, often without language. But Emmerson also brings
+up how any mode of exchange involves some kind of distortion, reduction,
+impoverishment or loss, and continues: "While some of these losses will
+be an inevitable result of global social change, the ethical question of
+knowledge and awareness cannot be avoided" (ibid.).[fn:6] Though our
+awareness of the complexity of the project grew over time, the social
+and political dimensions were part of The Six Tones since the beginning,
+but the important issue, raised by Emmerson, is how to identify the
+values that could be jeopardized in a collaboration. He also points out
+that the idea of intercultural music is commonly channeled through
+Western technologies such as notation, and performed using European
+performance practicies. The overarching goal with The Six Tones,
+however, was to dismantle the binary between distinction between East
+and West and not disregard any of the performance traditions involved.
+We were looking for a dynamic meeting between the traditions, and
+exchange rather than apropriation of knowledge to be at the centre.
+Looking back at the process Emmerson is indeed correct when concluding
+that in intercultural projects there is a need to develop "a sensitivity
+to different significant sound qualities and behaviours, as well as
+different aesthetic and cultural values, in a very practical sense, so
+that we are aware of what is lost in an intercultural transaction." (p.
+8)
+
+A working session and a concert at the The Vietnam National Academy of
+Music in the fall of 2006 turned out to be a pivotal moment in the
+development of The Six Tones. If the first meeting in Malmö was terribly
+hesitant and governed by failed attempts to counteract the perceived
+inequity within the group, the visit to Hanoi had a notable impact on
+the development of the project. To encounter Thuy and My in their own
+country made a tangible difference, reinforced by a temporary reversal
+of the roles as Stefan and I were now the visitors in a foreign country
+with little understanding of the codes and of the culture.
+
+This was emphasized by learning about the gender roles in Vietnam,
+different to those in the West. A striking number of the positions held
+by women in Vietnam are in Europe traditionally held by men. The dean,
+as well as a majority of the other significant positions at the Academy
+of Music, are held by women and many of the tasks at the other end of
+the hierarchy, such as cleaners and secretaries, are carried out by men.
+According to \citet{VanKy2002} women in Vietnam has had a strong
+position historically, but the situation which we encountered in Hanoi
+is most likely influenced rather by the responsibilities Vietnamese
+women had to carry in the Vietnam War than by the histoical evidences of
+matriarchy. However, to experience this subtle but important difference
+clearly affected the relations in the group, and whether or not there
+had ever been good reasons to treat Thuy and My cautiously as fragile,
+sensible and subordinate women, seeing them in their home country made
+it clear there was no longer any need to do so.[fn:7] As a consequence,
+thanks to a merely rudimentary insight into the Vietnamese society, the
+field for interaction in the group had a radically altered premise, the
+main difference being the way in which I could approach Thuy and My. I
+was to some extent able to break free from my preconception of them as
+foreigners, victimized by definition, break free from the standard
+response, the habit. I was now able to listen.
+
+It may seem self evident that a closer contact with a foreign culture
+and social system, the music of which one is interacting with, and
+attempting to get better acquainted with, results in a more natural and
+less strained communication, and that the opposite, lacking first hand
+information about the specific music and culture, results in the kind of
+confusion that was seen at the unfortunate start of the Six Tones.
+However, the issue at stake here is not solely epistemological. Gregory
+Bateson claims that in:
+
+#+BEGIN_QUOTE
+  the natural history of the living human being, ontology and
+  epistemology cannot be separated. His (commonly unconscious) beliefs
+  about what sort of world it is will determine how he sees it and acts
+  within it, and his ways of perceiving and acting will determine his
+  beliefs about its nature. The living man is thus bound within a net of
+  epistemological and ontological premises which--regardless of ultimate
+  truth or falsity--become partially self-validating for him.
+  \citep[p. 314]{bateson72:steps}
+#+END_QUOTE
+
+Looking at human behaviour as a holistic, cybernetic system in the way
+Bateson is suggesting, one may return once again to the first rehearsal
+and look at it as an unstable system with no means for self-correction.
+With good intentions I tried to compensate for a postulated inequality
+assuming that I, as in my 'self', could correct the imbalance. According
+to Bateson that would have been impossible. The stability of a complex
+system, such as a group of musicians playing together, is a function of
+the product of all the parts of the system (of all the "transformations
+of difference" (p. 316) as Bateson calls it) and there is no way in
+which one part of the system can control all other unilaterally. On the
+contrary, at any point in time, every part of the system has to adapt
+their actions according to information from within the system. In other
+words, the problem was not so much that we did not have a language, but
+that we were unequipped to pick up the existing information within the
+group, and adjust accordingly. To instead fall back on habit, as I did,
+thinking that the self, by itself, can counterbalance lack of
+information is a characteristic of an Occidental attitude which,
+according to Bateson, has a cultural and social predisposition towards
+thinking about the self as a delimited agent performing purposive action
+upon objects rather than seeing the holistic aspects of the system.
+Although arriving at the issue from very different angles there is a
+parallelism between Bateson's Occidental self unable to see himself as
+part of a larger, mutually dependent system, Said's description of the
+Orientalist reasserting the cultural supremacy of the West and
+Emmerson's appeal, in intercultural projects, to develop sensitivity
+towards different aesthetic and cultural values. All of them indentify a
+problematic aspect of the Western self in the encounter with the
+non-European other.
+
+It was not until the year after our first visit in Hanoi that we started
+working with /Tu Dai Oan/. In the years to follow we would play it
+numerous times and we continued to develop the form and the expression.
+Although referred to as an improvisation /Tu Dai Oan/ is part of a
+tradition of playing that is in fact very fixed and which only allows
+for a limited set of possible permutations. Even if our intention was
+not primarily to propagate a traditional style of playing we hoped to
+maintain enough significant traits of the original piece for the music
+to be recognizable as coming out of the Vietnamese musical heritage.
+Learning from our earlier experiences our method was to move forward
+cautiously and in constant dialogue with Thuy, the only one with a solid
+experience from playing traditional Vietnamese music. In many of the
+rehearsals[fn:8] we let Thuy have the initiative while Stefan and I
+would stay in the background, only occasionally fronting ideas or
+commenting performances. At this point we already had some common
+experiences as well as a greater understanding for our respective
+musical, social and cultural backgrounds, but we were still in absence
+of a common language, which is, returning to Emmerson, not a seldom
+situation in intercultural projects. In preparation for the upcoming
+Scandinavian tour, as part of my repository I had made a virtual
+instrument with the intention to make it sound like a combination of dan
+tranh and dan bau. This was initself a break with how I usually work.
+Generally more interested in sounds that are the result of an
+interaction, to prepare a pitched instrument to play notes was not at
+all natural to my electronic music practice. There was however a need
+for me to be able to take initatives to which Thuy could react. A
+property of live interactive electronic music in real time, with a focus
+on processing or live sampling is that no sound can be produced until a
+sound has been received and I had seen that this was a problem in our
+group. In order to become more interactive I had to become less so. Once
+I arrived at a relatively satisfying compromise with the instrument, I
+entered all the pitches of /Tu Dai Oan/ in an array and let the
+instrument step through the pitches for each trigger, allowing me to
+focus on the timing of the onset, the intonation and the glissandi.
+Though there was nothing wrong with this instrument the desired effect,
+to aurally bridge the conceptual and cultural gap between the acoustic
+Vietnamese dan tranh and the electronics, was lacking. In fact, the more
+I obscured this instrument from its original sound, the more effects I
+added to it, the better it seemed to be working. The concept of it, and
+its conceptual afiliation to the glissandi and vibrati of the other
+instruments appeared to be more important than the sound quality. Even
+after the modifications of it, however, this simple synthesizer was so
+far from the techniques I would ususally use, that to actually play it
+in performance was incredibly awkward in the beginning. I had to
+forcefully break with my aesthetics and habits of playing electronics,
+the reward being that the performances worked really well.
+
+Not being able to efficiently discuss and negotiate the performances in
+the rehearsals made it necessary to use a trial and error method. By
+going through short iterations of cycles of play--evaluate--alter, we
+slowly raised our awareness of what could work. Through this method we
+were able to not only practice our own communication, or refine our
+group as a cybernetic system, it turned out to also be an effective way
+to teach each other about some of the specifics of our respective
+playing traditions and, perhaps even more importantly, to learn how to
+negotiate parts of our performance traditions. One of the early choices
+we did concerning the form was to expand the traditionally rather free
+introduction--the part of the tune where the performer had real freedom
+to improvise in a Western sense. We inserted an improvised section in
+the middle, and at the end we added an extended improvisation. The dan
+tranh and the guitar played the tune and I joined in primarily in the
+improvisatory sections. This was a form kept intact over the years of
+playing /Tu Dai Oan/, in itself a way to keep an alliance to traditional
+Vietnamese origin of the tune, but it was also an efficient way to allow
+ourselves to re-negotiate the details of the structure of the
+performance. By staying with the form we could develop our musical
+interaction and attune ourselves to the "transforms of differences"
+\citep[p. 318]{bateson72:steps}, something that allowed for quite
+radical changes to the shape of the form.
+
+Simon \citet{emmerson06} is warning us of the risk of masking, that some
+aspect or porperty of one sound will obscure some property of another.
+This line of thinking can be expanded to the level where one culture may
+mask another. Colonialism among other things, has resulted cultural
+appropriation or cultural imperialism, and in The Six Tones
+appropriation was something we thought we could identify, but the subtle
+concept of masking is difficult to spot. Masking will probably occur to
+a certain extent in any kind of music, but the question asked by
+Emmerson: "have we masked something 'significant' as seen from within
+the culture?" is material: It is not so much /if/ something is lost as
+/what/, what the importance of this property is, and from what
+perspective the loss may be experienced. Perhaps my physical modeling
+instrument was problematic as a virtual copy of the dan tranh than it
+was as a deviation from the real instrument? Perhaps it masked the
+Vietnamese instrument due to its similarity with it, but reinforced it
+as it grew different? The way I developed my part in /Tu Dai Oan/ was in
+effect a movement away from my initial respect for the Vietnamese
+tradition instead approaching a genuinely experimental mode of playing.
+However, at the same time, this development had nothing to do with a
+lack of respect, quite the contrary. I feel inclined to argue that the
+attitude I had in the beginning of the project, before our first trip to
+Hanoi, was lacking in respect. My assumptions about Vietnamese music,
+though constructed in good faith, were not informed by the tradition
+itself but rather by my prejudices about it. When \citet{emmerson06}
+warns us about masking and writes that if the exchange continues, "in
+time the masked element may disappear as it no longer functions within
+the music" we must not take it too literal. In our case, to think that
+we could erase or destroy parts of the living tradition of Vietnamese
+music would be to overestimate the influence and power of our group.
+Regardless of the validity of this otherwise legitimate concern, our
+experience in The Six Tones is that we could go quite far mixing the two
+modes of expression without any masking of significant traits in the
+original music. The more important attunement performed was that in the
+social dimension. As this grew stronger, our musical artifacts did also.
+
+Finally, it is interesting to note that while Stefan saw it necessary to
+go much deeper into the theory and practice of playing Vietnamese
+traditional music, I was more concerned with /not/ making authenticity a
+parameter in my playing. One reason is that Stefan's instrument has a
+certain affinity with the instruments we worked with, whereas
+electronics finds no evident response in the Vietnamese musical
+tradition. Over time I became more and more audacious in my experiments
+with the music.[fn:9] The consequence of this attitude was that in
+concerts I took bold chances, sometimes resulting in 'errors' and some
+of these experiments eventually resulted in changes to the dynamics of
+the form. The effect of my 'error' assumed the unintended function of
+Coleman's violin, the "abrupt disappointment of expectations of meaning"
+that makes us reconsider what we heard and how we experienced it
+\citep{barthes68:death_of}. Returning to the idea of the group as a
+cybernetic system we can use Bateson's language and arrive at the
+experimental conclusion that once the system has come to a point where
+transforms of differences are communicated efficiently between the
+different parts even great discontinuities, such as my errors, are
+handled well. I will argue, however, the basis for that claim is that
+experimentation is an agreed method and, most importantly, that the self
+is prepared to break with habits and listen to the other.
+
+* 
+  :PROPERTIES:
+  :CUSTOM_ID: sec:discussion
+  :CLASS: unnumbered
+  :END:
+
+#+BEGIN_QUOTE
+  A clarified political and methodological commitment to the dismantling
+  of systems of domination which since they are collectively maintained
+  must [...] be collectively fought. \citep[p. 215]{said2000}
+#+END_QUOTE
+
+There is an obvious tendency to always look at western art music as the
+center and whatever is external to it as the periphery. The Eurocentric
+view is rooted in the concept of the West as the social, economical and
+political focal point in the world in which the music of, say, a
+Vietnamese musician will always grounded in the periphery. As such, it
+can serve as a peculiar and colorful complement but never engage in an
+encounter with the West on equal terms. Attributing values to it such as
+'beautiful' or 'masterful' does not change its locus and does not move
+its status closer to the center. Quite the opposite: aestheticising the
+other, or the expressions of the other, is an effective way to keep it
+locked out. Many writers and scholars have brought these issues to
+discussion. Apart from the works already cited in this paper, to only
+mention a few, we find George Lewis using Somers' ideas of the
+epistemological other to discuss the situation of African American jazz
+musicians \citep{lewis-1}, post-colonial theorist and philosopher
+Gayatri Chakravorty Spivak who rhetorically asks /Can the subaltern
+speak/?, Edward Said discussing the enormous inequality in the war in
+Palestine in /Permission to narrate/, and Gloria Jean Watkins, also
+known as bell hooks, who approaches her own background in racist America
+in the significant text /Marginality as site of
+resistance/\cite{HooksBell1990}.
+
+Deleuze's and Guattari's supposition that in transcoding, becoming-other
+is a way to resolve the opposition between self and other, east and
+west, center and periphery, is quite forcefully rejected by
+\citet{spivak1988}. Taking a broad view on the world she is posing
+important questions concerning the continuous marginalization of those
+without, or with only limited, access to the sources of cultural
+imperialism. In her surevey, as has already been mentioned, because the
+Eurocentric subjectivity, according to Spivak epitomized by Deleuze and
+Foucault, threatens to further obscure the subaltern:[fn:10]
+
+#+BEGIN_QUOTE
+  It is not only that everything they read, critical or uncritical, is
+  caught within the debate of the production of that Other, supporting
+  or critiquing the constitution of the Subject as Europe. It is also
+  that, in the constitution of that Other of Europe, great care was
+  taken to obliterate the textual ingredients with which such a subject
+  could cathect, could occupy (invest?) its itinerary.
+  \citep[p. 75]{spivak1988}
+#+END_QUOTE
+
+What is the significance of these complex issues concerning economy,
+hyper-capitalism, world domination and post-colonialism in the context
+of contemporary music? How can the deconstruction of the concepts of
+center and periphery be applied to the artistic practice of a group
+consisting of two Vietnamese and two Swedish musicians? Why is it
+necessary to consider inherited power structures when approaching the
+seemingly simple task of creating a workable platform for musical and
+cultural interaction? What impact does it have on the notion of the
+self? My hypothesis here is that the self is constituted of behavioural
+habits, conscious as well as unconscious, as suggested by
+\citet{bateson72:cyber-self}, and that these are culturally encoded with
+ideas concerning freedom and individuality, and in the arts these are
+built on the idea of artistic projective self \citep{frisk2013}.
+Although it is easy to understand that the habits and the cultural codes
+are different in other cultures, according to postcolonial thinking,
+knowing is not enough \citep[See e.g.][]{said2000,frisk-ost13}: to let
+the other speak, and to allow oneself to listen, it is necessary to
+break some of these habits. After several years of working together my
+experience is that, within the context of The Six Tones, I do not have
+the experience that I have to limit my artistic latitude, nor that any
+of the other members do it. The reason we have arrived here, however, is
+that we initially worked consciously with breaking our habits and
+limiting our freedom some of which I have described above. I argue that
+artistic practice is a useful arena for exploring these and similar
+questions. The topic that I have brought up in this paper, to foster the
+social and political dimension of musical interaction through
+improvisation, by exploring the self and the consequences of freedom and
+habit formation, may be successfully investigated through the practice
+itself.
+
+At a time when art in general, and music in particular, is commodified
+to a degree that not even Adorno could have anticipated, artistic
+research is one of the few remaining fields that has the potential to
+withstand entrepreneurial tendencies in the music academies and within
+the field of music itself, and ceaselessly engage in the important
+artistic and social questions that lay ahead of us.
+
+[fn:1] See also \citep[][p. 140]{semetsky2011}
+
+[fn:2] After all, composing for symphony orchestra will only make sense
+       if the sounds it offers are relatively general. Hence, the
+       symphony orchestra is a machine that proposes a finite set of
+       sounds and as such it would cease to work if its musicians would
+       begin to promote their own individual and singular sound similar
+       to how Ben Webster and Johnny Hodges had done in the Duke
+       Ellington Orchestra.
+
+[fn:3] See also my discussion in \citet[p. 144-5]{frisk2013}
+
+[fn:4] I will return to this question towards the end of the paper.
+
+[fn:5] The Ty Ba is closely related to the Chinese Pipa.
+
+[fn:6] This quote appears only in the abstract of the paper (see:
+       [[http://www.ems-network.org/spip.php?article292]], visited July
+       13, 2013), not in the paper itself.
+
+[fn:7] For a more in depth and comprehensive account of gender roles in
+       Vietnam, see \citet{drummond2004}
+
+[fn:8] The rehearsals discussed here were carried out at the Electronic
+       Music Studios in Stockholm (EMS) in the late winter of 2009 and
+       we have near to complete video recordings of them. The actual
+       events in the rehearsals are discussed in greater detail in
+       \citet{Ostersjo2013}
+
+[fn:9] By audacious I mean that, although I am less concerned with right
+       or wrong, and less focused on the history and idiomatics of the
+       tradition as it takes shape in my own playing, I obviously have a
+       deep respect for the Vietnamese musical tradition as it is
+       carried on by master musicians such as Thuy and My.
+
+[fn:10] There have been attempts to seek redress for Deleuze, Guattari
+        and Foucault and prove that their thinking was not rooted in
+        Eurocentricity and that it will not necessarily lead to
+        oppression of the other \citep[See e.g.][]{robinson2010}.

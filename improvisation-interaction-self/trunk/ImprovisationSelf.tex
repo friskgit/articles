@@ -1,0 +1,85 @@
+\newif\ifpdf
+\ifx\pdfoutput\undefined
+\pdffalse % we are not running PDFLaTeX
+\else
+\pdfoutput=1 % we are running PDFLaTeX
+\pdftrue
+\fi
+
+\documentclass[a4paper]{article}
+\usepackage[swedish, english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[authoryear,round]{natbib}
+\usepackage{url}
+
+\ifpdf
+\usepackage[pdftex]{graphicx}
+\renewcommand{\encodingdefault}{T1}
+\renewcommand{\rmdefault}{pad}
+\pdfcompresslevel=9
+\else
+\usepackage{graphicx}
+\fi
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\lhead{\small{\textit{Henrik Frisk}}}
+\chead{}
+\rhead{\small{\textit{Improvisation, interaction, and the self}}}
+
+\title{Improvisation, interaction, and the self}
+\author{Henrik Frisk\\{\small Assistant Professor}\\{\small Royal College of Music in Stockholm}\\{\small henrik.frisk@kmh.se}}
+\date{\today}
+
+\begin{document}
+\selectlanguage{english}
+\maketitle
+
+\thispagestyle{empty}
+
+\section*{Abstract}
+
+%Se sid 148 in Proust and The Signs, slutet av första stycket.
+
+Although very difficult to define, freedom in general is a recurring concept in the discussion of musical improvisation. On the surface improvisation may seem as a means to create music that is free from the chains of the formal structures that notation imposes on the expressive possibilities of the musician, and open it to the immediate and unmediated influence of the individual performer. A music that may be created on the spot and whose substance is defined not so much by external factors or structures as by the will of the improviser. Improvisation as such, however, is no guarantee for achieving expressive freedom. In some improvising genres and musical cultures the freedom of improvisation may be defined by completely different standards and sometimes improvisers are so strictly tied to a particular aesthetics or style that on the surface freedom may not appear to be a strong influence. But even in improvised music that is strongly identified with freedom its stylistic qualities may be so prominent that the meaning and impact of freedom may be debated.
+
+Related to freedom is the concept of personal or individual expression which has been an important agent in many art forms. In jazz, to develop a sound of your own is critical and many of the great jazz musicians have in some ways redefined and stretched the limits of their instruments through their highly skilled, individual and original output. Their sound has become their particular identity. Although the search for an individual sound in most cases is a very conscious act there is a corresponding search for the pure, or unconscious, expression, exemplified by Ornette Coleman's attempts to short-circuit the habitual aspects of his saxophone playing by picking up the trumpet and the violin. Marcel Duchamp similarly spoke about ridding himself of acquired knowledge: ``I unlearned to draw. The  point was to forget \emph{with my hand}.'' Like Coleman, Duchamp was using a (new) tool (the ruler) to revolt against the tradition and the expression ``forget with my hand'' is significant as it puts the focus on the physicality of the action. The conscious search for an individual expression leads to the formation of habits that are consequently broken by inserting a new tool or interface into the output. As if the conscious self that has access to all the knowledge accumulated within the subject disguises the unconscious self and its information, similar to how properties of a sound from one tradition may mask those of a sound from another tradition. Two manifestations of the self with a slightly different directionality.
+
+To understand and unwrap the significance of the different aspects of the meaning of the self in improvisatory practices I will make use of the notion of \emph{primary process} referring to the operations of the unconscious, leaning on Gregory Bateson, who points out that art is a way to gain access to the information streams of the unconscious. I will approach the topic looking at my own artistic practice in which I use the computer and interactive technology as a means to interfere with the habits of my playing. Interacting with the computer is a way to \emph{forget with technology} and, in the process, to some extent avoid the masking effect that skill may have on primary process. 
+
+%What is the nature and meaning of interaction with a party that has no notion of a Self, such as a computer? How is my own self embedded in the interactive system designed and how is this aspect of the self manifested in performance? What is the relation between my real-time self and my non real-time self? Is primary process a useful term to discuss the operations of the unconscious in relation to the conscious operations performed? If so, is primary process better at exploiting or expressing freedom than conscious operations?
+
+% In order to avoid for this abstract masking effect to take place  
+
+% As an improviser I have often reflected on the use of technology
+
+% While interacting with a computer, a machine with no will and no concept of a Self, I have to ask myself whether I am interested in making the interaction appear as a duo with two equal subjects or if 
+
+% What is the nature of the interaction? One fascinating aspect of this kind of work for me is the possibility of combining two different temporal logics of the same self in one performance. Designing the interactive system is done in a reflective, non-real time mode that we can label the design phase and the performance with this system is a real time activity in which the design phase devolves to a play phase. However, though the logic of the play phase is quite different important aspects of the design phase are still 
+
+% In my own practice I have identified the power of the unconscious\footnote{The unconcious in this context is }
+
+
+% Improvisation has become a popular topic for scholarly studies in recent years. Bruno Nettl, Ingrid Monson and George Lewis are only a few examples of all the theorists and practitioners who have contributed to the wide study of improvisation. But it is not only the field of musical improvisation that has been explored; improvisation has become an agent also in management, economics and organization. Despite the structural imbalances between composed expressions of music and improvised, improvisation has become a buzz word. But I think it is safe to say that there is a genuine interest in and acknowledgment of improvisation as a vehicle for creativity and interaction. 
+
+% In the field of human-computer interaction (HCI) there is relatively little interest in self organization and improvisation. It is a field where one of the key aims is to make the computer respond as accurately as possible to human input. There are obviously exceptions to these paradgims but nevertheless, the practice of improvising on computers is in essence an attempt to overcome these differences, or to use them to ones own advantage.
+
+% The request for responsiveness in human-computer interaction is indicative of the aspect of control embedded in the definition: The machine should not act by itself, it should respond to our actions and our instructions without delay, and respond in a manner closely related to how we want it to respond. In human-human interaction, respectful of the other, a similar request for immediate response or demand for control would be unthinkable.
+
+% Then, who is this `other'? What is the identity and location of this `other' with whom social interaction takes place. As I mentioned briefly in Section my interest in human-human interaction is not a goal in itself but a way to understand, inform and try to develop musician-computer interaction in my own artistic practice. I will here start from the specific context of my own experience and then move to the more general idea of the `other'.
+
+% The `other' I am referring to is not only the `\emph{epistemological other}' of \footnote{somers94}---a social construction created ``to consolidate a cohesive self-identity and collective project'' \footnote{As cited in
+% {lewis-1}}, though, whether I want it or not, in a sense it is that too. The `other' is not a homogenic group that has distinct properties that defines its `otherness'. The `other' is `other' in relation to the `self', to \emph{me}, but not in order to consolidate this `self', which also will not let itself be defined by distinction.  There is no difference between the `otherness' of Ngyen Thanh Thuy or Stefan \"{O}stersj\"{o}---the one is not more `other' than the other---in the project The Six Tones. The `other' is the one or those I as a musician am interacting with. It is my co-musicians with whom I am trying to connect, whom I am trying to understand in order to understand myself better. It is in the process of trying to understand through interaction, that I, in a certain sense, need to give up `the self'. Before moving on to the more general reading of the `other' a few remarks should be made about these issues:
+% \begin{enumerate}
+% \item What I am describing here is my attempt to identify what I believe is going on when `things are working'. It is the ideal situation as I have experienced it. It is the sensation of wordless communication, of intuition and self organization. It is a sensation that is not tied to a particular idiom or style---it is not necessarily tied to music.
+% %
+% \item In no way am I able to reach this stage at all times. And, when unsuccessful, it is my experience that the `self' is exercising a wish to control the situation, though it is difficult to say if this precedes the failure (i.e. is a consequence of) or is an attempt to `fix' an error that has occurred due to other reasons. For example, it may be the mistake of trying to force idiom or style into a context that does not harmonize with that which is forced upon it.
+% %
+% \item I am using my artistic practice therapeutically and the idea of better understanding the `self' is an attempt to reach greater awareness of my responsibilities as a human being and as an artist. In particular it is a part of the process to reach self-awareness that I, as a white, European, male belong to a class that has exercised oppression and exploited women and more or less every other culture, religion or species that we have encountered in the last 2.500 years.
+% \end{enumerate}
+
+% \cite{biggs10}
+
+%\bibliography{bibliography} \bibliographystyle{plainnat}
+\end{document}

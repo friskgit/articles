@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: ImproInteracSelf-final-short.aux
+The style file: chicago.bst
+Database file #1: /home/henrikfr/Documents/articles/biblio/bibliography.bib
+Warning--I didn't find a database entry for "benson03"
+You've used 24 entries,
+            2861 wiz_defined-function locations,
+            793 strings with 8542 characters,
+and the built_in function-call counts, 14718 in all, are:
+= -- 1245
+> -- 809
+< -- 12
++ -- 215
+- -- 303
+* -- 1029
+:= -- 2726
+add.period$ -- 84
+call.type$ -- 24
+change.case$ -- 140
+chr.to.int$ -- 23
+cite$ -- 24
+duplicate$ -- 533
+empty$ -- 1064
+format.name$ -- 323
+if$ -- 2785
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 32
+newline$ -- 126
+num.names$ -- 254
+pop$ -- 153
+preamble$ -- 2
+purify$ -- 291
+quote$ -- 0
+skip$ -- 541
+stack$ -- 0
+substring$ -- 775
+swap$ -- 193
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 386
+warning$ -- 0
+while$ -- 273
+width$ -- 0
+write$ -- 339
+(There was 1 warning)
