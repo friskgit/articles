@@ -1,0 +1,437 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\preamble{%
+\hyphenation{Post-Script}%
+}
+
+
+\refsection{0}
+  \sortlist{}{}
+    \entry{bateson72}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=ec882d001240ffe54d301c768ee8a909}{Bateson}{B\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ec882d001240ffe54d301c768ee8a909}{Bateson}{B\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{ec882d001240ffe54d301c768ee8a909}
+      \strng{fullhash}{ec882d001240ffe54d301c768ee8a909}
+      \field{sortinit}{B}
+      \field{sortinithash}{20ef98e4c18749f087ed131e0c7d2858}
+      \field{labelyear}{1972}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Style, Grace, and Information in Primitive Art}
+      \field{booktitle}{Steps to an Ecology of Mind}
+      \field{edition}{2}
+      \field{title}{Style, Grace, and Information in Primitive Art}
+      \field{year}{1972}
+      \field{pages}{128\bibrangedash 52}
+    \endentry
+    \entry{biggs10}{book}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=4d78ce6b5cf80798ddf4687e901fa1e1}{Biggs}{B\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6f96aeba1072179243b5dbdb00d75b81}{Karlsson}{K\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{uniquename=0,hash=4d78ce6b5cf80798ddf4687e901fa1e1}{Biggs}{B\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6f96aeba1072179243b5dbdb00d75b81}{Karlsson}{K\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{c4e2637fc6da2be3117c217d8606d102}
+      \strng{fullhash}{c4e2637fc6da2be3117c217d8606d102}
+      \field{sortinit}{B}
+      \field{sortinithash}{20ef98e4c18749f087ed131e0c7d2858}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The Routledge Companion to Research in the Arts}
+      \field{booktitle}{The Routledge Companion to Research in the Arts}
+      \field{title}{The Routledge Companion to Research in the Arts}
+      \field{year}{2010}
+    \endentry
+    \entry{frisk-ost13}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=a673b9d03ec19cf8b11d623f6583326c}{Frisk}{F\bibinitperiod}{Henrik}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0279614e11d349aabae26dbc0865e955}{Östersjö}{Ö\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=a673b9d03ec19cf8b11d623f6583326c}{Frisk}{F\bibinitperiod}{Henrik}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0279614e11d349aabae26dbc0865e955}{Östersjö}{Ö\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e0ade2f2caa58e61a0d1fd31800df470}
+      \strng{fullhash}{e0ade2f2caa58e61a0d1fd31800df470}
+      \field{sortinit}{F}
+      \field{sortinithash}{b7825764ddb628b9847c8a8706aed585}
+      \field{labelyear}{2012/2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Beyond Validity: claiming the legacy of the artist-researcher}
+      \field{journaltitle}{STM}
+      \field{title}{Beyond Validity: claiming the legacy of the artist-researcher}
+      \field{volume}{2013}
+      \field{year}{2012/2013}
+      \field{pages}{1\bibrangedash 17}
+    \endentry
+    \entry{heisenberg1958}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=37b4574969e3f711c6611a4f6d6c7f5b}{Heisenberg}{H\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=37b4574969e3f711c6611a4f6d6c7f5b}{Heisenberg}{H\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Prometheus Books}%
+      }
+      \strng{namehash}{37b4574969e3f711c6611a4f6d6c7f5b}
+      \strng{fullhash}{37b4574969e3f711c6611a4f6d6c7f5b}
+      \field{sortinit}{H}
+      \field{sortinithash}{71e9162cff44ab36023c41b1f489925a}
+      \field{labelyear}{1958}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Physics and Philosophy: The Revolution in Modern Science}
+      \field{title}{Physics and Philosophy: The Revolution in Modern Science}
+      \field{year}{1958}
+    \endentry
+    \entry{kjorup10}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=d4cd12609dd57cde97b007a308a461a1}{Kj{ø}rup}{K\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d4cd12609dd57cde97b007a308a461a1}{Kj{ø}rup}{K\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4d78ce6b5cf80798ddf4687e901fa1e1}{Biggs}{B\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=6f96aeba1072179243b5dbdb00d75b81}{Karlsson}{K\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{d4cd12609dd57cde97b007a308a461a1}
+      \strng{fullhash}{d4cd12609dd57cde97b007a308a461a1}
+      \field{sortinit}{K}
+      \field{sortinithash}{e55173e02a55005a6a36cf5652b233f8}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Pleading for plurality: artistic and other kinds of research}
+      \field{booktitle}{The Routledge Companion to Research in the Arts}
+      \field{chapter}{2}
+      \field{title}{Pleading for plurality: artistic and other kinds of research}
+      \field{year}{2010}
+      \field{pages}{24\bibrangedash 43}
+    \endentry
+    \entry{kozel10}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=91ae1e5265879234f06c00c8b587f97c}{Kozel}{K\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=91ae1e5265879234f06c00c8b587f97c}{Kozel}{K\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4d78ce6b5cf80798ddf4687e901fa1e1}{Biggs}{B\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=6f96aeba1072179243b5dbdb00d75b81}{Karlsson}{K\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{91ae1e5265879234f06c00c8b587f97c}
+      \strng{fullhash}{91ae1e5265879234f06c00c8b587f97c}
+      \field{sortinit}{K}
+      \field{sortinithash}{e55173e02a55005a6a36cf5652b233f8}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The Virtual and the physical: a phenomenological approach to performance research}
+      \field{booktitle}{The Routledge Companion to Research in the Arts}
+      \field{chapter}{12}
+      \field{title}{The Virtual and the physical: a phenomenological approach to performance research}
+      \field{year}{2010}
+      \field{pages}{3\bibrangedash 23}
+    \endentry
+    \entry{maharaj05}{misc}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=64cea7458e9a93a0470f8c87106a2917}{Maharaj}{M\bibinitperiod}{Sarat}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=64cea7458e9a93a0470f8c87106a2917}{Maharaj}{M\bibinitperiod}{Sarat}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{64cea7458e9a93a0470f8c87106a2917}
+      \strng{fullhash}{64cea7458e9a93a0470f8c87106a2917}
+      \field{sortinit}{M}
+      \field{sortinithash}{adafae54b2ebf0512c2c60712fa62eec}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Knowledge Lab 01:‘Thinking Through Performance‘}
+      \field{howpublished}{Program}
+      \field{note}{Haus der Kulturen der Welt, Berlin}
+      \field{title}{Knowledge Lab 01:‘Thinking Through Performance‘}
+      \field{year}{2005}
+    \endentry
+    \entry{merleau2002}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=bf4a3820010d9de276e0905f0e383718}{Merleau-Ponty}{M\bibinithyphendelim P\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=bf4a3820010d9de276e0905f0e383718}{Merleau-Ponty}{M\bibinithyphendelim P\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{bf4a3820010d9de276e0905f0e383718}
+      \strng{fullhash}{bf4a3820010d9de276e0905f0e383718}
+      \field{sortinit}{M}
+      \field{sortinithash}{adafae54b2ebf0512c2c60712fa62eec}
+      \field{labelyear}{(1945) 2002}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Phenomenology of Perception}
+      \field{series}{Routledge classics}
+      \field{title}{Phenomenology of Perception}
+      \field{year}{(1945) 2002}
+    \endentry
+    \entry{murphy1989}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=83ea36de1e95c38fe92c7867e9605ca6}{Murphy}{M\bibinitperiod}{J.W.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=83ea36de1e95c38fe92c7867e9605ca6}{Murphy}{M\bibinitperiod}{J.W.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Greenwood Press}%
+      }
+      \strng{namehash}{83ea36de1e95c38fe92c7867e9605ca6}
+      \strng{fullhash}{83ea36de1e95c38fe92c7867e9605ca6}
+      \field{sortinit}{M}
+      \field{sortinithash}{adafae54b2ebf0512c2c60712fa62eec}
+      \field{labelyear}{1989}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Postmodern Social Analysis and Criticism}
+      \field{series}{Contributions in sociology}
+      \field{title}{Postmodern Social Analysis and Criticism}
+      \field{year}{1989}
+    \endentry
+  \endsortlist
+  \sortlist{nyt}{nyt}
+    \entry{bateson72}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=ec882d001240ffe54d301c768ee8a909}{Bateson}{B\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ec882d001240ffe54d301c768ee8a909}{Bateson}{B\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{ec882d001240ffe54d301c768ee8a909}
+      \strng{fullhash}{ec882d001240ffe54d301c768ee8a909}
+      \field{sortinit}{B}
+      \field{sortinithash}{20ef98e4c18749f087ed131e0c7d2858}
+      \field{labelyear}{1972}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Style, Grace, and Information in Primitive Art}
+      \field{booktitle}{Steps to an Ecology of Mind}
+      \field{edition}{2}
+      \field{title}{Style, Grace, and Information in Primitive Art}
+      \field{year}{1972}
+      \field{pages}{128\bibrangedash 52}
+    \endentry
+    \entry{biggs10}{book}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=4d78ce6b5cf80798ddf4687e901fa1e1}{Biggs}{B\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6f96aeba1072179243b5dbdb00d75b81}{Karlsson}{K\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{uniquename=0,hash=4d78ce6b5cf80798ddf4687e901fa1e1}{Biggs}{B\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6f96aeba1072179243b5dbdb00d75b81}{Karlsson}{K\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{c4e2637fc6da2be3117c217d8606d102}
+      \strng{fullhash}{c4e2637fc6da2be3117c217d8606d102}
+      \field{sortinit}{B}
+      \field{sortinithash}{20ef98e4c18749f087ed131e0c7d2858}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The Routledge Companion to Research in the Arts}
+      \field{booktitle}{The Routledge Companion to Research in the Arts}
+      \field{title}{The Routledge Companion to Research in the Arts}
+      \field{year}{2010}
+    \endentry
+    \entry{frisk-ost13}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=a673b9d03ec19cf8b11d623f6583326c}{Frisk}{F\bibinitperiod}{Henrik}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0279614e11d349aabae26dbc0865e955}{Östersjö}{Ö\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=a673b9d03ec19cf8b11d623f6583326c}{Frisk}{F\bibinitperiod}{Henrik}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0279614e11d349aabae26dbc0865e955}{Östersjö}{Ö\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e0ade2f2caa58e61a0d1fd31800df470}
+      \strng{fullhash}{e0ade2f2caa58e61a0d1fd31800df470}
+      \field{sortinit}{F}
+      \field{sortinithash}{b7825764ddb628b9847c8a8706aed585}
+      \field{labelyear}{2012/2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Beyond Validity: claiming the legacy of the artist-researcher}
+      \field{journaltitle}{STM}
+      \field{title}{Beyond Validity: claiming the legacy of the artist-researcher}
+      \field{volume}{2013}
+      \field{year}{2012/2013}
+      \field{pages}{1\bibrangedash 17}
+    \endentry
+    \entry{heisenberg1958}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=37b4574969e3f711c6611a4f6d6c7f5b}{Heisenberg}{H\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=37b4574969e3f711c6611a4f6d6c7f5b}{Heisenberg}{H\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Prometheus Books}%
+      }
+      \strng{namehash}{37b4574969e3f711c6611a4f6d6c7f5b}
+      \strng{fullhash}{37b4574969e3f711c6611a4f6d6c7f5b}
+      \field{sortinit}{H}
+      \field{sortinithash}{71e9162cff44ab36023c41b1f489925a}
+      \field{labelyear}{1958}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Physics and Philosophy: The Revolution in Modern Science}
+      \field{title}{Physics and Philosophy: The Revolution in Modern Science}
+      \field{year}{1958}
+    \endentry
+    \entry{kjorup10}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=d4cd12609dd57cde97b007a308a461a1}{Kj{ø}rup}{K\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d4cd12609dd57cde97b007a308a461a1}{Kj{ø}rup}{K\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4d78ce6b5cf80798ddf4687e901fa1e1}{Biggs}{B\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=6f96aeba1072179243b5dbdb00d75b81}{Karlsson}{K\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{d4cd12609dd57cde97b007a308a461a1}
+      \strng{fullhash}{d4cd12609dd57cde97b007a308a461a1}
+      \field{sortinit}{K}
+      \field{sortinithash}{e55173e02a55005a6a36cf5652b233f8}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Pleading for plurality: artistic and other kinds of research}
+      \field{booktitle}{The Routledge Companion to Research in the Arts}
+      \field{chapter}{2}
+      \field{title}{Pleading for plurality: artistic and other kinds of research}
+      \field{year}{2010}
+      \field{pages}{24\bibrangedash 43}
+    \endentry
+    \entry{kozel10}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=91ae1e5265879234f06c00c8b587f97c}{Kozel}{K\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=91ae1e5265879234f06c00c8b587f97c}{Kozel}{K\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4d78ce6b5cf80798ddf4687e901fa1e1}{Biggs}{B\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=6f96aeba1072179243b5dbdb00d75b81}{Karlsson}{K\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{91ae1e5265879234f06c00c8b587f97c}
+      \strng{fullhash}{91ae1e5265879234f06c00c8b587f97c}
+      \field{sortinit}{K}
+      \field{sortinithash}{e55173e02a55005a6a36cf5652b233f8}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The Virtual and the physical: a phenomenological approach to performance research}
+      \field{booktitle}{The Routledge Companion to Research in the Arts}
+      \field{chapter}{12}
+      \field{title}{The Virtual and the physical: a phenomenological approach to performance research}
+      \field{year}{2010}
+      \field{pages}{3\bibrangedash 23}
+    \endentry
+    \entry{maharaj05}{misc}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=64cea7458e9a93a0470f8c87106a2917}{Maharaj}{M\bibinitperiod}{Sarat}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=64cea7458e9a93a0470f8c87106a2917}{Maharaj}{M\bibinitperiod}{Sarat}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{64cea7458e9a93a0470f8c87106a2917}
+      \strng{fullhash}{64cea7458e9a93a0470f8c87106a2917}
+      \field{sortinit}{M}
+      \field{sortinithash}{adafae54b2ebf0512c2c60712fa62eec}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Knowledge Lab 01:‘Thinking Through Performance‘}
+      \field{howpublished}{Program}
+      \field{note}{Haus der Kulturen der Welt, Berlin}
+      \field{title}{Knowledge Lab 01:‘Thinking Through Performance‘}
+      \field{year}{2005}
+    \endentry
+    \entry{merleau2002}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=bf4a3820010d9de276e0905f0e383718}{Merleau-Ponty}{M\bibinithyphendelim P\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=bf4a3820010d9de276e0905f0e383718}{Merleau-Ponty}{M\bibinithyphendelim P\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{bf4a3820010d9de276e0905f0e383718}
+      \strng{fullhash}{bf4a3820010d9de276e0905f0e383718}
+      \field{sortinit}{M}
+      \field{sortinithash}{adafae54b2ebf0512c2c60712fa62eec}
+      \field{labelyear}{(1945) 2002}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Phenomenology of Perception}
+      \field{series}{Routledge classics}
+      \field{title}{Phenomenology of Perception}
+      \field{year}{(1945) 2002}
+    \endentry
+    \entry{murphy1989}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=83ea36de1e95c38fe92c7867e9605ca6}{Murphy}{M\bibinitperiod}{J.W.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=83ea36de1e95c38fe92c7867e9605ca6}{Murphy}{M\bibinitperiod}{J.W.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Greenwood Press}%
+      }
+      \strng{namehash}{83ea36de1e95c38fe92c7867e9605ca6}
+      \strng{fullhash}{83ea36de1e95c38fe92c7867e9605ca6}
+      \field{sortinit}{M}
+      \field{sortinithash}{adafae54b2ebf0512c2c60712fa62eec}
+      \field{labelyear}{1989}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Postmodern Social Analysis and Criticism}
+      \field{series}{Contributions in sociology}
+      \field{title}{Postmodern Social Analysis and Criticism}
+      \field{year}{1989}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

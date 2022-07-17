@@ -1,0 +1,16 @@
+#title Musical Improvisation and Computers: in-time performance
+#date Sep 21, 2010
+#author Henrik Frisk
+#bibsource /home/henrikfr/Documents/TeX/biblio/svn/biblio/bibliography.bib
+
+<slide title="Time and Reciprocity in Improvisation: in-time performance">
+Everything between the slide tags composes this slide.
+ - A bullet point.
+ - Another bullet point.
+</slide>
+
+<slide title="Time and Reciprocity in Improvisation: in-time performance">
+ - Improvised music unfolds in real time.
+ - Composition takes place in non-real-time
+*The way improvisation is embedded in time is one of its significant features.*
+</slide>

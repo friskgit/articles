@@ -1,0 +1,21 @@
+[1] Config.pm:322> INFO - This is Biber 2.0 (beta)
+[10] Config.pm:325> INFO - Logfile is 'out/theory-and-methodology.blg'
+[105] biber:277> INFO - === fre maj 15, 2015, 16:48:29
+[106] Biber.pm:333> INFO - Reading 'out/theory-and-methodology.bcf'
+[270] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.5, expected version 2.6
+[272] Biber.pm:635> INFO - Found 9 citekeys in bib section 0
+[316] Biber.pm:3051> INFO - Processing section 0
+[367] Biber.pm:3189> INFO - Looking for bibtex format file '~/shared/Documents/svn/admin/conf/biblio/bibliography.bib' for section 0
+[464] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[532] bibtex.pm:864> INFO - Found BibTeX data source '/home/albert/shared/Documents/svn/admin/conf/biblio/bibliography.bib'
+[984] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[984] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
+[984] Biber.pm:2928> INFO - Sorting list '' of type 'entry' with scheme '' and locale ''
+[985] Biber.pm:2932> INFO - No sort tailoring available for locale ''
+[1285] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1285] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1285] Biber.pm:2928> INFO - Sorting list 'nyt' of type 'entry' with scheme 'nyt' and locale ''
+[1286] Biber.pm:2932> INFO - No sort tailoring available for locale ''
+[1352] bbl.pm:517> INFO - Writing 'out/theory-and-methodology.bbl' with encoding 'UTF-8'
+[1367] bbl.pm:608> INFO - Output to out/theory-and-methodology.bbl
+[1367] Biber.pm:106> INFO - WARNINGS: 1

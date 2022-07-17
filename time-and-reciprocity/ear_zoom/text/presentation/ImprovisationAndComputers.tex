@@ -1,0 +1,152 @@
+\documentclass{article}
+
+\usepackage[english]{babel}
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+\usepackage[pdftex]{graphicx}
+\renewcommand{\rmdefault}{pad}
+\renewcommand{\sfdefault}{pfr}
+
+\usepackage[]{natbib}
+\setcitestyle{round}
+\bibpunct[:]{(}{)}{,}{a}{}{,}
+\usepackage{url}
+
+\def\museincludegraphics{%
+  \begingroup
+  \catcode`\|=0
+  \catcode`\\=12
+  \catcode`\#=12
+  \includegraphics[width=0.75\textwidth]
+}
+
+\begin{document}
+
+\title{Musical Improvisation and Computers: in-time performance}
+\author{Henrik Frisk}
+\date{Sep 21, 2010}
+
+\maketitle
+
+
+
+% \section{Musical Improvisation and Computers: in-time performance.}
+
+\begin{abstract}
+  One of the perhaps more obvious differences between composed and improvised
+  music is the fact that the latter unfolds in real-time, whereas parts of the
+  former is constructed outside of real-time. This is not to say, however,
+  that improvised music is void of compositional strategies, only that the
+  in-time aspect of improvisation---i.e. the way that the practice of
+  improvisation is embedded in time---is one of its important and significant
+  features. The temporal properties of a machine, furthermore, are in every
+  respect different from those of a human, something which the computer
+  improviser has to address, either in the ways the interface is constructed,
+  or in the ways that the computer instruments are designed (or both). In my
+  presentation I will show how these issues influence both my artistic
+  practice and my research.
+\end{abstract}
+
+
+\section{Composing vs. improvising: difference and similarities}
+\label{sec:comp-vs.-impr}
+
+It is perhaps needless to say that the primary difference between composition and improvisation is that the former is an activity performed largely independent of time whereas the latter is performed in real-time. To move beyond the surface of this distinction it may be argued that, even though a composition is constructed outside of time, it is in most cases performed in real-time. This argument, however, makes the specificity of improvisation cystallize because improvisation is both constructed \emph{and} performed in real-time. And this is true even if elements of the improvisation where prepared in advance. A common criticism against the art of master improviser and jazzicon Charlie Parker (and much other idiomatic improvisation) was that he played the same licks over and over again. This is however to miss the point; prepared or unprepared, the material that it consists of, and the improvisation itself, is constructed in real-time.
+
+% Working with electronics in the context of improvised music is challenging in % the way that the 
+
+\subsection{The in-time vs. over-time continuum}
+\label{subsec:time-vs.-over}
+
+Although few art forms are unanimously non-real time or real-time, a distinction that I find useful is that between artistic practices that are \emph{embedded in time} (in-time processes) and those that are \emph{contained in time} (over-time processes). I am indebted the in-time versus over-time terminology to Vijay \citet{iyer08} who is referring to it in his chapter \emph{On Improvisation, Temporality, and Embodied Experience} in Paul D. Miller's antology \emph{Sound Unbound} (Iyer has lend the terms from cognitive science and robotics and the origins of the terminology may be found, among other places, in a report by cognitive scientist Tim Smithers titled \emph{On What Embodiment Might Have to do with Cognition}.\citet{smithers96,smithers:98,vangelder98}.)
+
+For an action to be embedded in time means that the time it takes to perform it matters; that time is a factor whose value is decisive. For example, the difference between reading or writing a book in one day or to do it in one year is not necessarily a difference that changes the meaning or expression of the book, whereas the time it takes to play or listen to a piece of music has everything to do with its expressive qualities: playing the same piece of music in ten minutes or in two hours is likely to make it a very different experience. % Hence, we may say that performing music is an in-time operation % whereas writing a book is an over-time operation.
+
+Hence, musical performance and improvisation are typical in-time operations: They are \emph{embedded in time} whereas over-time operations may be said to be \emph{contained in time}. Along with advances in computer science and robotics, real time computation has altered the picture somewhat, but the distinction between an over-time operation being so fast that time goes unnoticed is very different from the way the mind ``exploits both the constraints and allowances of the natural timescales of the body and the brain as a total physical system.'' \citep[276]{iyer08} Many physical activities are in-time operations in the way that the time it takes to move a part of the body is part of the movement at large and it is interesting the way Iyer links the body and the brain into a unified system with its own timescales. It is also important the way he clarifies that speed is not the important aspect, but rather the quality of the temporality of the activity. 
+
+Resistance, physical or gravitational resistance, is an important part of in-time operations, and also of musical performance. The weight and size of my leg when I walk is part of the walking activity and the resistance of my body and of my instrument are factors that shape my musical output in a performance. But the lack of a physical component in the virtual world of computers is a factor that needs to be considered when designing interactive systems for musical improvisation and I argue that a successful interactive system (in music) not only needs to understand my constraints but also construct and emulate its own constraints and resistances.
+
+% \section{Compositional strategies of improvisation and interactive music}
+% \label{sec:comp-strat-impr}
+
+% The in-time versus over-time distinction is interesting with regard to the topic of time and temporality, but it is also of interest to the specific domain of Interactive Music. As a genre, Interactive Music descend from Computer Music, also called Electro-acoustic music, and has strong interdisciplinary connections with subject areas such as Artificial Intelligence, Cognitive Science and Computer Science. \citep[24]{moore90} These disciplines are concerned with trying to understand human behavior and, to some extent, attempt to mimic that behavior in machines. 
+% In the context of arts based research it is important to draw upon knowledge % that emanates from related fields of inquiry but it is equally important to % re-evaluate those same sources. 
+% Historically there may have been a tendency for Computer music to lean against the natural sciences that, in fact, may also have much to gain from learning from the artistic practice of Computer music, or other artistic practices. The concept of time in general and the in-time aspect of music in particular. 
+
+% For the researcher engaged in arts based research it is important to remember % that the primary purpose of the research should not only be to manifest % theories external to the field of research but also critically examine and % question the related sciences. What modes of thinking correspond to the % practice and what ideas deviate from it? If the practice is embedded in time, % as an in-time process, what actually consititutes the object of research?
+
+
+\section{The interactive vs. less-interactive continuum of musical practice}
+\label{sec:interactive-vs.-less}
+What then is the significance of interaction in a music that makes use of interactive computers in musical performance? In what sense can I communicate abstract parameters such as my constraints, resistances and allowances to a computer in real-time? In what sense can the machine respond to me and in what sense can I respond to it?
+
+The aspect of interaction in the field of interactive art and media is problematic as the term \emph{interactive} to some extent has been hijacked by computer interface designers. Though one of its lexicographic meanings is ``Reciprocally active'',\footnote{``interactive, \textit{a}.'' The Oxford English Dictionary. 2nd ed. 1989. OED Online. Oxford University Press. 1 Nov. 2007. \url{http://dictionary.oed.com/cgi/entry/50118746}} its meaning in the context of computer interface design is more geared towards a methodology of control, than sharing, or mutual exchange. In the reduced meaning of computer interaction the actions of one part, `the user', is used to control the \emph{re}actions of the other, `the machine', often in a one-to-one relation: one action, one re-action. In this kind of reduced interaction, a reaction to any given action is ignorant to any prior actions or reactions. A mouse click on a given icon on a computer desktop typically results in the same machine response, regardless of the user's preceding activities. Musical interaction, on the other hand, is all about reciprocity, particularly in improvised music. (As is investigated by Ingrid Monson in her important contribution \emph{Saying Something : Jazz Improvisation and Interaction} \citep[][]{monson96} 
+
+A successful interplay between musicians involved in an improvisation rests on a mutual sensitivity for taking, and responding to, musical initiatives. Musicians induce differences rather than alter states; they induce differences that ``\emph{make a difference}'' and according to Gregory Bateson, such a difference that makes a difference is the definition of \emph{Information} \citep[92]{Bateson}. In other words, new information and knowledge is constructed by changes over time. It is my experience and my understanding that there is an intimate coupling between the dynamics of an in-time system and the dynamics of the cybernetic concept of differences that make a difference. The great challenge, as I see it, is to design interactive systems that is more concerned with difference (over time) than it is with state changes (over or outside of time).
+
+\subsection{Interaction-as-control and interaction-as-difference}
+\label{sec:inter-as-contr}
+
+Building on the cybernetics of Bateson, in my PhD dissertation from 2008 \emph{Improvisation, Computers, and Interaction: Rethinking Human-Computer Interaction Through Music} \cite{frisk08} I coined the two modes of interaction \emph{interaction-as-control} and \emph{interaction-as-difference}. The control paradigm influences much of the interaction design we encounter. When we press channel 1 on the remote control for our TV set, we generally do not want the technology to interpret our intent; we just want to control the channel displayed on the TV. The control paradigm, however, becomes problematic if it is transferred to the domain of musical practice. When I play, I do not want to only control the technology I engage with, be it a computer or a saxophone. I want, to use the ecologically informed words of Iyer, to exploit both the constraints and allowances of the natural timescales of the instruments I use and let these parameters induce differences that makes a difference rather than control them towards a preconceived result. This is an aesthtic choice intimately linked to my improvisational attitude towards musical organisation. (In composition interaction-as-control may be a more appropriate paradigm in that composition commonly is the activity of structuring events outside of time in order to have them played back as intended in performance.)
+
+% Even for an orchestra conductor---who is commonly seen as the \emph{director} % of the music, commanding its flow---the agency of control is limited to what % can be achieved through interaction with the musicians in the orchestra.
+
+Just as in-time and over-time are not unanimous categories, however, interaction-as-control and interaction-as-difference are not clear cut definitions in binary opposition. We are clearly dealing with a continuum; a continuum of interactive potential ranging from the most reduced form of interaction-as-control (click and response) to the infinitely complex interaction-as-difference (e.g. human interaction, musical interaction, performer/audience interaction). 
+
+The activity of playing back a CD-recording of a symphony on a sound system is an example of the former while conducting a symphony orchestra playing the same symphony is an (extreme) example of latter. What one may gain in control with the CD player, the recording and the sound system---a CD can be paused, repeated, removed, etc.---we loose in influence over content. 
+As conductors we may alter the music in ways that we see fit, limited merely by cultural and social practices. But what we gain in influence in this context we loose in control: We can not as easily pause a live performance, considerable financial resources needs to be deployed in order to gather all the musicians needed, the training needed to be able to conduct a symphony orchestra is counted in years whereas the training needed to play back a CD is counted in seconds, etc. 
+
+The challenge for me is to build interactive systems for musical improvisation that are able to adapt and move back and forth along the continuum of interactive potential but that are more geared towards interaction-as-difference and human interaction.
+
+% While engaging in practice based research within the framework of a real time art form the researcher should embrace the temporal complexity of the artistic practice: What are the differences that makes a difference? And what is the relationship between the in-time versus over-time continuum on the one hand, and the interaction-as-control and interaction-as-difference continuum on the other.
+
+\section{Machine temporality}
+\label{sec:machine-temporality}
+
+
+\subsection{Time and multiple temporalities: time to space transformations.}
+\label{subsec:time-mult-temp}
+
+A number of composers and theorists have stressed the multiplicity of temporal modes present in music signalling that, apart from the two different temporal schemes (in-time and over-time), there are several different timescales in simultaneous operation. 
+% After all, that music is able to disrupt our notion of time and temporal flow is easily experienced by anyone willing to engage in music listening. And it is reasonable to assume that music employs multiple timescales at once.
+The American electronic music composers Curtis Roads makes the interesting remark that the discontinuities that appear in the boundaries between different (concurrent) time scales give rise to perceptual differences in sonic events. \citep[4]{roads}  A note terribly out of tune in one temporal order may have just the right intonation in another, and a beat out of sync in one time scale may swing in another. \citep[For an example of the great variation in rhythmic timing among jazz musicians when observed at high temporal resolution, see][]{friberg02} In other words, depending on our temporal zoom level we may appreciate different qualities in the music. This also suggests that the differences depend on the perspective; the note out of tune, in isolation, is an error but an emotional infliction when seen in context. 
+
+To the Greek composer and architect Iannis Xenakis the discontinuity of time was of pivotal import. Not only the interruptions that occur when moving across the boundaries between different temporal scales, but also the separability of events occurring within the flux of one particular time scale. Xenakis, with his background as an architecht, had a great interest in the spatial properties of music in general and musical time in particular. The idea that musical time may be rendered in space is common to several descriptions and in essence, this is what  musical notation does.
+
+A popular example of time to space transformation is the famous scene in Hitchcock's 1959 movie \emph{Vertigo}. Madeleine (played by Kim Novak), whose identity is overwhelmed by her great grand-mother, is standing in front of a cross section of an over 1000 years old Redwood tree. She places her finger towards the outer ring of the tree and marks out the point where she was born and the point where she died. The distance between the two points is short relative to the size of the tree, and, as she is moving her finger across the wood, she says ``It was only a moment to you''. \cite{hitchcock59} The cross section of the tree is used to spatialize a (short) life span, to transform a duration to a distance, to transform time to space. 
+
+Another, similarly schizophrenic, example is the end of the first act of Richard Wagner's opera Parsifal where there is a slightly more subtle and continuous transformation from time to space. In Wagner's music there is a seamless tranformation, like a walk through a long series of infinitesimal transformations (In a common stageing, along with the music in this passage, Gurnemanz and Parsifal are slowly walking towards a changeing landscape, backs turned to the audience who are watching the actors watching the transformation.) while the protagonist's mentor Gurnemanz mystically explains to him: ``\emph{Du siehst, mein Sohn, zum Raum wird hier Zeit.}'' (You see, my son, time here becomes space). 
+
+The temporalities of technology is in my experience very different from the multiple temporal possibilities of musical listening and performance. Using interactive technology in performance is daunting in the way that the interaction may disrupt the flow of the musical performance. Again, if the interactive interface is made in a way that bi-directionally communicates the in-time proerties of the performance, I believe it is possible to overcome these difficulties.
+
+% Parsifal makes a remark that, despite his slow pace he already seem to have % come far. The explanation offered to him is that ``time here becomes space''.
+
+% \section{Designing interaction as a compositional strategy}
+% \label{sec:design-inter-as}
+
+% A computer program written to perform in an interactive performance may have pre-conceived structures not unlike a musical composition or a structured improvisation and writing such a program is an over-time process similar to how composing is an over-time process. Furthermore writing a musical composition and performing it involves similar kinds of tensions between over-time and in-time decisions that may be found in the performance with an interactive computer. Now, whereas a musical score is not easily changed during a performance,\footnote{To be fair, any performed composition is altered by its performance in one way or another, but, in the Western art music tradition, radical in performance alterations of the written music are more likely to be called mistakes rather than interpretation.} in the case of the interactive computer, whatever the agenda used to construct the program, if the interaction is successfully exploited, the agenda may be altered. Not only in the performance but \emph{by} the performance. But this can of course only be true if we resist and challenge the simplicity of the click-and-response interaction and take full account of time and memory.
+
+% The asymmetry in the trajectories of reflection that have been discussed here is also mirrored in the performer-computer-listener interactions. The musical in-time evaluation on a series of events emanating from the computer, made without knowledge of, or interest in their origin (i.e. the musician's particular interaction with the computer), will not necessarily correspond to an evaluation of the same events from \emph{within} the process. The consequence may be that, in a response to the performer's reflection, a change is introduced in the output that, to a listener, who is primarily concerned with the audible trace, and may be unaware or unconcerned with the details of the musician-computer interaction, sounds awkward. The differing modalities of reflection which have their roots in differing temporalitites, creates a breach between the listener and the performer. The temporal differences is one aspect of the issue at stake here, but it is not the only one. 
+
+% Due to a poor performance, bad programming or some other factor the virtuality of the computer instrument fails to reveal itself and the musical decisions made by the performer becomes enigmatic to the listener.
+
+% But in real-time performance, in improvisation---in the spur of the moment---the leap from `now' to a virtual plane of the past may create a breach similar to how musical decisions made based on information hidden from the listener creates a breach, as was discussed above.
+
+
+% \section{Designing interaction as an improvisational strategy}
+% \label{sec:design-inter-as-1}
+
+
+\section{Conclusion}
+\label{sec:conclusion}
+
+Music has had an out-of-time spatial representation ever since musical notation was introduced. In the Western music history there is a tendency of disregarding the performative aspects of a musical work and regarding the score, i.e. its graphical representation, as equal to the identity of the work.\footnote{The topic is brought up by British improviser and composer Trevor Wishart who rhetorically asks what constitutes music: ``what we experience in the sounds, or what we might theoretically appreciate of the score through the sounds [\ldots].'' \cite{wis96}} Furthermore, with the advent of recording technology, not only the representation of sound in scores, but also sound itself has been transformed into space: ``We might say that recording is a reflux, or distillation in which time is boiled off, for time must be added back in to get sound, in the form of a steady motion of the turntable or tape heads or the crystal clock in digital recording.'' \citep[54]{evens05} In the engravings on an LP, or through the holes on the surface of a CD, the elusive nature of sound as embedded in time is captured and spatialized. The digital representation of sound in a computer is similarly spatialized: In other words, to even begin to think about using interactive computer technology in performance involves a transformation of the in-time embedded sound to an over-time representation.
+
+In his book \emph{Digital Performance: A History of New Media in Theater, Dance, Performance Art, and Installation} Steve Dixon discusses the problematic issue of `liveness' in performance. There is a common sense that technology have ``transformed or destabilized notions of liveness, presence, and the `real''', \citep[127]{dixon07} suggesting that the real-time arts somehow becomes less `live' when technology is made use of. Similar ideas have been discussed here based on the notion that the temporality of technology is different from the temporalities of live performance. Even though a performer (and an audience), simultaneously employs a number of different temporalities, the addition of the computer appears to sometimes disrupt the in-time process in various ways. As if the over-time operations of the computer, however lightning fast these may be, is sometimes too much for the performance to carry, making it impossible for the interactive interface to inform the digital system in a useful way. The reasons for the failure may be due to poor interaction design but it may equally well be due to a limited understanding for the prerequisites of computer interaction on the part of the performers and the designers (programmers) of the system. Either way, in the way that the use of interactive computers in artistic practice highlights questions relating to in-time interaction makes it both artistically and conceptually interesting, and although the problems related to human-computer interaction in real-time artistic practice may be seen as particular to its context, any knowledge produced about the interaction and about the ways in which it may be improved, may well be of interest also outside of that field. The significance of arts based research in this context has at least two axes: (1) to more fully understand the notion of liveness and temporal embeddedness in the real-time arts involving computers, and (2) to inform the design of new human-computer interfaces.
+
+\bibliographystyle{plainnat}
+\bibliography{bibliography}
+
+\end{document}

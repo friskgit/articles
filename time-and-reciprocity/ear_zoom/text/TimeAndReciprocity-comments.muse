@@ -1,0 +1,17 @@
+#title Comments to `Musical Improvisation and Computers: in-time performance'
+
+** Seminar at Malmö academy of Music, September 23, 2010
+
+Participants: Sara Willén, Karin Johansson, Henrik Frisk, Hans Hellsten
+
+-------
+
+ - An initial discussion concerning the topics brought up in the paper (and a need for clarification) led to the conclusion that I need to more actively tie the ideas presented to my own practice as an improvising musician. If not, the paper will be stuck in a music-philosophical domain. One way to achieve this is to simply account for practical situations where the issues discussed in the paper influence my artistic practice. This should be made early in the text, perhaps already in the introduction.
+
+ - Karin Johansson suggested I look into the work of Anna-Rita Addessi and her music interactive tool "The Continuator". (See the paper adessi-06b.pdf)
+
+ - With regard to musical time, Karin and Hans Hellsten also made a remark that in Liturgy, the function of musical time is very different from that of a musical work. In the liturgy the organist is advised *not* to play a composition, much because of the way a musical work has temporal demands. This point reinforces the argument made in the paper that music employs multiple (sometimes concurrent) temporalities.
+
+ - In relation to the discussion of in-time systems and the constraints and allowances of physical systems, Hans put forward the idea that, in an interactive performance, the machine is equipped with a virtual heart. The heart rate would go up in response to the level of stress the machine experiencing.
+
+
