@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.32pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Den modernistisk/romantiska konstn\IeC {\"a}rsmyten}{2}{0}{1}
+\beamer@sectionintoc {2}{Det subjektiva}{3}{0}{2}
+\beamer@sectionintoc {3}{Den modernistisk/romantiska skapelsen}{4}{0}{3}
+\beamer@sectionintoc {4}{Citeringar i konstn\IeC {\"a}rlig forskning}{5}{0}{4}
+\beamer@sectionintoc {5}{Vilka krav finns det?}{7}{0}{5}
+\beamer@sectionintoc {6}{Hur efterf\IeC {\"o}ljs detta?}{8}{0}{6}
+\beamer@sectionintoc {7}{Vad beh\IeC {\"o}ver vi g\IeC {\"o}ra?}{9}{0}{7}
+\beamer@sectionintoc {8}{Att bygga h\IeC {\r a}llbar kunskap}{10}{0}{8}
