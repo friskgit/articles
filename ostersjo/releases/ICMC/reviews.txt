@@ -1,0 +1,35 @@
+The paper consists of both a long theoretical part and a case
+study. From the title I get the impression that the empirical study is
+the focus. If this is the intention, it would be better if the
+theoretical part is shortened considerably and more focused towards
+the questions addressed in the case-study. The abstract should present
+a short version of the paper, i.e. problem, results… As it is now it
+fits better in the introduction. It is sometimes hard to follow the
+reasoning. For example, the first sentence claims that “musical
+notation has an ontologically crucial function”. In the first reading
+there is no way to understand what you mean by that. Statements like
+that should be motivated when given or skipped. The first two
+paragraphs in section 2 are rather vague and hard to understand. Could
+they be omitted? For example, it’s problematic to discuss the concept
+of “center” if it cannot be defined or described. In section 3.1 the
+intention is to write a harp piece and you start with a musical
+fragment that doesn’t make sense to play on a harp. This choice would
+be nice if you motivated. In the five different conclusion given on
+the last page you state for example that “Composition is in itself
+made up of a….”. These are rather strong claims indicating that these
+conclusions are always true. It would be better to include a “may” in
+these claims: “Composition may consist of a complex…” References
+missing in reference list: Hultberg and Östersjö 2005; Molino 1990
+
+****************************************
+
+Interesting exploration of artistic research. May be expected to
+enhance the creative and live-interactive aspect of the
+conference. However, presentation badly needs clear language and
+strong articulation of its tenets. First section could be more
+succinct and profiled: which concepts do you yourself most care about?
+Second section: please summarize your position at the end before you
+go into all the empirical details. Third section: unfortunately, the
+video clip appeared to be no longer available on Frisk's website at
+the time of this review. Regarding the conclusion: how does this kind
+of research feed back into your practice? What do we gain from it?

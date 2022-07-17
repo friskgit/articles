@@ -1,0 +1,98 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\preamble{%
+\hyphenation{Post-Script}%
+}
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Latour1998}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b573a01ce18b77b95f61f008bd20b520}{%
+           family={Latour},
+           familyi={L\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b573a01ce18b77b95f61f008bd20b520}
+      \strng{fullhash}{b573a01ce18b77b95f61f008bd20b520}
+      \strng{bibnamehash}{b573a01ce18b77b95f61f008bd20b520}
+      \strng{authorbibnamehash}{b573a01ce18b77b95f61f008bd20b520}
+      \strng{authornamehash}{b573a01ce18b77b95f61f008bd20b520}
+      \strng{authorfullhash}{b573a01ce18b77b95f61f008bd20b520}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{5361}
+      \field{title}{ESSAYS ON SCIENCE AND SOCIETY: From the World of Science to the World of Research?}
+      \field{volume}{280}
+      \field{year}{1998}
+      \field{pages}{208\bibrangedash 209}
+      \range{pages}{2}
+    \endentry
+    \entry{nowotny2013}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0b71d2b609a57a94cab617a2fbeacbb4}{%
+           family={Nowotny},
+           familyi={N\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4816cbec7788df54e85603a8aff29de}{%
+           family={Scott},
+           familyi={S\bibinitperiod},
+           given={P.B.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c68bbe06a05a1fc8e6351e0b604723f}{%
+           family={Gibbons},
+           familyi={G\bibinitperiod},
+           given={M.T.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Polity Press}%
+      }
+      \strng{namehash}{ce7e6931a6df83482cedf4d561c60cbb}
+      \strng{fullhash}{ce7e6931a6df83482cedf4d561c60cbb}
+      \strng{bibnamehash}{ce7e6931a6df83482cedf4d561c60cbb}
+      \strng{authorbibnamehash}{ce7e6931a6df83482cedf4d561c60cbb}
+      \strng{authornamehash}{ce7e6931a6df83482cedf4d561c60cbb}
+      \strng{authorfullhash}{ce7e6931a6df83482cedf4d561c60cbb}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780745657073}
+      \field{title}{Re-Thinking Science: Knowledge and the Public in an Age of Uncertainty}
+      \field{year}{2013}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

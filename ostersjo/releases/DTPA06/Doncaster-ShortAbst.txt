@@ -1,0 +1,15 @@
+
+Negotiating the musical work II.
+Computer-performer interaction in relation to Composer-Performer
+interaction.
+
+by
+
+Henrik Frisk <henrik.frisk@mhm.lu.se>
+Stefan Östersjö <stefan_ostersjo@hotmail.com>
+
+In this paper we explore the inter-relations between performer and
+composer, aiming at a closer understanding of the significance of
+their negotiations. We approach this area empirically by analyzing
+video from a performer-composer collaboration. This data is also used
+in a discussion of the interaction between computer and performer.

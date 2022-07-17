@@ -1,0 +1,277 @@
+Introduction
+Conditions and purpose
+_ The musical work before its ultimate notation and performance.
+
+This article discusses the musical work prior to its ultimate notation and prior to its performance;
+we discuss the musical work in the Western art music tradition. 
+
+
+_ Mixed media music
+The article deals exclusively with music for solo instrument and live electronics. 
+In lack of a general terminology we use the term 'mixed media' in this article to refer to a work for instrument(s) and electronic sounds. In our definiton mixed media music includes, but is not limited to, music in which sounds produced on acoustical instruments are mixed with sounds from electronic sources or electronically processed versions of the acoustic sounds played back on loudspeakers. One medium of sound production (acoustical instruments) is mixed with another (loudspeakers).
+
+_ Wish to gain a deeper understanding of the underlying processes in the communication
+between the composer and the performer.
+
+Our purpose is to acquire a deeper understanding for
+the underlying processes in the communication between the composer and the performer
+and their respective roles. This might allow us to consider the social significance of the roles traditionally assigned to performer and composer respectively in relation to the operative significance. 
+
+_ Making use of this knowledge when constructing interactive performance systems.
+By better understanding the musical interaction between the two parties involved in the creation of the work, we also hope to better understand the necessary conditions for a successful interaction between the performer and the electronics. 
+
+
+- Conditions
+
+Obviously one of the fundamental conditions for a study such
+as this is that the performer and the composer are both alive, and that the performer has
+a genuine interest in performing the work in question. 
+
+
+
+Slide 2
+Construction - Reproduction/ 
+Composer - Performer
+
+The invention of notation has not only given us the notion of the musical work but has also resulted in a split of 'the musician' into two agents, composer and performer. 
+
+Traditional view
+
+A musical work, in the cultural context of the Western art music tradition, is sometimes
+understood solely as the scores that the composer produces, but can also be regarded
+as the result of a process in two distinct phases; one constructive and one reproductive.
+The composer produces a score, which in turn is handed over to a performer who makes
+an interpretation of the notation and reproduces it as specified in the score, hopefully quite
+faithfully to the composer's intentions. The notation constitutes the primary source of information.
+
+The Two Agents
+
+According the line of thought in Paul Ricoeur's hermeunetic philosoph, the traditional view of the author as a one-way sender of a message is disputed. According to this view, the author is disengaged from the work by the act of writing. Similarly, the construction of a score-based work consists of dialectic interplay between creation and interpretation, in which the composer, at times, has to approach his own notation by means of interpretation, even during the act of writing. On the other hand the performer does not merely reproduce the work such as notated, performing a score-based work is a co-creative act in which the performer necessarily has to make crucial artistic choices. In other words, notation does not divide composer and performer into one originator (producing the work) and one interpreter (reproducing the work). Interpretation is a part of both creative acts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Slide 3
+
+Semiological approach.
+Musical semiology...
+...analytical understanding of the musical work in its entirety.
+
+Musical semiology has been constructed with the
+intention to provide tools for analytical understanding of the musical work in its entirety,
+and not only in terms of analysing formal structures or details in the construction, but also
+the socio-cultural context. Attempting to move to a lower level of organization than that
+of musical notation may help to further clarify the issue in relation to a wider sphere of
+knowledge.
+
+Background to musical semiology
+Molino: the notion of a 'single, well-defined item of information to be transmitted, all the rest
+being simply noise' is 'dangerously inaccurate and misleading as soon as we move from
+artificial communication of information to a concrete act of human communication as a total
+social fact.' [Molino, 1990]
+
+
+
+
+
+Molino: the notion of a 'single, well-defined item of information to be transmitted, all the rest
+being simply noise' is 'dangerously inaccurate and misleading as soon as we move from the
+artificial communication of information to a concrete act of human communication as a total
+social fact.' [Molino, 1990]
+
+Duchamp: two poles, the artist and the viewer. The intention of the artist holds no significance
+to the viewer.
+
+ValŠry: 'there is no guarantee of a direct correspondance between the effect produced by a
+work of art and the intentions of its creator'.
+
+The Three Dimensions
+
+...recognizing, elaborating, and articulating the three relatively autonomous
+levels (poietic, neutral and esthesic) facilitates knowledge of all processes unleashed
+by the musical work, from the moment of the work's conception,
+passing through its 'writing down', to its performance. [Nattiez, 1990]
+
+A model of analysis on three levels:
+_ the poietic - the constructive phase
+_ the esthesic - the interpretative phase
+_ the neutral - the trace
+
+
+
+Slide 4
+
+(Slide 6)
+
+Method
+
+Musical semiology.
+Drawing on Nattiez and Molino and their idea of tripartition.
+
+Qualitative research.
+Using a qualitative method when approaching the complex area of machine-musician interaction.
+
+Qualitative method
+The video documentation from the collaboration between Love Mangs and Stefan ™stersj” consists of many hours of recorded data from different occasions.  The selection of video clips to be analysed in the present study was made on qualitative grounds, but not using the typical method of theoretical sampling. 
+
+("Vid kvalitativ forskning sker mycket ofta datainsamling och tolkning av data simultant. (...) Hur l„nge man ska forts„tta datainsamlingen och hur m†nga personer man skall unders”ka „r ju beroende av analysen enligt principen f”r teoretisk sampling. Det g†r inte heller att ge en "tolkningsfri" resultatredovisning med tabeller o.d. som vid kvantitativ forskning."
+Bertil Carlsson: Kvalitativa forskningsmetoder (1991) s 101
+
+Teoretisk sampling inneb„r att den kontinuerliga analysen avg”r vilka data som ska samlas in tills "teoretisk m„ttnad" uppst†r, d† resultaten b”rjar uppvisa ett igenk„nnligt m”nster. N„r en kvalitativ skillnad kan p†visas finns ingen anledning att forts„tta samla material. Ytterligare pr”vning mot oberoende data betraktas som ”verfl”digt eftersom teorin formulerats i dialog med det empiriska materialet. (Glaser&Strauss 1980) )
+
+The selection was instead based on the pre-understanding of Stefan, as having been part of the collaborative process. From his knowledge of the sessions and the recorded material Stefan suggested some sections that he found especially interesting. This approach to the analysis of video material generated in artistic research has previosly been discussed by ™stersj” and Hultberg (2005). 
+
+Three entire sessions were transcribed verbatim, and analysed by Lena Holmberg, an external professor in education at Malm” University. She recommended to proceed by transcribing only significant sections of sessions, because of the researchers' common thorough pre-understanding of the research area. In other words, the relevance of a certain sections of a dialogue from a musical point of view, and therefore of significance for the artistic research, could easily and without ambiguity be traced within the video material. As the material was penetrated closely in its entirety through viewing there should be no need for full verbatim transcripts of the material. (™stersj” Hultberg 2005)
+
+The selected video clips were transcribed verbatim by Frisk and ™stersj” together. This turned out to be a very useful tool for the sake of keeping a detached and relatively objective point of view on the material. The transcription in turn was used as material for a graph that became an important analytical tool in the study. It was only at the point when the graph was produced that the implications of the study on machine-musician interaction started to materialise. 
+
+Using a q. Method when approaching the complex area of machine-musician interaction
+
+Empirical study
+Love Mangs: Viken for guitar, banjo, e-bow and electronics (2004-05).
+Video documentation of a working session with guitarist Stefan ™stersj” and composer Love
+Mangs
+The complete analysis of the video is in [Frisk and _Ostersj_o, 2006]
+
+Conditions
+
+1)The project had several explicit
+intentions, apart from the mere production of a work for guitar and electronics. One
+was to use real time processing as the main source of electronic sound, the other was
+to explore the boundaries between composing and performing; between the performance
+interpretation of a work and how different kinds of fixity can be established in a work. This
+should be taken into account when studying the video documentation of this process. It
+would be a mistake to regard the material as documentation of a typical collaboration
+between a composer and a performer, as both Love and Stefan were well aware of the
+underlying intention to explore the possibilities for improvisation and other interactive
+ways for composer and performer to approach the process of creating a score-based work
+with electronics. While studying the video it is also of importance to remember that both
+parties involved are aware of their process being documented. However, the session is
+taking place less than two months prior to the scheduled premiere which implies that both
+parties are strongly focused on the task of getting the piece together.
+
+Transcription / Interpretation
+
+2) The agreed purpose of the session documented in the video, was to work out variations
+on the melody transcribed by Love. Love's intention was to use this melodic material in
+the piece.
+
+We have already pointed out that any kind of notation will inevitably be a reduction of the material that is the object for transcription. Already when Love decided to make a transcription of the sound clip he subjectively chose elements to emphasize and elements to exclude; he is performing an act of interpretation of his own material. He is working in the esthesic domain on the trace left by a work performed in the poietic domain.
+
+Slide 5
+
+Two clips from the video
+
+1)
+In the first scene Stefan has just played an improvisation on the melody and on Love's
+suggestion he is notating the new variation (see figure 6). Stefan is active in the poietic
+domain, constructing new material for the piece. He turns to Love for feedback, but at
+this point Love seems remarkably indifferent. This is illustrated by the arrow going from
+the new variation box in the poietic field on Stefan's side of the graph pointing down
+towards Love's side in figure 8. There is a lack of communication between Love and Stefan
+(illustrated by the dotted arrow going upwards from the restless, passive box) as Love does
+not respond to Stefan's invitation to discuss the new variation. 
+
+2)
+Love seems to have accepted the new material as it was played initially and instead takes the initiative (illustrated by the initiative axis going from Stefan's side to Love's), adopting an interpretative approach on
+Stefan's variation. Love is now active in the esthesic field, suggesting to Stefan the addition
+of a fermata in the variation (line 24) represented by the fermata box in the graph. Now
+there is apparent noise in the communication (represented by the dotted arrow going from
+the fermata box to the new variation box): Love seems unclear of where in the notation
+the fermata should be. This is in turn misunderstood by Stefan (line 59) to mean several
+fermatas (dotted arrow from the several box to the fermata box). Eventually Love points
+out the right spot and for the first time a clear communication takes place, illustrated by
+the two arrows in the graph going in both directions (line 68 in the transcription). In this
+segment both Love and Stefan are acting in the esthesic domain, Love in his interpretation
+of Stefan's notation and Stefan attempting to try out Love's suggestion. Stefan's initial
+misunderstanding of the fermatas seems to lead to the next initiative taken by Stefan and
+is illustrated by the initiative axis going from Love to Stefan at 75. Again in the esthesic
+field, Stefan suggests that long fermatas could be added to the last notes of the phrase. At
+first Love doesn't get the idea at all (line 78, dotted arrow going from the long fermatas box
+to the what? box) but eventually approves of the suggestion (line 85, solid arrow going in
+the same directions).
+
+Slide 6
+Summary and discussion
+
+Swapping of the roles?
+Roles of composer and performer overlap.
+
+
+Ontology again, whose work and whose performance?
+If we now return to the session with Love and Stefan, the immediate impression for a
+viewer could be that of a complete swapping of the agent's respective roles: Who is the
+composer and who is the interpreter in the first video clips? Stefan is writing music while
+Love is passively listening. Love suggests the addition of a fermata in the variation that
+Stefan has just notated. Our claim is that, even though we approach a situation in which
+the relative positions happen to be at their respective extremes, what we see is actually quite
+acceptable artistic practice both for composers and performers. The interplay that we see
+is an example of how the roles of composer and performer in themselves overlap, and can
+even seemingly be interchanged in this way.
+
+
+Conclusions from the analysis of the video:
+
+_ Composition is in itself made up of a complex interaction between esthesic and
+poietic processes.
+_ Performers similarly oscillate between these two modes of artistic activity.
+
+Construction - Reproduction (2)
+1) traditional view
+2) Our experience of a more non-static inter-relation (see [Frisk and _Ostersj_o, 2006]).
+In this paper we attempt at a deeper understanding of the interaction between
+the agents in the constructive process. Our experience, as the empirical study in section
+3 will suggest, is that there is a much more complex and non-static interrelation between
+the two parties.
+
+
+Slide 7
+Interactivity 
+One of the general difficulties in composing and performing music with live electronic elements
+is the difference in approach that the electronics seems to require when compared
+to a situation such as the one analyzed above. The flexibility that we can observe in the
+interaction between the two agents in the video clip is remarkable. Complete misunderstandings
+and miscommunication does not halt the process nor does it appear to lead to
+false conclusions. If anything it seems to be taken for granted by both participants; it is
+only when looking back at the video that we can observe the misinterpretations. The quote
+from Molino in Section 2.1 can now be read in the light of the performed analysis and the
+conclusion can only be that what may be defined as noise from the point of view of one
+analytical methodology must be considered an integral part of the artistic communication
+in this context. Or rather, it shows how the classical notion of the 'creative misunderstanding'
+really can play an important role in artistic processes. Noise in the communication
+can give way for unexpected solutions when interpreted from a general knowledge of the
+'stylistic subculture' in which a piece is being created.
+
+Now, if we again look at the graph of the interaction between Love and Stefan in this context there is a striking lack of synchronicity between the different actions. There is an evident and independent flow of the initiative, of the constructive and of the interpretative input between the two agents. Nevertheless, in the end the process leads to new material that is included in the
+final version of the piece. Would it be possible to use the knowledge gained from the analysis of the video in the design of an interactive interface for a mixed media piece to be performed live?
+
+We will attempt at using this analysis for the interactive aspects of the new
+work for guitar and computer for which this article is a study. When it comes to real
+time electronic processing and synthesis the processes quite naturally translate themselves
+into the language of esthesic and poietic. Any processing of acoustic sound input is an
+interpretative action and any generation of new sonic material is a constructive process
+belonging in the poietic domain. Furthermore a few observations can be made that can be
+further elaborated in the context of live electronic interactive music. The observations can
+be summarized as:
+_ Noise in communication is not a problem, it's an asset.
+_ Direction is more important than synchronicity.
+_ The initiative can shift independently of the esthesic and poietic processes.
+
+

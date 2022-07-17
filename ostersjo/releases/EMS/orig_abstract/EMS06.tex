@@ -1,0 +1,136 @@
+\newif\ifpdf
+\ifx\pdfoutput\undefined
+\pdffalse % we are not running PDFLaTeX
+\else
+\pdfoutput=1 % we are running PDFLaTeX
+\pdftrue
+\fi
+
+\documentclass[a4paper]{article}
+\usepackage[swedish, english]{babel}
+\usepackage[T1]{fontenc}
+
+\ifpdf
+\usepackage[pdftex]{graphicx}
+\renewcommand{\encodingdefault}{T1}
+\renewcommand{\rmdefault}{pad}
+\pdfcompresslevel=9
+\else
+\usepackage{graphicx}
+\fi
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\lhead{\small{\textit{Frisk, Östersjö}}}
+\chead{}
+\rhead{\small{\textit{Negotiating the Musical Work}}}
+
+\title{Negotiating the Musical Work. \\An empirical study on the
+inter-relation between composition, interpretation and performance}
+\author{Henrik Frisk\\{\small PhD candidate}\\{\small Malmö Academy of
+Music - Lund University}\\{\small henrik.frisk@mhm.lu.se} \\ 
+Stefan Östersjö\\{\small PhD candidate}\\{\small Malmö Academy of
+Music - Lund University}\\{\small stefan.ostersjo@hotmail.com}}
+
+\date{29 January 2006}
+
+\begin{document}
+\selectlanguage{english}
+\maketitle
+
+\thispagestyle{empty}
+
+\begin{abstract}
+
+In this paper we intend to explore the inter-relations between performer 
+ and composer, in the form of a theoretical study, which is intended to
+ lay the ground for a new work for guitar and computer by Henrik Frisk
+ for Stefan Östersjö. This project is part of our respective artistic
+ research projects at the Malmö Academy of Music. 
+
+We find that the ontology of the mixed media work (in lack of a general
+ terminology we use the term 'mixed media' in this article to refer to a
+ work for instrument(s) and electronic sounds) is closely related to the
+ general discussion of score-based works, but it is important to bear in
+ mind that the programming of the electronics should also be regarded as
+ notation in this discussion and the electronic part is itself another
+ object of interpretation for the performer.
+
+From a hermeneutic point of view, performance interpretation of music is
+ a special case \cite{levinson,davies,stecker}\nocite{krausz}.
+\begin{quote}
+If performances and critical interpretations are both representations of
+works, they are so in quite different senses. If we ignore these
+differences, we can easily be misled to make invalid
+inferences. Performances are necessarily constructive; that is, they
+necessarily add features that the work leaves vague or
+undetermined.\cite{stecker} 
+\end{quote}
+
+But not only in cases in which the notation is in some respect unclear
+or vague is there a call for constructive elements in
+interpretation. Construction is really at the heart of the matter in
+performance interpretation. When elements of electronic real-time
+ processing, sound synthesis, sound file playback or be it any other
+ means of producing electronic
+ sounds, are part of the work, yet another level of complexity is added to the issue
+ of interpretation. This is closely related to the notion of
+authenticity, which is already a powerful factor in the performance of
+score-based works. How is this issue to be aproached in mixed media
+ works? If the programming of the electronic part is to be regarded as
+ a special case of notation, how is this notation 'transcribed' and
+ communicated to the performer?
+
+It has been suggested by several writers that performances should be
+regarded as works in their own right. From this point of departure,
+Peter Kivy \cite{kivy} distinguishes between four kinds of authenticity
+in performance, most importantly; 'Authenticity as Intention' (that is,
+authenticity as faithfulness to the composer's performance intentions)
+and a fundamentally opposed notion of authenticity, which he simply
+names 'The Other Authenticity'. Kivy's intention is to
+bring out an opposition between these two authenticities: On the one
+hand, the obligation to conform with the composer's intention and, on
+the other hand, the creative originality that should result in a work in
+its own right. But, unlike Kivy, we suggest (as has been done by Stefan
+Östersjö and Cecilia Hultberg \cite{ost05}) that the opposite may also
+be claimed: The tension between the two imperatives on the performer
+makes up a creative field in which truly original instances of works
+come out. The different forms of authenticity turns out to be the
+definition of a creative field of tension in which the composer and the
+performer negotiate and interact towards a version of a work.
+
+A close collaboration between a living composer and a performer, allows
+for discussions on the rendering of a mixed media work. We find that this
+process could be described as a negotiation towards a version of the
+work \cite{kivy} and that this can serve as a model for understanding
+similar processes even prior to the existence of any notated
+material. This article aims at a closer understanding of the
+significance of these negotiations, specifically their meaning in
+ relation to the two modes of musical representation; the notation and
+ the sonic trace left by the computer part. Further, we aim at creating a broader
+platform for reflection on and analysis of our respective artistic
+practices.
+
+We approach this complex area empirically by analyzing selections of the
+ video documentation of Östersjö's collaboration with composer Love
+ Mangs, as well as versions of a certain passage in a piece for harp and
+ computer by Henrik Frisk. Love Mangs' ``Viken'' is a work for guitar,
+ banjo, e-bow and real time processing in Max/MSP. In the video material
+ we find striking examples of how the traditional roles of "composer"
+ and "performer" are exchanged, indicative of the difficulty to
+ establish fixity in the definition of these seemingly discrete artistic
+ fields. Following Stecker \cite{stecker} we would like to suggest that
+ there is always an element of construction in a performance of a piece
+ of music, but we also find that there are elements of interpretation in
+ the act of composition. By using Molino's and Nattiez' terminology for
+ a semiological analysis of music we attempt at describing the interplay
+ in terms of poietic and esthesic processes, \cite{nattiez}
+ \cite{molino} and with semiotic terminology in general.
+
+\end{abstract}
+
+
+\bibliography{bibliography}
+\bibliographystyle{apalike}
+\end{document}

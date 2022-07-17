@@ -1,0 +1,43 @@
+\documentclass[a4paper, onecolumn]{article}
+\usepackage[english]{babel}
+%% \usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\renewcommand{\rmdefault}{pad}
+\usepackage{tabularx}
+\usepackage[sectionbib, round, authoryear, longnamesfirst]{natbib}
+\usepackage{url}
+\usepackage{graphicx}
+
+% Different font in captions
+\newcommand{\captionfonts}{\footnotesize}
+\makeatletter  % Allow the use of @ in command names
+\long\def\@makecaption#1#2{%
+  \vskip\abovecaptionskip
+  \sbox\@tempboxa{{\captionfonts #1: #2}}%
+  \ifdim \wd\@tempboxa >\hsize
+    {\captionfonts #1: #2\par}
+  \else
+    \hbox to\hsize{\hfil\box\@tempboxa\hfil}%
+  \fi
+  \vskip\belowcaptionskip}
+\makeatother   % Cancel the effect of \makeatletter
+
+\renewcommand{\figurename}{Fig.}
+
+\title{Negotiating the Musical Work III.\\ Repetition Repeats all Other Repetitions}
+\author{Henrik Frisk, Stefan Östersjö\\{\small Malmö Academy of
+Music - Lund University}}
+
+\date{29 January 2006}
+
+\begin{document}
+\selectlanguage{english}
+\maketitle
+\tableofcontents
+\newpage
+\input{include/Repetition-edit}
+% \input{include/Repetition-comp}
+% \input{include/Repetition-workinmov}
+\newpage
+\input{include/Repetition-bib}
+\end{document}
