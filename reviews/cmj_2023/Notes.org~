@@ -1,0 +1,202 @@
+* Towards_Augmenting_Communication_in_Human_AI_Music_Improvisation
+:PROPERTIES:
+:NOTER_DOCUMENT: Towards_Augmenting_Communication_in_Human_AI_Music_Improvisation.pdf
+:END:
+** Overall comments
+This paper discusses the ways in which humans and AI music systems can signal to each other 
+** This points to the complexity of improvisation.
+:PROPERTIES:
+:NOTER_PAGE: (2 0.5222968845448992 . 0.5596837944664032)
+:END:
+#+BEGIN_QUOTE
+The ability to improvise
+on stage with others is considered to be one of the great achievements or examples of
+human creativity. It requires empathy, quick-wittedness, an awareness of the genre, an
+awareness of the audience and each other, and a huge source of patterns that can be used
+appropriately given the correct contextual settings.
+#+END_QUOTE
+** This source is not necessarily relevant here, look at some of the references that discusses non-idiomatic improvisation.
+:PROPERTIES:
+:NOTER_PAGE: (2 0.6737935247403788 . 0.4150197628458498)
+:END:
+``musical state and
+intention to others Seddon (2005).''
+** It is not clear what 'this' refers to here: what musical experience?
+:PROPERTIES:
+:NOTER_PAGE: (2 0.8061068702290076 . 0.10869565217391304)
+:END:
+``It is this notion of the musical experience''
+** What previous work?
+:PROPERTIES:
+:NOTER_PAGE: (3 0.29878048780487804 . 0.370913190529876)
+:END:
+``from previous work by
+focusing on the exploration of''
+** Reference?
+:PROPERTIES:
+:NOTER_PAGE: (3 0.43282442748091604 . 0.38339920948616596)
+:END:
+This is a quite far reaching statement that is not really backed up. What is the basis for this conclusion?
+#+BEGIN_QUOTE
+, as improvising agents are implicitly (and sometimes
+explicitly) required to explain any decisions they are making,
+#+END_QUOTE
+** What were the participants experience with improvisation?
+:PROPERTIES:
+:NOTER_PAGE: (8 0.3702090592334495 . 0.11837655016910935)
+:END:
+#+BEGIN_QUOTE
+Participants: We conducted a qualitative study with nine participants (n=9) with a
+different range of music experience.
+#+END_QUOTE
+** How was the MIDI signal generated from voice and guitar?
+:PROPERTIES:
+:NOTER_PAGE: (8 0.6123693379790941 . 0.17587373167981962)
+:END:
+#+BEGIN_QUOTE
+While all participants could play at least 2 instruments, 3 considered that piano was
+the instrument they played best, 3 selected guitar and the other 3 were best with voice.
+#+END_QUOTE
+** Something wrong with the interpunctiation
+:PROPERTIES:
+:NOTER_PAGE: (9 0.48257839721254353 . 0.4926719278466742)
+:END:
+``Table 1 shows the results of calculating the scores for the three selected factors using
+the GMSI Scoring App gms (b) and subsequently placing them within a percentile chart of
+the general population for which the index was generated gms (a); for instance, [...]n''
+** This section is not relevant here
+:PROPERTIES:
+:NOTER_PAGE: (12 0.42334494773519166 . 0.15670800450958286)
+:END:
+#+BEGIN_QUOTE
+Insights gained from understanding musicians’ physical mechanisms when
+improvising together provide a valuable resource to design communication mechanisms
+that facilitate improvisational interaction between human and AI musicians.
+#+END_QUOTE
+This section speculates on how "Insights gained from understanding musicians’ physical mechanisms when
+improvising together" can be useful and how the interface of an AI system may be improved, but this is not something that you have studied. I would suggest this is removed or moved to another section of the paper.
+** On the thematic analysis
+:PROPERTIES:
+:NOTER_PAGE: (14 0.19773519163763068 . 0.15670800450958286)
+:END:
+#+BEGIN_QUOTE
+The theme Structured Improvisation explores the mechanisms participants identified
+that could provide more musical structure and help increase the quality of
+improvisational interactions with the system.
+#+END_QUOTE
+
+The usefulness of the thematic analysis, which is generally interesting and well performed would be furthered improved if the reader was allowed insight into what kind of musical gestures/interaction were coupled with the various tags. What is, for example, structured about this tag in a musical sense. 
+** Thematic analysis
+:PROPERTIES:
+:NOTER_PAGE: (15 0.7926829268292683 . 0.4351747463359639)
+:END:
+#+BEGIN_QUOTE
+The code system signalling to user
+explores the concept of bi-directional communication by giving the system autonomy to
+send signals to the human musician.
+#+END_QUOTE
+
+Since this is a thematic analysis, a code given cannot said to be given the system autonomy. the code, unless I've misunderstood something, signals that a certain aspect of autonomy in the system was observed by the improvisor.
+
+** This statement could be interesting to unpack a bit more
+:PROPERTIES:
+:NOTER_PAGE: (17 0.7045801526717557 . 0.19367588932806323)
+:END:
+#+BEGIN_QUOTE
+, facilitating the discovery of the inner workings of the system should be a
+design consideration for improvisation music systems.
+#+END_QUOTE
+What follows here, the example of the Shimon marimba robot and the use of emoticons appear to rather be systems that improve multimodal communication in performance and perhaps not so much the inner workings of the system?
+
+** Silence
+:PROPERTIES:
+:NOTER_PAGE: (19 0.4189895470383275 . 0.11724915445321307)
+:END:
+``The role of silence in human-machine communication''
+
+It is a bit odd that this section, in principle exploring new theory comes after the discussion. Now, the discussion should perhaps be renamed /Discussion of results/ but even so, what is the reason for not placing this section within the rest of the theory?
+** Is this a wish are a normative statement?
+:PROPERTIES:
+:NOTER_PAGE: (22 0.3977099236641221 . 0.1492094861660079)
+:END:
+#+BEGIN_QUOTE
+Ultimately, in any performative musical context there will be visual and (less
+frequently) vocal gestures which allow musicians understand the direction of the
+performance.
+#+END_QUOTE
+It is absolutely possible to perfrom improvisations in complete darkness or with eyes shot.
+** What does 'here' refer to?
+:PROPERTIES:
+:NOTER_PAGE: (22 0.4618320610687023 . 0.3685770750988142)
+:END:
+``f communication here is''
+** Repetition
+:PROPERTIES:
+:NOTER_PAGE: (22 0.6572519083969466 . 0.11956521739130434)
+:END:
+#+BEGIN_QUOTE
+the Shimon marumba robot, which uses a human-like head that turns to show that it is
+‘listening’ to the human performer.
+#+END_QUOTE
+** Does 'presence' provide information about the inner working sof the system?
+:PROPERTIES:
+:NOTER_PAGE: (22 0.6877862595419847 . 0.41798418972332013)
+:END:
+#+BEGIN_QUOTE
+Here we propose that all music improvisations systems
+should employ some type of ’presence’ that embodies the system in order to communicate
+aspects of the inner workings of the system, but also we propose that the interplay of
+moments of silence with some kind of embodiment, or for that matter, any kind of
+‘presence’ that is implemented for an improvisational system (e.g. a digital visualisation),
+would play a significant role in conveying emotional meaning.
+#+END_QUOTE
+** It is not clear to me how this reference is relevant
+:PROPERTIES:
+:NOTER_PAGE: (23 0.14732824427480917 . 0.15810276679841895)
+:END:
+#+BEGIN_QUOTE
+Embodying silence in a music system can give it a more powerful effect in
+communication, invoking reactions from musicians and audiences alike in the
+performance.
+#+END_QUOTE
+** The evidence for this is weak in the paper
+:PROPERTIES:
+:NOTER_PAGE: (24 0.29923664122137406 . 0.592885375494071)
+:END:
+#+BEGIN_QUOTE
+However, it has been
+extensively studied in the social sciences as a medium that carries meaningful and distinct
+information (depending on the context surrounding it).
+#+END_QUOTE
+
+** Review
+*** Is the subject matter and presentation appropriate for this special issue? Please explain if not.
+   This paper discusses the ways in which humans and AI music systems can signal to each other but the focus is not on the AI, the ways it functions, nor on the system itself. Instead the authors have performed a thematic analysis based on a set of improvisers experiences with playing with the system. The thematic analysis is well done and the method is, in general, used wisely. However, there are a few facts that are problematic:
+   1. The first is the fact that although many of the references point to jazz improvisation, it is never stated what kind of musical practice the study is performed on. This reduces the usefulness of the results to a significant degree as the term 'improvisation', widely used throughout, is ambiguous at best. The interactive requirements that a performer would have on an AI improviser varies to a great degree with what kind of improvisation the musician is comfortable with.
+   2. Similarly is it not clear whether or not the participants are all jazz musicians or what their musical expertise is, only that they are experienced musicians. If the reader can't tell if the participant is a fiddle player, a concert violinist or a free jazz improviser, many of the results are less useful.
+   3. The description of AI system, in essence a VMM, is solely focused on how the system chooses the next output based on the input but not in any way in relation to a musical logic. This is related to the first point above: not knowing what kind of musical system is being modelled, or why it has been designed in the first place (possibly only for the purposes of doing this study?), here makes it difficult to understand the analysis later in the paper. 
+
+*** Does the manuscript meet its stated goals; are they meaningful for the material? Please explain if not.
+
+The manuscript does meet its stated goals but would benefit from editing. Apart from what is already mentioned the structure of the paper is a bit unorthodox which makes this reader lose focus. The concept of silence, which appears very important to the authors (I am less convinced) is introduced after the description of the results of the study. It would be better to collect the theory in one place, before the presentation of the study, and state the suggested importance of silence already from the start.
+
+*** Are the ideas presented clearly; is the presentation well organized? Please explain if not.
+
+See above. There are a range of minor language errors and idiomatically incorrect phrasings. I believe, especially for this context, that the system should be better described. That it is using markov chains says very little about the way it works: does it use harmony? How is rhythm generated? Melody? Etc.
+*** Have the authors ignored significant work or contradictory results? Please explain if not.
+
+The results from the thematic analysis are well described but the way the authors connect them back to the aim is a bit vague.
+*** Is the manuscript significantly different from previously published work? Please explain if not.
+
+I believe this manuscript is different from previously published work.
+*** Does the manuscript require any additional audio and/or video material in order to be evaluated by you or understood by readers? Please explain if so.
+ 
+The thematic analysis would be greatly enhanced with music examples and/or notation that exemplifies what kind of musical phrase generated the code. Without this the paper, in my opinion, falls short.
+*** Recommendation: For this special issue of Computer Music Journal, the manuscript should be (select one):
+_X_ published after reviewing major revisions 
+
+*** Please justify your recommendation, and provide general feedback about the manuscript.
+
+Should the paper be complemented with the things I feel are missing, it could be published, but in its present form it should be rejected. What should probably be weighed in here is whether or not the strengths of this paper--the thematic analysis of musician's experiences with an automated system--is within the scope of the theme of this issue. Had the description of the system been better described this question would have less importance, but as it is, the paper has an emphasis towards musicology rather than computer music studies.
+*** if you have any confidential comments for the editors, please enter them here:
+In summary, I am hesitant to whether this paper fits the theme, but this is something you obviously are better to judge.

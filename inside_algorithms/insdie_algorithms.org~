@@ -1,0 +1,19 @@
+#+options: toc:nil num:nil
+#+cite_export: csl ~/Documents/articles/biblio/csl-styles/apa-7th.csl
+#+LaTeX_HEADER: \usepackage[x11names]{xcolor}
+#+LaTeX_HEADER: \hypersetup{linktoc = all, colorlinks = true, urlcolor = DodgerBlue4, citecolor = black, linkcolor = black}
+
+
+#+begin_src emacs-lisp
+  (set-window-margins (selected-window) 20 20)
+  (setq line-spacing 0.5)
+  #+end_src
+
+* Sound, motion and agency
+Artistic research has have brought light on a number of things in the field of music where the most important, perhaps, is the equally problematic as enlightening concept of an understanding from the inside of an artistic practice, rather than solely relying on its analysis from a vantage point located outside of it. Exactly what constitutes this privileged /inside/, or how it is made accessible to an artist is perhaps less commonly addressed. The problem here is that it is impossible and sometimes unfortunate to try to define what is inside. Yet, the perspective of an /inside/ has provided the field with new knowledge, and once this viewpoint has been opened the insight it is not limited to the artist, the /inside/ is no longer merely an angle of perception, it is an epistemological potential, and as such, it is not new. In his essay /An Introduction to Metaphysics/ French philosopher Henri Bergson defines two incommensurable ways to approach an object: either from a point of view through signs and concepts--a /relative/ perspective--or through entering into the object, exploring it from the inside--an /absolute/ apprehension. In order to reach intuition we must transcend concepts [cite:@Bergson1912; p 21]
+
+I have learned to move my arm, and every new piece of information about what I can do with it will add to my arm-moving-knowledge, and intuition is the modality through which this process is carried out. For a subject able to observe the thing from the inside, intuitively, there are no states, only duration and mobility informed by experience and knowledge.  
+
+In /An Introduction to Metaphysics" French philosopher Henri Bergson proposed that he could insert himself into an object "by an effort of imagination." [cite:@Bergson1912; p. 2] which allowed him to understand an object as it is in itself. This is, according to Bergson, /absolute/ knowledge.
+
+This, he continues, enables him to "no longer grasp the movement from without, remaining where I am, but from where it is, from within, as it is in itself." [[citep:Bergson1912][p. 3]] The latter is what he refers to as the /absolute/ knowledge: "the absolute is the object and not its representation, the original and not its translation, is perfect, by being perfectly what it is" [[citep:Bergson1912][p. 5-6]]. This is a quite radical proposition, in contrast to the dominant theories of mediated perception. The concept of actually being able to possess the object, or rather, its motion as Bergson will say, in itself makes possible a range of conceptions.

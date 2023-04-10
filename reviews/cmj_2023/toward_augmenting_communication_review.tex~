@@ -1,0 +1,89 @@
+% Created 2023-04-01 Sat 15:53
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\usepackage[x11names]{xcolor}
+\hypersetup{linktoc = all, colorlinks = true, urlcolor = DodgerBlue4, citecolor = black, linkcolor = black}
+\usepackage{ebgaramond}
+\usepackage[T1]{fontenc}
+\usepackage{sectsty}
+\author{Henrik Frisk}
+\date{\today}
+\title{Review of \emph{Towards Augmenting Communication in Human AI Music Improvisation}}
+\makeatletter
+\newcommand{\citeprocitem}[2]{\hyper@linkstart{cite}{citeproc_bib_item_#1}#2\hyper@linkend}
+\makeatother
+
+\usepackage[notquote]{hanging}
+\begin{document}
+
+\maketitle
+\allsectionsfont{\sffamily}
+
+\section*{Is the subject matter and presentation appropriate for this special issue? Please explain if not.}
+\label{sec:orgfda0bff}
+It is stated in the introduction that the authors are interested in "understanding to what extend we can use AI to challenge and provoke human creativity, and to understand how we might build systems that can enable new kinds of creative practices between humans and AI systems collaborating in creative contexts". This aim should be appropriate for the special issue, but the design of the study is, it appears to me, rather geared towards understanding the musicians experience with performing with an AI. The actual system is neither described in enough detail, nor is it clear how it is used to challenge and provoke the participants.
+
+\section*{Does the manuscript meet its stated goals; are they meaningful for the material? Please explain if not.}
+\label{sec:orgbeb6df5}
+
+The manuscript does meet its stated goals but extensive editing is needed. The paper discusses the ways in which humans and AI music systems can signal to each other but the focus is not on the AI, the ways it functions, or on the system itself. Instead the authors have performed a thematic analysis based on a group of improvisers and their experiences with playing with the system. The thematic analysis is well done and the method is, in general, used wisely. However, there are a few facts that makes it problematic:
+\begin{enumerate}
+\item First, although many of the references point to jazz improvisation, it is never stated what kind of musical practice the study is performed on. This reduces the usefulness of the results to a significant degree as the term 'improvisation', widely used throughout, is ambiguous at best. My guess is that the authors take for granted that the study deals with Western music, which is problematic by itself. The interactive requirements and expectations that a performer would have on an improvising AI varies to a great degree with what kind of improvisation the musician is comfortable with performing.
+\item Similarly is it not clear whether or not the participants are all jazz musicians or what their musical expertise is, only that they are experienced musicians. If the reader can't tell if the participant is a fiddle player, a concert violinist or a free jazz improviser, many of the results are less useful.
+\item The description of AI system, in essence a VMM, is solely focused on how the system chooses the next output based on the input but not in any way in relation to a musical logic. This is related to the first point above: not knowing what kind of musical system is being modelled, or why it has been designed in the first place (possibly only for the purposes of doing this study?), here makes it difficult to understand the analysis later in the paper. It is described to use MIDI only, and that the participants play a piano sample sound, but only a third of the participants are actually pianists.
+\end{enumerate}
+
+
+\section*{Are the ideas presented clearly; is the presentation well organized? Please explain if not.}
+\label{sec:org73a3c23}
+
+See above. There are a range of minor language errors and idiomatically incorrect phrasings. I believe, especially for this context, that the AI system should be better described. That it is using markov chains says very little about the way it works: does it use harmony? How is rhythm generated? Melody?
+
+The structure of the paper is a bit unorthodox which makes this reader lose focus. The concept of silence, which appears very important to the authors (I am less convinced) is introduced after the description of the results of the study. It would be better to collect the theory in one place, before the presentation of the study, and state the suggested importance of silence already from the start.
+
+\section*{Have the authors ignored significant work or contradictory results? Please explain if not.}
+\label{sec:org16e21a2}
+
+The results from the thematic analysis are well described but the way the authors connect them back to the aim is a bit vague. Since improvisation is mentioned the text would benefit from a more thorough overview of research on musical creativity in improvisation such as s Benson (\citeprocitem{1}{2003}), Peters (\citeprocitem{3}{2009}), Borgo (\citeprocitem{2}{2005})  to only mention a few key works. However, I am only guessing as to what the author's particular musical interest is.
+\section*{Is the manuscript significantly different from previously published work? Please explain if not.}
+\label{sec:org4fe54f8}
+
+I believe this manuscript is different from previously published work.
+\section*{Does the manuscript require any additional audio and/or video material in order to be evaluated by you or understood by readers? Please explain if so.}
+\label{sec:org8d5abbc}
+
+The thematic analysis would be greatly enhanced with music examples and/or notation that exemplifies what kind of musical phrase generated the code. Without this the paper, in my opinion, falls short.
+\section*{Recommendation: For this special issue of Computer Music Journal, the manuscript should be (select one):}
+\label{sec:org101053c}
+\uline{X} published after reviewing major revisions 
+
+\section*{Please justify your recommendation, and provide general feedback about the manuscript.}
+\label{sec:orgc2239cf}
+
+Should the paper be complemented with the things I feel are missing, it could be published, but in its present form it should be rejected. What should probably be weighed in here is whether or not the strengths of this paper--the thematic analysis of musician's experiences with an automated system--is within the scope of the theme of this issue. Had the description of the system been better described this question would have less importance, but as it is, the paper has an emphasis towards musicology rather than computer music studies.
+\section*{if you have any confidential comments for the editors, please enter them here:}
+\label{sec:org799bfce}
+In summary, I am hesitant to whether this paper fits the theme, but this is something you obviously are better to judge.
+
+\section*{Bibliography}
+\label{sec:org6725bf6}
+\begin{hangparas}{1.5em}{1}
+\hypertarget{citeproc_bib_item_1}{Benson, B. E. (2003). \textit{The improvisation of musical dialogue: A phenomenology of music}. Cambridge University Press.}
+
+\hypertarget{citeproc_bib_item_2}{Borgo, D. (2005). \textit{Sync or swarm: improvising music in a complex age}. The Continuum Interntl. Pub. Group Inc., New York.}
+
+\hypertarget{citeproc_bib_item_3}{Peters, G. (2009). \textit{The Philosophy of Improvisation}. University Of Chicago Press.}\bigskip
+\end{hangparas}
+\end{document}

@@ -1,0 +1,43 @@
+% Created 2022-12-30 fre 15:54
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\usepackage[english]{babel}
+\usepackage[x11names]{xcolor}
+\hypersetup{linktoc = all, colorlinks = true, urlcolor = DodgerBlue4, citecolor = black, linkcolor = black}
+\author{Henrik Frisk}
+\date{\today}
+\title{}
+\makeatletter
+\newcommand{\citeprocitem}[2]{\hyper@linkstart{cite}{citeproc_bib_item_#1}#2\hyper@linkend}
+\makeatother
+
+\usepackage[notquote]{hanging}
+\begin{document}
+
+\tableofcontents
+
+\begin{verbatim}
+(set-window-margins (selected-window) 30 30)
+ (setq line-spacing 0.5)
+\end{verbatim}
+
+\section{Introduction}
+\label{sec:orgefb0e2a}
+In the research project \emph{Historically informed design of sound synthesis: A multidisciplinary, structured approach to the digitisation and exploration of electronic music heritage} we have discussed Tresch \& Dolan (2013)'s notion of an \emph{ethics of instruments} (See Holzer et al., 2021). The reason this idea was brought in was that it conveniently resolves some of the issues we have had with structuring a collection of old electronic instruments in a meaningful way. To attempt to understand an obsolete instrument such as the \emph{Dataton} it is necessary to envision the context in which it was created and the agency it originally possessed. Should this analysis not be successful there is a risk that either the instrument's proper affordances is misunderstood, or that one ends up recreating what has already been done with it, or both.
+
+It may at first appear odd to speak of ethics in relation to dead objects such as a musical instruments, and this paper is an attempt to revisit the origin of this idea and critically examine it and follow it back to its roots in Foucault's \emph{History of Sexuality part 2} (Foucault, 2012), which is briefly discussed. As the general idea with using ethics in this way is based on the notion of agency, the discussion is further extended to contemporary musical instruments and AI enforced technology. Within the sphere of what is often referred to as intelligent instruments it may at first make sense to also hear speak of these as having a kind of agency, independent and sometimes in contrast to that of its user.
+
+An organology, or even just a deepened understanding of an instrument's meaning and position in a context, should really include not only its design or functionality. It should also take into account whatever agency it has, what kind of music was meant to be played on this instrument. A banal example to clarify this point would be the comparison between playing a cembalo sound on a synthesizer, and playing a real cembalo. It is easy to see that these are not equatable, not because the latter is a historic instrument, or sounds "better", but because thay are utterly different from a cultural, aesthetic and material point of view. They may have similar agency (they are part of the same network and do play the same role in it), but as instruments they function in very different ways.
+\end{document}

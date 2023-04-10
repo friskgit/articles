@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       f6aea3e2-141f-46c2-8757-3fd33f4a0600
+:END:
+#+title: On the complexities of artistic practice and ethics
+#+filetags: :ethics:
+#+cite_export: csl ~/Documents/articles/biblio/csl-styles/apa-7th.csl
+#+LaTeX_HEADER: \usepackage[x11names]{xcolor}
+#+LaTeX_HEADER: \hypersetup{linktoc = all, colorlinks = true, urlcolor = DodgerBlue4, citecolor = black, linkcolor = black}
+
+The main ambition in this paper is to relate current hyper capitalist and networked culture in the West of the 21st century, where all questions and relations are entangled with economy and thereby to some degree mutilated, to the way artistic practice in music may be understood. In particular, I will discuss how the latter can be part of a method whith which the ethical challenges in the former may be addressed. Herein lies also an important distinction between an ethics of artistic practice as a form for play on the one hand, and ethics as first philosophy [cite/p:@levinas92] or an existential ethics of ambiguity [cite:@beauvoir1962] on the other, a distinction that makes the two at times incompatible but not incongruous or inconsistent. The paper departs briefly from Foucault's ethical condition of the care of the self [cite:@foucault1988] which provides the background to the definition of the main question explored: How can a method be developed that uses artistic practice as a source for knowledge in the attempt to deal with the complexities of contemporary life. The main empirical source is my own artistic work from which I extract experiences, some of which I have previously discussed [cite:see ;@Frisk2013;@frisk12-improv], some of which are new. These aesthetically rooted experiences will be examined both through the lens of Foucault's aesthetics of life and through de Beauvoir's remark of aesthetic masking as a tool for a critical analysis. Another point of critical reflection is the special case of artistic practice in the context of research, which brings the question of the relation between artistic freedom and research ethics to the fore. The activity of artistic practice--and the engagement with the results of that practice--is offers an interesting possibility to discuss some of the urgent questions today, whether it concerns the care of the self or fundamental ethical question.
+
+* Bibliography
+# #+bibliographystyle: unsrtnat
+#+print_bibliography: title: "Bilblio"
+

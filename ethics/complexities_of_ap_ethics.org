@@ -1,0 +1,77 @@
+:PROPERTIES:
+:ID:       f6aea3e2-141f-46c2-8757-3fd33f4a0600
+:END:
+#+title: On the complexities of artistic practice and ethics
+#+filetags: :ethics:
+#+cite_export: csl ~/Dropbox/Documents/articles/biblio/csl-styles/apa-7th.csl
+#+LaTeX_HEADER: \usepackage[x11names]{xcolor}
+#+LaTeX_HEADER: \hypersetup{linktoc = all, colorlinks = true, urlcolor = DodgerBlue4, citecolor = black, linkcolor = black}
+
+#+begin_src emacs-lisp
+  (set-window-margins (selected-window) 15 15)
+  (setq line-spacing 0.5)
+#+End_Src
+
+#+RESULTS:
+: 0.5
+  
+* Abstract
+The main ambition in this paper is to relate current hyper capitalist and networked culture in the West of the 21st century, where all questions and relations are entangled with economy and thereby to some degree mutilated, to the way artistic practice in music may be understood. In particular, I will discuss how the latter can be part of a method whith which the ethical challenges in the former may be addressed. Herein lies also an important distinction between an ethics of artistic practice as a form for play on the one hand, and ethics as first philosophy [cite/p:@levinas92] or an existential ethics of ambiguity [cite:@beauvoir1962] on the other, a distinction that makes the two at times incompatible but not incongruous or inconsistent. The paper departs briefly from Foucault's ethical condition of the care of the self [cite:@foucault1988] which provides the background to the definition of the main question explored: How can a method be developed that uses artistic practice as a source for knowledge in the attempt to deal with the complexities of contemporary life. The main empirical source is my own artistic work from which I extract experiences, some of which I have previously discussed [cite:see ;@Frisk2013;@frisk12-improv], some of which are new. These aesthetically rooted experiences will be examined both through the lens of Foucault's aesthetics of life and through de Beauvoir's remark of aesthetic masking as a tool for a critical analysis. Another point of critical reflection is the special case of artistic practice in the context of research, which brings the question of the relation between artistic freedom and research ethics to the fore. The activity of artistic practice--and the engagement with the results of that practice--is offers an interesting possibility to discuss some of the urgent questions today, whether it concerns the care of the self or fundamental ethical question.
+
+* Introduction
+Artistic practice in music, as used in this text, encapsulates all the things a musician[fn:1] do when engage in making music, preparing for making music, thinking about making music and thinking back on past activities involving music. What distinguishes it from other kinds of practices is its playfulness and its lack of order or destination. Intimately tied into being an artist is that even if activities are geared towards a particular end goal, it is always possible to change direction at any time. Contemporary music since the twentieth century, including popular music, (and also before then) is full of examples of this kind: unexpected turns, erratic behaviour and unpredictability are qualities that have been revered and supported creating stylistic changes at an ever increasing rate.[fn:2]
+
+An ambiguous distinction is possible to draw between the aesthetic aspect, or what [cite/text/c:@langer2009] calls the /artistic import/, of artistic practice in music and listening to music. It is ambiguous because any creative act has an accompanying act of perceiving and and creative act is also perceptive, and any perceptive act is also creative. If aesthetics in general is involved with beauty and pleasingness it can, and has been, applied to a range of different topics apart from art and music such as nature, engineering, mathematics, law and order, and many more. In artistic practice it can extend to many other aspects of creativity than strictly musical properties such as relating to the beauty of the design of the music, to the systems of creation, to the way the patterns are developing. Some of these may not be obvious to a listener while insights into the creative phase may be much more limited.
+
+This introduces an aesthetic distance between the musician and the listener that at first may seem to match the musical semantics of [cite/text/c:@nattiez] and [cite/text/c:@molino] which is based on a three level symbolic analysis of musical communication, three /objects/; a poietic, an esthesic and the material reality of the work. The model is based on the concept that an analytical understanding of the musical work is, or can be, based on its total symbolic fact. Leaving the material reality aside, we may understand the poietic level as the stage of creation, where many types of external traces are produced, all of which pertain to the construction of the work. The esthesic level is inductive in nature and "grounds itself in perceptive introspection" [cite:@nattiez; p. 140].
+
+Susanne [cite:@langer2009] has a related take on this and, although her view on the symbolic aspect of music is rather different, the unconsummated symbol the she discusses in /Philosophy in a New Key/ is quite close to the way [cite/text/c:@molino] reasons: music does not represent an idea or a fixed meaning. The apprehension of music may even result in contradictory experiences all of which are /true,/ in the meaning that they are subjectively valid.[fn:3] In other means of communication symbolic meanings are consumed: if I say /tree/ the symbol representing a tree is communicated and consumed, whereby the receiver has an understanding of what the communicator were saying, and if not, we may assert that this was a failed communication. In music the sounding trace is not a symbol, it is a proxy, or a becoming. It is a potential that may generate symbolic meaning, but these symbols are not translated in a systematic manner. The associations are organized in a more playful manner.
+
+Play is at the center of artistic practice. The musician's activities are essentially play acts, also beyond the obvious meaning of play, and they allow the listener to experience a connection to similar play acts that are opened up by the free and non-conceptual associations that the music allows for. This notion of play has had a long history and was emphasized by Kant in /The Critiques of Judgement/. The basic premise for Kant is that aesthetic appreciation is not rooted in concepts but instead give rise to a free play of associations in a way that privileged aesthetic communication as something distinct from, say language and rational thinking, both deeply rooted in symbolic relations.
+
+As a Freudian concept children's play allows for expressions of feelings of various kinds and is a vehicle for exercising and preparing for life as an adult:
+#+begin_quote
+Play - let us keep to that name - appears in children while they are learning to make use of words and to put thoughts together. This play probably obeys one of the instincts which compel children to practise their capacities. In doing so they come across pleasurable effects, which arise from a repetition of what is similar, a rediscovery of what is familiar, similarity of sound, etc., and which are to be explained as unsuspected economies in psychical expenditure. It is not to be wondered at that these pleasurable effects encourage children in the pursuit of play and cause them to continue it without regard for the meaning of words or the coherence of sentences.
+#+end_quote
+Play as a means to learn and discover, but without transactions. The child is not playing because it will accomplish a goal external to the play. It is play for the sake of playing and the bi-product is knowledge. This is in fact very akin to artistic practice. Free associations and free play are essential to creative practice, and it appears to be so both in terms of the level of creativity in the process and to the quality of the outcome. Obviouly, this is very different depending on the context. But in all situations there is a sensitive balance between how much interference a client may impose on this process before it breaks and it is interestingly difficult to tell where that limit is. 
+
+Play is also a central concept to Langer who explores it in a wide variety of ways and she points to the fact that play ceases to be important to us only because other things are taking over our attention:
+#+begin_quote
+Only people who feel that play displaces something more vital can disapprove of it; otherwise, if the bare necessities were taken care of, work in itself could command no respect, and we would play with all the freedom in the world, if practical work and sheer enjoyment were our only alternatives. [cite:@langer2009]
+#+end_quote
+The consequence is that consuming music (and other artistic expressions) becomes a substitute for the lack of play in our lives. Music is an opportunity to share the play of artistic practice with the listener and satisfy a need for play which takes place, among other things, in the free play of associations and the unconsummated symbol.
+
+It may seem like a big jump to Derrida, but he is in fact connecting the dots here between structurality, Freud and free play.[cite:@der78]
+
+Foucault's idea of the care of the self of antiquity in a dialectical relation to /knowledge of the self/  will serve as the bridge to tie the description of the playful nature of artistic practice to ethics. The care of oneself is a social practice the means of which is to create an /art of life/ or an aesthetics of existance: "This 'cultivation of self' can be briefly characterized by the fact that in this case the art of existence--the /techn\=e tou biou/ in its different forms--is dominated by the principle that says one must 'take care of oneself.'" [cite:@foucault1988; p. 43] It is part of the subjectification of the self, of giving the control back to the self. This is still performed in a social system but in a way that allows for the formation of an ethical subjectivity, one that is not controlled from an outside power, of ambition or of fear of the future. Once completed, care of the self allows the subject to engage in its own processes of subjectification.
+
+My argument is that artistic practice is an arena where the care of the self may be developed and through the corresponding aesthetics and emerging ethics an understanding of what an ethics of artistic practice may be, and how it may be used in relation to other systems of ethics.
+
+The fact that artistic production is a free play
+
+
+
+is on how beauty, for example, is perceived whereas the discussion on how beauty is created is to a larger extent part of the field of artistic training.
+
+Much points to this free play that artistic practice explores is
+
+
+
+Reflecting on the developments in the current hyper capitalist market economy of the twenty first century may make the use of ethics as well as of artistic practice seem both peripheral and insignificant. They are not held in high esteem if valued in the currency of the market economy (wealth is created by /not/ distributing resources equally and art is commodified in a way that sometimes makes it difficult to understand other than as a product). Yet, at the same time, and for the very reason that they are subordinate, they both share the same urgency as opportunities for change and development. 
+
+If, at least for the time being, the necessity of both arts and ethics has been determined the need for the arts in comparison to the need for ethics may appear to be unequally distributed and difficult to compare. Although there have been many attempts to point to the necessity for the arts it may be difficult to compare the need for morality with the need for the arts without the former to seem like the more pressing concept. Judgments such as right and wrong are in essence difficult to employ in music, or even useless. But, it is not far fetched to see artistic practice as a way of life, as the attempt to optimize the outcome given a particular effort and to systematize that process.
+
+At least more greatly needed in the current situation of the world. This is not a comparison I will engage with in this text, I will simply assume that there is a need for both ethics and music in the world since both have been crucial to us for many thousands of years. The point I try to make however, is that ethics in artistic practice complements traditional ethics in interesting ways that may have an impact on how artistic practices are valued in contemporary societies.
+
+At the time right after the second world war we were facing similar difficulties trying to comprehend a human disaster of previously unknown proportions. It was from this horizon that Simone DeBeavoir defined her ethics of ambiguity which will be of great significance for this chapter.
+
+* Bibliography
+# #+bibliographystyle: unsrtnat
+#+print_bibliography: title: "Bilblio"
+
+* Footnotes
+
+[fn:3] They are however not entirely subjective because, as is explained by Roger Scruton in XXX, they may still have a universal claim. See Kant subjective and universal.
+[fn:2] The most obvious example of this is the endless number of sub-genres in pop and rock.
+
+[fn:1] I use the term /musician/ throughout and it should be understood to include any and all forms for musical production 
