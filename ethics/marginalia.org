@@ -1,0 +1,30 @@
+
+* On the complexities of artistic practice and ethics
+:PROPERTIES:
+:org-remark-file: complexities_of_ap_ethics.org
+:END:
+
+** It may seem like a big jump to Derrida, but he is in fact connecting the dots here between structurality, Freud and free play.[cite:@der78]
+:PROPERTIES:
+:org-remark-beg: 13027
+:org-remark-end: 13166
+:org-remark-id: 332e766c
+:org-remark-label: nil
+:org-remark-link: [[file:complexities_of_ap_ethics.org::58]]
+:END:
+
+
+** The origin of this particular technologies of the self is greco-roman and stems from figures such as Seneca and Augustine
+
+** This is clear in the passage where Foucault refers to Plato’s /Alcibiades I/ in which the ideas of the self takes shape and leads to the idea that to acquire /techne/ requires care of the self. 
+:PROPERTIES:
+:org-remark-beg: 16388
+:org-remark-end: 16582
+:org-remark-id: c2eba9c9
+:org-remark-label: nil
+:org-remark-link: [[file:complexities_of_ap_ethics.org::70]]
+:END:
+
+** necessarily
+
+** of
