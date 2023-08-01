@@ -1,0 +1,41 @@
+# Created 2023-05-11 Thu 15:14
+#+title: 
+#+author: Henrik Frisk
+#+options: toc:nil num:nil
+#+cite_export: csl ~/Documents/articles/biblio/csl-styles/apa-7th.csl
+#+LaTeX_HEADER: \usepackage[x11names]{xcolor}
+#+LaTeX_HEADER: \hypersetup{linktoc = all, colorlinks = true, urlcolor = DodgerBlue4, citecolor = black, linkcolor = black}
+#+latex_header: \usepackage[scaled]{helvet}
+\renewcommand\familydefault{\sfdefault}
+
+* Forskning som undervisning
+Henrik Frisk
+
+** 0:00 (tid i videon)
+Den konstnärliga forskningen i musik har haft en stark utveckling i Skandinavien under de senaste 20-30 åren trots relativt få doktorandplatser. Många av de platser som finns har gått till etablerade musiker snarare än till studerande direkt från grundutbildningen. Frågan är om det ens är möjligt, eller önskvärt, såsom systemet är uppbyggt idag. Det är en stor fråga, men jag vill här belysa den utifrån frågan om forskningsanknytning på konstnärlig grundutbildning.
+
+En baksida som jag har sett är att de studenter som vill fortsätta med forskarstudier istället söker sig till utlandet vilket gör att vi förlorar kompetens som kunde bidragit till att utveckla hela akademien.
+
+Denna situation framstår nog som underlig för en utomstående betraktare som kommer från de vetenskapliga akademierna där progressionen från varje nivå är en del av utbildningarnas grundbult. Bolognareformen ville göra det möjligt att studenter kan röra sig mellan länder och nivåer av akademisk fördjupning. För att det ska fungera behöver t.ex. forskning introduceras tidigt för att en student ska klara av doktorandstudierna. Höga krav måste ställas redan i mitten av masternivån för att masterstudenten ska kunna påbörja sina doktorandstudier direkt efter examen. Det skapar möjlighet för en linjär progression och en student kan studera i 3+2+3 år utan avbrott och vara färdig doktor vid 25 års ålder.
+** 01:40
+Varför sker inte detta i större utsträckning på de konstnärliga utbildningarna? Varför förlitar man sig på äldre, mer erfarna musiker som doktorander?
+** 01:50
+En anledning är helt enkelt att det krävs mer av en student att lära sig bli musiker än vad man kan lära sig i en utbildning. Flera av våra program utgår från, eller har så stor konkurrens, att studenterna kan mer när de börjar än vad som egentligen ska krävas givet nivån.
+**  02:15
+I konstnärlig utbildningen krävs det något mer, något extra, som utbildningen bara delvis kan erbjuda. Därför vill, och behöver, studenterna i vissa utbildningar vara ute i arbetslivet några år mellan kandidat och master, det som i andra utbildningsprogram kallas praktik. Av samma anledning är det även ovanligt att man går direkt från master till doktorandnivå.
+** 02:54
+Det betyder även att det omgivande musiklivet är en avgörande kunskaps- och meriteringsbas för musiker. Därför måste kontakten mellan akademi och musikliv vara tät och aktiv. Musiklivet kompletterar akademiens utbildning och för att det ska fungera behöver det finnas en aktiv diskussion om estetik och konstnärlig kvalitet som går på tvärs av musikliv och akademi. Värderingarna behöver inte vara de samma, men de kan inte vara oberoende av varandra. Något oförsiktigt uttryckt kan vi säga att musiklivet är en del av konstnärlig utbildnings forskningsanknytning.
+** 03:38
+Fördelen med dessa professionella dokt är att konstnärlig forskarutbildning inte har behövt koncentrera sig på den konstnärliga delen - doktoranderna är redan etablerade och professionella musiker. Istället kan fokus läggas på hur praktiken kan gestaltas som forskning.
+** 04:00
+Nackdelen är att den tenderar att få en teoretisk övervikt och att kopplingen mellan grundutbildning och forskning inte beaktats i tillräckligt stor utsträckning.
+
+Forskarutbildningen har skett i ett spår för sig och grundutbildningen har inte sett sig ha behov av den typen av kunskapsbildning som doktoranderna ofta intresserar sig för. Med andra ord: masterstudenterna får inte tillgång till viktig kunskap som doktoranderna kan bidra med, och institutionen ser inget behov av att lägga energi på forskarförberedande utbildning eftersom studenterna inte ser forskarutbildning som en karriärväg. Än.
+** 04:48
+Detta skapar flera utmaningar, inte minst som den konstnärliga akademin fortfarande på vissa ställen befinner sig i en konfliktliknande relation till det akademiska, och akademiseringen ses som ett hot. Lösningen på den situationen är inte att akademisera den konstnärliga utbildningen.
+** 05:10
+Istället bör vi sträva efter att, å ena sidan göra doktorandernas forskning till en del av konstnärlig undervisning på grundutbildning, och å andra sidan skapa miljöer i vilka även konstnärlig praktik i, och för sig själv, ses som attraktiv och nödvändig kunskap, dvs även utan den teoretiska inramning som forskningen erbjuder.
+** 05:36
+Det kan ske genom att föra forskarutbildningen närmare grundutbildningen, och att musiklivet och den konstnärliga forskning förs närmare varandra. Detta kan bli viktigt, för att inte säga avgörande, för forskningsanknytningen. För de institutioner som redan har doktorander är det inte bara ett bra sätt att säkra forskningsanknytning, det är dessutom resurseffektivt. Konstnärliga doktorander kan i mycket större utsträckning än idag också undervisa och tillsammans med studenter i grundutbildningen göra studier kring konstnärlig praktik och forskning.
+
+Genom att grundutbildning, doktorandprogram och det omgivande musiklivet förs närmare varandra säkrar vi en av flera viktiga komponenter för att bygga en stabil bas för forskningsanknytning i hela den konstnärliga akademien. En forskningsanknytning som inte bara gagnar den konstnärligt akademiska utvecklingen utan även musiklivet.

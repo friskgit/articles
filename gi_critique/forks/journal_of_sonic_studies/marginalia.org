@@ -1,0 +1,23 @@
+
+* Sound intuition
+:PROPERTIES:
+:org-remark-file: sonic_studies.org
+:END:
+
+** It may appear bordering on defensive to get into an in depth investigation of the term /intuition/ in a project that that has attempted to do away with it altogether.
+:PROPERTIES:
+:org-remark-beg: 1937
+:org-remark-end: 2103
+:org-remark-id: 64af605f
+:org-remark-label: nil
+:org-remark-link: [[file:sonic_studies.org::26]]
+:END:
+
+**  In the way that it is used in the title of the project, however, it points to the 
+:PROPERTIES:
+:org-remark-beg: 2104
+:org-remark-end: 2187
+:org-remark-id: cb7f3953
+:org-remark-label: nil
+:org-remark-link: [[file:sonic_studies.org::26]]
+:END:

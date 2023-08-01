@@ -11,11 +11,11 @@
 
 ** This is clear in the passage where Foucault refers to Plato’s /Alcibiades I/ in which the ideas of the self takes shape and leads to the idea that to acquire /techne/ requires care of the self. 
 :PROPERTIES:
-:org-remark-beg: 17687
-:org-remark-end: 17881
+:org-remark-beg: 17707
+:org-remark-end: 17901
 :org-remark-id: c2eba9c9
 :org-remark-label: nil
-:org-remark-link: [[file:complexities_of_ap_ethics.org::65]]
+:org-remark-link: [[file:complexities_of_ap_ethics.org::66]]
 :END:
 
 ** necessarily

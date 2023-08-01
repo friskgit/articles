@@ -573,3 +573,15 @@ https://books.google.se/books?id=ZshAEAAAQBAJ
   :END:
 
   Stimulated recall
+* Notes
+
+** bibliography.bib 
+:PROPERTIES:
+:Created: [2023-06-29 Thu 14:29]
+:Linked: [[file:~/Documents/articles/biblio/bibliography.bib::Piekut2014][Piekut 2014: Actor Networks Music History]]
+:END:
+
+
+Check this paper for actor network theory in music.
+[cite:@Piekut2014]
+

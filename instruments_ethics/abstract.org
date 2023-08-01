@@ -8,8 +8,8 @@
 #+LaTeX_HEADER: \hypersetup{linktoc = all, colorlinks = true, urlcolor = DodgerBlue4, citecolor = black, linkcolor = black}
 
 #+begin_src emacs-lisp
-   (set-window-margins (selected-window) 20 20)
-    (setq line-spacing 0.5)
+  (set-window-margins (selected-window) 20 20)
+  (setq line-spacing 0.5)
   #+end_src
 
   #+RESULTS:
