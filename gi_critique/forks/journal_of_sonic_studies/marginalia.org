@@ -6,18 +6,41 @@
 
 ** It may appear bordering on defensive to get into an in depth investigation of the term /intuition/ in a project that that has attempted to do away with it altogether.
 :PROPERTIES:
-:org-remark-beg: 1937
-:org-remark-end: 2103
+:org-remark-beg: 11461
+:org-remark-end: 11475
 :org-remark-id: 64af605f
 :org-remark-label: nil
-:org-remark-link: [[file:sonic_studies.org::26]]
+:org-remark-link: [[file:sonic_studies.org::57]]
 :END:
 
 **  In the way that it is used in the title of the project, however, it points to the 
 :PROPERTIES:
-:org-remark-beg: 2104
-:org-remark-end: 2187
+:org-remark-beg: 11476
+:org-remark-end: 11559
 :org-remark-id: cb7f3953
 :org-remark-label: nil
-:org-remark-link: [[file:sonic_studies.org::26]]
+:org-remark-link: [[file:sonic_studies.org::57]]
 :END:
+
+** Also, the word /inside/ here may be confusing as it has not the same meaning as Bergson's /inside/ but, as we will see, may coincide in a useful way. The inside as a qualifier of a perspective is here unique to the artist, whereas in Bergson's method it is a possible perspective for any kind of experience. In Sören Kjörup's contribution to [[citetitle:biggs10]] he comments on what may be the difference between the outside and the inside perspective claiming that: 
+Remove from here.
+
+**  One important aspect of this is how the whole relates to the parts
+:PROPERTIES:
+:org-remark-beg: 28634
+:org-remark-end: 28701
+:org-remark-id: 5e00a843
+:org-remark-label: nil
+:org-remark-link: [[file:sonic_studies.org::112]]
+:END:
+
+**  Bergson's description of the two profoundly different ways of knowing a thing, through /relative/ 
+:PROPERTIES:
+:org-remark-beg: 22942
+:org-remark-end: 23041
+:org-remark-id: b42c40fc
+:org-remark-label: nil
+:org-remark-link: [[file:sonic_studies.org::92]]
+:END:
+
+The segment on artistic research came befor this.
