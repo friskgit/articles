@@ -5,22 +5,8 @@
 :END:
 
 ** It may appear bordering on defensive to get into an in depth investigation of the term /intuition/ in a project that that has attempted to do away with it altogether.
-:PROPERTIES:
-:org-remark-beg: 11463
-:org-remark-end: 11477
-:org-remark-id: 64af605f
-:org-remark-label: nil
-:org-remark-link: [[file:sonic_studies.org::57]]
-:END:
 
 **  In the way that it is used in the title of the project, however, it points to the 
-:PROPERTIES:
-:org-remark-beg: 11478
-:org-remark-end: 11561
-:org-remark-id: cb7f3953
-:org-remark-label: nil
-:org-remark-link: [[file:sonic_studies.org::57]]
-:END:
 
 ** Also, the word /inside/ here may be confusing as it has not the same meaning as Bergson's /inside/ but, as we will see, may coincide in a useful way. The inside as a qualifier of a perspective is here unique to the artist, whereas in Bergson's method it is a possible perspective for any kind of experience. In Sören Kjörup's contribution to [[citetitle:biggs10]] he comments on what may be the difference between the outside and the inside perspective claiming that: 
 Remove from here.
@@ -28,65 +14,51 @@ Remove from here.
 **  One important aspect of this is how the whole relates to the parts
 
 **  Bergson's description of the two profoundly different ways of knowing a thing, through /relative/ 
-:PROPERTIES:
-:org-remark-beg: 22760
-:org-remark-end: 22848
-:org-remark-id: b42c40fc
-:org-remark-label: nil
-:org-remark-link: [[file:sonic_studies.org::107]]
-:END:
 
 The segment on artistic research came befor this.
 
 ** Though in line with some of the thinking about artistic research that was presented above, this is a quite radical proposition. The concept of actually being able to possess the object, or rather, its motion as Bergson will say, in itself makes possible a range of conceptions. But the distinction between the outside and the inside that is alluded to in this attempt to describe Bergson's theory should also be handled with care.
-:PROPERTIES:
-:org-remark-beg: 14062
-:org-remark-end: 14492
-:org-remark-id: 66a26e98
-:org-remark-label: nil
-:org-remark-link: [[file:sonic_studies.org::72]]
-:END:
 Move til later
 
 **  Hence, the /perfect absolute/ should be understood in relation to the /imperfect analysis/.
 
 ** This borders to embodied cognition and the details here are outside the scope of this essay. Here the purpose is mainly to look at intuition in Bergson's sense as a method for better understanding sonic interaction.
-:PROPERTIES:
-:org-remark-beg: 20140
-:org-remark-end: 20355
-:org-remark-id: 6b4e1727
-:org-remark-label: nil
-:org-remark-link: [[file:sonic_studies.org::96]]
-:END:
 
 **   When you raise your arm, you accomplish a movement of which you have, from within, a simple perception; but for me, watching it from the outside, your arm passes through one point, then through another, and between these two there will be still other points; so that, if I began to count, the operation would go on forever. [[citep:Bergson1912][p. 6]]
-:PROPERTIES:
-:org-remark-beg: 21014
-:org-remark-end: 21366
-:org-remark-id: f0da0e43
-:org-remark-label: nil
-:org-remark-link: [[file:sonic_studies.org::98]]
-:END:
 
 ** Bergson is again critiquing an analytical understanding as an activity that is not able to fully understand movement, but only apprehend a sequence of states and concepts.
-:PROPERTIES:
-:org-remark-beg: 21757
-:org-remark-end: 21928
-:org-remark-id: 64caea94
-:org-remark-label: nil
-:org-remark-link: [[file:sonic_studies.org::105]]
-:END:
 
 **  Conceptual knowledge is reached by way of concepts that represent the thing of which knowledge can be said to be had. These, says Bergson, have the "disadvantage of being in reality symbols substituted for the object they symbolize" [[citep:Bergson1912][p. 17]], and as such they demand very little of us. Furthermore, each concept merely expresses a comparison between itself and the object that resembles it. By way of this resemblance it is possible to imagine that by taking concept after concept and putting them side by side we are actually reconstructing the analyzed object.  Through analysis we create concepts and symbols that allow us to structure and organize the world in a systematic manner. If metaphysics, then, is a serious science by which the world can be understood and experienced, rather than just a mind operation
-:PROPERTIES:
-:org-remark-beg: 21928
-:org-remark-end: 22763
-:org-remark-id: 55328237
-:org-remark-label: nil
-:org-remark-link: [[file:sonic_studies.org::105]]
-:END:
 
 ** The consequence of this discussion is that it is not enough to merely attempt to perceive the movement from within, as Bergson is urging us to do, it is first necessary to see the full context of the system for which the intuition is desired, and then experience it from the inside. In other words, to understand an object from the inside, to fully understand its mobility, it is important to understand what the boundaries of the system are. If I wish to understand what it means to play the saxophone, it is not the saxophone I need to enter inside, nor is it merely my own ambition with playing an instrument. I need to engage with the larger system that contains both myself and the instrument. This unity is what creates the conditions for expression and musical creativity, and analyzing the parts by themselves will only tell us what the parts are capable of. Even if I manage to explore the saxophone from the inside, I will only be able to understand it as an independent object. Only if I see the integrated system, and only if I manage to get on the inside of it, will I be able to fully understand it, and the way it is conditioned by its motion.
 Detta ska vara med
 
 ** nterface between musician and an instrument, and part of it is understanding what type of electronic instrument is being used. My attempt here is not to make a general theory of the various types of electronic instruments that could be of interest, but instead to mainly focus on the particular case of KA of /Goodbye Intuition/. Hence, it should be noted that other types of electronic instruments that holds a whole range of possible modes of engagements, allow for quite a different set of possibilities than what a piece of software does, completely lacking a physical interface. But I believe that it is possible to approach also other kinds of systems with the same method, and even though the results would be different, this could contribute to furthering the knowledge about the musical opportunities of electronic instruments.  The question now is how it may be possible to achieve the kind of /sympathy/ that Bergson is referring to towards KA that will allow for an inside experience of the system as a combination of the performer and the instrument? He describes it in a way that has a great deal of resonance with artistic practice in general 
+
+** It is worth noting that a certain merging of the fields has occurred between the sciences and the arts. Regardless of the extent to which the field of artistic research have reiterated the importance of the difference between the sciences and the arts, the computer is to a significant degree the tool both fields use. In other words, the technology of the artistic research lab is not technologically different from the science lab and, to return to Bergson, the primary tool for deductive analysis is also the primary tool for much of music production today.[cite:For a more elaborate discussion on this topic, see: ;@Tresch2013]
+
+** Though this is probably similar to what Bergson described by way of the moving coil being rolled out and then in again, the compound object complicated things. 
+Remove or rewrite
+
+** 1. Assuming that Bergson is right that the method of intuition is a valid means of perceiving the world--which can obviously be contested[fn:7]--the divide .  It is worth noting that a certain merging of the fields has occurred between the sciences and the arts. Regardless of the extent to which the field of artistic research have reiterated the importance of the difference between the sciences and the arts, the computer is to a significant degree the tool both fields use. In other words, the technology of the artistic research lab is not technologically different from the science lab and, to return to Bergson, the primary tool for deductive analysis is also the primary tool for much of music production today.[cite:For a more elaborate discussion on this topic, see: ;@Tresch2013]
+Flytta senare
+
+** (in an attempt to change the conditions for the composition process in order to focus on the act of listening.)
+:PROPERTIES:
+:org-remark-beg: 41386
+:org-remark-end: 41497
+:org-remark-id: 91e8b5ee
+:org-remark-label: nil
+:org-remark-link: [[file:sonic_studies.org::281]]
+:END:
+
+** In Bergson's description of the two profoundly different ways of knowing a thing, what he calls absolute /absolute/ knowledge from the inside has some resonance with the arguments for the need of artistic research.
+
+** The following discussion departs from the idea that the system that reproduces a sound is part of the sound making process similar to how the saxophone is.
+
+** This, however, does not actually describe access to knowledge other than secondarily. The method gives rise to information that guides the artistic process but what is the knowledge produced here?
+
+* 
+:PROPERTIES:
+:org-remark-file: sonic_studies_test.org
+:END:

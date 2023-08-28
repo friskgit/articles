@@ -3,113 +3,157 @@
 #+AUTHOR: Henrik Frisk, henrik.frisk@kmh.se
 #+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil pri:nil tags:not-in-toc toc:nil num:0
 # #+INCLUDE: "./setupfile.org"
+#+cite_export: csl ~/MyDocuments/articles/biblio/csl-styles/apa-7th.csl
 #+LATEX_HEADER: \bibliography{./gi_biblio.bib}
 
-* soundfiles
+* COMMENT soundfiles
 [[file:/Volumes/Freedom/Dropbox/Documents/uppdrag/GI/kimauto/final_project/final_stuff/KA_example_1.wav][file:/Volumes/Freedom/Dropbox/Documents/uppdrag/GI/kimauto/final_project/final_stuff/KA_example_1.wav]]
 
 * COMMENT code
 #+begin_src emacs-lisp
-;;  (set-window-margins (selected-window) 20 60)
+  (set-window-margins (selected-window) 0
+ 0)
   (setq line-spacing 0.5)
 #+end_src
 
 #+RESULTS:
 : 0.5
 
-* stuff
+* COMMENT stuff
  and I only include some of the earlier expressions here to emphasize the how the view of artistic research as a distinct practice from other kinds of research has been important to the development of the field.
-* Abstract
 
-In this paper I will discuss the way in which one may gain experiential access to the sound
+ In this paper I will discuss the way in which one may gain experiential access to the sound
 French theorist Pierre Schaeffer's [cite:@schaeffer77] very influential work taught us how the sound becomes accessible to the listener through the process of reduced listening. A listening process in which the source of the sound is less important than the inherent qualities of the sound. Though this has proven to be an important analytical tool for both electroacoustic music and other genres for almost 75 years
 
-In the process of artistically engaging with sound, be it a sound installation or a musical composition, or something else, the way one may gain access to this sound is at the same time both completely unproblematic and very enigmatic. A sound is like a compound a various kinds of information. It has a source, discernible sonic qualities, it may have a direction and a space and it may harbour a number of emotions, somtimes several at the same time. A sound can be completely metaphysical, imagined or a part of a dream, or it can be so physical as it is felt by the entire body. It can be painful or beautiful, harsh or soft. The balance between the various components can obviously shift depending on what kind of sound it is, and all of the parameters in this compound changes over time. One and the same continuous sound can start as a clearly sourced sound and end in an almost completely abstracted and deconstructed noise. How can this amorphic compound be understood in artistic practice? How can it be analyzed and what kind of analysis actually participates in a widened understanding of the meaning of the sound, rather than reducing it?
+* Introduction
+In the process of engaging with sound in artistic practice, be it a sound installation or a musical composition, or something else, the way one may gain access to the sound is at the same time both completely unproblematic and very enigmatic.
+A sound is like a compound a various kinds of information.
+It has some source, discernible sonic qualities, it may have a direction and a space, and it may harbour a number of emotions, sometimes several at the same time.
+A sound can be completely metaphysical, imagined as part of a dream, or it can be so physical as it is felt by the entire body.
+It can be painful or beautiful, harsh or soft.
+The balance between the various components can obviously shift depending on what kind of sound it is, and all of the parameters in this compound changes over time.
+One and the same continuous sound can start as a perfectly sourced sound and end in an almost completely abstracted and deconstructed noise.
+How can this amorphic compound be understood in artistic practice? How can it be analyzed and what kind of analysis actually participates in a widened understanding of the meaning of the sound, rather than deductively reducing it?
 
-There has been many attempts to approach the possible ways in which to understand sounds over the years. French theorist Pierre Schaeffer's [cite:@schaeffer77] very influential work made sound objects become accessible to the listener phenomenologically through the process of reduced listening where the source of the sound is disregarded. Dennis Smalley's [cite:@smalley86] concept of /spectromorphology/ builds on Schaeffer's theory and is an analytical tool to trace the spectral changes of a sound over time. William Gaver [cite:@Gaver1993] opened up for an ecological perspective and pointed to a new ontology of sound and Eric Clarke [cite:@clarke05] further developed the ecological approach. Other attempts include the concept of sound as an /(Un)repeatable object/ [cite:@Dokic2007]. 
+There have been many attempts to approach the possible ways in which to understand sounds over the years.
+French theorist Pierre [cite/text:@schaeffer77] and his very influential work made sound objects become accessible to the listener phenomenologically through the process of reduced listening where the source of the sound should be disregarded.
+Dennis [cite/text:@smalley86] developed the concept of /spectromorphology/ that builds on Schaeffer's theory and is an analytical tool to trace the spectral changes of a sound over time.
+William [cite/text:@Gaver1993] opened up for an ecological perspective and pointed to a new ontology of sound, and Eric [cite/text:@clarke05] further developed the ecological approach.
+Other attempts include the concept of sound as an /(Un)repeatable object/ [cite:@Dokic2007]. 
 
-The focus here is on the intuition of sound from a particular practice of working with composition using Henri Bergson's work as an inspiration: How can I understand sounds and sonic gestures evolving in time and space as carriers of meaning? This question should be seen as an attempt to break with the scientific imperative of the tools I often work with, and explore the need for an intuitive relation to the material these tools may result in.
+The focus in this paper is on the intuition of sound from a particular practice of working with composition using Henri Bergson's work as an inspiration: How can I understand sounds and sonic gestures evolving in time and space as carriers of meaning? This question should be seen as an attempt to break with the scientific imperative of the tools I often work with in the studio, and explore the need for an intuitive relation to the material these tools may result in.
 
-When playing an instrument the sound is at least to some degree woven together with the gestures one performs as the music evolves over time. For the composer sitting behind a computer screen for hours the situation is different. Working with  tiny adjustments to microscopic segments of the sonic material relieves the distance that may occur between the composer and the material they work with. If the sound is seen as an object that is to some degree independent of where and how it was produced and where, why and how it is heard this may not be seen as a problem. But if one engages in a more holistic view on the sound that I will propose in this paper there are a number of problems that arises in the studio practice:
+When playing an instrument the sound is at least to some degree woven together with the gestures one perform as the music evolves over time.
+For the composer sitting behind a computer screen for hours the situation is different.
+Working with  tiny adjustments to microscopic segments of the sonic material relieves the distance that may occur between the composer and the material they work with.
+If the sound is seen as an object that is to some degree independent of where and how it was produced and where, why and how it is heard this may not be seen as a problem.
+But if one engages in a more holistic view on sound practicies that I propose in this paper there are a number of questions that arises in the studio practice:
 
-- Questions relating to the contents of the sound, its ontology, its shape, its gestural aspects, its space are necessary to approach in the studio practice. One by one they may be analyzed but the general design of the tools at hand makes it difficult to successfully apprehend them together.
-- The tools of a modern studio does allow the composer to turn from a detail to the whole in a blink of an eye which is helpful but further contributes to a fragmentation of the material rather than an integration.
-- The reproduction of sound in the studio is in almost all cases completely different from the one that the music will ultimately be played back on. For that reason the composer will necessarily have to engage in a constant act of imagination to complement the sound produced in the studio with the imagination of what the performance space will ultimately sound like.
+1. Questions relating to the contents of the sound, its ontology, its shape, its gestural aspects, its space are necessary to approach in the studio practice. One by one they may be analyzed deductively but the general design of the tools at hand makes it difficult to successfully apprehend them together.
+2. The tools of a modern studio does allow the composer to turn from a detail to the whole in a blink of an eye which is helpful but further contributes to a fragmentation of the material rather than an integration.
+3. The reproduction of sound in the studio is in almost all cases completely different from the one that the music will ultimately be played back on. For that reason the composer will necessarily have to engage in a constant act of imagination to complement the sound produced in the studio with the imagination of what the performance space will ultimately sound like.
 
-These problems, nevertheless, are by no means insurmountable. This practice, like most artistic practices rests on a developed ability to imagine how the sound will be experienced. As a composer I can make myself intuit sound in a way that makes it possible for me to engage in a fluid relation to the material. In this case the sound is not an object, it does not need to have a beginning or an end but may be an ongoing activity. Sound, of course, is not merely perceived but created and recreated in a process that I engage in. A process where the signification of the various aspects of the sound is consciously and constantly changing. At this point I can transform my listening both in time and space and imagine what the music will sound like in another environment: I can experience it not as an external object that I exploit, but from within it, together with it: from the "inside". The terminology here comes from Bergson, as will be clear later in the text, but the word "inside" carries with it an unfortunate connotation that makes assumptions about a division that may not actually make sense and can be  somewhat counter-productive. This will be discussed further on in the text but I leave it for now as it provides a segway to the next section.
+These difficulties, nevertheless, are by no means insurmountable.
+This practice, like most artistic practices, rests on a developed ability to imagine how sound will be experienced.
+As a composer and improviser I can make myself intuit sound in a way that makes it possible for me to engage in a fluid relation to the material.
+In this case the sound may not be understood as an object, but is rather an ongoing activity.
+It is not merely perceived, of course, but created and recreated in the act of listening.
+A process where the signification of the various aspects of the sound is consciously and constantly changing.
+I can transform my listening both in time and space and imagine what the music will sound like in another environment: I can experience it, not as an external object that I exploit, but from within it, together with it: from the "inside".
+The terminology here comes from Bergson, as will be clear later in the text. The word "inside", however, carries with it an unfortunate connotation that makes assumptions about a division that may not actually make sense and can be  somewhat counter-productive.
+This will be discussed further on in the text but I leave it for now as it provides a segue to the next section.
 
-In the early days of artistic research, and for a long time to follow, there was a discussion about the difference between artistic research and other kinds of research. One common argument is that since the artistic researcher is exploring the artistic process in the making, the research is performed from an /inside/ perspective.[fn:1] This may even be seen as one of the defining ideas of the epistemology of artistic research: there is a difference between knowledge that has been acquired from observing an artistic practice, and knowledge that is the result of practicing art. A common metaphor used to described the difference between these two modalities is to see the former as knowledge acquired from the outside, from an analytical perspective; and the latter as knowledge from the inside. The often cited categories (and their variations [cite:see e.g. ;@borgdorff07]) that Christopher [cite/text:@frayling1993]  put forth in his article /Research in art and design/ ‘research into art’, ‘research for art’ and ‘research through art’ loosely point in the same direction that there are distinct research modalities from which kinds of results emerges. However,  are rarely stable, neither are they mutually exclusive and they are often difficult to determine.
+In the early days of artistic research, and for a long time to follow, there was a discussion about the difference between artistic research and other kinds of research.
+One common argument is that since the artistic researcher is exploring the artistic process in the making, the research is performed from an /inside/ perspective.[fn:1]
+This may even be seen as one of the defining ideas of the epistemology of artistic research: there is a difference between knowledge that has been acquired from observing an artistic practice, and knowledge that is the result of practicing art.
+A common metaphor used to described the difference between these two modalities is to see the former as knowledge acquired from the outside, from an analytical perspective; and the latter as knowledge from the inside.
+The often cited categories (and their variations such as those proposed by [cite/text:@borgdorff07]) that [cite/text:@frayling1993]  put forth in his article /Research in art and design/ ‘research into art’, ‘research for art’ and ‘research through art’ are loosely pointing in this direction: there are distinct research modalities from which various types of results emerges.
+However, these categories are rarely stable, neither mutually exclusive, and they are often difficult to determine.
 
-To explore the idea of artistic research from an inside perspective it is not enough to merely conclude the perspective of the researcher. Exploring internalized how-to knowledge and the belief systems that surrounds the practice demands a stable and transparent methods for revealing the processes that are in action. This is similarly discussed by [cite:@Galdon2022] concluding that "This type of implicit knowledge creates a problem around how we can be sure that tacit knowledge is communicated and acted upon in a
-manner consistent with its generation." (p.919). This can further be extended to a critique of the /inside/ as a qualifier unique to the artist and that gives any argument put forth from this perspective a parochial nature difficult to contest.
+To explore the idea of artistic research from an inside perspective it is not enough to merely consider the perspective of the researcher.
+Exploring internalized how-to knowledge and the belief systems that surrounds the practice demands stable and transparent methods for revealing the processes in action.
+This is similarly discussed by [cite/text:@Galdon2022] concluding that "this type of implicit knowledge creates a problem around how we can be sure that tacit knowledge is communicated and acted upon in a manner consistent with its generation" (p.919) which can again extend to a critique of the /inside/ as a qualifier unique to the artist. It may tend to give any argument put forth from this perspective a parochial nature difficult to contest.
 
 Much has been written about these topics over the years of the development of the field of artistic research. In the contribution by Sören [cite/text:@kjorup10] in the /Routledge Companion to Research in the Arts/ he argues that:
-
    #+begin_quote
-   if artistic research is supposed to be different from all other kinds of research, it is natural to focus on the artist as the researcher, and what is specific for the artist is her or his privileged access to her or his own creative process. [[citep:kjorup10][p. 25]]
+   if artistic research is supposed to be different from all other kinds of research, it is natural to focus on the artist as the researcher, and what is specific for the artist is her or his privileged access to her or his own creative process. [cite:@kjorup10; p. 25]
    #+end_quote
    
-This "privileged access" could be seen as harbouring a possibility for revealing a kind of knowledge that is sometimes mediated by symbols and concepts, but which is primarily founded on unmediated experience. A paradoxical situation with the goal of bringing forth that which is by nature hidden. Naturally, one of the recurring themes in the early discussions on the identity of artistic research was, and still is, how to understand the nature of artistic knowledge, and what kind of relation it would have to other kinds of knowledge. How can something that evades conceptualization at all be represented in a stable manner? How may this unmediated experience may be useful to the artistic researcher and others? These questions are, without a doubt, some of the more pressing and still controversial questions in artistic research and the point on which this discipline is most often criticized.[fn:2] These questions, however, also relies on the fact that the artist, with their privileged access knows how to gain access to the experience or what is often referred to as tacit knowledge that is the source for the methodological mangling, conceptualization and eventually, meaningful knowledge. This is the primary focus of the discussion for the rest of this paper.
+This "privileged access" could be seen to harbour a possibility for revealing a kind of knowledge that is sometimes mediated by symbols and concepts, but which is primarily founded on unmediated experience, a somewhat paradoxical situation where the goal is to bring forth that which is by nature hidden.
+Naturally, one of the recurring themes in the early discussions on the identity of artistic research was, and still is, how to understand its nature, and what kind of relation it would have to other kinds of knowledge.
+How can something that evades conceptualization at all be represented in a stable manner?
+How may this unmediated experience be useful to the artistic researcher and others? These questions are still of relevance in artistic research and the point on which this discipline is most often criticized.[fn:2]
+However, they also rely on the fact that the artist, with their privileged access knows how to gain access to the experience, or what is often referred to as tacit knowledge that is the source for the methodological mangling, conceptualization and eventually, meaningful knowledge.
+How to achieve this is the primary focus of the discussion for the rest of this paper.
 
-I will approach it through Bergson's proposed method of intuition in the context of my own practice as a composer. Bergson's method of intuition, I will argue, may contribute to showing that not only is it possible to gain formal knowledge from artistic research in a methodologically sound manner, but also that the difference compared to other fields of research is perhaps less significant than what is commonly believed. Artistic research could in this regard continuously be seen as a possibility to widen the perspectives of how the formation of knowledge may take place.[fn:3]
+I will approach it through Bergson's  method of intuition in the context of my own practice as a composer.
+Bergson's method of intuition, I will argue, may contribute to showing that not only is it possible to gain formal knowledge from artistic research in a methodologically sound manner, but also that the difference compared to other fields of research is perhaps less significant than what is commonly believed.
+Artistic research could in this regard continuously be seen as a possibility to widen the perspectives of how the formation of knowledge takes place.
 
 * On intuition
-Among others French philosopher Henri Bergson sought to address the problem of what knowledge one may have of the world exterior to oneself, and one of the central tenets in this effort was the method of intuition that he developed. It was a recurring theme in his work but in this paper I mainly draw upon his short text /An introduction to metaphysics/ [cite:@Bergson1912]  Intuition as a method will by necessity include also other modes of thinking, but the point here is not to give a full account of Bergson's philosophy, nor of the method's full implications.[fn:4] Anyone with a particular philosophical interest, however, should obviously go to the sources for more information. In this text I will use this theory and apply it to my own work.
+Among others French philosopher Henri Bergson sought to address the problem of what knowledge one may have of the world exterior to oneself, and one of the central tenets in this effort was the method of intuition that he developed.
+It was a recurring theme in his work but in this paper I mainly draw upon his short text /An introduction to metaphysics/ [cite:@Bergson1912]  Intuition as a method will by necessity include also other modes of thinking, but the point here is not to give a full account of Bergson's philosophy, nor of the method's full implications.[fn:3] Anyone with a particular philosophical interest, however, should obviously go to the sources for more information.
+In this text I will use this theory and apply it to my own work.
 
-[cite:@Grosz2005]
-
-To understand intuition in the a Bergsonian way it may also be necessary to contrast it with other uses and definitions of intuition.
+To understand intuition in a Bergsonian way it may also be necessary to contrast it with other uses and definitions of intuition.
 The more general interpretation of intuition relates to the things we do without thinking about them; the intuitive knowledge that something is, for example, wrong or dangerous.
-A dictionary description of the meaning of intuition is given as the "ability to understand or know something immediately based on your feelings rather than facts."[fn:5] 
+A dictionary description of the meaning of intuition is given as the "ability to understand or know something immediately based on your feelings rather than facts."[fn:4] 
 In this sense intuition may be likened to an internalized and automated system that pre-reflectively makes us act upon what is going on in the world around us.
-In phenomenology intuition has a slightly different meaning. Intuition gives the subject first-person knowledge. In this sense an object can be said to be /intuited/.
-Kant's distinction between concept and intuition may confuse the field even more though it is clearly a point of departure for Bergson's argument here though his theory of metaphysics is rather in contrast to Kant.
+In phenomenology intuition has a slightly different meaning.
+Intuition gives the subject first-person knowledge. In this sense an object can be said to be /intuited/.
 Bergson's use of intuition is described by [cite:@Kelly2010] "as a method of reflecting on instinctual or sympathetic engagement with things in all their flux before the framework of practical utility obfuscates our relation to them and to life." (p. 10)
 
+In the essay /An introduction to metaphysics/ [cite/text:@Bergson1912] defines two incommensurable ways to approach an object: either from a point of view through signs and concepts--a /relative/ perspective--or through entering into the object, exploring it from the inside--an /absolute/ apprehension. This second method is achieved by entering into what he calls a /sympathy with the possible states of the object/ which allows for inserting oneself "in them by an effort of imagination"  [cite:@Bergson1912; p. 2].  This enables him to "no longer grasp the movement from without, remaining where I am, but from where it is, from within, as it is in itself" [cite:@Bergson1912; p. 3]. The latter is what he refers to as the /absolute/ knowledge: "the absolute is the object and not its representation, the original and not its translation, is perfect, by being perfectly what it is." [cite:@Bergson1912; p. 5-6]
 
-In the essay /An introduction to metaphysics/ [cite/text/c:@Bergson1912] defines two incommensurable ways to approach an object: either from a point of view through signs and concepts--a /relative/ perspective--or through entering into the object, exploring it from the inside--an /absolute/ apprehension. This second method is achieved by entering into what he calls a /sympathy with the possible states of the object/ which allows for inserting oneself "in them by an effort of imagination."  [cite:@Bergson1912; p. 2]  This enables him to "no longer grasp the movement from without, remaining where I am, but from where it is, from within, as it is in itself." [cite:@Bergson1912; p. 3] The latter is what he refers to as the /absolute/ knowledge: "the absolute is the object and not its representation, the original and not its translation, is perfect, by being perfectly what it is." [cite:@Bergson1912; p. 5-6]
 
-Though in line with some of the thinking about artistic research that was presented above, this is a quite radical proposition. The concept of actually being able to possess the object, or rather, its motion as Bergson will say, in itself makes possible a range of conceptions. But the distinction between the outside and the inside that is alluded to in this attempt to describe Bergson's theory should also be handled with care.
-The example that Bergson gives us to better understand what he means by representational knowledge is a photographic model of a city. One where all angles and all surfaces have been photographed and documented to achieve something similar to the street view that online map programs sometimes offer.
-Exploring such a model can obviously never be equated with the experience of being in the city and will by necessity offer something rather different.
-Another example given is the translation of a poem into different languages.[fn:6]
+The example that he gives to describe representational knowledge is a photographic model of a city. One where all angles and all surfaces have been photographed and documented to achieve something similar to the street view that online map programs sometimes offer.
+Exploring such a model can obviously never be equated with the experience of being in the city. It will by necessity offer something rather different.
+Another example given is the translation of a poem into different languages.[fn:5]
 Each such translation can give the reader a good idea of the meaning of the poem, sometimes revealing new articulations, but it would "never succeed in rendering the inner meaning of the original". [cite:@Bergson1912; p. 5]
 
-One of Bergson's central propositions here is that the kind of knowledge that arises from a /relative/ perspective is always a reduction of the thing under investigation. By scrutinizing the object, dividing it into ever smaller elements allows for analytical precision, but whatever comes out of this process may eventually resonate more with what we already know than with the thing we analyze:
+One of Bergson's central propositions here is that the kind of knowledge that arises from a /relative/ perspective is always a reduction of the thing under investigation. By scrutinizing the object from an outside perspective, dividing it into ever smaller elements allows for analytical precision, but whatever comes out of this process is always a reduction:
 
    #+begin_quote
    In its eternally unsatisfied desire to embrace the object around which it is compelled to turn, analysis multiplies without end the number of its points of view in order to complete its always incomplete representation, and ceaselessly varies its symbols that it may perfect the always imperfect translation. It goes on, therefore, to infinity. But intuition, if intuition is possible, is a simple act. [cite:@Bergson1912; p. 8]  
    #+end_quote
 
-The /absolute/, as Bergson calls it, is given from this /intuition/ and the /intellectual sympathy/ with the object that allows for it.
+The /absolute/ is given from /intuition/ and the /intellectual sympathy/ with the object that allows for it.
 The /intuition/ of the object at hand allows for the perception of its unique qualities: the /perfect absolute/ in contrast to the /imperfect analysis/.
 To Bergson, the science of intuition is metaphysics, and metaphysics is "the science which claims to dispense with symbols" [cite:@Bergson1912; p. 9].
 
-The one reality, as Bergson puts it, that is close to always seized from within is ourself when we engage in self reflection. Bergson gives a description of the various strata of introspection in this process provides, slowly moving towards towards the center of the self. Moving from the outside, through a protecting "crust" made up of all the perceptions from the outside world, via memories that are interpretations of perceptions, down to the motor habits that are both connected and detached from the other layers. But at the core, Bergson describes the continuous flux of a concatenation of states, the beginnings and ends of which are merged together and extend back and forward. The metaphor used here is that of a coil constantly unrolled and rolled up again, although, admittedly, this comparison is far from perfect. There are no two identical moments in consciousness and the rolling up of the coil may thus be misleading. Even going back in memory to a past event invades that memory with all the present and past events. This evokes a passage in his earlier work, [cite:@bergson91],
-also describing the motion back and forth through memory and experiences. Conscious practice is displayed here as a cone whose tip is moving over a similarly moving plane, and where the point of the cone represents the present and the cone itself the accumulated memories and experiences: 
+The one reality that is almost always seized from within is when we engage in self reflection.
+Bergson gives a description of the various strata this process of introspection provides when slowly moving towards the center of the self.
+From the outside a protecting "crust" is encountered made up of all the perceptions from the outside world.
+Then memories of interpretations of perceptions are encountered, followed by the motor habits that are both connected and detached from the other layers.
+But at the core, Bergson describes the continuous flux of a concatenation of states in an ongoing movement back and forth.
+The metaphor used here is that of a coil constantly unrolled and rolled up again through the various layers out on the outside and back in again.
+Admittedly, this comparison is far from perfect because there are no two identical moments in consciousness and the rolling up of the coil may thus be misleading.
+Even going back in memory to past events invades that memory with all prior and present events.
+Instead, it evokes a passage in his earlier work, [cite:@bergson91], also describing the motion back and forth through memory and experiences.
+Conscious practice is displayed here as a cone whose tip is moving over a similarly moving plane, and the point of the cone represents the present and the cone itself the accumulated memories and experiences: 
 
    #+begin_quote
    The bodily memory, made up of the sum of the sensori-motor systems organized by habit, is then a quasi-instantaneous memory to which the true memory of the past serves as base. Since they are not two separate things, since the first is only, as we have said, the pointed end, ever moving, inserted by the second in the shifting plane of experience, it is natural that the two functions should lend each other a mutual support. So, on the one hand, the memory of the past offers to the sensori-motor mechanisms all the recollections capable of guiding them in their task and of giving to the motor reaction the direction suggested by the lessons of experience. It is in just this that the associations of contiguity and likeness consist. But, on the other hand, the sensori-motor apparatus furnish to ineffective, that is unconscious, memories, the means of taking on a body, of materializing themselves, in short of becoming present.  [cite:@Bergson1912; p.152-3]
    #+end_quote
 
-The sensory motor-habits are informed by memories through which they will be guided to do the work they are set out to do, and because no single memory is ever stable--it is always altered by the present in the interaction between what Bergson refers to as the "pointed end" and the past memory--the present experience is continuously altered by past experience, which in turn is influencing the present. Hence, the general understanding of intuition, as an action guided by feelings rather than by facts, may be said to still hold true, but a comparison quickly becomes very difficult without defining what constitutes a /feeling/ or a /fact/. More interesting, however, is the connection brought up between sensori-motor mechanisms and past experience, and the fact that this connection is not only going one-way, from memory to habit, but also from habit back to memory. Embodied memory is in a changing flux and in constant interaction with experience and habit. There is an inclination to understand learned and deeply integrated behavior, such as playing an instrument or lifting a glass of water, as something that has become pre-conscious acts, almost as if independent of reflection.
-This borders to embodied cognition and the details here are outside the scope of this essay. Here the purpose is mainly to look at intuition in Bergson's sense as a method for better understanding sonic interaction.
+The sensory motor-habits are informed by memories through which they will be guided to do the work they are set out to do, and because no single memory is ever stable--it is always altered by the present in the interaction between what Bergson refers to as the "pointed end" and the past memory--the experience is continuously altered by past experience, which in turn is influencing the present.
+Interesting for the current discussion is the connection brought up between sensori-motor mechanisms and past experience, and the fact that this connection is not only going one-way, from memory to habit, but also from habit back to memory.
+Embodied memory is in a changing flux and in constant interaction with experience and habit.
+There is an inclination to understand learned and deeply integrated behavior, such as playing an instrument or lifting a glass of water, as pre-reflective and almost acts independent from reflection.
 
-It is in thinking about embodiment and motor-habits that Bergson's understanding of what an intuition can be is perhaps best understood. If I move my leg or my hand I can only access the information that guides this movement through intuition. Analyzing the movement fails to understand it completely since the analysis only pins the movement to a sequence of states: first the arm was here, then here, then there. The actual change, the mobility or, as Bergson would put it, the duration, is only possible to understood through intuition. Furthermore, any new experience within such a movement, as well as any past experience will introduce change in the system.
+It is in thinking about embodiment and motor-habits that Bergson's understanding of what an intuition can be is perhaps best understood.
+If I move my leg or my hand I can only access the information that guides this movement through intuition.
+Analyzing the movement will result in a failure to understand it completely since the analysis only pins the movement to a sequence of states.
+The actual change, the mobility or, as Bergson would put it, the duration, is only possible to understood through intuition.
+Furthermore, any new experience within such a movement, as well as any past experience will introduce change in the system.
 
    #+begin_quote
    When you raise your arm, you accomplish a movement of which you have, from within, a simple perception; but for me, watching it from the outside, your arm passes through one point, then through another, and between these two there will be still other points; so that, if I began to count, the operation would go on forever. p.6
    #+end_quote
- I have once learned to move my arm, and every new piece of information about what I can do with it will add to my arm-moving-knowledge, and intuition is the modality through which this process is carried out. For a subject able to observe the thing from the inside, intuitively, there are no states, only duration and mobility informed by experience and knowledge.  
-   
-Bergson is again critiquing an analytical understanding as an activity that is not able to fully understand movement, but only apprehend a sequence of states and concepts. Conceptual knowledge is reached by way of concepts that represent the thing of which knowledge can be said to be had. These, says Bergson, have the "disadvantage of being in reality symbols substituted for the object they symbolize" [cite:@Bergson1912; p. 17], and as such they demand very little of us. Furthermore, each concept merely expresses a comparison between itself and the object that resembles it. By way of this resemblance it is possible to imagine that by taking concept after concept and putting them side by side we are actually reconstructing the analyzed object.
 
-Through analysis we create concepts and symbols that allow us to structure and organize the world in a systematic manner. If metaphysics, then, is a serious science by which the world can be understood and experienced, rather than just a mind operation, "it must transcend concepts in order to reach intuition" [cite:@Bergson1912; p. 21]
-
- 
-
-In Bergson's description of the two profoundly different ways of knowing a thing, what he calls absolute /absolute/ knowledge from the inside has some resonance with the arguments for the need of artistic research.
-According to Bergson, through the method of intuition, and by way of /sympathy/, it is in every way possible to achieve this absolute knowledge about a thing through an understanding it from the /inside/. Without this inside access one is left with the option of a conceptual analysis from the outside, but regardless of how many different perspectives this analysis is performed from, it will never fully capture the true /motion/ of the object. The contradictions between this and the intuitive knowledge that Bergson is arguing for:
+I have learned to move my arm, and every new piece of information about what I can do with it will add to my arm-moving-knowledge, and intuition is the modality through which this process is carried out. For a subject able to observe the thing from the inside, intuitively, there are no states, only duration and mobility informed by experience and knowledge.  
+Without this inside access one is left with the option of a conceptual analysis from the outside, but regardless of how many different perspectives this analysis is performed from, it will never fully capture the true /motion/ of the object.
+The contradictions between this and the intuitive knowledge that Bergson is arguing for:
 
    #+begin_quote
    arise from the fact that we place ourselves in the immobile in order to lie in wait for the moving thing as it passes, instead of replacing ourselves in the moving thing itself, in order to traverse with it the immobile positions. They arise from our professing to reconstruct reality--which is tendency and consequently mobility--with precepts and concepts whose function it is to make it stationary. [cite:@Bergson1912; p. 67]
@@ -117,47 +161,129 @@ According to Bergson, through the method of intuition, and by way of /sympathy/,
 
 One central aspect of the distinction between analytical and intuitive knowledge made here is that the intuitive, being in the motion or the duration, can always develop concepts and form the basis for analytical knowledge, whereas it is impossible to reconstruct motion from fixed concepts: An analysis may result from intuition, but intuition cannot arise from analysis. The analysis is performed on one particular state of the duration, and from multiple analyses or states it is possible to imagine that the mobile may be reconstructed by simply adding the different states together. This is the critical point that Bergson objects against: It is only through intuition that the variability of reality may be fully experienced as mobility. A succession of static states is radically different, it is a series of frozen frames of time, one slice after the other. The error in thinking that reality may be accessed purely through analysis, claims Bergson, "consists in believing that we can reconstruct the real with these diagrams. As we have already said and may as well repeat here--from intuition one can pass to analysis, but not from analysis to intuition" [cite:@Bergson1912; p. 48] 
 
-* Moving on
-Assuming that Bergson is right--which can obviously be contested[fn:7]--it is not entirely clear how the world is fragmented into perceivable objects. Moving this discussion to the field of music it is clear that I, when I play the saxophone can intuit the instrument not as an external object that I understand through deductive logic. There is no time and Bergson is absolutely correct in stating that it would be impossible to stay in time should I do so. However, if I wish to understand what it means to play the saxophone, it is not the saxophone as an object I need to enter inside of, nor is it my own ambitions with playing the instrument in an act of self reflection. I need to engage with the larger system that contains both myself and the instrument. This unity is what creates the conditions for expression and musical creativity, and analyzing the parts by themselves will only tell us what the parts are capable of. Even if I manage to explore only the saxophone from the inside, I will obviously only be able to understand it as an independent object. Only if I manage to get on the inside of the integrated system consisting of me, the instrument, and the context we operate in, will I be able to fully understand it, and the way it is conditioned by its motion. Though this is probably similar to what Bergson described by way of the movin coil being rolled out and then in again, this compound object complicated things.
+* Intuition and sound in practice
+In sound and music in the frame of artistic research the mode of thinking that Bergson proposes have some interesting consequences.
+As was hinted to in the beginning of this paper one of the obstacles in artistic research are the questions concerning 1) the methods that allows for observing relevant information about the artistic practice, and 2) the means of presenting this information in an accessible manner.
+I will mainly discuss the first of these which I argue may be addressed using the proposed method of intuition.
 
-One of the the consequences of this discussion is that it is not enough to merely attempt to perceive the movement from within, it is first necessary to see the full context of the system for which the intuition is desired, and then experience it from the inside. In other words, to understand an object from the inside, to fully understand its mobility, it is important to understand the way the system expands into the world. If I wish to understand what it means to play the saxophone, it is not the saxophone I need to enter inside, nor is it merely my own ambition with playing an instrument. I need to engage with the larger system that contains both myself and the instrument. This unity is what creates the conditions for expression and musical creativity, and analyzing the parts by themselves will only tell us what the parts are capable of. Only if I see the integrated system, and only if I manage to get on the inside of it, will I be able to fully understand it, and the way it is conditioned by its motion.
+Playing an acoustic instrument is a complex activity that involves a lot of interaction between the instrument and the musician. Practicing the instrument over many years allows the musician to develop a very instinctual relation to the instrument. As a saxophonist, when I pick up and play the saxophone I do not experience it as an external object that I analyze deductively. I enter into a sympathy with it that allows for an intuitive understanding of the processes I engage in. Time is of essence and, following Bergson, it is only through the method of intuition that the continuous flow may be experienced.
+To succeed to enter into sympathy with the play situation, however, it may not be the saxophone as an object I need to understand, and the notion of "an object" may be misleading.
+Rather, it is the larger system, containing both myself and the instrument and its context that I need to engage with.
+This unity creates the conditions for expression and nuanced musical creativity, and analyzing these parts by themselves will only tell us what the parts are capable of, not the whole.
+Only if I manage to get "on the inside" of the integrated system will I be able to fully understand it and the way it is conditioned through motion and duration.
+In other words, to perceive an object from the inside it is first necessary to understand the way the object expands into the world.
+The sensory and auditory feedback I get from the instrument continuously adopts how I play it, how much pressure I put into it.
+My motor-habits are changing as I play which changes the feedback I get from the instrument.
+But also sensory data that are external to the saxophone-musican system has an impact on what and how I play.
+The moving coil that Bergson describes is a metaphor for this back and forth process which is not, however, limited to two dimensions, but is in a constant motion in a multi-dimensional space that involves all aspects of the system.
 
-One example of this is how the sensory and auditory feedback I get from the instrument continuously adopts how I play it, how much pressure I put into it. My motor-habits are changing as I play which changes the feedback I get from the instrument. But also sensory data that are external to the saxophone-musican system has an impact on what and how I play.
+What I see when I start an application on my computer, what I experience to be the system in play, is just myself and the computer, where in reality it may involve previous input and output, as various positions and biases.
+In this sense the electronic musical instrument is a system which is by some degree larger and more elaborate than an acoustic instrument.
+What does it mean to get on the inside of a such systems?
+The extents to which such a system stretches out into the unknown is significant.
+It may include programmers and designers that are disconnected from the performer in both time and space, yet connected to the instrument and its design properties.
+An electronic instrument that is connected to the internet and that continuously fetches information that influences its output in live performance is a special case, but not uncommon, and such a system is significantly different from an acoustic musical instrument.
+There may be a range of hidden layers, disguised from both performers and audience that can be remapped during the course of the performance.
+Intuition, I believe, is still a valid method here, but it requires a few considerations which I will discuss in he following.
 
-Then, what does it mean to get on the inside of a system such as a sound played on a computerized instrument? The extents to which this system stretches out into the unknown is significant, but that may not be the biggest issue here. It is worth noting that a certain merging of the fields has occurred between the sciences and the arts. Regardless of the extent to which the field of artistic research have reiterated the importance of the difference between the sciences and the arts, the computer is to a significant degree the tool both fields use. In other words, the technology of the artistic research lab is not technologically different from the science lab and, to return to Bergson, the primary tool for deductive analysis is also the primary tool for much of music production today.[cite:For a more elaborate discussion on this topic, see: ;@Tresch2013]
+As was noted above, many electronic instruments, by their immediate relation to engineering and science, lend themselves naturally to an understanding based on representation rather than intuition, which enforces their role as mere tools.
+It is also worth noting in this context that a certain merging of the fields of arts practices and science in general has occurred that makes possible a further critique of Bergsons dichotomy.
+Regardless of the extent to which the field of artistic research have reiterated the importance of the difference between the sciences and the arts, the computer is to a significant degree the tool both fields use.
+In other words, the artistic research lab is not technologically different from that of the science lab and the primary tool for deductive analysis is also the primary tool for much of music production today.[cite:For a more elaborate discussion on this topic, see ;@Tresch2013]
 
-It may include programmers and designers that are disconnected from the performer in both time and space. An electronic instrument that is connected to the internet and that continuously fetches information that influences its output in live performance is a very different thing from an acoustic musical instrument. Especially so if the mapping of the physical input from one or several performers takes place in a hidden layer, disguised from both performers and audience, or even remapped during the course of the performance. What is the embodied relation between such an instrument and its performer that allows for it to be intuited?
+The method of entering into sympathy with a recorded sound and understand it from the /inside/, without getting lost in the various ways that the systems for reproduction extends in space and time is accessible but complex, but when it comes to listening perhaps the question should rather be if /any/ listening can be said to /not/ be carried out from "the inside", using Bergson's terminology?
+There are a number of widespread listening practices, like Pauline Oliveros' /Deep Listening/ method [cite:@oliveros2005] that proposes methods towards this goal, independent of Bergson's notion of intuition.
+With this in mind listening to a technologically mediated sound in a studio, specifically, while in a process of working artistically with sound still provides an interesting mix of modalities that has some impact on the present discussion. It may still be possible to learn something from Bergson's ideas in this context.  
 
-As alluded to above, an argument can be made that for self-playing systems involving some kind of artificial intelligence, the system that rules the musical outcome is much larger than what may be experienced at first. What I see when I start such a program on my computer, what I experience to be the system in play, is just myself and the computer, where in reality it may involve previous input and output, as well as the programmer's various positions and biases. The programmer is concealed in this system, detached in both time and space, which makes it difficult to fully understand their impact. In this sense the electronic musical instrument is a system which is by some degree larger and more elaborate than an acoustic instrument. Furthermore, many electronic instruments, by their immediate relation to engineering and science, lend themselves naturally to an understanding based on analysis rather than intuition, which enforces their role as mere tools.
+Could Bergson's proposed method nevertheless be useful with regard to understanding listening and creativity in the process of composition? As was discussed in the beginning of this paper, one of the challenges in artistic research is to get access to the specific kinds of knowledge that the artistic process generates and makes use of. It appears reasonable to assume that a close relation between a reflective thinking, a Bergsonian method of intuition, in practice within the actual practice as it takes place may help to gain insight about this knowledge.
+In my own experience the deductive methods of analysis previously mentioned and common in the electronic music studio work are not always well suited for these purposes, but may instead disrupt both practice and thinking.
 
-Putting the focus back on the act of listening to a sound in a studio may help to reduce the complexity somewhat. The way it is reproduced is obviously difficult to abstract away, but for the sake of the argument: Is it possible to enter into sympathy with a sound and understand it from the /inside/? There is in fact a few aspects of a sound that requires the listener to be within the /mobility/ of the sound to understand it. Some have to do with the spatiality of sound where there are already at least two categories. (1) Imagine a field recording from a forest. There are sounds of the wind blowing, of birds singing perhaps, a soft noise like background. Moving inside of this sound all of this discrete aspects may be gathered (from analysis), but its particular soundfield character and a perception of the space in which this sound was recorded may be gathered intuitively. Another example is the recorded sound of a car. In this case the sound carries with it information about direction and speed. Both are examples of sonic properties that would be difficult to decipher from an analytical point of view. It offers a multi-dimensional input to the sound.
+Furthermore, there are aspects of a sound that /requires/ the listener to be within the /mobility/ of the sound to understand them. The spatiality of sound can both be purely imagined and highly concrete and it is an aspect of the sound which is very difficult to extract with scientific methods. Imagine a field recording from a forest. It is raining and the dripping water is at the front of the soundscape, but there are other sounds intruding, though they are quite, and it is probably night. As a listener one may move inside of the sound and all of the discrete aspects including its particular spatial character of this sound may be gathered through an intuitive analysis, from within listening.
+The way the sound is experience is a function of what is heard, extracted from the sound itself, but equally importantly is the listeners past experience with being in similar environments listening to the rain at night. Our memories are entangled with our listening in an act of intuition and as listeners, we construct the space and the way it transforms over time.
 
-As an artist I rely heavily on attempting to intuitively understanding the sonic materials I work with. The examples above are specific in the sense that they may be generalised and that they exploit a certain impartial identity. On some basic label it is possible to agree on the sound of the forest being precisely a sound of a forest without specifying which forest. But a sound of two sine waves tuned to an interval that generates a beating pattern, what is the mobility of such a sound? How can I approach this from the inside? Again, the question of what it is I attempt to approach from the inside is raised. Can the sound be understood without also knowing something about /how/ it is produced? I believe that the method of intuition is particularly useful here. The ways in which the object in this case stretches out needs to be considered.
+As a composer working with abstract sound the ability to transform the listening opens up for modes of analysis that are only available here and not with the tools offered by the studio equipment.
+Staging data transformations where one type of sonic gesture is providing information for another gesture in another domain relies on listening practices that are deeply embedded with the compositional intent.
+Sound itself becomes the source for the development of the material.
+As an example, the timbral gesture of an abstract sound may provide information used to develop its spatial movement.[fn:6]
+Access to these layers of the sound is really only available through an intuitive mode of listening.
+From this intuition an analysis can be performed that allows for the discovery of sonic properties that can influence sound synthesis and compositional strategy.
+This, however, does not actually describe access to knowledge other than secondarily.
+As used here the method primarily gives rise to information that guides the artistic process.
 
-The sound is produced in an unnecessarily complicated way beginning with a conceptual idea of the particular kind of beating. To create stability in the process the pitches are notated using a system that I have developed for this purpose. From the notation the sound is created by setting off two oscillators and tuning the pitch by ear, using a physical knob controller until the right beating pattern occurs. It is clear that at this point it is not possible for me to enter into sympathy with the sound only without considering the rest of the process. Yet, it is possible to approach this sound and its context through intuition and explore many things about it, including its spatiality-
 
-* Acknowledgments
-   I wish to thank all the members of /Goodbye Intuition/: Ivar Grydeland,
-Morten Qvenild, Sidsel Endresen and Andrea Neumann as well as David
-Toop and Annie Dorsen, all of whom have contributed to the thoughts
-presented in this article.
+As an improviser and composer I obviously rely heavily on trying to intuitively understand the sonic materials I work with. Listening is the main tool out of many in a large toolbox and for a musician listening is by necessity at certain times different to audience listening.
+A current project I work with departs from a relative simple idea with sonic material derived from fairly basic oscillators to generate sound waves.
+I will shortly describe this work in progress in order to point to a possible way to understand the impact that Bergson's method of intuition may nevertheless have.
+Part of the goal with this particular project is to attempt to introduce a change in an effort to understand what the conditions for electronic music composition were prior to the introduction of digital technology, in particular the computer.[fn:7]
 
+The process may appear unnecessarily complicated departing from a conceptual idea of a particular kind of beating that occurs between pitches in certain (in)harmonic relations, typically between large integer ratios, or where the pitch difference between two pitches is small.
+Sonic effects like the interference that gives rise to beatings, in this case a relatively simple consequence of the superposition of two or more wave forms,[fn:8] shows example of a certain transgression of the sound that may allow for a widened listening experience.
+Beating is when two simple waveforms are tuned to a close proximity of each other and give rise to a beating pattern that was never part of the two original waveforms. As it is described by [cite/text:@helmholtz1954]: a  "new and peculiar phenomena arise which we term interference" .
+There is nothing new about interference in electronic music today. It is widely used in synthesis and processing, but it is interesting in this context because it creates a sonic topology for the listener to navigate. The original sounds are still discernible and the beating adds to this and gives the listener a possibility to navigate the sound in several dimensions. To the composer it may proved other opportunities that can have consequences for how the sound is understood.
+For this composition I derive the relevant intervals by a process where I used a four by four grid with a total of sixteen knobs, each controlling the pitch of sixteen simple waveforms, the frequencies of which are derided from the third, fifth and seventh partials of four fundamentals C, G, D, A.
+Although the beating patterns between two intervals can be easily calculated,[fn:9] the sounding result of the interference is obviously different than the calculation.
+By tuning and detuning these intervals relative to each other according to different tuning principles I settle on a subset of intervals whose beatings have a particularly interesting sound.[fn:10]
+
+To maintain a certain conceptual stability I then notate the intervals, using a system that I have developed and programmed for this purpose,
+The notation, then, is an abstraction of the analysis derived from the intuitive act of listening and tuning.
+The next stage involves a realization of the notation back into sound, which will be performed in a studio environment designed in collaboration with EMS in Stockholm.
+This studio has been equipped with signal generators, filters and a tape recorder, mainly from the 1950's and 60's. In comparison to the digital studio used almost exclusively today, much of this equipment is noisy and inexact.
+Using a reel-to-reel tape recorder I will record one tone at the time onto tape, then play it back and tune a new tone according to the notation until a sonic pattern that fits the ambition is created, and then record that.
+Because of slight errors in the oscillator, inexactness of the tape recorder, and the human factor, this will obviously be an approximation of the exactness of the notation.
+It is only through listening that the acceptable margin of error can be assessed.
+In other words, the "correctness" may only be evaluated from the inside of the sound, not from the system alone and, obviously, to merely set the parameters to the defined values would generate a different result.
+
+It is incontestable that there is an active mode of listening in most compositional practices and I am not proposing that the listening performed in this project is different in nature. 
+Meanwhile, as was the case with saxophone-musician system described above, it is only partly correct to claim that it is only from within the sound that the evaluation can be performed in these various steps of the process.
+The role of the listening in the various stages is connected to, and affected by, the larger system. The notation affects the listening, as does the equipment made to render the sound and the system in which pitches were chosen. This is where Bergson's method of intuition makes sense as a means to understand the artistic epistemology from within. By creating a system within which intuition and play can operate freely that it becomes possible to get an insight to the choices made and the biases that affected them.
+
+
+* Final reflections
+Following this reasoning sound is not a thing, not on object, that we listen to. It is by necessity a system of interrelated threads much larger than the actual sound by itself (if such a thing at all exists). To compose is to attempt to understand the trajectories of this system and each sound heard in this process will be intuited through the internal mobility of this system.
+The method proposed by Bergson is, I believe, both interesting and useful when it comes to artistic practice in music and general practices of listening.
+To point out that listening to music is immersive may appear ubiquitous, but due to the fields of technology and artistic practice in the studio merging together, putting focus back on the attempt to understand the object from within still  has some relevance, so long as what constitutes 'the object' is well considered.
+
+Returning to the question of the epistemological nature of artistic practice in music and what shape and form it may have in the future, the proposed method is clearly not enough in and of itself.
+Although it helps me to understand the material I am working with as well as the in time  process when making decisions about the next steps in the process, the specific knowledge in this practice lies in the ways these decisions are being made, not merely what material is being discovered.
+A process that is certainly informed by intuition, and a process that may well to some extent take place within the intuitive analysis, but it is in the interaction between this, and the decision making /in the reflection upon these results/, that are specific to artistic knowledge in music.
+
+
+
+
+
+* COMMENT Hur binda ihop?
+
+1. Assuming that Bergson is right that the method of intuition is a valid means of perceiving the world--which can obviously be contested[fn:11]--the divide .
+
+From the notation
+the sound is created by setting off two oscillators and tuning the pitch by ear, using a physical knob controller until the right beating pattern occurs. It is clear that at this point it is not possible for me to enter into sympathy with the sound only without considering the rest of the process. Yet, it is possible to approach this sound and its context through intuition and explore many things about it, including its spatiality-
+
+Though in line with some of the thinking about artistic research that was presented above, this is a quite radical proposition. The concept of actually being able to possess the object, or rather, its motion as Bergson will say, in itself makes possible a range of conceptions. But the distinction between the outside and the inside that is alluded to in this attempt to describe Bergson's theory should also be handled with care.
+
+The examples above are specific in the sense that they may be generalised and that they exploit a certain impartial identity.
+On some basic level it is possible to agree on the sound of the rainfall at night being precisely a sound of a forest without specifying which forest, becoming a Saussurian sound-image. But what is the mobility of an abstract sound approached from the inside? Again, the question of what it is I attempt to approach from the inside is raised. Can the sound be understood without also knowing something about /how/ it is produced? I believe that the method of intuition is particularly useful here. 
 * Bibliography
-   \printbibliography
+#+print_bibliography: title: "Bilblio"
 
 * Footnotes
+[fn:6] This is sometimes referred to as audioparity [cite:@Valle2018], or self-audioparity [cite:@Catena2021]. The latter refers to a recursive interaction between parameters of the sound. 'Spatial Sonorous Object' as discussed by [cite/text:@catena2022] is an analytical tool for understanding these possible transformation in a music analytical way.
 
-[fn:7] Structuralism and more specifically post-structuralism thinking has introduced alternate ways of thinking about some of these matters. 
-[fn:3] This paper draws on experiences made in the project Goodbye Intuition, Academy of Music in Oslo 
+[fn:9] The frequency of the beating between two simple tones is derived from subtracting the frequencies of the two tones $f_1-f_2 = b$
+[fn:8] More complex auditory phenomena, like combination tones are discussed by [cite/text:@Aron2023] in the thesis /Phainesthai: Discovering Auditory Processes as a Tool for Musical Composition/ which goes into depth with the artistic possibilities with playing with acoustic phenomena that only occurs through the act of listening. For a description of the difference between combination tones and beatings, [cite/text:@helmholtz1954; p. 159].
+
+[fn:7] This, then, is related both to the discussion earlier that the digital studio has a certain influence on the practice of composition, partly related to the fact that the computer has become a general instrument for which it is increasingly difficult to maintain originality. (in an attempt to change the conditions for the composition process in order to focus on the act of listening.)
+[fn:10] I made a rough sketch for the basic layout of this composition in 1994 but never completed it then.
+
+[fn:11] Structuralism and more specifically post-structuralism thinking has introduced alternate ways of thinking about some of these matters. 
 
 [fn:1] In this case it may be helpful to bring up the terminology of /emic/ and /etic/ commonly used in ethnography and anthropology and other research fields. The /emic/ field research would here relate to the /inside/ perspective of the artistic researcher.
 
-[fn:8] For a critical overview of the broad discussion and use of  Schaeffer's terminology, see [cite/text:@Kane2007].
-[fn:4] Bergson's notion of intuition as a method has been both criticized [cite:@clair1996] and praised [cite:@deleuze88] by many thinkers ever since he first published on the subject, explored affirmatively in post-colonial theory [cite:@Diagne2008] as well as feminist readings [cite:@Tuin2011], and less so in political science [cite:@shklar58_bergs_polit_intuit].
+[fn:12] For a critical overview of the broad discussion and use of  Schaeffer's terminology, see [cite/text:@Kane2007].
 
-[fn:2] For a more complete discussion on this topic, see [cite/text:@frisk-ost13].
+[fn:3] Bergson's notion of intuition as a method has been both criticized [cite:@clair1996] and praised [cite:@deleuze88] by many thinkers ever since he first published on the subject, it has been explored affirmatively in post-colonial theory [cite:@Diagne2008] as well as feminist readings [cite:@Tuin2011].
 
-[fn:5] Intuition. (n.d.). In /Cambridge Dictionary online/. Retrieved from https://dictionary.cambridge.org/dictionary/english/intuition 
+[fn:2] For a broader discussion on this topic, see [cite/text:@frisk-ost13].
 
-[fn:6] As Swedish artist Andreas Gedin has proved, sequential translations of a poem into multiple languages changes does not only offer different nuances but sometimes a completely different expression.
+[fn:4] Intuition. (n.d.). In /Cambridge Dictionary online/. Retrieved from https://dictionary.cambridge.org/dictionary/english/intuition 
 
+[fn:5] As Swedish artist Andreas Gedin has proved, sequential translations of a poem into multiple languages changes does not only offer different nuances but sometimes a completely different expression.
