@@ -4,7 +4,7 @@
 #+LaTeX_HEADER: \hypersetup{linktoc = all, colorlinks = true, urlcolor = DodgerBlue4, citecolor = black, linkcolor = black}
 
 #+begin_src emacs-lisp
-   (set-window-margins (selected-window) 50 70)
+   (set-window-margins (selected-window) 10 10)
     (setq line-spacing 0.7)
   #+end_src
 

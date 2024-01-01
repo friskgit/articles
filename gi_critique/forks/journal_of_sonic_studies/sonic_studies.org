@@ -11,13 +11,13 @@
 
 * COMMENT code
 #+begin_src emacs-lisp
-  (set-window-margins (selected-window) 0
- 0)
-  (setq line-spacing 0.5)
+  (set-window-margins (selected-window) 40
+ 60)
+  (setq line-spacing 0.9)
 #+end_src
 
 #+RESULTS:
-: 0.5
+: 0.9
 
 * COMMENT stuff
  and I only include some of the earlier expressions here to emphasize the how the view of artistic research as a distinct practice from other kinds of research has been important to the development of the field.
@@ -26,7 +26,7 @@
 French theorist Pierre Schaeffer's [cite:@schaeffer77] very influential work taught us how the sound becomes accessible to the listener through the process of reduced listening. A listening process in which the source of the sound is less important than the inherent qualities of the sound. Though this has proven to be an important analytical tool for both electroacoustic music and other genres for almost 75 years
 
 * Introduction
-In the process of engaging with sound in artistic practice, be it a sound installation or a musical composition, or something else, the way one may gain access to the sound is at the same time both completely unproblematic and very enigmatic.
+In the process of working with sound in artistic practice, be it a sound installation or a musical composition, or something else, the way one may gain access to the sound is at the same time both completely unproblematic and very enigmatic.
 A sound is like a compound a various kinds of information.
 It has some source, discernible sonic qualities, it may have a direction and a space, and it may harbour a number of emotions, sometimes several at the same time.
 A sound can be completely metaphysical, imagined as part of a dream, or it can be so physical as it is felt by the entire body.
@@ -199,17 +199,16 @@ Could Bergson's proposed method nevertheless be useful with regard to understand
 In my own experience the deductive methods of analysis previously mentioned and common in the electronic music studio work are not always well suited for these purposes, but may instead disrupt both practice and thinking.
 
 Furthermore, there are aspects of a sound that /requires/ the listener to be within the /mobility/ of the sound to understand them. The spatiality of sound can both be purely imagined and highly concrete and it is an aspect of the sound which is very difficult to extract with scientific methods. Imagine a field recording from a forest. It is raining and the dripping water is at the front of the soundscape, but there are other sounds intruding, though they are quite, and it is probably night. As a listener one may move inside of the sound and all of the discrete aspects including its particular spatial character of this sound may be gathered through an intuitive analysis, from within listening.
-The way the sound is experience is a function of what is heard, extracted from the sound itself, but equally importantly is the listeners past experience with being in similar environments listening to the rain at night. Our memories are entangled with our listening in an act of intuition and as listeners, we construct the space and the way it transforms over time.
+The way the sound is experienced is a function of what is heard, extracted from the sound itself, but equally importantly is the listeners past experience with being in similar environments listening to the rain at night. Our memories are entangled with our listening in an act of intuition and as listeners, we construct the space and the way it transforms over time.
 
 As a composer working with abstract sound the ability to transform the listening opens up for modes of analysis that are only available here and not with the tools offered by the studio equipment.
 Staging data transformations where one type of sonic gesture is providing information for another gesture in another domain relies on listening practices that are deeply embedded with the compositional intent.
 Sound itself becomes the source for the development of the material.
 As an example, the timbral gesture of an abstract sound may provide information used to develop its spatial movement.[fn:6]
 Access to these layers of the sound is really only available through an intuitive mode of listening.
-From this intuition an analysis can be performed that allows for the discovery of sonic properties that can influence sound synthesis and compositional strategy.
+From this intuition an analysis can be performed that allows for the discovery of sonic properties that can influence sound synthesis and compositional strategies.
 This, however, does not actually describe access to knowledge other than secondarily.
 As used here the method primarily gives rise to information that guides the artistic process.
-
 
 As an improviser and composer I obviously rely heavily on trying to intuitively understand the sonic materials I work with. Listening is the main tool out of many in a large toolbox and for a musician listening is by necessity at certain times different to audience listening.
 A current project I work with departs from a relative simple idea with sonic material derived from fairly basic oscillators to generate sound waves.
@@ -219,8 +218,8 @@ Part of the goal with this particular project is to attempt to introduce a chang
 The process may appear unnecessarily complicated departing from a conceptual idea of a particular kind of beating that occurs between pitches in certain (in)harmonic relations, typically between large integer ratios, or where the pitch difference between two pitches is small.
 Sonic effects like the interference that gives rise to beatings, in this case a relatively simple consequence of the superposition of two or more wave forms,[fn:8] shows example of a certain transgression of the sound that may allow for a widened listening experience.
 Beating is when two simple waveforms are tuned to a close proximity of each other and give rise to a beating pattern that was never part of the two original waveforms. As it is described by [cite/text:@helmholtz1954]: a  "new and peculiar phenomena arise which we term interference" .
-There is nothing new about interference in electronic music today. It is widely used in synthesis and processing, but it is interesting in this context because it creates a sonic topology for the listener to navigate. The original sounds are still discernible and the beating adds to this and gives the listener a possibility to navigate the sound in several dimensions. To the composer it may proved other opportunities that can have consequences for how the sound is understood.
-For this composition I derive the relevant intervals by a process where I used a four by four grid with a total of sixteen knobs, each controlling the pitch of sixteen simple waveforms, the frequencies of which are derided from the third, fifth and seventh partials of four fundamentals C, G, D, A.
+There is nothing new about interference in electronic music today. It is widely used in synthesis and processing, but it is interesting in this context because it creates a sonic topology for the listener to navigate. The original sounds are still discernible and the beating adds to this and gives the listener a possibility to navigate the sound in several dimensions. To the composer it may show other opportunities that can have consequences for how the sound is understood.
+For this particular composition I derive the relevant intervals by a process where I used a four by four grid with a total of sixteen knobs, each controlling the pitch of sixteen simple waveforms, the frequencies of which are derided from the third, fifth and seventh partials of four fundamentals C, G, D, A.
 Although the beating patterns between two intervals can be easily calculated,[fn:9] the sounding result of the interference is obviously different than the calculation.
 By tuning and detuning these intervals relative to each other according to different tuning principles I settle on a subset of intervals whose beatings have a particularly interesting sound.[fn:10]
 

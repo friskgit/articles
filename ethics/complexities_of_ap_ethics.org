@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       f6aea3e2-141f-46c2-8757-3fd33f4a0600
 :END:
-#+title: On the complexities ethics in artistic practices
+#+title: On the complexities of ethics in artistic practices
 #+filetags: :ethics:
 #+options: toc:nil num:nil
 #+cite_export: csl ~/Dropbox/Documents/articles/biblio/csl-styles/apa-7th.csl
@@ -11,7 +11,7 @@
 \renewcommand\familydefault{\sfdefault}
 * COMMENT code
 #+begin_src emacs-lisp
-  (set-window-margins (selected-window) 20 40)
+  (set-window-margins (selected-window) 10 10)
   (setq line-spacing 0.7)
 #+end_src
 

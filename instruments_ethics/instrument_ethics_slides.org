@@ -43,24 +43,58 @@
 
 #+MACRO: color @@html:<font color="$1">$2</font>@@
 
+* COMMENT Tree slide settings
+#+begin_src emacs-lisp
+  (when (require 'org-tree-slide nil t)
+    (setq org-tree-slide-skip-comments 'inherit)
+    (setq org-tree-slide-skip-done nil)
+    (require 'org-tree-slide-pauses)
+    (setq org-image-actual-width nil)
+    (setq org-tree-slide-content-margin-top 5)
+    )
+
+  ;; For a light theme
+  ;;  (load-theme 'tango t)
+  ;; (custom-set-faces
+  ;;  '(org-quote ((t (:inherit org-block :background "white smoke"))))
+  ;;  '(org-tree-slide-header-overlay-face ((t (:inherit default))))
+  ;;  '(shadow ((t (:foreground "gainsboro"))))
+  ;;  )
+#+end_src
+
+#+RESULTS:
+: 5
+
+#+begin_src emacs-lisp
+  (set-window-margins (selected-window) 10 10)
+  (setq line-spacing 0.5)
+  ;;  (text-scale-increase 1)
+  (setq org-fontify-emphasized-text 1)
+  (setq org-format-latex-options (plist-put org-format-latex-options :scale 1.0))
+#+end_src
+
+#+RESULTS:
+| :foreground | default | :background | default | :scale | 1.0 | :html-foreground | Black | :html-background | Transparent | :html-scale | 1.0 | :matchers | (begin $1 $ $$ \( \[) |
+
+
 
 * Historically informed design of sound synthesis
- :PROPERTIES:
- :reveal_background: /Users/henrik_frisk/Documents/articles/instruments_ethics/img/DATATON-01.png
- :reveal_background_trans: slide
- :END:
+:PROPERTIES:
+:reveal_background: /Users/henrik_frisk/Documents/articles/instruments_ethics/img/DATATON-01.png
+:reveal_background_trans: slide
+:END:
 /A multidisciplinary, structured approach to the digitisation and exploration of electronic music heritage/
 
 * Historically informed sound synthesis
 
 A collection of electronic instruments [1] used by composers in Sweden during the 1960's and 70's collected by the Swedish Performing Arts Agency (Musikverket) and archived by the Performing Arts Museum (Scenkonstmuseet).
 
-* 
- :PROPERTIES:
- :reveal_background: /Users/henrik_frisk/Documents/articles/instruments_ethics/img/DATATON-02.JPG
- :reveal_background_trans: slide
- :END:
-
+** 
+:PROPERTIES:
+:reveal_background: /Users/henrik_frisk/Documents/articles/instruments_ethics/img/DATATON-02.JPG
+:reveal_background_trans: slide
+:END:
+ 
 * Toward a new Organology
 
 "from a flexible variety of possible control configurations, the synthesizer eventually stabilised into a keyboard instrument"
@@ -68,10 +102,10 @@ A collection of electronic instruments [1] used by composers in Sweden during th
 [cite:@Tresch2013]
 
 * 
- :PROPERTIES:
- :reveal_background: /Users/henrik_frisk/Documents/articles/instruments_ethics/img/DATATON-02.JPG
- :reveal_background_trans: slide
- :END:
+:PROPERTIES:
+:reveal_background: /Users/henrik_frisk/Documents/articles/instruments_ethics/img/DATATON-02.JPG
+:reveal_background_trans: slide
+:END:
 
  
 * Rendez-Vous
@@ -79,10 +113,10 @@ A collection of electronic instruments [1] used by composers in Sweden during th
 Karl Erik Welin: /Rendez-Vous 1963/ by Théodore E Libèr
 
 * 
- :PROPERTIES:
- :reveal_background: /Users/henrik_frisk/Documents/articles/instruments_ethics/img/DATATON-02.JPG
- :reveal_background_trans: slide
- :END:
+:PROPERTIES:
+:reveal_background: /Users/henrik_frisk/Documents/articles/instruments_ethics/img/DATATON-02.JPG
+:reveal_background_trans: slide
+:END:
 
 
 * Foucault: /Practices of freedom/
@@ -97,17 +131,17 @@ When you take care of the body you do not take care of the self. The self is not
 
 
 * Ethical specificitites
- :PROPERTIES:
- :reveal_background: /Users/henrik_frisk/Documents/articles/instruments_ethics/img/DATATON-01.png
- :reveal_background_trans: slide
- :END:
+:PROPERTIES:
+:reveal_background: /Users/henrik_frisk/Documents/articles/instruments_ethics/img/DATATON-01.png
+:reveal_background_trans: slide
+:END:
 
 * Analytical perspective
 #+ATTR_REVEAL: :frag (appear)
 - The object in an of itself
 - The situation when a musician engages with object
 * 
- :PROPERTIES:
- :reveal_background: /Users/henrik_frisk/Documents/articles/instruments_ethics/img/DATATON-02.JPG
- :reveal_background_trans: slide
- :END:
+:PROPERTIES:
+:reveal_background: /Users/henrik_frisk/Documents/articles/instruments_ethics/img/DATATON-02.JPG
+:reveal_background_trans: slide
+:END:

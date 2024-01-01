@@ -45,11 +45,11 @@ Flytta senare
 
 ** (in an attempt to change the conditions for the composition process in order to focus on the act of listening.)
 :PROPERTIES:
-:org-remark-beg: 41386
-:org-remark-end: 41497
+:org-remark-beg: 41388
+:org-remark-end: 41499
 :org-remark-id: 91e8b5ee
 :org-remark-label: nil
-:org-remark-link: [[file:sonic_studies.org::281]]
+:org-remark-link: [[file:sonic_studies.org::278]]
 :END:
 
 ** In Bergson's description of the two profoundly different ways of knowing a thing, what he calls absolute /absolute/ knowledge from the inside has some resonance with the arguments for the need of artistic research.
@@ -58,6 +58,56 @@ Flytta senare
 
 ** This, however, does not actually describe access to knowledge other than secondarily. The method gives rise to information that guides the artistic process but what is the knowledge produced here?
 
+** Imagine a field recording from a forest.
+:PROPERTIES:
+:org-remark-id: 821ec3b2
+:org-remark-label: nil
+:org-remark-beg: 29188
+:org-remark-end: 29228
+:org-remark-link: [[file:sonic_studies.org::201]]
+:org-remark-original-text: Imagine a field recording from a forest.
+:END:
+Insert example of field recording
+**  the timbral gesture of an abstract sound may provide information used to develop its spatial movement
+:PROPERTIES:
+:org-remark-id: aba29ad4
+:org-remark-label: nil
+:org-remark-beg: 30454
+:org-remark-end: 30556
+:org-remark-link: [[file:sonic_studies.org::207]]
+:org-remark-original-text: the timbral gesture of an abstract sound may provide information used to develop its spatial movement
+:END:
+Add sound example of a typical sonic gesture that implies spatiality and spatial movement.
+** By tuning and detuning these intervals relative to each other according to different tuning principles I settle on a subset of intervals whose beatings have a particularly interesting sound
+:PROPERTIES:
+:org-remark-id: 0c4f8375
+:org-remark-label: nil
+:org-remark-beg: 33641
+:org-remark-end: 33830
+:org-remark-link: [[file:sonic_studies.org::224]]
+:org-remark-original-text: By tuning and detuning these intervals relative to each other according to different tuning principles I settle on a subset of intervals whose beatings have a particularly interesting sound
+:END:
+Add sound example of beating patterns and tuning. Add notation?
+** To maintain a certain conceptual stability I then notate the intervals, using a system that I have developed and programmed for this purpose,
+:PROPERTIES:
+:org-remark-id: 0ad87f83
+:org-remark-label: nil
+:org-remark-beg: 33840
+:org-remark-end: 33981
+:org-remark-link: [[file:sonic_studies.org::226]]
+:org-remark-original-text: To maintain a certain conceptual stability I then notate the intervals, using a system that I have developed and programmed for this purpose,
+:END:
+Add notation
+** Can the sound be understood without also knowing something about /how/ it is produced? I believe that the method of intuition is particularly useful here. 
+:PROPERTIES:
+:org-remark-id: edb49805
+:org-remark-label: nil
+:org-remark-beg: 39323
+:org-remark-end: 39478
+:org-remark-link: [[file:sonic_studies.org::263]]
+:org-remark-original-text: Can the sound be understood without also knowing something about /how/ it is produced? I believe that the method of intuition is particularly useful here.
+:END:
+The fact that our bodies are similarily constructud, whith an oval shaped head and two hears on opposite sides we experience certain properties of sound in a similarl ways. Even if these sonic impressions are subjective they may be intuited by the listening subject in a way that makes the other's experience of them understandable.
 * 
 :PROPERTIES:
 :org-remark-file: sonic_studies_test.org
