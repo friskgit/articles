@@ -45,11 +45,11 @@ Flytta senare
 
 ** (in an attempt to change the conditions for the composition process in order to focus on the act of listening.)
 :PROPERTIES:
-:org-remark-beg: 41388
-:org-remark-end: 41499
+:org-remark-beg: 47333
+:org-remark-end: 47444
 :org-remark-id: 91e8b5ee
 :org-remark-label: nil
-:org-remark-link: [[file:sonic_studies.org::278]]
+:org-remark-link: [[file:sonic_studies.org::316]]
 :END:
 
 ** In Bergson's description of the two profoundly different ways of knowing a thing, what he calls absolute /absolute/ knowledge from the inside has some resonance with the arguments for the need of artistic research.
@@ -62,9 +62,9 @@ Flytta senare
 :PROPERTIES:
 :org-remark-id: 821ec3b2
 :org-remark-label: nil
-:org-remark-beg: 29188
-:org-remark-end: 29228
-:org-remark-link: [[file:sonic_studies.org::201]]
+:org-remark-beg: 35052
+:org-remark-end: 35092
+:org-remark-link: [[file:sonic_studies.org::235]]
 :org-remark-original-text: Imagine a field recording from a forest.
 :END:
 Insert example of field recording
@@ -72,9 +72,9 @@ Insert example of field recording
 :PROPERTIES:
 :org-remark-id: aba29ad4
 :org-remark-label: nil
-:org-remark-beg: 30454
-:org-remark-end: 30556
-:org-remark-link: [[file:sonic_studies.org::207]]
+:org-remark-beg: 36922
+:org-remark-end: 37023
+:org-remark-link: [[file:sonic_studies.org::246]]
 :org-remark-original-text: the timbral gesture of an abstract sound may provide information used to develop its spatial movement
 :END:
 Add sound example of a typical sonic gesture that implies spatiality and spatial movement.
@@ -82,9 +82,9 @@ Add sound example of a typical sonic gesture that implies spatiality and spatial
 :PROPERTIES:
 :org-remark-id: 0c4f8375
 :org-remark-label: nil
-:org-remark-beg: 33641
-:org-remark-end: 33830
-:org-remark-link: [[file:sonic_studies.org::224]]
+:org-remark-beg: 40147
+:org-remark-end: 40336
+:org-remark-link: [[file:sonic_studies.org::264]]
 :org-remark-original-text: By tuning and detuning these intervals relative to each other according to different tuning principles I settle on a subset of intervals whose beatings have a particularly interesting sound
 :END:
 Add sound example of beating patterns and tuning. Add notation?
@@ -92,9 +92,9 @@ Add sound example of beating patterns and tuning. Add notation?
 :PROPERTIES:
 :org-remark-id: 0ad87f83
 :org-remark-label: nil
-:org-remark-beg: 33840
-:org-remark-end: 33981
-:org-remark-link: [[file:sonic_studies.org::226]]
+:org-remark-beg: 40346
+:org-remark-end: 40487
+:org-remark-link: [[file:sonic_studies.org::266]]
 :org-remark-original-text: To maintain a certain conceptual stability I then notate the intervals, using a system that I have developed and programmed for this purpose,
 :END:
 Add notation
@@ -102,12 +102,104 @@ Add notation
 :PROPERTIES:
 :org-remark-id: edb49805
 :org-remark-label: nil
-:org-remark-beg: 39323
-:org-remark-end: 39478
-:org-remark-link: [[file:sonic_studies.org::263]]
+:org-remark-beg: 44501
+:org-remark-end: 44656
+:org-remark-link: [[file:sonic_studies.org::298]]
 :org-remark-original-text: Can the sound be understood without also knowing something about /how/ it is produced? I believe that the method of intuition is particularly useful here.
 :END:
 The fact that our bodies are similarily constructud, whith an oval shaped head and two hears on opposite sides we experience certain properties of sound in a similarl ways. Even if these sonic impressions are subjective they may be intuited by the listening subject in a way that makes the other's experience of them understandable.
+** The studies are presented at the end of the paper.
+:PROPERTIES:
+:org-remark-id: 655e8409
+:org-remark-label: nil
+:org-remark-beg: 4014
+:org-remark-end: 4064
+:org-remark-link: [[file:sonic_studies.org::44]]
+:org-remark-original-text: The studies are presented at the end of the paper.
+:END:
+
+** As a composer working with abstract sound the
+:PROPERTIES:
+:org-remark-id: e6788d70
+:org-remark-label: nil
+:org-remark-beg: 36466
+:org-remark-end: 36504
+:org-remark-link: [[file:sonic_studies.org::243]]
+:org-remark-original-text: As a composer working with abstract sound the
+:END:
+Fixa defintiion enl peer 2
+** As an improviser and composer I obviously 
+:PROPERTIES:
+:org-remark-id: 104fec72
+:org-remark-label: nil
+:org-remark-beg: 37505
+:org-remark-end: 37546
+:org-remark-link: [[file:sonic_studies.org::252]]
+:org-remark-original-text: As an improviser and composer I obviously
+:END:
+Fixa enl peer 2
+** What I see when I start an application on my computer, what I experience to be the system in play, is just myself and the computer, where in reality it may involve previous input and output, as various positions and biases.
+:PROPERTIES:
+:org-remark-id: 5ee79faf
+:org-remark-label: nil
+:org-remark-beg: 29911
+:org-remark-end: 30134
+:org-remark-link: [[file:sonic_studies.org::209]]
+:org-remark-original-text: What I see when I start an application on my computer, what I experience to be the system in play, is just myself and the computer, where in reality it may involve previous input and output, as various positions and biases.
+:END:
+Work out this paragraph according to peer 1 comment "section starting on p7"
+** To understand intuition in a Bergsonian way it may also be necessary to contrast it with other uses and definitions of intuition.
+:PROPERTIES:
+:org-remark-id: 5f003d39
+:org-remark-label: nil
+:org-remark-beg: 15261
+:org-remark-end: 15390
+:org-remark-link: [[file:sonic_studies.org::117]]
+:org-remark-original-text: To understand intuition in a Bergsonian way it may also be necessary to contrast it with other uses and definitions of intuition.
+:END:
+Remove, rephrse
+** definitions
+:PROPERTIES:
+:org-remark-id: fda5335c
+:org-remark-label: nil
+:org-remark-beg: 15365
+:org-remark-end: 15376
+:org-remark-link: [[file:sonic_studies.org::117]]
+:org-remark-original-text: definitions
+:END:
+
+**  that makes possible a further critique of Bergson's division between analysis and intuition.
+:PROPERTIES:
+:org-remark-id: 496c56f2
+:org-remark-label: nil
+:org-remark-beg: 31389
+:org-remark-end: 31481
+:org-remark-link: [[file:sonic_studies.org::219]]
+:org-remark-original-text: that makes possible a further critique of Bergson's division between analysis and intuition.
+:END:
+Remove? No, fixed!
+**  Using the method of intuition it may still be possible to learn something in this context. 
+:PROPERTIES:
+:org-remark-id: 10ce591a
+:org-remark-label: nil
+:org-remark-beg: 33608
+:org-remark-end: 33700
+:org-remark-link: [[file:sonic_studies.org::229]]
+:org-remark-original-text: Using the method of intuition it may still be possible to learn something in this context.
+:END:
+Delete?
+
+** Beating is when two waveforms whose frequencies are tuned to a close proximity of each other and give rise to a beating pattern that was never part of the two original waveforms. 
+:PROPERTIES:
+:org-remark-id: 0bef9cc2
+:org-remark-label: nil
+:org-remark-beg: 39102
+:org-remark-end: 39280
+:org-remark-link: [[file:sonic_studies.org::260]]
+:org-remark-original-text: Beating is when two waveforms whose frequencies are tuned to a close proximity of each other and give rise to a beating pattern that was never part of the two original waveforms.
+:END:
+Delete?
+
 * 
 :PROPERTIES:
 :org-remark-file: sonic_studies_test.org
