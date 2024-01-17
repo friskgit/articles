@@ -1,0 +1,55 @@
+
+* instrument_ethics
+:PROPERTIES:
+:org-remark-file: instrument_ethics.org
+:END:
+
+** One of the challenges in this process is to identify and categorize the instrument in and of themselves, not as objects of nostalgia or as objects with which contemporary ideas and trends are exploited, but instead attempt to learn from them departing from what they meant in the cultural, social and political conditions of their own time. Not because this method should be better than any other, but because we are interested in what may have been lost in the transformation of electronic music from an experimental practice to one with also a strong commercial dimension. Based on the heritage research methodology [cite:@lundberg2015] that we have chosen we explore the possibility of a historically informed performance practice and explore this as a vehicle for artistic expression informed by possibly previously hidden features of the historic instrument. One of the instruments we have approached in this way is the /Dataton 3000/, a modular synthesizer and audio mixer designed in Sweden in the 1970's. To attempt to understand the qualities and the particularity of this instrument a wide range of parameters need to be considered commonly related to the context in which it was originally created. Should this analysis not be successful there is a risk that either the instrument's proper affordances are misunderstood, or that one ends up recreating what has already been done with it, or both.
+
+Used
+
+** What enables using ethics in this way is based on the fact that instruments have agency and is further rooted in a relational ontology in which the instrument are a part. The heritage process that we already use implies that these objects have agency, and that it is of importance.
+Used
+
+** Based on the heritage research methodology we had chosen to promote the possibility of a historically informed performance with the instruments themselves, or re-enactments of them, the challenge remains to address existing biases within artist and engineering communities.
+
+** The particular situation that will be examined in this paper, however, is the case of electronic instruments that are. . There is a twofold ambition with this work.  
+
+** Needless to say, most musical instrument are associated with a style or cultural context even if some, such as the piano, have multiple associations. Equally superfluous to point out is that any musical instrument can be used in a wide range of situations completely independent of its origin. One extreme example is Swedish organist and pianist Karl Erik Welin who in his last piano recital in 1964 performs /Rendez-Vous 1963/ by Théodore E Libèr [cite:@wiggen1964] in which he dismantles a piano by means of a chain saw. Nevertheless, even this radical way of "playing" the piano relies on the instrument's history and the fact that a piano has a series of cultural connotations. With electronic instruments, in particular those that are not actively played anymore, finding out the particular associations the instrument provides may be a difficult task. Part of the reason here is the fact that there is a technological sphere with which the instrument is associated, apart from the purely musical. If the instrument is not actively used anymore the gap between these various contexts of the instrument may have grown quite significantly. One such example is the Dataton, the functionality of which is described in [cite/text/c:@Frisk2021a]. 
+
+The particular situation that will be examined in this paper, however, is the case of electronic instruments that are. . There is a twofold ambition with this work.  
+
+The study of Western music has somehow relied on a continuity that makes it possible to trace the developments that commonly takes time. Haydn left a mark on Beethoven that he developed and Mahler and Wagner continued and so forth. These particular kinds of trajectories, in this case specific but not unique to Western art music, is well documented and studied despite often stretching over centuries. The transformations increased in speed in the twentieth century though there are notable exceptions to be found such as Conlon Nancarrow and Harry Partch. With the introduction of electronic instruments that started in the late 19th century but gained new strength following the technological optimism and economic growth in the post war era the situation changed.
+
+** One of the challenges in this process is to identify and categorize the instrument in and of themselves, not as objects of nostalgia or as objects with which contemporary ideas and trends are exploited, but instead attempt to learn from them departing from what they meant in the cultural, social and political conditions of their own time. Not because this method should be better than any other, but because we are interested in what may have been lost in the transformation of electronic music from an experimental practice to one with also a strong commercial dimension. Based on the heritage research methodology [cite:@lundberg2015] that we have chosen we explore the possibility of a historically informed performance practice and explore this as a vehicle for artistic expression informed by possibly previously hidden features of the historic instrument. One of the instruments we have approached in this way is the /Dataton 3000/, a modular synthesizer and audio mixer designed in Sweden in the 1970's. To attempt to understand the qualities and the particularity of this instrument a wide range of parameters need to be considered commonly related to the context in which it was originally created. Should this analysis not be successful there is a risk that either the instrument's proper affordances are misunderstood, or that one ends up recreating what has already been done with it, or both.
+
+
+
+* 
+:PROPERTIES:
+:org-remark-file: instrument_ethics_presentation.org
+:END:
+
+**  One such example is the Dataton. ( the functionality of which is described in [cite/text/c:@Frisk2021a]. )
+:PROPERTIES:
+:org-remark-beg: 5463
+:org-remark-end: 5570
+:org-remark-id: 0eb968ca
+:org-remark-label: nil
+:org-remark-link: [[file:instrument_ethics_tallinn_presentation.org::28]]
+:END:
+
+* instrument_ethics_tallinn_presentation
+:PROPERTIES:
+:org-remark-file: instrument_ethics_tallinn_presentation.org
+:END:
+
+** but it rather proposes how one may understand something one already does.
+:PROPERTIES:
+:org-remark-id: 57640374
+:org-remark-label: nil
+:org-remark-beg: 9751
+:org-remark-end: 9824
+:org-remark-link: [[file:instrument_ethics_tallinn_presentation.org::48]]
+:org-remark-original-text: but it rather proposes how one may understand something one already does.
+:END:

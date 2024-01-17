@@ -1,0 +1,388 @@
+#+TITLE:     Exploring electronic music heritage
+#+SUBTITLE: through ethics and improvisation
+#+EMAIL:    henrik.frisk@kmh.se
+#+NAME: Henrik Frisk
+#+DATE: November 22, 2023
+#+DESCRIPTION:
+#+STARTUP: indent
+#+STARTUP: overview
+#+KEYWORDS: teaching, composition
+#+LANGUAGE: en
+#+OPTIONS: toc:nil num:nil
+
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+
+#+REVEAL_INIT_OPTIONS: width:1200, height:800, controlsLayout: 'edges'
+#+REVEAL_THEME: black
+#+REVEAL_TRANS: fade
+#+REVEAL_TITLE_SLIDE: <h1>%t</h1><h3>%s</h3><p>%d</p><p>%a - %e</p>
+#+REVEAL_TITLE_SLIDE_BACKGROUND: ./img/kmh-white2.png
+#+REVEAL_TITLE_SLIDE_BACKGROUND_SIZE: 1600px
+#+REVEAL_TITLE_SLIDE_BACKGROUND_REPEAT: 
+#+REVEAL_SLIDE_FOOTER:
+#+REVEAL_MARGIN: 0.1
+
+# title slide background
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND:
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND_SIZE:
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND_POSITION:
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND_REPEAT:
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND_TRANSITION:
+
+# Change the MIN_SCALE to make the presentation fit in a smaller window. 
+# See also the script at the bottom of the generated file
+
+#+REVEAL_MIN_SCALE: 0.2
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_HLEVEL: 1
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Slide presentation.">
+#+REVEAL_POSTAMBLE: <p> Henrik Frisk </p>
+#+REVEAL_PLUGINS: (markdown notes)
+# #+REVEAL_DEFAULT_FRAG_STYLE: fade-out
+#+REVEAL_EXTRA_CSS: ./local.css
+
+#+MACRO: color @@html:<font color="$1">$2</font>@@
+
+# @@html:<p style="font-size:60% !important; text-align: right !important;"></p>@@
+
+* COMMENT Tree slide settings
+#+begin_src emacs-lisp
+  (when (require 'org-tree-slide nil t)
+    (setq org-tree-slide-skip-comments 'inherit)
+    (setq org-tree-slide-skip-done nil)
+    (require 'org-tree-slide-pauses)
+    (setq org-image-actual-width nil)
+    (setq org-tree-slide-content-margin-top 5)
+    )
+
+  ;; For a light theme
+;;    (load-theme 'tango t)
+   (custom-set-faces
+;;    '(org-quote ((t (:inherit org-block :background "white smoke"))))
+    '(org-tree-slide-header-overlay-face ((t (:inherit default))))
+ ;;   '(shadow ((t (:foreground "gainsboro"))))
+    )
+#+end_src
+
+#+RESULTS:
+
+#+begin_src emacs-lisp
+  (set-window-margins (selected-window) 40 40)
+  (setq line-spacing 0.5)
+  ;; (text-scale-increase 1)
+  (setq org-fontify-emphasized-text 1)
+  (setq org-format-latex-options (plist-put org-format-latex-options :scale 1.0))
+;;  (set-frame-font "Helvetica 12" nil t)
+#+end_src
+
+#+RESULTS:
+| :foreground | default | :background | default | :scale | 1.0 | :html-foreground | Black | :html-background | Transparent | :html-scale | 1.0 | :matchers | (begin $1 $ $$ \( \[) |
+
+* Main
+#+ATTR_ORG: :width 800
+[[file:img/DATATON-01.png]]
+* Historically informed design of sound synthesis
+A multidisciplinary, structured approach to the digitisation and exploration of electronic music heritage
+#+ATTR_HTML: :width 600
+[[file:img/DATATON-02.JPG]]
+
+* Historically informed sound synthesis
+
+A collection of electronic instruments used by composers in Sweden during the 1960's and 70's collected by the Swedish Performing Arts Agency (Musikverket) and archived by the Performing Arts Museum (Scenkonstmuseet).
+
+
+* Improvisation as a method
+
+#+ATTR_REVEAL: :frag (appear)
+- for understanding these systems
+- ethics as a means to navigate the complex interrelations that are embedded.
+
+Michel Foucault's volume 3 of his /History of Sexuality/.
+
+* TODO Technological development
+#+ATTR_REVEAL: :frag (appear)
+- increasing rate of development
+- turning even new objects incompatible
+- what is lost in the process?
+* Examine cultural heritage
+#+ATTR_REVEAL: :frag (appear)
+- examine without conceptually dismantling the uniqueness
+- identify and categorize instruments in and of themselves,
+  #+ATTR_REVEAL: :frag (appear)
+  - not as objects of nostalgia nor as
+  - objects with which contemporary ideas and trends are exploited
+
+* Examine cultural heritage
+#+ATTR_REVEAL: :frag (appear)
+- attempt to approach them with taking into account their cultural, social and political affordances.
+- historically informed performances and re-enactments made possible
+- identify existing biases
+
+* Historically informed performance practice
+#+ATTR_REVEAL: :frag (appear)
+- may reveal hidden features
+- one in which improvisation participates in altering the practice
+- and the practice is being altered
+
+** The Dataton
+:PROPERTIES:
+:reveal_background: /Users/henrik_frisk/Documents/articles/instruments_ethics/img/DATATON-01.png
+:reveal_background_trans: slide
+:END:
+#+ATTR_REVEAL: :frag (appear)
+- to understand the qualities of this instrument a wide range of parameters need to be considered
+- else there is a risk that the instrument's proper qualities are misunderstood
+- else that one ends up recreating what has already been done with it
+- or both
+
+However, exactly how it will be possible to determine this is not obvious
+
+** Inventive design forgotten?
+
+#+begin_quote
+from a flexible variety of possible control configurations, the synthesizer eventually stabilised into a keyboard instrument
+#+end_quote
+@@html:<p style="font-size:60% !important; text-align: right !important;">Pinch & Trocco (1998) The social construction of the early electronic music synthesizer, Icon.
+</p>@@
+
+#+ATTR_REVEAL: :frag (appear)
+- standardization and market forces excludes unsuccessful features
+- on one particular functionality determines the future development
+
+* Toward a new Organology
+
+An attempt to understand an instrument should include:
+#+ATTR_REVEAL: :frag (appear)
+- its design and functionality
+- whatever agency it has or had
+- what kind of music was meant to be played on this instrument.
+
+Compare a cembalo with a sampler playing a cembalo sound
+
+* Every instrument has context
+
+Swedish organist and pianist Karl Erik Welin playing /Rendez-Vous 1963/ by Théodore E Libèr
+
+He dismantles a piano with a chain saw - but even this way of "playing" the piano relies on the instrument's history and context
+
+  @@html:<p style="font-size:60% !important; text-align: right !important;">Wiggen (1972) De två musikkulturerna, Sveriges Radio.</p>@@
+
+* With electronic instruments it may be harder
+
+Finding out the particular associations the instrument provides may be difficult.
+#+ATTR_REVEAL: :frag (appear)
+- musical
+- technical
+- the growing gap between them
+
+@@html:<p style="font-size:60% !important; text-align: right !important;">Dataton is a good example (see Holzer, Holzapfel & Frisk (2021) Sounds of Futures Passed: Media Archaeology and Design Fiction as NIME Methodologies)</p>@@
+
+* The continuity/discontinuity of Western music
+#+ATTR_REVEAL: :frag (appear)
+- a slow development, from composer to composer
+- many hidden layers (instrument builders, musicians, editors are often neglected)
+- increasing speed in the 20th Century
+- with the introduction of electronic instruments: it's a mess
+
+  @@html:<p style="font-size:60% !important; text-align: right !important;">(Transformations: study of cultural traditions in constant change)</p>@@
+
+* What is the difference then?
+
+What is the difference between the traditional method for musical interpretation and the excavation of the technological and cultural significances of a particular electronic musical instrument of the past?
+
+Isn't it just the same thing?
+
+@@html:<p style="font-size:60% !important; text-align: right !important;">(see Roland Barthes in the famous essay /The death of the Author/)</p>@@
+
+* The object is not the primary interest (musicology)
+
+It could be: /There is nothing outside of the object/ to paraphrase Derrida. The object can tell os a great many things.
+* The art work is not the primary interest (exploration of music history)
+
+Nor is my sole interest an artistically driven project where the end goal is a /work/
+
+- at the centre of the /work/ there is an author
+
+* The interactions are the primary interest
+
+It is the interactions that are made possible by engaging in an artistically driven play with the objects:
+ - a free play with no particular meaning
+
+ In this free play I can engage with certain questions in a way that would otherwise not have been possible. Improvisation is part of the method that allows me to do this.
+
+* The difference
+
+between the musicological model and the historically informed exploration of a electronic music heritage:
+
+first has an origin (the composer) and the second supports a network of relations that includes an originator but does not necessarily privilege them
+
+* A network of relations
+#+ATTR_REVEAL: :frag (appear)
+- is not normative
+- proposes how one may understand something one already does
+
+The added value: it opens up for an expanded ethical dimension of artistic practices
+
+* Foucault: /Practices of freedom/
+
+It is a particular development between self and others that is at the core, similar to Foucault's notion of the /care of the self/, a self that is rooted in "practices of freedom" 
+
+** practices of freedom
+#+begin_quote
+Freedom is the ontological condition of ethics. But ethics is the considered form that freedom takes when it is informed by reflection
+#+end_quote
+
+@@html:<p style="font-size:60% !important; text-align: right !important;">Foucault, Rabinow & Hurley (1997) Ethics: Subjectivity and Truth, New Press, New York.
+</p>@@
+
+** ethics, freedom and refletion
+Foucault further makes possible an artistic evaluation of the investigation of old instruments:
+
+#+begin_quote
+Freedom is the ontological condition of ethics. But ethics is the considered form that freedom takes when it is informed by reflection.
+#+end_quote
+
+@@html:<p style="font-size:60% !important; text-align: right !important;">Foucault, Rabinow & Hurley (1997) Ethics: Subjectivity and Truth, New Press, New York.
+</p>@@
+
+** conclusion
+As long as I care about the relation between myself and the instrument, and the instruments relation to its context, I can be free to follow my artistic and ethically informed intentions, and these will develop into a sort of freedomm in and of themselves.
+ 
+* Ethics of instruments?
+
+The concept of an /ethics of instruments/ is explored by Tresch & Dolan
+
+* Ethics of instruments?
+They derive from Foucault's technologies of the self, the:
+
+#+ATTR_REVEAL: :frag (appear)
+1. ontology
+2. deontology
+3. ascetis
+4. teleology of ethical relations.
+
+* Ethics of instruments?
+/The care of the self is rather the activity of which these elements are a part./
+
+* The care of the self as practice
+
+The care of the self is not a solipsitic activity that is focused on ones physical body or individuality
+
+* The care of the self
+#+begin_quote
+When you take care of the body you do not take care of the self. The self is not clothing, tools, or possessions; It is to be found in the principle that uses these tools, a principle not of the body of the soul. You have to worry about your soul--that is the principal activity for caring for yourself. The care of the self is the care of the activity and not the care of the soul-as-substance.
+#+end_quote
+
+* The care of the self as practice
+The principle that uses the tools of artistic practice is in essence the aesthetics of the creative act: the practice itself.
+
+* The care of the self: focus on the world around me
+#+ATTR_REVEAL: :frag (appear)
+- connections exist, matter, and need to be good and respectful
+- a developed sense of ethics through a deep understanding for the relations I'm engaged in
+- paves the way for a artistic knowledge claim
+- through these connections significant knowledge is developed
+  
+* Ethical specificitites (Tresch and Dolan)
+
+The idea of an /ethics of instruments/ is leaning on the notion that the material aspects, mediations and the telos of an instrument can provide grounds for an analysis of its /ethics/.
+
+It may appear odd to speak of ethics in relation to dead objects when not even alive objects are ethically treated
+
+* Ethical specificitites (Tresch and Dolan)
+Their main interest here is to use their framework to study historical instruments, both musical and scientific
+
+Main ideas:
+#+ATTR_REVEAL: :frag (appear)
+- ethics guides the pursuit of knowledge
+- understandings of the self are part of the knowledge formation
+
+* Improvisation develops networks
+#+ATTR_REVEAL: :frag (appear)
+- the various parts of the system are interrogated in a playful manner
+- the moral values that are expressed through artistic practices in music, specifically improvisation, may complement traditional views on ethics
+- the idea that enables using ethics in this way is based on the fact that instruments have agency
+- rooted in a relational ontology
+  
+* Epistemic virtues
+#+ATTR_REVEAL: :frag (appear)
+- Tresch and Dolan propose that this agency also extends to the epistemic virtues that "have guided the pursuit of knowledge"
+- instruments by necessity partake in the development of knowledge but together the parts create a form of life where a relation between all aspects of this epistemic system take part.
+- Again, related to Foucault Foucault's thinking who depicted an ontological difference between knowledge of the self and care of the self, and between the care of the self and ethics.
+
+* An ethics of instruments again
+#+ATTR_REVEAL: :frag (appear)
+- instrument is anthropomorphized in the process of considering its ethics
+- even though the instrument has agency, on the surface level it still lacks the will and the freedom that a human possesses
+- an objection situated in a dualist view of the world, but traditional laws of causality enforce this view.
+ 
+* Distinct views of the instrument
+** 1. the object in an of itself
+#+ATTR_REVEAL: :frag (appear)
+- observable properties and interfaces
+- it is a musical instrument
+- it is playable
+- it belongs to a historic era
+
+There is a state but no process
+
+** 2. the object is part of an epistemic network
+#+ATTR_REVEAL: :frag (appear)
+- the interface allows for something
+- strong causality
+- player has control
+
+The causal relations in this network are contributing to both the knowledge in the system and to its output
+
+* Distinct systems and views
+
+The second is where knowledge may be developed as a result of the developing relations and that whatever knowledge there is rests on the ethics of these relations.
+
+* Is there an ethics of instruments
+#+ATTR_REVEAL: :frag (appear)
+- focus instead  on the /usefulness/ of an ethical perspective of the instrument
+- between a musician and a /Dataton/ module it would be fair to say that the ethics of the human extends to the instrument
+- this alters the possibilities of both musician and instrument
+- makes the ethics of the situation useful to consider, artistically as well as from a heritage point of view.
+
+* Past and present connections
+#+ATTR_REVEAL: :frag (appear)
+- the musician has to adhere to the materiality of the instrument
+- and to all other past and present connections
+- this activity is part of the care of the self
+** Past and present connections
+#+begin_quote
+rejecting the freedom of material objects [...] does not imply their moral neutrality
+#+end_quote
+
+@@html:<p style="font-size:60% !important; text-align: center !important;">Dalton (2018) Towards an Object-Oriented Ethics: Schopenhauer, Spinoza, and the Physics of Objective Evil, Open Philosophy.</p>@@
+
+* Summary
+** Summary
+#+ATTR_REVEAL: :frag (appear)
+- thinking about an ethics of instruments may be a useful theoretical construct in organology
+- this presents us with a possible conceptual problem that was always present
+** Summary
+  #+ATTR_REVEAL: :frag (appear)
+  - ethics as a mode of subjectification the transformation into a subject happens through certain practices, technologies of the self, that depart from the individual will to care for oneself
+  - rooted in an aesthetics of existence and will not function as a code exposed on an object from the outside
+** Summary
+#+ATTR_REVEAL: :frag (appear)
+- improvisation, is the proper method for investigating this ethics of practice
+- it can provide us access to inportant knowledge about the instruments
+- this knowledge transcends biographical information
+
+** Summary
+#+ATTR_REVEAL: :frag (appear)
+- the knowledge claim, I argue, is in the way the various parts of the system is organized
+- in this system information about an object may be of great use (biographical, technical, etc)
+- it is through the practice that the knowledge I am talking about is revealed
+- it is through new connections that it is conveyed
+** Summary
+  #+ATTR_REVEAL: :frag (appear)
+- it may lead to concrete objects of knowledge, but rarely constitute one itself
+- it is not the art object that represents the knowledge (though it could be), it is the doing or art
+- it is still the way that the network grows that has the epistemological potential
+
+
+* Thank you!
