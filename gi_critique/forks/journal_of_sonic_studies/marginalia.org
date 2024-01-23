@@ -45,11 +45,11 @@ Flytta senare
 
 ** (in an attempt to change the conditions for the composition process in order to focus on the act of listening.)
 :PROPERTIES:
-:org-remark-beg: 53237
-:org-remark-end: 53348
+:org-remark-beg: 53056
+:org-remark-end: 53167
 :org-remark-id: 91e8b5ee
 :org-remark-label: nil
-:org-remark-link: [[file:sonic_studies.org::359]]
+:org-remark-link: [[file:sonic_studies.org::358]]
 :END:
 
 ** In Bergson's description of the two profoundly different ways of knowing a thing, what he calls absolute /absolute/ knowledge from the inside has some resonance with the arguments for the need of artistic research.
@@ -62,8 +62,8 @@ Flytta senare
 :PROPERTIES:
 :org-remark-id: 821ec3b2
 :org-remark-label: nil
-:org-remark-beg: 35065
-:org-remark-end: 35105
+:org-remark-beg: 35049
+:org-remark-end: 35089
 :org-remark-link: [[file:sonic_studies.org::238]]
 :org-remark-original-text: Imagine a field recording from a forest.
 :END:
@@ -75,9 +75,9 @@ Insert example of field recording
 :PROPERTIES:
 :org-remark-id: edb49805
 :org-remark-label: nil
-:org-remark-beg: 50288
-:org-remark-end: 50443
-:org-remark-link: [[file:sonic_studies.org::337]]
+:org-remark-beg: 49920
+:org-remark-end: 50075
+:org-remark-link: [[file:sonic_studies.org::334]]
 :org-remark-original-text: Can the sound be understood without also knowing something about /how/ it is produced? I believe that the method of intuition is particularly useful here.
 :END:
 The fact that our bodies are similarily constructud, whith an oval shaped head and two hears on opposite sides we experience certain properties of sound in a similarl ways. Even if these sonic impressions are subjective they may be intuited by the listening subject in a way that makes the other's experience of them understandable.
@@ -97,8 +97,8 @@ The fact that our bodies are similarily constructud, whith an oval shaped head a
 :PROPERTIES:
 :org-remark-id: 5ee79faf
 :org-remark-label: nil
-:org-remark-beg: 29944
-:org-remark-end: 30167
+:org-remark-beg: 29928
+:org-remark-end: 30151
 :org-remark-link: [[file:sonic_studies.org::210]]
 :org-remark-original-text: What I see when I start an application on my computer, what I experience to be the system in play, is just myself and the computer, where in reality it may involve previous input and output, as various positions and biases.
 :END:
@@ -127,8 +127,8 @@ Remove, rephrse
 :PROPERTIES:
 :org-remark-id: 496c56f2
 :org-remark-label: nil
-:org-remark-beg: 31422
-:org-remark-end: 31514
+:org-remark-beg: 31406
+:org-remark-end: 31498
 :org-remark-link: [[file:sonic_studies.org::220]]
 :org-remark-original-text: that makes possible a further critique of Bergson's division between analysis and intuition.
 :END:
@@ -137,8 +137,8 @@ Remove? No, fixed!
 :PROPERTIES:
 :org-remark-id: 10ce591a
 :org-remark-label: nil
-:org-remark-beg: 33640
-:org-remark-end: 33732
+:org-remark-beg: 33624
+:org-remark-end: 33716
 :org-remark-link: [[file:sonic_studies.org::231]]
 :org-remark-original-text: Using the method of intuition it may still be possible to learn something in this context.
 :END:
@@ -149,42 +149,27 @@ Delete?
 :PROPERTIES:
 :org-remark-id: 88e76aa6
 :org-remark-label: nil
-:org-remark-beg: 33735
-:org-remark-end: 33860
+:org-remark-beg: 33719
+:org-remark-end: 33844
 :org-remark-link: [[file:sonic_studies.org::233]]
 :org-remark-original-text: Could Bergson's proposed method be useful with regard to understanding listening and creativity in the process of composition
 :END:
 Ta bort?
 ** This, however, does not actually describe access to knowledge other than secondarily. As used here the method primarily gives rise to information that guides the artistic process.
-:PROPERTIES:
-:org-remark-id: 1eb19966
-:org-remark-label: nil
-:org-remark-beg: 38630
-:org-remark-end: 38809
-:org-remark-link: [[file:sonic_studies.org::262]]
-:org-remark-original-text: This, however, does not actually describe access to knowledge other than secondarily. As used here the method primarily gives rise to information that guides the artistic process.
-:END:
 Behövs detta? Skriv om? Relatera till frågan nr 1 istället.
 ** Listening is the most important tool out of many in a large toolbox, and for a musician listening is at certain times different to an audience listening.
 :PROPERTIES:
 :org-remark-id: 4439b673
 :org-remark-label: nil
-:org-remark-beg: 38920
-:org-remark-end: 39073
-:org-remark-link: [[file:sonic_studies.org::266]]
+:org-remark-beg: 38929
+:org-remark-end: 39082
+:org-remark-link: [[file:sonic_studies.org::265]]
 :org-remark-original-text: Listening is the most important tool out of many in a large toolbox, and for a musician listening is at certain times different to an audience listening.
 :END:
-Stryka
+Stryka, kopppla till senare mening?
 
+Se [[file:sonic_studies.org::267]]
 ** Final reflections
-:PROPERTIES:
-:org-remark-id: 1938f4d4
-:org-remark-label: nil
-:org-remark-beg: 46024
-:org-remark-end: 46041
-:org-remark-link: [[file:sonic_studies.org::305]]
-:org-remark-original-text: Final reflections
-:END:
 Q1:
 1) the methods that allows for observing relevant information about the artistic practice in sound,
 2) the means of presenting this information in an accessible manner
@@ -195,12 +180,36 @@ How can I understand sounds and sonic gestures evolving in time and space as car
 :PROPERTIES:
 :org-remark-id: 021858be
 :org-remark-label: nil
-:org-remark-beg: 46975
-:org-remark-end: 47094
-:org-remark-link: [[file:sonic_studies.org::310]]
+:org-remark-beg: 46510
+:org-remark-end: 46629
+:org-remark-link: [[file:sonic_studies.org::307]]
 :org-remark-original-text: An important distinction that needs to be made is that listener does not need to engage with the whole chain of events.
 :END:
 Flytta upp?
+** navigate the sound in multiple dimensions
+:PROPERTIES:
+:org-remark-id: 3ad19c1d
+:org-remark-label: nil
+:org-remark-beg: 40775
+:org-remark-end: 40816
+:org-remark-link: [[file:sonic_studies.org::272]]
+:org-remark-original-text: navigate the sound in multiple dimensions
+:END:
+add sound
+
+** Introduction
+:PROPERTIES:
+:org-remark-id: 21d76e2d
+:org-remark-label: nil
+:org-remark-beg: 1446
+:org-remark-end: 1458
+:org-remark-link: [[file:sonic_studies.org::28]]
+:org-remark-original-text: Introduction
+:END:
+taking JSS's rationale into account, my advice would be to strongly emphasize the relationship
+between your (artistic) work/practice and developments in sound studies, be they technological, epistemological or ontological.
+
+We're trying NOT to become a journal for music studies.
 * 
 :PROPERTIES:
 :org-remark-file: sonic_studies_test.org

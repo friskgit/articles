@@ -190,7 +190,7 @@ I enter into a sympathy with it which allows for an intuitive understanding of t
 There is a intimate relation between learning and intuition and the more I learn about my instrument the greater is the possibility to enter into sympathy with it.
 The process of learning to play an instrument is often compared to other embodied activities such as cycling: they become second nature and to some extend pre-reflective.
 
-Time is of essence and, following Bergson, it is only through the method of intuition that the continuous flow may be experienced.
+Time is of essence and, following Bergson, through the method of intuition the continuous flow may be experienced.
 To succeed to enter into sympathy with the play situation, however, it may not be the saxophone as an object I need to understand, and the notion of "an object" may be misleading.
 Rather, it is the larger system, containing both myself and the instrument and its context that I need to engage with.
 This unity creates the conditions for expression and nuanced musical creativity, and analyzing these parts by themselves will only tell us what the parts are capable of, not the whole.
@@ -255,12 +255,11 @@ Apart from the rain at night soundscape discussed above, one such example is the
 An obvious example may be a sound whose pitch is continuously dropping from high to low.
 The gesture of the pitch envelope may be transformed to a parameter for the spatial transformation of the same sound.[fn:6]
 There are certain mappings between different domains that are more generic than others, but the question of how they are made is generally subjective.
-The process, however, has to rely on a /listening from the inside/ that also engages the memory of past experiences.
-Furthermore, understanding these gestures relies on listening practices that are deeply embedded with the compositional intent.
-Sound itself becomes the source for the development of the material and access to these layers of the sound is really only available through an intuitive mode of listening.
-From this intuition an analysis can be performed that allows for the discovery of sonic properties that can influence sound synthesis and compositional strategies.
-This, however, does not actually describe access to knowledge other than secondarily.
-As used here the method primarily gives rise to information that guides the artistic process.
+The process, however, has to rely on a /listening from the inside/ that also engages the memory of past experiences.[fn:19]
+Furthermore, understanding these gestures on a detailed level also relies on listening practices that are embedded with the compositional intent.
+Sound itself becomes the source for the further development of the material in composition, and access to these layers of the sound is supported by an intuitive mode of listening.
+From this intuition an analysis can be performed that allows for the discovery of sonic properties that may then be used to construct methods for sound synthesis and compositional strategies.
+This method can give give rise to information about the elements of the  artistic practice that are useful also in an artistic research context.
 
 When composing I obviously rely heavily on trying to intuitively understand the sonic materials I work with.
 Listening is the most important tool out of many in a large toolbox, and for a musician listening is at certain times different to an audience listening.
@@ -272,12 +271,10 @@ The general compositional idea departs from the beating that occurs between pitc
 Sonic effects like the interference that gives rise to beatings,[fn:8] shows example of a certain transgression of the sound that may allow for a widened listening experience: an effect arises that sometimes masks the original sounds and which allows  the sound of the beating to take over: a  "new and peculiar phenomena arise which we term interference"  [cite:@helmholtz1954]. 
 There is nothing new about using interference in electronic music, and it is widely used in synthesis and processing. What makes it interesting in this context is the way it creates a sonic topology that guides my listening, and hence, my composition. When still discernible the original sounds together with the added beating makes it possible to navigate the sound in multiple dimensions.
 
-For this particular composition I have set up a controller that allows me to play a total of sixteen pitches and adjust their pitch in small steps.
-A four by four grid with a total of sixteen knobs, each controlling the pitch of sixteen separate sine waves, provides an intuitive interface to play with the sounds.
-The original pitches used are derived from James Tenney's crystal growth of harmonic space [cite:@Tenney2008] which provides a few particularly interesting intervals to work with, but the particular properties of it is not important in this discussion.
-Instead, it is the relation between the physical control of the tuning of the pitches and the fact that I can /play/ them, improvise and eventually, hear them from the inside.
-Although the beating patterns between two intervals can be easily calculated,[fn:9] the sounding result of the interference is obviously different than the calculation and, again following Bergson's idea that an analysis from the outside will always be a reduction of one from the inside.
-Once I have found a sound, or a series of sounds and continuous transformations that I find useful, I notate the pitches and the changes I played, which maintains a certain conceptual stability to the process.[fn:18]
+Although the beating patterns between two intervals can be easily calculated,[fn:9] the sounding result of the interference is obviously different than the calculation and, again following Bergson's idea that an analysis from the outside will always be a reduction of one from the inside
+For that reason the pitch relations are derived from a set of improvisations from which I deduct the patterns that I wish to continue working with based on [cite/text:@Tenney2008]'s harmonic space proposed in /On ’Crystal Growth’ in Harmonic Space/.
+Once I have found the series of sounds and continuous transformations that I wish to work with, I notate the pitches and the transformations I played.
+This last aspect which maintains a certain conceptual stability to the process.[fn:18]
 The notation in this case is an abstraction of the analysis derived from the intuitive act of listening and tuning.
 
 The next stage involves a realization of the notation back into sound, which will be performed in a studio environment designed in collaboration with EMS in Stockholm.
@@ -347,6 +344,8 @@ On some basic level it is possible to agree on the sound of the rainfall at nigh
 #+print_bibliography: title: "Bilblio"
 
 * Footnotes
+
+[fn:19] Imagine a mono recording of a car driving by. Although there is no spatial information in the recording, the experience of listening to it is likely to add spatial information. 
 [fn:18] Also the notation is carried out using an add on to the program LilyPond that I developed for the purpose. 
 
 [fn:17] Which is of course a valuable additional piece of the puzzle. 
