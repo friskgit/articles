@@ -25,42 +25,44 @@
  In this paper I will discuss the way in which one may gain experiential access to the sound
 French theorist Pierre Schaeffer's [cite:@schaeffer77] very influential work taught us how the sound becomes accessible to the listener through the process of reduced listening. A listening process in which the source of the sound is less important than the inherent qualities of the sound. Though this has proven to be an important analytical tool for both electroacoustic music and other genres for almost 75 years
 
+and to what extent the method of intuition can be used to understand artistic practices in sound.
+and the core of the discussion here is concerned with the role that the artistic work--and the theories that follow from it--can play in the discourse and practice of sound studies.
+The studies from which the work departs are presented at the end of the paper.
+
 * Introduction
-In the process of working with sound in artistic practice, be it a sound installation or a musical composition, or something else, the way one may gain access to the sound itself is at the same time both completely unproblematic and very enigmatic.
-A sound is a compound a various kinds of information.
+A sound is a complex compound of various kinds of information.
+In the process of working with sound in artistic practice, be it a sound installation or a musical composition, or something else, the access to the sound itself is at the same time both completely unproblematic and very enigmatic.
 It has a source, discernible sonic qualities, it may have a direction and a space, and it may give rise to a number of emotions, sometimes several at the same time.
 A sound can be completely metaphysical, imagined as part of a dream, or it can be so physical as it is felt by the entire body.
 It can be painful or beautiful, harsh or soft.
-The balance between the various components can obviously shift depending on what kind of sound it is, and all of the parameters of the sound as a whole changes over time.
+The balance between the various components will obviously shift depending on what kind of sound it is, and all of the parameters of the sound as a whole usually changes to a significant degree over time: the attack and the decay of a sound may be extremely different to one another.
 One and the same continuous sound can start as a perfectly sourced sound and end in an almost completely abstracted and deconstructed noise.
-How can this amorphic compound be understood in artistic practice? How can it be analyzed and what kind of analysis actually participates in a widened understanding of the meaning of the sound, rather than deductively reducing it? How can artistic research provide complementary knowledge about the function of sound in art and in other contexts?
+How can this amorphic compound be understood in artistic practice? How can it be analyzed, and what kind of analysis actually participates in a widened understanding of the meaning of the sound, rather than a deductive reduction of it? How can artistic research provide complementary knowledge about the function of sound in art and in other contexts?
 
-This work departs from ideas developed in the research project Goodbye Intuition (GI).[fn:13]
-The focus of GI was on improvising with "creative" machines and this processes led me to explore the method of intuition.
-Playing with a machine that has very little sense of intuition, neither in its standard meaning, nor in the meaning explored in this paper, reveals the complexity of what it means to have an intuitive understanding in working with sound.
-One of the results of GI was the extent to which we projected our own intuitive sense unto the machine improviser[fn:15] resulting in the impression that there was in fact an intuitive relation between the machine and the human improviser.
-The work discussed here has been carried out using methods similar to those used and developed in GI [cite:see @Frisk2020] where the basic process can be described as a lab in which artistic practice is documented and out of which particular events are extracted and studied.
-These are extracted based on my own inner understanding of the practice using purposeful sampling [cite:@Patton2002], but the main aspect discussed here is the use of intuition in the sense that Bergson uses the word may be a useful method in artistic research in sound practices. 
-The studies are presented at the end of the paper.
+This work departs from ideas developed in the artistic research project Goodbye Intuition (GI).[fn:13]
+The focus of GI was on improvising with "creative" machines.
+Playing with a machine that has little or no sense of intuition, not in its standard meaning, nor in the meaning explored in this article, reveals the complexity of the role that intuition plays when working with sound.
+One of the results of GI was the realization that we projected our own intuitive sense unto the machine improviser,[fn:15] with the result that we experienced that there was an intuitive relation between us as musicians and the machine.
+The work discussed here is my own continuation of the ideas explored in GI, primarily the impact and meaning of intuition in artistic practice.
+I have been working with methods similar to those used and developed in GI [cite:see @Frisk2020] where the basic process is carried out an artistic lab session in which my own artistic processes have been documented, and out of which particular events have been extracted and studied.
+The specific events I have chosen to study have been selected based on my own inner understanding of the practice, to some extent relyng on purposeful sampling [cite:@Patton2002].
+Intuition, in the sense that Bergson uses the word, has then been explored as a possible method in artistic research in sound practices.
+Hence, the artistic practice constitute the main empirical data from which the results are gathered.
+Using intuition as a method questions concerning the understanding of sound is approached from my particular practice of working with composition and improvisation in music:[fn:20]
+How can I understand sounds and sonic gestures in time and space as carriers of meaning?
+This question should be seen as an attempt to break with the scientific imperative of the tools I often work with in the studio, and instead explore an intuitive relation to the material these tools may /result/ in. It is not the measurment of a gesture or of a sound but rather the intuition of it that I am interested in.
 
-The focus in this paper is on the use intuition of sound as a method in order to approach the questions concerning the understanding of sound from a particular practice of working with composition and improvisation in music.
-Henri Bergson's work is used as an inspiration:
-How can I understand sounds and sonic gestures evolving in time and space as carriers of meaning?
-This question should be seen as an attempt to break with the scientific imperative of the tools I often work with in the studio, and instead explore an intuitive relation to the material these tools may /result/ in.
-
-When playing an instrument the sound is at least to some degree woven together with the gestures one perform as the music evolves over time.
-For the composer sitting behind a computer screen for hours the situation is different.
+When playing an instrument the sound is at least to some degree woven together with the gestures one perform as the music evolves.
+For the eletronic music composer sitting behind a computer screen for hours the situation is different.
 Working with tiny adjustments to microscopic segments of the sonic material relieves the distance that may occur between the composer and the material they work with.
-If the sound is seen as an object that is to some degree independent of where and how it was produced and where, why and how it is heard, this may not be seen as a problem.
-But if one engages in a more holistic view on sound practicies that I propose in this paper there are a number of questions that arises in the studio practice:
+If the sound is seen as an object that is to some degree independent of where and how it was produced, and where, why and how it is heard, this may not be seen as a problem.
+If one is interested in engaging in a more holistic view on sound practices such that I sugggest in this paper there are a number of questions that will arise of which these three are of interest:
 
-1. Questions relating to the contents of the sound, its ontology, its shape, its gestural aspects, its space are necessary to approach in the studio practice. One by one they may be analyzed deductively, but the general design of the tools with which this is made possible simultaneously makes it difficult to successfully understand them together, as a whole.
-2. The tools of a modern studio does allow the composer to turn from a tiny detail, to the whole, in a blink of an eye, which is helpful but may further contribute to a fragmentation of the material rather than an integration.
-3. The reproduction of sound in the studio is in almost all cases completely different from the one that the music will ultimately be played back on.
-   For that reason the composer will necessarily have to engage in a constant act of imagination to complement the sound produced in the studio with the imagination of what the performance space will ultimately sound like.
+1. Questions relating to the contents of the sound, its ontology, its shape, its gestural aspects, and its space are necessary to approach in the artistic practice in the studio. One by one they may be analyzed deductively, but the general design of the tools with which this is made possible simultaneously makes it difficult to successfully understand them together, as a whole.
+2. The tools of a modern studio does allow the composer to turn from a tiny detail of a sound to the whole in a blink of an eye which is helpful but may further contribute to a fragmentation of the material.
+3. The system of reproduction of sound in the studio is in almost all cases completely different from the one that the music will ultimately be played back on.  For that reason the composer will necessarily have to engage in a constant act of imagination to complement the sound produced in the studio, sometimes without much knowledge of the ultimate performance space.
 
-These difficulties, nevertheless, are by no means insurmountable.
-In artistic practice the issue may be addressed and the hypothesis explored in this paper is that it rests on the developed ability to imagine how sound will be experienced.
+The hypothesis explored in this paper is that these issues, and others, may be addressed by exploring the impact of intuition involved in the practice, which in turn rests on a sensibility to imagine how sound may be experienced.
 Being a composer and improviser I can make myself intuit sound in a way that makes it possible for me to engage in a fluid relation to the material--this is to some extent what I train to do as a musician.
 In this case the sound is not an object, but rather an ongoing activity, and despite my inner knowledge a fuller analysis is still difficult achieve.
 The sound is not merely perceived but created and recreated in the act of inner and outer[fn:14] listening in a process where the signification of the various aspects of the sound is consciously and constantly changing.
@@ -344,6 +346,7 @@ On some basic level it is possible to agree on the sound of the rainfall at nigh
 #+print_bibliography: title: "Bilblio"
 
 * Footnotes
+[fn:20] I see improvisation and composition as two aspects of music making and although there are conceptual differences between them I use them interchangeably as activities that partake in the creation of music.
 
 [fn:19] Imagine a mono recording of a car driving by. Although there is no spatial information in the recording, the experience of listening to it is likely to add spatial information. 
 [fn:18] Also the notation is carried out using an add on to the program LilyPond that I developed for the purpose. 
