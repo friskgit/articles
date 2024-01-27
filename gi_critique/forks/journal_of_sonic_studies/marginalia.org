@@ -45,11 +45,11 @@ Flytta senare
 
 ** (in an attempt to change the conditions for the composition process in order to focus on the act of listening.)
 :PROPERTIES:
-:org-remark-beg: 53442
-:org-remark-end: 53553
+:org-remark-beg: 57060
+:org-remark-end: 57171
 :org-remark-id: 91e8b5ee
 :org-remark-label: nil
-:org-remark-link: [[file:sonic_studies.org::358]]
+:org-remark-link: [[file:sonic_studies.org::388]]
 :END:
 
 ** In Bergson's description of the two profoundly different ways of knowing a thing, what he calls absolute /absolute/ knowledge from the inside has some resonance with the arguments for the need of artistic research.
@@ -59,14 +59,6 @@ Flytta senare
 ** This, however, does not actually describe access to knowledge other than secondarily. The method gives rise to information that guides the artistic process but what is the knowledge produced here?
 
 ** Imagine a field recording from a forest.
-:PROPERTIES:
-:org-remark-id: 821ec3b2
-:org-remark-label: nil
-:org-remark-beg: 35722
-:org-remark-end: 35762
-:org-remark-link: [[file:sonic_studies.org::240]]
-:org-remark-original-text: Imagine a field recording from a forest.
-:END:
 Insert example of field recording
 
 
@@ -75,74 +67,34 @@ Insert example of field recording
 :PROPERTIES:
 :org-remark-id: edb49805
 :org-remark-label: nil
-:org-remark-beg: 50092
-:org-remark-end: 50247
-:org-remark-link: [[file:sonic_studies.org::326]]
+:org-remark-beg: 53037
+:org-remark-end: 53192
+:org-remark-link: [[file:sonic_studies.org::351]]
 :org-remark-original-text: Can the sound be understood without also knowing something about /how/ it is produced? I believe that the method of intuition is particularly useful here.
 :END:
 The fact that our bodies are similarily constructud, whith an oval shaped head and two hears on opposite sides we experience certain properties of sound in a similarl ways. Even if these sonic impressions are subjective they may be intuited by the listening subject in a way that makes the other's experience of them understandable.
 
 ** What I see when I start an application on my computer, what I experience to be the system in play, is just myself and the computer, where in reality it may involve previous input and output, as various positions and biases.
-:PROPERTIES:
-:org-remark-id: 5ee79faf
-:org-remark-label: nil
-:org-remark-beg: 30601
-:org-remark-end: 30824
-:org-remark-link: [[file:sonic_studies.org::212]]
-:org-remark-original-text: What I see when I start an application on my computer, what I experience to be the system in play, is just myself and the computer, where in reality it may involve previous input and output, as various positions and biases.
-:END:
 Work out this paragraph according to peer 1 comment "section starting on p7"
 ** To understand intuition in a Bergsonian way it may also be necessary to contrast it with other uses and definitions of intuition.
-:PROPERTIES:
-:org-remark-id: 5f003d39
-:org-remark-label: nil
-:org-remark-beg: 15934
-:org-remark-end: 16063
-:org-remark-link: [[file:sonic_studies.org::120]]
-:org-remark-original-text: To understand intuition in a Bergsonian way it may also be necessary to contrast it with other uses and definitions of intuition.
-:END:
 Remove, rephrse
 ** definitions
 :PROPERTIES:
 :org-remark-id: fda5335c
 :org-remark-label: nil
-:org-remark-beg: 16038
-:org-remark-end: 16049
-:org-remark-link: [[file:sonic_studies.org::120]]
+:org-remark-beg: 16506
+:org-remark-end: 16517
+:org-remark-link: [[file:sonic_studies.org::123]]
 :org-remark-original-text: definitions
 :END:
 
 **  that makes possible a further critique of Bergson's division between analysis and intuition.
-:PROPERTIES:
-:org-remark-id: 496c56f2
-:org-remark-label: nil
-:org-remark-beg: 32079
-:org-remark-end: 32171
-:org-remark-link: [[file:sonic_studies.org::222]]
-:org-remark-original-text: that makes possible a further critique of Bergson's division between analysis and intuition.
-:END:
 Remove? No, fixed!
 **  Using the method of intuition it may still be possible to learn something in this context. 
-:PROPERTIES:
-:org-remark-id: 10ce591a
-:org-remark-label: nil
-:org-remark-beg: 34298
-:org-remark-end: 34388
-:org-remark-link: [[file:sonic_studies.org::233]]
-:org-remark-original-text: Using the method of intuition it may still be possible to learn something in this context.
-:END:
 Delete?
 
 
 ** Could Bergson's proposed method be useful with regard to understanding listening and creativity in the process of composition
-:PROPERTIES:
-:org-remark-id: 88e76aa6
-:org-remark-label: nil
-:org-remark-beg: 34392
-:org-remark-end: 34517
-:org-remark-link: [[file:sonic_studies.org::235]]
-:org-remark-original-text: Could Bergson's proposed method be useful with regard to understanding listening and creativity in the process of composition
-:END:
 Ta bort?
 ** This, however, does not actually describe access to knowledge other than secondarily. As used here the method primarily gives rise to information that guides the artistic process.
 Behövs detta? Skriv om? Relatera till frågan nr 1 istället.
@@ -150,9 +102,9 @@ Behövs detta? Skriv om? Relatera till frågan nr 1 istället.
 :PROPERTIES:
 :org-remark-id: 4439b673
 :org-remark-label: nil
-:org-remark-beg: 39602
-:org-remark-end: 39755
-:org-remark-link: [[file:sonic_studies.org::267]]
+:org-remark-beg: 42883
+:org-remark-end: 43036
+:org-remark-link: [[file:sonic_studies.org::294]]
 :org-remark-original-text: Listening is the most important tool out of many in a large toolbox, and for a musician listening is at certain times different to an audience listening.
 :END:
 Stryka, kopppla till senare mening?
@@ -169,9 +121,9 @@ How can I understand sounds and sonic gestures evolving in time and space as car
 :PROPERTIES:
 :org-remark-id: 021858be
 :org-remark-label: nil
-:org-remark-beg: 47183
-:org-remark-end: 47302
-:org-remark-link: [[file:sonic_studies.org::309]]
+:org-remark-beg: 50464
+:org-remark-end: 50583
+:org-remark-link: [[file:sonic_studies.org::336]]
 :org-remark-original-text: An important distinction that needs to be made is that listener does not need to engage with the whole chain of events.
 :END:
 Flytta upp?
@@ -179,22 +131,14 @@ Flytta upp?
 :PROPERTIES:
 :org-remark-id: 3ad19c1d
 :org-remark-label: nil
-:org-remark-beg: 41448
-:org-remark-end: 41489
-:org-remark-link: [[file:sonic_studies.org::274]]
+:org-remark-beg: 44729
+:org-remark-end: 44770
+:org-remark-link: [[file:sonic_studies.org::301]]
 :org-remark-original-text: navigate the sound in multiple dimensions
 :END:
 add sound
 
 ** Introduction
-:PROPERTIES:
-:org-remark-id: 21d76e2d
-:org-remark-label: nil
-:org-remark-beg: 1806
-:org-remark-end: 1818
-:org-remark-link: [[file:sonic_studies.org::32]]
-:org-remark-original-text: Introduction
-:END:
 taking JSS's rationale into account, my advice would be to strongly emphasize the relationship
 between your (artistic) work/practice and developments in sound studies, be they technological, epistemological or ontological.
 
@@ -202,6 +146,28 @@ We're trying NOT to become a journal for music studies.
 
 
 ** Henri Bergson's work is used as an inspiration:
+
+** expressions
+
+** To explore the idea of artistic research from an inside perspective it is not enough to merely consider the perspective of the researcher. Exploring internalized how-to knowledge, and the belief systems that surrounds the practice, demands stable and transparent methods for revealing the processes in action. This is discussed by [cite/text:@Galdon2022] concluding that "this type of implicit knowledge creates a problem around how we can be sure that tacit knowledge is communicated and acted upon in a manner consistent with its generation" (p. 919). As this paper is written from the perspective of design education it may be used as a critique of the notion of an /inside/ as a qualifier unique to the artistic researcher. Furthermore, any argument put forth from this /inside/ perspective may be assigned a parochial nature difficult to contest. When the claim is that the artistic researcher by definition produces research from the /inside/ the critical discussion concerning the results must be considered.
+:PROPERTIES:
+:org-remark-id: a6f05021
+:org-remark-label: nil
+:org-remark-beg: 11841
+:org-remark-end: 12856
+:org-remark-link: [[file:sonic_studies.org::91]]
+:org-remark-original-text: To explore the idea of artistic research from an inside perspective it is not enough to merely consider the perspective of the researcher. Exploring internalized how-to knowledge, and the belief systems that surrounds the practice, demands stable and transparent methods for revealing the processes in action. This is discussed by [cite/text:@Galdon2022] concluding that "this type of implicit knowledge creates a problem around how we can be sure that tacit knowledge is communicated and acted upon in a manner consistent with its generation" (p. 919). As this paper is written from the perspective of design education it may be used as a critique of the notion of an /inside/ as a qualifier unique to the artistic researcher. Furthermore, any argument put forth from this /inside/ perspective may be assigned a parochial nature difficult to contest. When the claim is that the artistic researcher by definition produces research from the /inside/ the critical discussion concerning the results must be considered.
+:END:
+Kolla
+** Bergson's method of intuition, I will argue, may contribute to showing that not only is it possible to gain formal knowledge from artistic research in a methodologically stable manner, but also that the difference compared to other fields of research is perhaps less significant than what is commonly believed. Artistic research could in this regard be seen as a research practice that may contribute to widen the perspectives of how formation of knowledge takes place in sonic practices.
+Kolla detta
+** How can I understand sounds and sonic gestures in time and space as carriers of meaning?  How to attempt to determine how this may be approached within the field of artistic research in sound and music is the primary focus of the discussion of this paper. I will approach the topic through Bergson's method of intuition in the context of my own practice as a composer.  Bergson's method of intuition, I will argue, may contribute to showing that not only is it possible to gain formal knowledge from artistic research in a methodologically stable manner, but also that the difference compared to other fields of research is perhaps less significant than what is commonly believed. Artistic research could in this regard be seen as a research practice that may contribute to widen the perspectives of how formation of knowledge takes place in sonic practices.
+
+** At has already been pointed out, In sound and music in the frame of artistic research the mode of thinking that Bergson proposes have some interesting consequences.
+
+** that
+
+** occurred
 
 * 
 :PROPERTIES:
