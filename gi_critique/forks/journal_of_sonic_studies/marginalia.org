@@ -45,11 +45,11 @@ Flytta senare
 
 ** (in an attempt to change the conditions for the composition process in order to focus on the act of listening.)
 :PROPERTIES:
-:org-remark-beg: 57060
-:org-remark-end: 57171
+:org-remark-beg: 57573
+:org-remark-end: 57684
 :org-remark-id: 91e8b5ee
 :org-remark-label: nil
-:org-remark-link: [[file:sonic_studies.org::388]]
+:org-remark-link: [[file:sonic_studies.org::392]]
 :END:
 
 ** In Bergson's description of the two profoundly different ways of knowing a thing, what he calls absolute /absolute/ knowledge from the inside has some resonance with the arguments for the need of artistic research.
@@ -67,9 +67,9 @@ Insert example of field recording
 :PROPERTIES:
 :org-remark-id: edb49805
 :org-remark-label: nil
-:org-remark-beg: 53037
-:org-remark-end: 53192
-:org-remark-link: [[file:sonic_studies.org::351]]
+:org-remark-beg: 53740
+:org-remark-end: 53895
+:org-remark-link: [[file:sonic_studies.org::357]]
 :org-remark-original-text: Can the sound be understood without also knowing something about /how/ it is produced? I believe that the method of intuition is particularly useful here.
 :END:
 The fact that our bodies are similarily constructud, whith an oval shaped head and two hears on opposite sides we experience certain properties of sound in a similarl ways. Even if these sonic impressions are subjective they may be intuited by the listening subject in a way that makes the other's experience of them understandable.
@@ -82,9 +82,9 @@ Remove, rephrse
 :PROPERTIES:
 :org-remark-id: fda5335c
 :org-remark-label: nil
-:org-remark-beg: 16506
-:org-remark-end: 16517
-:org-remark-link: [[file:sonic_studies.org::123]]
+:org-remark-beg: 16657
+:org-remark-end: 16668
+:org-remark-link: [[file:sonic_studies.org::126]]
 :org-remark-original-text: definitions
 :END:
 
@@ -99,14 +99,6 @@ Ta bort?
 ** This, however, does not actually describe access to knowledge other than secondarily. As used here the method primarily gives rise to information that guides the artistic process.
 Behövs detta? Skriv om? Relatera till frågan nr 1 istället.
 ** Listening is the most important tool out of many in a large toolbox, and for a musician listening is at certain times different to an audience listening.
-:PROPERTIES:
-:org-remark-id: 4439b673
-:org-remark-label: nil
-:org-remark-beg: 42883
-:org-remark-end: 43036
-:org-remark-link: [[file:sonic_studies.org::294]]
-:org-remark-original-text: Listening is the most important tool out of many in a large toolbox, and for a musician listening is at certain times different to an audience listening.
-:END:
 Stryka, kopppla till senare mening?
 
 Se [[file:sonic_studies.org::267]]
@@ -121,21 +113,13 @@ How can I understand sounds and sonic gestures evolving in time and space as car
 :PROPERTIES:
 :org-remark-id: 021858be
 :org-remark-label: nil
-:org-remark-beg: 50464
-:org-remark-end: 50583
-:org-remark-link: [[file:sonic_studies.org::336]]
+:org-remark-beg: 51287
+:org-remark-end: 51406
+:org-remark-link: [[file:sonic_studies.org::343]]
 :org-remark-original-text: An important distinction that needs to be made is that listener does not need to engage with the whole chain of events.
 :END:
 Flytta upp?
 ** navigate the sound in multiple dimensions
-:PROPERTIES:
-:org-remark-id: 3ad19c1d
-:org-remark-label: nil
-:org-remark-beg: 44729
-:org-remark-end: 44770
-:org-remark-link: [[file:sonic_studies.org::301]]
-:org-remark-original-text: navigate the sound in multiple dimensions
-:END:
 add sound
 
 ** Introduction
@@ -153,9 +137,9 @@ We're trying NOT to become a journal for music studies.
 :PROPERTIES:
 :org-remark-id: a6f05021
 :org-remark-label: nil
-:org-remark-beg: 11841
-:org-remark-end: 12856
-:org-remark-link: [[file:sonic_studies.org::91]]
+:org-remark-beg: 11992
+:org-remark-end: 13007
+:org-remark-link: [[file:sonic_studies.org::94]]
 :org-remark-original-text: To explore the idea of artistic research from an inside perspective it is not enough to merely consider the perspective of the researcher. Exploring internalized how-to knowledge, and the belief systems that surrounds the practice, demands stable and transparent methods for revealing the processes in action. This is discussed by [cite/text:@Galdon2022] concluding that "this type of implicit knowledge creates a problem around how we can be sure that tacit knowledge is communicated and acted upon in a manner consistent with its generation" (p. 919). As this paper is written from the perspective of design education it may be used as a critique of the notion of an /inside/ as a qualifier unique to the artistic researcher. Furthermore, any argument put forth from this /inside/ perspective may be assigned a parochial nature difficult to contest. When the claim is that the artistic researcher by definition produces research from the /inside/ the critical discussion concerning the results must be considered.
 :END:
 Kolla
