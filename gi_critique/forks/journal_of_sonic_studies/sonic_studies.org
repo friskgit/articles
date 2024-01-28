@@ -72,7 +72,8 @@ The hypothesis explored in this paper is that these questions, and others, may b
 As a composer and improviser I can make myself intuit sound in a way that makes it possible for me to engage in a fluid relation to the material--this is to some extent what I train to do as a musician.
 In this case the sound is not an object, but rather an ongoing activity, and despite my inner knowledge of it, a fuller analysis is difficult to achieve.
 The sound is not merely perceived but created and recreated in the act of inner and outer[fn:5] listening in a process where the signification of the various aspects of the sound is consciously and constantly changing.
-My knowledge and experience as a practicing musician allows me to understand the flow of sound in time and act upon it.
+It should be noted that in this paper I am primarily discussing listening experiences from the point of view of the artist, not listening in general.
+My knowledge and experience as a practicing musician allows me to understand the flow of sound in time and act upon it in ways that may not even be useful to a listener..
 This understanding is not easily translated to analytical knowledge and it is different in kind to the notion of sound as an object. 
 I can transform my listening both in time and space and imagine what the music will sound like in another environment: I can experience it, not as an /external object/ that I exploit, but /from within it/, together with it: from the "inside".
 The terminology here comes from Bergson, as will be clear later in the text, and it has advantages but also obvious difficulties. The word "inside" carries with it an unfortunate connotation that makes assumptions about a division that may not actually make sense, and can even be counter-productive.
@@ -91,7 +92,7 @@ This may even be seen as one of the defining ideas of the epistemology of artist
 If the artistic researcher is researching from an inside perspective, the vantage point for other kinds of research would then be from an analytical perspective, observing from the outside.
 These metaphors are crude representations of what really goes on in research, and like was noted above, this has the unfortunate conceptual drawback of creating a dichotomy between the inside and an implied outside, which is neither entirely correct, nor is it particularly useful for, say, the development of interdisciplinary research.
 The often cited categories (and their variations such as those proposed by [cite/text:@borgdorff07]) that [cite/text:@frayling1993]  put forth in his article /Research in art and design/ ‘research into art’, ‘research for art’ and ‘research through art’, are loosely pointing in the same direction: there are distinct research modalities from which various types of results emerges.
-Also these categories are rarely stable, nor are they mutually exclusive. 
+These often referred to categories are rarely stable, nor are they exclusive: any research practice, artistic as well as scientific, in music is likely to touch on all of these modalities. 
 
 To explore the idea of artistic research from an inside perspective it is not enough to merely consider the perspective of the researcher.
 Exploring internalized how-to knowledge, and the belief systems that surrounds the practice, demands stable and transparent methods for revealing the processes in action.
@@ -144,7 +145,7 @@ Scrutinizing the object from an outside perspective allows for analytical precis
    In its eternally unsatisfied desire to embrace the object around which it is compelled to turn, analysis multiplies without end the number of its points of view in order to complete its always incomplete representation, and ceaselessly varies its symbols that it may perfect the always imperfect translation. It goes on, therefore, to infinity. But intuition, if intuition is possible, is a simple act. [cite:@Bergson1912; p. 8]  
    #+end_quote
 
-The /absolute/, on the other han, is given from /intuition/ and /intellectual sympathy/ with the object.
+The /absolute/, on the other hand, is given from /intuition/ and /intellectual sympathy/ with the object.
 The /intuition/ allows for a perception of the objects unique qualities which Bergsom points out, is the /perfect absolute/ in contrast to the /imperfect analysis/.
 The science of intuition is metaphysics, and metaphysics is "the science which claims to dispense with symbols" [cite:@Bergson1912; p. 9].
 
@@ -221,8 +222,12 @@ Only if I manage to get "on the inside" of the integrated system will I be able 
 
 The sensory and auditory feedback I get from the instrument continuously adopts how I play it, how much pressure I put into it, and this input clearly depends on the structurality of the instrument and the system as a whole: My motor-habits are changing as I play, which changes the feedback I get from the instrument.
 In other words, to perceive an object from the inside it is first necessary to understand the way the object integrates with me whereby its status as an independent object to some extent is dissolved.
-The moments of circular breathing in the short excerpt from my piece /Concinnity/ undoubtedly makes it necessary to focus on things that is usually second nature.
-I need to plan my breaths and the spaces I leave for the electronics that are generated from my playing. Additionally, the tuning adds an extra challenge that requires that I keep an inner focus.
+The moments of circular breathing in the short excerpt from my piece /Concinnity/ undoubtedly makes it necessary for me, in performance, to focus intensely on things that are usually second nature even when playing a wind instrument.
+I need to plan my breathing and the spaces I leave for the electronics that are generated from my playing. Additionally, the tuning adds an extra challenge that requires that I keep an inner focus.
+
+#+CAPTION: The recording is from a concert at CCRMA, Stanford in December 2023. <sound concinnity.wav>
+#+name: img_1
+[[file:img/concinnity_1.jpeg]]
 
 However, if some part of the system changes it is often not enough to only make a small adjustment, the whole system may need to be reconfigured, and certain things needs to be learned again.
 One example of a change in the system is if I would have cut on my lip or if I have wounded a finger or similar.
@@ -233,8 +238,12 @@ This integration is part of learning an instrument and may be quick in simpler i
 But also sensory data that are external to the saxophone-musican system has an impact on what and how I play.
 The moving coil that Bergson describes is a metaphor for how learning also depends on past experiences and on events outside of oneself.
 This back and forth process which is not, however, limited to two dimensions, but is in a constant motion in a multi-dimensional space that involves all aspects of the system.
-In the second example when I play with Rikard Lindell on a modular synthesizer I need to, at times, incorporate these external sounds into my own expression which, when I listen back to this live recording, works very well at the end of this segment where the processing of the saxophone is entirely integrated in the musical form and in the specific character of the music played, but is less successful at the beginning of it where it takes some time for us to find the direction in which to drive the music.
-Eventually, we attune to each other and the two systems create overlapping areas through which we may approach each other's intentions intuitively.
+From a concert in Tokyo in November 2023 with  Rikard Lindell on a modular synthesizer I need to, at times, incorporate these external sounds into my own expression which, when I listen back to this live recording, works very well at the end of this segment where the processing of the saxophone is entirely integrated in the musical form and in the specific character of the music played, but is less successful at the beginning of it where it takes some time for us to find the direction in which to drive the music.
+Through this segment we attune each other's systems and create overlapping areas through which we may approach our respective intentions intuitively.
+
+#+name: img_2
+#+CAPTION: Duo on modular synthesizer and saxophone/computer from November 2024. The recording was only made for documentation purposes. <sound tokyo.wav>
+[[file:img/tokyo.jpg]]
 
 ** The computer as instrument
 In contrast to the musician-instrument relation described above the musician-computer relation is of a more convoluted nature.
@@ -258,7 +267,8 @@ As was noted above, many electronic instruments, by their immediate relation to 
 The method of entering into sympathy with a recorded sound in a technological system, and understand it from the /inside/ without getting lost in the various ways that the systems for reproduction extends in space and time is accessible yet complex.
 In my own experience the deductive methods of analysis previously mentioned that pertain to the underlying structures on which many of the tools in the electronic music studio are built, may disrupt both practice and thinking.
 Understanding a recursive filter or a signal processing device, let alone an AI enhanced digital compressor or a generative audio plugin requires an insight into the analytical aspects of sound that may disperse the intuitive focus of the artist's working methods.
-** Listening strategies
+
+** Listening strategies and sonic gestures
 When it comes to listening perhaps the question should rather be if /any/ listening can be said to /not/ be carried out from "the inside", using Bergson's terminology?
 There are a number of widespread listening practices, like Pauline Oliveros' /Deep Listening/ method [cite:@oliveros2005] that proposes methods towards this goal, and that are independent of Bergson's notion of intuition.
 With this in mind technologically mediated listening in a studio while in a process of working artistically with sound still provides a mix of modalities that has impact on the present discussion.
@@ -266,7 +276,11 @@ With this in mind technologically mediated listening in a studio while in a proc
 Bergson's proposed method may prove to be useful with regard to understanding listening and creativity in the process of composition
 As was discussed in the beginning of this paper, one of the challenges in artistic research is to get access to the specific kinds of knowledge that the artistic process generates and makes use of. It appears reasonable to assume that a close relation between a reflective thinking, through a Bergsonian method of intuition, within the actual practice as it takes place may help to gain insight to this knowledge.
 
-Furthermore, there are aspects of a sound that /requires/ the listener to be within the /mobility/ of the sound to understand them. The spatiality of sound can both be purely imagined and highly concrete and it is an aspect of the sound which is very difficult to extract with deductive methods. The recording in S3 was made for a large piece for 60 speakers premiered in 2019 in Stockholm. Listen to it using headphones. It is raining and the dripping water is at the front of the soundfield, but there are also other sounds intruding, sometimes quite.
+#+CAPTION: /Locomotion/ is a piece for three spaces and 60 speakers. The sound attached here was collected for this project but is presented here unprocessed. This is best listened to in headphones as it is a binaural rendering of the recording.  <sound rain_at_night_binaural.wav>
+#+name: img_3
+[[file:img/locomotion.png]]
+
+Furthermore, there are aspects of a sound that /requires/ the listener to be within the /mobility/ of the sound to understand them. The spatiality of sound can both be purely imagined and highly concrete and it is an aspect of the sound which is very difficult to extract with deductive methods. The recording attached to [[ref:img_3][Figure 3]] was made for a large piece for 60 speakers premiered in 2019 in Stockholm. Listen to it using headphones. It is raining and the dripping water is at the front of the soundfield, but there are also other sounds intruding, sometimes quite.
 As a listener one may move inside of the sound, and all of its discrete aspects, including the particular spatial character of all the component sounds.
 Information about it may be gathered through an intuitive analysis, from within the experience of listening and the spatial nature helps to do this.
 An experienced sound designer is likely to be able to recreate at least parts of this soundscape with samples and synthesis based on such an analysis.
@@ -295,70 +309,85 @@ Sound itself becomes the source for the further development of the material in c
 From this intuition an analysis can be performed that allows for the discovery of sonic properties that may be used to construct methods for sound synthesis and compositional strategies.
 This method can give rise to information about the elements of the  artistic practice that are useful also in an artistic research context.
 
-** Simple sounds
+** Compositional practices and intuition
 When composing I obviously rely heavily on trying to intuitively understand the sonic materials I work with.
 A current project I work with departs from a relative simple idea with sonic material derived from basic analog oscillators to generate sound waves in a studio setting that mimics the electroacoustic composition studio in the 1960's.
-The overarching goal with the project is to attempt to introduce change in my working process by replacing the modern studio of production with the technologies that were available prior to the introduction of, in particular, the computer.[fn:14] 
-This work in progress will only be presented briefly, the main objective is to point to another possible way of using Bergson's method of intuition and to understand the impact that it may have.
+The overarching goal with the project is to attempt to introduce change in my working process by replacing the modern studio of production and limit myself to the technologies that were available prior to the introduction of, in particular, the computer.[fn:14]
+This, I hope, will allow me to better understand how various kinds of technologies affect my creative process.
+This work in progress will only be presented briefly, and the main objective here is to point to another possible way of using Bergson's method of intuition and to understand the impact that it may have.
 
-The general compositional idea departs from the beating that occurs between pitches in certain harmonic relations, typically between large integer ratios, or where the pitch difference between two pitches is small.[fn:15] The use of beatings is common in many contexts and is described in detail by Herman von Helmholtz [cite:@helmholtz1954] in his seminal work /On the Sensations of Tone/.
-Sonic effects like the interference that gives rise to beatings[fn:16] shows example of a certain transgression of the sound that invites to a widened listening experience: an effect arises that sometimes masks the original sounds and which allows the sound of the beating to take over: a  "new and peculiar phenomena arise which we term interference"  [cite:@helmholtz1954]. 
-There is nothing new about using interference in electronic music, and it is widely used in synthesis and processing. What makes it interesting in this context is the way it creates a sonic topology that guides the listening, and hence, how I compose. When still discernible the original sounds together with the added beating makes it possible to navigate the sound in multiple dimensions.
-A sine wave by itself is not a harmonic sound and lacks the attractiveness of complex sounds, but two sine waves sounding together can in some cases be enough to create a dynamic sound that draws the listener into it.
+The general compositional idea departs from the beating that occurs between pitches in certain harmonic relations, typically when the pitch difference between two pitches is small.[fn:15] The use of beatings is common in many contexts and is described in detail by Herman von Helmholtz [cite:@helmholtz1954] in his seminal work /On the Sensations of Tone/.
+Sonic effects like the interference that gives rise to beatings[fn:16] shows example of a certain transgression of the sound that invites to a widened listening experience: an effect arises that sometimes masks the original sounds and which allows the sound of the beating to take over: a "new and peculiar phenomena arise which we term interference"  [cite:@helmholtz1954]. 
+There is nothing new about using interference in electronic music, and it is widely used in synthesis and processing.
+What makes it interesting in this context is the way it creates a sonic topology that guides the listening.
+When still discernible the original sounds together with the added beating makes it possible to navigate the sound in multiple dimensions in the act of listening.
+A sine wave by itself is not a harmonic sound and lacks the attractiveness of complex sounds, but two sine waves sounding together can in some cases be enough to create a dynamic sound that may contribute to draw the listener into it.
+In the simple example in [[ref:fig:musicex_1][Figure 4]] this process is examplified with very simple means.
 
-Although the beating patterns between two intervals can be easily calculated,[fn:17] the sounding result of the interference is obviously different than the calculation and, again following Bergson's idea that an analysis from the outside will always be a reduction of one from the inside
-For that reason the pitch relations that I use are derived from a set of improvisations from which I deduct the patterns that I wish to continue working with based on [cite/text:@Tenney2008]'s harmonic space proposed in /On ’Crystal Growth’ in Harmonic Space/.
+#+CAPTION: Using three 7-limit intervals, the fourth and two closeby intervals, this simple example shows how the beating pattern is introduced with the 75/56 pitch creating 1.557 beats per second. Changing the interval to a smaller difference (75/56 and 98/75, too small to show in symbolic notation, has a beating of 8.534 beats ber second) increases the spead of the beating and with the last interval the speed of the beating decreases slightly. See also 
+#+NAME:   fig:musicex_1
+[[file:img/musicex_1.png]]
+
+Although the beating patterns between two intervals can be easily calculated,[fn:17] the sounding result of the interference is obviously different than the calculation and, again following Bergson's idea that an analysis from the outside will be a reduction compared to one performer from the inside.
+In the example in [[ref:fig:musicex_1][Figure 3]] the sound is a mono file in which can be heard either as just one channel or the same sound in both channels, depending on your poayback device. Putting two tones that generate a beating in different places in the soundfield impacts on the experience.
+In the short example in <sound beatings_binaural.wav> the two sine waves are spaced apart (left and right) in the beginning and gradually panned to the center portraying the impact that space has on this effect.
+
+For the composition the pitch relations that I use are derived from a set of improvisations from which I deduct the patterns that I wish to continue working with based on [cite/text:@Tenney2008]'s harmonic space proposed in /On ’Crystal Growth’ in Harmonic Space/.
 Once I have found the series of sounds and continuous transformations that I wish to work with, I notate the pitches and the transformations I played.
-This last aspect is added to maintains a certain conceptual stability to the process.[fn:18]
+This last aspect is added to maintain a certain conceptual stability to the process.[fn:18]
 The notation in this case is an abstraction of the analysis derived from the intuitive act of listening and tuning.
+An excerpt of one such notated improvisation may be found in [[ref:fig:musicex_2][Figure 2]] and it should be noted that the main point of this exercise is for med to get acquainted with the material and tune my listening to the various forms for interferences in the intervals in the scale.
 
-The next stage involves a realization of the notation back into sound, which will be performed in a studio environment designed in collaboration with EMS in Stockholm.
-This studio has been equipped with signal generators, filters and a tape recorder, mainly from the 1950's and 60's.
+#+CAPTION: A short improvsation on a set of 7-limit intervals for which the first few bars have been loosely notated. Each of the 16 notes have been given its own position in a circle surounding the listener with the root at the back of the listener. Also this recording is binaural <sound beatings2_bounce.wav>
+#+name: fig:musicex_2
+[[file:img/musicex_2.png]]
+
+The next stage in the process (which I have not started yet) involves a realization of the notation of the material back into sound, which will be performed in a studio environment designed in collaboration with /Elektronmusikstudion/ in Stockholm.
+This studio has been equipped with signal generators, filters and a tape recorder, mainly from the 1950's and 60's that we have acquired from the large collection kept by the Swedish National Collections of Music, Theatre and Dance.
 In comparison to the digital studio used almost exclusively today, much of this equipment is noisy and inexact and the work process involve tedious repetition and is error prone.
-Using a reel-to-reel tape recorder I will record one tone at the time onto tape, then play it back and tune a new tone according to the notation until a sonic pattern that fits the ambition is created, and then record that.
-Because of slight errors in the oscillator, inexactness of the tape recorder, and the human factor, this will obviously be an approximation of the exactness of the notation.
-It is clearly only through listening that the acceptable margin of error can be assessed, and, in other words, the "correctness" may only be evaluated from the inside of the sound, not from the system alone.
-To merely set the parameters to the defined values would generate a result that will be easily distinguishable from my process.
+In the studio I will interpret the notation with the tools available to me and record it using reel-to-reel tape recorders.
+Although I have used a computer to generate some of the material as well as the notation, in the act of realization of the material I will limit myself to the equipment in the studio. 
+Because of slight errors in the oscillator, inexactness of the tape recorder, and the human factor, the end result will clearly be an approximation of the seemingly exact notation.
+It is only through listening that the acceptable margin of error can be assessed, and, in other words, the "correctness" may only be evaluated from the inside of the sound, not from the system alone.
+
 
 It is incontestable that there is an active mode of listening in most compositional practices and I am not proposing that the listening performed in this project is different in nature.
 As was the case with saxophone-musician system described above, however, it is only partly correct to claim that it is from within the /sound/ that the intuitive relation to the material occurs in the different steps of the process.
-The role of the listening here will to a much higher degree be connected to, and affected by, the larger system.
+The role of the listening here will to a much higher degree be connected to, and affected by, the larger system including all aspects of the activity.
 The notation affects the listening, as does the equipment made to render the sound, as well as the system in which pitches were chosen.
 This is where Bergson's method of intuition makes sense as a means to understand the artistic process:
-Intuition allows me to engage with the system of production from within, but requires that I acknowledge all its parts, from the moment of the birth of the concept, from choice of pitches, timbres and rhythms, to the notation and on to the reinterpretation of the notation for the analog tone generators and the tape recorder.
-This process that stretches out over both time and space allows for a different modality of listening, different from what one may gather from listening to the sound alone without knowledge of, or access to, the information of the larger system.
-Under the right circumstances intuition can operate freely in this system and make me better understand where in the chain of elements adjustment needs to be made, and may reveal biases of the various parts of the system and the effect they have. 
-In this case the system is also stretched out in time as well as in space,
-This is comparable to how the listening to the rain fall at night is an experience that depends on past experiences as well as present, and even future, in the shape of imagination.
+Intuition allows me to engage with the system of production from within, but it requires that I acknowledge all of its parts from the moment of the birth of the concept, through the choice of pitches, timbres and rhythms, to the notation and on to the reinterpretation of the notation for the analog tone generators and the tape recorder.
+Hence, this process that stretches out over both time and space, allows for a different modality of listening, different from what one may gather from listening to the sound alone without knowledge of, or access to, the information of the larger system.
+This is comparable to how the listening to the rain fall at night discussed above, is an experience that depends on past experiences as well as present, and even future, when the sound is decoded in an act of creative imagination.
+Under the right circumstances intuition can operate freely in this system and make me better understand where in the chain of elements adjustment needs to be made.
+It may also reveal biases of the various parts of the system and the effect they have. 
 
 I can engage analytically within this intuition, which is basically what may be referred to as reflection, and this analysis may also contribute to a changes in the process.
 With an analysis from the outside, in Bergson's terminology, important information may be gathered, but the integrated understanding of the entire system will be difficult to achieve, as the parts of the analysis will be derived from different modalities: the sounding result and the memory of prior processes, such as the notation and conceptual development, will not be part of the same structure.
-If I work in the studio I can use a spectral analysis tool to gather information about the sound and I can learn a great deal about it, but if I wish to have a deeper understanding of the sound and its origin and meaning I need be able to also navigate in the larger network of activities that led to the sound. I need a continuum from outside to inside, from analysis to intuition.
+If I work in the studio I can use a spectral analysis tool to gather information about the sound, and I can learn a great deal about it this way, but if I wish to have a deeper understanding of the sound and its origin and meaning I need be able to also navigate in the larger network of activities that led to the sound.
+I need move in a continuum from outside to inside, from analysis to intuition.
 
 * Final reflections
-The discussion concerning how a digital signal processing unit in a studio may require a mode of reflection different than artistic sensibility in order to fully grasp its function that may not always harmonize with artistic methods and thinking may have some added relevance here.
-Part of the efficiency of already simple AI systems is the fact that  between input and output lies hidden layers of operation.
-Here, there is no way of engaging intuitively with the AI in the way that is proposed in the previous section since only part of the entire system can be known: if the output is erroneous some parameters may be tweaked, but I can never understand the system as a whole.
-The compositional system described earlier relies on the access to all of the operations between input and output, and from the notion that these are integral parts of the whole without which much of the process will be, at best, difficult to navigate.
-An important distinction that needs to be made is that listener does not need to engage with the whole chain of events.
-In fact, this would probably not be very useful at all.
+The discussion concerning how scientific technology such as advanced studio technology may require a mode of reflection different from the intuition of artistic sensibility  and artistic methods may have some added relevance in the contemporary landscape of advanced automated systems.
+Part of the efficiency of already simple AI systems lies in the fact that the layers of operation between input and output are usually disguised.
+There is no way of engaging intuitively with the AI in the way that is proposed in this article since only part of the entire system can be known: if the output is erroneous some parameters may be tweaked, but the system as a whole is extremely enigmatic.
+The compositional system described earlier relies on the access to all of the operations between input and output, and on the notion that these are integral parts of the whole without which much of the process will be, at best, difficult to navigate.
 
-Following this reasoning sound, in this context, is not a thing, not on object, that we listen to.
-It is by necessity a system of interrelated threads much larger than the actual sound by itself. To engage artistically with sound is to attempt to understand the trajectories of this system, and each sound heard in this process may be intuited through the internal structure of this system.
-The method proposed by Bergson is both interesting and useful when it comes to artistic practice in sound and music as it allows for a different theoretical input artistic processes that are to a high degree already governed by a mode of intuition (in the traditional sense of the word) and sensibility.
-Although it helps me to understand the material I am working with as well as the in-time process that I engage with when making decisions about the next steps in the process, the specific knowledge in this practice lies in the ways these decisions are being made, not merely what material is being discovered.
-To point out that listening to music is immersive may appear ubiquitous, but due to the fields of technology and artistic practice in the studio merging together, putting focus back on the attempt to understand the object from an inner immersiveness has some relevance, so long as what constitutes 'the object' that is being listened to is well considered.
-
-Returning to the main research question concerned with how sonic gestures can be understood as carriers of meaning the obvious answer is that they do.
-Furthermore, the idea that the artistic process is one process in which all different parts are tied together is clearly not new.
-I do believe, however, that the studies presented here gives some relevance to the fact that there is an inside perspective from which knowledge and information may be gathered, and that may be navigated with the method of intuition.
-Just as Bergson makes clear, and which I have pointed out several times already, this knowledge is different in nature from the outside perspective.
+Returning to the main research question concerned with how sonic gestures can be understood as carriers of meaning the answer is that they do.
+I do believe, however, that the studies presented here gives some relevance to the fact that there is an inside perspective from which knowledge and information may be gathered, and that it may be navigated with the method of intuition.
+Just as Bergson makes clear, and which I have pointed out several times already, this knowledge is different in nature from what may be gathered from the outside perspective.
 Hence, I believe that Bergson's method of intuition can lead to an understanding of sound within the process of playing or composing, and through the various elements on which the sound is dependent on.
 The epistemological nature of artistic practice in music, however, is complex and the proposed method is clearly not enough in and of itself.
 Nevertheless, intuition, as described here, may provide us with a method with which the artistic researcher may observe their own practice and extract relevant data.
 This is a process that is productively informed by the method of intuition, and a process where important information may be gathered through the intuitive analysis.
-It is in the interaction recursive interaction between this analysis, and the decision making /in the reflection upon these results/, that I argue are specific to artistic knowledge in music.
+It is in the recursive interaction between this analysis, and the decision making /in the reflection upon these results/, that I argue are specific to artistic knowledge in music.
 The question of how to present this information in ways that contributes to the general development of knowledge in the field is a larger question beyond the scope of this paper.
+
+Sound, the way I have discussed it here, is not a thing, not on object, that we listen to.
+It is a system of interrelated threads the meaning of which is much larger than the actual sound by itself. To engage artistically with sound is to attempt to understand the trajectories of this system, and each sound heard in this process may be intuited through the internal structure of this system.
+Since artistic processes that are to a high degree already governed by a mode of intuition (in the traditional sense of the word) and sensibility the method proposed by Bergson is both interesting and useful as it allows for a different theoretical input.
+It helps me to understand the material I am working with as well as the in-time process that I engage with when making decisions about the different steps in the process. The specific knowledge in this practice partly lies in the ways these decisions are being made, not merely what material is being discovered.
+To point out that listening to music is immersive may be unnecessary, but due to the fields of technology and artistic practice in the studio merging together, putting the focus back on the attempt to understand the object from an inner immersiveness has  relevance, so long as the definition of 'the object' that is being listened to is well considered.
 
 
 
