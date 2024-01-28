@@ -45,8 +45,8 @@ Flytta senare
 
 ** (in an attempt to change the conditions for the composition process in order to focus on the act of listening.)
 :PROPERTIES:
-:org-remark-beg: 60286
-:org-remark-end: 60397
+:org-remark-beg: 60059
+:org-remark-end: 60170
 :org-remark-id: 91e8b5ee
 :org-remark-label: nil
 :org-remark-link: [[file:sonic_studies.org::420]]
