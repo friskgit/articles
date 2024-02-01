@@ -3,7 +3,8 @@
 #+AUTHOR: Henrik Frisk, henrik.frisk@kmh.se
 #+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil pri:nil tags:not-in-toc toc:nil num:0
 # #+INCLUDE: "./setupfile.org"
-#+cite_export: csl ~/MyDocuments/articles/biblio/csl-styles/apa-7th.csl
+# #+cite_export: csl ~/MyDocuments/articles/biblio/csl-styles/apa-7th.csl
+#+cite_export: csl /Users/henrik_frisk/Documents/articles/biblio/csl-styles/chicago-author-date.csl
 #+LATEX_HEADER: \bibliography{./gi_biblio.bib}
 
 * COMMENT soundfiles
@@ -100,9 +101,9 @@ This is discussed by [cite/text:@Galdon2022] concluding that "this type of impli
 Furthermore, any argument put forth from this /inside/ perspective may be assigned a parochial nature difficult to contest.
 When the claim is that the artistic researcher by definition produces research from the /inside/ the critical discussion concerning the results must be considered.
 
-Much has been written about these topics over the years of the development of the field of artistic research. In the contribution by Sören [cite/text:@kjorup10] in the /Routledge Companion to Research in the Arts/ he argues that:
+Much has been written about these topics over the years of the development of the field of artistic research. In the contribution by Sören [cite/text:@kjorup10] in the /Routledge Companion to Research in the Arts/ he argues that:  
    #+begin_quote
-   if artistic research is supposed to be different from all other kinds of research, it is natural to focus on the artist as the researcher, and what is specific for the artist is her or his privileged access to her or his own creative process. [cite:@kjorup10;, p. 25]
+   if artistic research is supposed to be different from all other kinds of research, it is natural to focus on the artist as the researcher, and what is specific for the artist is her or his privileged access to her or his own creative process. [cite:@kjorup10 25]
    #+end_quote
    
 This "privileged access" could be seen to harbor a possibility for revealing a kind of knowledge that is sometimes mediated by symbols and concepts, but which is primarily founded on unmediated experience, a somewhat paradoxical situation where the goal is to bring forth that which is by nature hidden.
@@ -131,23 +132,23 @@ Intuition gives the subject first-person knowledge and in this sense an object c
 Bergson's use of intuition is described by [cite/text:@Kelly2010] "as a method of reflecting on instinctual or sympathetic engagement with things in all their flux before the framework of practical utility obfuscates our relation to them and to life." (p. 10)
 It is this meaning of intuition that the rest of this paper is leaning on.
 
-In the essay mentioned above, /An introduction to metaphysics/, [cite/text:@Bergson1912] defines two incommensurable ways to approach an object: either from a point of view through signs and concepts--a /relative/ perspective--or through entering into the object, exploring it from the inside--and /absolute/ apprehension. This exploration from the inside is achieved by entering into what he calls /sympathy with the possible states of the object/ which allows for inserting oneself "in them by an effort of imagination"  [cite:@Bergson1912;, p. 2].  This enables him to "no longer grasp the movement from without, remaining where I am, but from where it is, from within, as it is in itself" [cite:@Bergson1912;, p. 3]. The latter is what he refers to as /absolute/ knowledge: "The absolute is the object and not its representation, the original and not its translation, is perfect, by being perfectly what it is." [cite:@Bergson1912;, p. 5-6]
+In the essay mentioned above, /An introduction to metaphysics/, [cite/text:@Bergson1912] defines two incommensurable ways to approach an object: either from a point of view through signs and concepts--a /relative/ perspective--or through entering into the object, exploring it from the inside--and /absolute/ apprehension. This exploration from the inside is achieved by entering into what he calls /sympathy with the possible states of the object/ which allows for inserting oneself "in them by an effort of imagination"  [cite:@Bergson1912 cln 2].  This enables him to "no longer grasp the movement from without, remaining where I am, but from where it is, from within, as it is in itself" [cite:@Bergson1912 cln . 3]. The latter is what he refers to as /absolute/ knowledge: "The absolute is the object and not its representation, the original and not its translation, is perfect, by being perfectly what it is." [cite:@Bergson1912 cln 5-6]
 
 An example that Bergson gives to describe representational knowledge is a photographic view of a city.
 If all angles and all surfaces of a city area have been photographed and documented to achieve something similar to the street view that online maps now offer, a reasonably highly detailed replica of the space may be achieved.
 Exploring such a model, however, can not be equated with the experience of being in the city. It will offer a representation, and as such much can be gathered about the space but it will still be a qualitatively different experience.
 Another example Bergson gives is the translation of a poem into different languages.[fn:9]
-Each such translation can give the reader a sensible idea of the meaning of the poem, sometimes even revealing new articulations, but it would, claims  [cite/text:@Bergson1912;, p. 5]. "never succeed in rendering the inner meaning of the original"
+Each such translation can give the reader a sensible idea of the meaning of the poem, sometimes even revealing new articulations, but it would, claims  [cite/text:@Bergson1912 cln 5]. "never succeed in rendering the inner meaning of the original"
 
 One of Bergson's central propositions here is that the kind of knowledge that arises from a /relative/ perspective is always a reduction of the thing under consideration.
 Scrutinizing the object from an outside perspective allows for analytical precision, but whatever comes out of this process is always a reduction:
    #+begin_quote
-   In its eternally unsatisfied desire to embrace the object around which it is compelled to turn, analysis multiplies without end the number of its points of view in order to complete its always incomplete representation, and ceaselessly varies its symbols that it may perfect the always imperfect translation. It goes on, therefore, to infinity. But intuition, if intuition is possible, is a simple act. [cite:@Bergson1912;, p. 8]  
+   In its eternally unsatisfied desire to embrace the object around which it is compelled to turn, analysis multiplies without end the number of its points of view in order to complete its always incomplete representation, and ceaselessly varies its symbols that it may perfect the always imperfect translation. It goes on, therefore, to infinity. But intuition, if intuition is possible, is a simple act. [cite:@Bergson1912 cln 8]  
    #+end_quote
 
 The /absolute/, on the other hand, is given from /intuition/ and /intellectual sympathy/ with the object.
 The /intuition/ allows for a perception of the object's unique qualities which Bergsom points out, is the /perfect absolute/ in contrast to the /imperfect analysis/.
-The science of intuition is metaphysics, and metaphysics is "the science which claims to dispense with symbols" [cite:@Bergson1912;, p. 9].
+The science of intuition is metaphysics, and metaphysics is "the science which claims to dispense with symbols" [cite:@Bergson1912 cln 9].
 
 The one reality that is almost always seized from within is when we engage in self-reflection.
 Bergson describes the various strata the process of introspection provides when slowly moving toward the center of the self.
@@ -185,7 +186,7 @@ For a subject able to observe the thing from the inside, intuitively, there are 
 Without this inside access, one is left with the option of a conceptual analysis from the outside, and regardless of how many different perspectives this analysis is performed from, it will never fully capture the true /motion/ of the object.
 The contradictions between this and the intuitive knowledge that Bergson is arguing for
    #+begin_quote
-   arise from the fact that we place ourselves in the immobile in order to lie in wait for the moving thing as it passes, instead of replacing ourselves in the moving thing itself, in order to traverse with it the immobile positions. They arise from our professing to reconstruct reality--which is tendency and consequently mobility--with precepts and concepts whose function it is to make it stationary. [cite:@Bergson1912;, p. 67]
+   arise from the fact that we place ourselves in the immobile in order to lie in wait for the moving thing as it passes, instead of replacing ourselves in the moving thing itself, in order to traverse with it the immobile positions. They arise from our professing to reconstruct reality--which is tendency and consequently mobility--with precepts and concepts whose function it is to make it stationary. [cite:@Bergson1912 cln 67]
    #+end_quote
 
 One central aspect of the distinction between analytical and intuitive knowledge made here is that the intuitive, being in motion or duration, can always develop concepts and form the basis for analytical knowledge, whereas it is impossible to reconstruct motion from fixed concepts.
@@ -194,7 +195,7 @@ An analysis from the outside is performed on one particular state of the duratio
 This is the critical point that Bergson objects against:
 It is only through intuition that the variability of reality may be fully experienced as mobility.
 A succession of static states is radically different, it is a series of frozen frames of time added together, one slice after the other.
-The error in thinking that reality may be accessed through analysis, claims Bergson, "consists in believing that we can reconstruct the real with these diagrams. As we have already said and may as well repeat here--from intuition, one can pass to analysis, but not from analysis to intuition" [cite:@Bergson1912;, p. 48] 
+The error in thinking that reality may be accessed through analysis, claims Bergson, "consists in believing that we can reconstruct the real with these diagrams. As we have already said and may as well repeat here--from intuition, one can pass to analysis, but not from analysis to intuition" [cite:@Bergson1912 cln 48] 
 
 To conclude this brief overview of Bergson's theory of intuition there are a few things that I claim connects it to the general discussion of the uncertainty of the epistemology of artistic research: what knowledge can we expect from this research? The inside perspective is often brought up as a significant aspect of artistic research.
 If this perspective can be approached through intuition and analyzed as Bergson is suggesting intuition should be a valid method, both in general and in relation to the ambition of this paper.
@@ -343,7 +344,7 @@ An excerpt of one such notated improvisation may be found in [[ref:fig:musicex_2
 [[file:img/musicex_2.png]]
 
 The next stage in the process (which I have not started yet) involves a realization of the notation of the material back into sound, which will be performed in a studio environment designed in collaboration with /Elektronmusikstudion/ in Stockholm.
-This studio has been equipped with signal generators, filters, tape recorders, mainly from the 1950s and 60s that we have acquired from the large collection kept by the Swedish National Collections of Music, Theatre, and Dance.
+This studio has been equipped with signal generators, filters, tape recorders, mainly from the nineteen fifties and sixties that we have acquired from the large collection kept by the Swedish National Collections of Music, Theatre, and Dance.
 In comparison to the digital studio used almost exclusively today, much of this equipment is noisy and inexact and the work process involves tedious repetition and is error-prone.
 In the studio, I will interpret the notation with the tools available to me and record it using reel-to-reel tape recorders.
 Although I have used a computer to generate some of the material as well as the notation, in the act of realization of the material I will limit myself to the equipment in the studio. 
@@ -402,7 +403,7 @@ Though in line with some of the thinking about artistic research that was presen
 
 The examples above are specific in the sense that they may be generalized and that they exploit a certain impartial identity.
 On some basic level it is possible to agree on the sound of the rainfall at night being precisely a sound of a forest without specifying which forest, becoming a Saussurian sound-image. But what is the mobility of an abstract sound approached from the inside? Again, the question of what it is I attempt to approach from the inside is raised. Can the sound be understood without also knowing something about /how/ it is produced? I believe that the method of intuition is particularly useful here. 
-* Bibliography
+* References
 #+print_bibliography: title: "Bilblio"
 
 * Footnotes
@@ -424,7 +425,7 @@ On some basic level it is possible to agree on the sound of the rainfall at nigh
 [fn:13] This is sometimes referred to as audioparity [cite:@Valle2018], or self-audioparity [cite:@Catena2021]. The latter refers to a recursive interaction between parameters of the sound. 'Spatial Sonorous Object' as discussed by [cite/text:@catena2022] is an analytical tool for understanding these possible transformation in a music analytical way.
 
 [fn:17] The frequency of the beating between two simple tones is derived from subtracting the frequencies of the two tones $f_1-f_2 = b$
-[fn:16] More complex auditory phenomena, like combination tones are discussed by [cite/text:@Aron2023] in the thesis /Phainesthai: Discovering Auditory Processes as a Tool for Musical Composition/ which goes into depth with the artistic possibilities with playing with acoustic phenomena that only occurs through the act of listening. For a description of the difference between combination tones and beatings, see [cite/text:@helmholtz1954;, p. 159].
+[fn:16] More complex auditory phenomena, like combination tones are discussed by [cite/text:@Aron2023] in the thesis /Phainesthai: Discovering Auditory Processes as a Tool for Musical Composition/ which goes into depth with the artistic possibilities with playing with acoustic phenomena that only occurs through the act of listening. For a description of the difference between combination tones and beatings, see [cite/text:@helmholtz1954 cln 159].
 
 [fn:14] This, then, is related to the discussion earlier that the digital studio has influence on the practice of composition, and partly related to the fact that the computer has become a general instrument with which it becomes increasingly difficult to maintain originality. The attempt is to change the conditions for the composition process in order to focus on the act of listening.
 [fn:15] A rough sketch for the basic layout of this composition was made in 1994 but was never completed.
