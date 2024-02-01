@@ -45,11 +45,11 @@ Flytta senare
 
 ** (in an attempt to change the conditions for the composition process in order to focus on the act of listening.)
 :PROPERTIES:
-:org-remark-beg: 60059
-:org-remark-end: 60170
+:org-remark-beg: 60067
+:org-remark-end: 60178
 :org-remark-id: 91e8b5ee
 :org-remark-label: nil
-:org-remark-link: [[file:sonic_studies.org::420]]
+:org-remark-link: [[file:sonic_studies.org::417]]
 :END:
 
 ** In Bergson's description of the two profoundly different ways of knowing a thing, what he calls absolute /absolute/ knowledge from the inside has some resonance with the arguments for the need of artistic research.
