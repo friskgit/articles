@@ -1,0 +1,289 @@
+#+TITLE:    On the self and ethics in musical improvisation
+#+SUBTITLE: what can we learn?
+#+EMAIL:    henrik.frisk@kmh.se
+#+NAME: Henrik Frisk
+#+DATE: November 24, 2023
+#+DESCRIPTION:
+#+STARTUP: indent
+#+STARTUP: overview
+#+KEYWORDS: teaching, composition
+#+LANGUAGE: en
+#+OPTIONS: toc:nil num:nil
+#+BIBLIOGRAPHY: ./improv_knowledge.bib
+
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+
+#+REVEAL_INIT_OPTIONS: width:1200, height:800, controlsLayout: 'edges'
+#+REVEAL_THEME: black
+#+REVEAL_TRANS: none
+#+REVEAL_TITLE_SLIDE: <h1>%t</h1><h3>%s</h3><p>%d</p><p>%a - %e</p>
+#+REVEAL_TITLE_SLIDE_BACKGROUND: ./img/kmh-white2.png
+#+REVEAL_TITLE_SLIDE_BACKGROUND_SIZE: 1600px
+#+REVEAL_TITLE_SLIDE_BACKGROUND_REPEAT: 
+#+REVEAL_SLIDE_FOOTER:
+#+REVEAL_MARGIN: 0.1
+
+# title slide background
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND:
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND_SIZE:
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND_POSITION:
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND_REPEAT:
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND_TRANSITION:
+
+# Change the MIN_SCALE to make the presentation fit in a smaller window. 
+# See also the script at the bottom of the generated file
+
+#+REVEAL_MIN_SCALE: 0.1
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_HLEVEL: 1
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Slide presentation.">
+#+REVEAL_POSTAMBLE: <p> Henrik Frisk </p>
+#+REVEAL_PLUGINS: (markdown notes)
+#+REVEAL_DEFAULT_FRAG_STYLE: fade-out
+#+REVEAL_EXTRA_CSS: ./local.css
+
+#+MACRO: color @@html:<font color="$1">$2</font>@@
+
+* COMMENT Tree slide settings
+#+begin_src emacs-lisp
+  (when (require 'org-tree-slide nil t)
+    (setq org-tree-slide-skip-comments 'inherit)
+    (setq org-tree-slide-skip-done nil)
+    (require 'org-tree-slide-pauses)
+    (setq org-image-actual-width nil)
+    (setq org-tree-slide-content-margin-top 5)
+    )
+
+  ;; For a light theme
+;;    (load-theme 'tango t)
+   (custom-set-faces
+;;    '(org-quote ((t (:inherit org-block :background "white smoke"))))
+    '(org-tree-slide-header-overlay-face ((t (:inherit default))))
+ ;;   '(shadow ((t (:foreground "gainsboro"))))
+    )
+#+end_src
+
+#+RESULTS:
+
+#+begin_src emacs-lisp
+  (set-window-margins (selected-window) 40 40)
+  (setq line-spacing 0.5)
+  ;; (text-scale-increase 1)
+  (setq org-fontify-emphasized-text 1)
+  (setq org-format-latex-options (plist-put org-format-latex-options :scale 1.0))
+;;  (set-frame-font "Helvetica 12" nil t)
+#+end_src
+
+#+RESULTS:
+| :foreground | default | :background | default | :scale | 1.0 | :html-foreground | Black | :html-background | Transparent | :html-scale | 1.0 | :matchers | (begin $1 $ $$ \( \[) |
+
+
+
+
+* Introduction
+
+** Anxiety about the validity of improvisation
+Improvisation is still the rebel (?)
+
+. . .
+
+It should be the norm, not the fringe alternative...
+#+pause:
+structurally enforced
+
+** Critique
+The discussion has a tendency to excluded many non-western types of improvised music
+
+- Kamoche & Pina E. Cunha (2008)
+- Frisk & Östersjö (2013) 
+
+Improvisation as a stylistic delimiter is problematic
+
+
+* Four themes
+#+ATTR_REVEAL: :frag (appear)
+- method
+- ethics
+- play
+- knowledge
+** Method
+The practice of improvisation as a method with which different values may be proposed
+
+** Ethics
+The practice of improvisation reveals a certain possibility for ethics
+
+Focus is on /what happens/, not /how to make it happen/
+
+** Play
+Play, or free-play, is the activity that is not bound to a particular concept
+
+** Knowledge
+Whether musical practices can give rise to knowledge outside of its own field
+
+- it is not the art object as knowledge (though it could be), it is the /doing/ of art
+
+
+* Method
+Control or giving up the control?
+
+#+puase:
+#+begin_quote
+When improvising, am I creating material when I play or do I find it?
+#+end_quote
+#+puase:
+Creating/Finding: problematic metaphors, but useful methodological tools
+
+** COMMENT Gregory Bateson
+** 
+#+ATTR_HTML: :width 400
+[[file:img/ImpCompInt-cover.jpg]]
+
+* Foucault: /Practices of freedom/
+
+In this method a particular development between self and others is at the core
+
+Inspired by Foucault's notion of the /care of the self/, a self that is rooted in "practices of freedom" 
+
+** ethics, freedom and reflection
+
+#+begin_quote
+Freedom is the ontological condition of ethics. But ethics is the considered form that freedom takes when it is informed by reflection.
+#+end_quote
+
+Foucault, Rabinow & Hurley (1997) Ethics: Subjectivity and Truth, New Press, New York.
+
+** summary
+As long as I care about the relation between myself and the other, and the larger context, I can be free to follow my artistic and ethically informed intentions, which will enforce my freedom
+ 
+* The care of the self as practice
+
+The care of the self is not a solipsitic activity
+
+#+ATTR_HTML: :width 400
+[[file:img/self_care.jpg]]
+
+** Foucault
+
+#+begin_quote
+When you take care of the body you do not take care of the self. The self is not clothing, tools, or possessions; It is to be found in the principle that uses these tools, a principle not of the body of the soul.
+#+end_quote
+
+** Foucault
+
+#+begin_quote
+ You have to worry about your soul--that is the principal activity for caring for yourself. The care of the self is the care of the activity and not the care of the soul-as-substance. 
+#+end_quote
+
+** Foucault
+
+#+begin_quote
+ You have to worry about your improvisation--that is the principal activity for caring for yourself. The care of the self is the care of the activity and not the care of the improvisation-as-substance. 
+#+end_quote
+
+The principle that uses the tools of artistic practice is in essence the aesthetics of the creative act: the practice itself.
+
+* The care of the self: a focus on the world around me
+#+ATTR_REVEAL: :frag (appear)
+- connections exist, matter, and need to be good and respectful
+- a developed sense of ethics comes from a deep understanding for the relations I'm engaged in
+- maybe paves the way for a artistic knowledge claim
+  - through these /connections/ knowledge may be developed
+    
+* Ethics: motivation
+#+ATTR_HTML: :width 500
+[[file:img/capitalism.png]]
+
+** moral questions
+:PROPERTIES:
+:reveal_background: ./img/capitalism2.png
+:reveal_background_trans: slide
+:END:
+#+ATTR_REVEAL: :frag (appear)
+- the power relations between the arts and the control structures of capitalism are, in an understatement, unequal
+- the possiblity for interpretations of moral questions is shrinking.
+- the panoptic control structures of social-media become second nature and they offer an understanding of ethics that is both normative and irrational.
+  
+** music
+Both music and ethics lack clear definitions - yet, they are incredibly important
+
+Ethics in artistic practice, that is, the moral values that are expressed through artistic practices in music, may complement traditional views on ethics.
+
+** examples
+#+ATTR_REVEAL: :frag (appear)
+1. social and musical ethics in conflict @@html:<p style="font-size:60% !important; text-align: right !important;">Frisk (2014). Improvisation and the self: to listen to the other, Cambridge Scholars Publishing.</p>@@
+2. acting upon the freedom given by the situation @@html:<p style="font-size:60% !important; text-align: right !important;">Frisk (2013) The (un)necessary Self, Lund University Press.</p>@@
+
+
+* Play
+#+ATTR_REVEAL: :frag (appear)
+- ethics of artistic practice is described here as a form for play
+- the artistic practice enables new ethical perspectives.
+- the /play/ is for the sake of playing
+- the bi-product is knowledge and the discovery of the meaning of concepts outside of the play.
+
+* Play
+#+ATTR_REVEAL: :frag (appear)
+- play is the antidote of capitalist consumption, which is always transactional.
+- the former creates freedom and the latter consumes it.
+  
+** definition
+this free play of associations is perhaps best described by Susanne Langer (2009) as a /uncritical fusion of impressions, that exercise the powers of symbolic transformation/
+
+** framework
+#+ATTR_REVEAL: :frag (appear)
+- judgments such as right and wrong are useless to employ in music
+- they are equally difficult to determine in ethics
+- in both cases there is a need for a framework through which the judgements may be applied
+- Artistic practice, developed through the care of the self, is proposed as such a framework
+
+** The interactions are the primary interest
+
+It is the interactions that are made possible by engaging in an artistically driven play with the objects:
+ - a free play with no particular meaning
+
+In this free play I can engage with certain questions in a way that would otherwise not have been possible. Improvisation is part of the method that allows me to do this.
+
+* Knowledge
+** Knowledge in artistic research
+many attempts to draw wide-ranging conclusions on the knowledge gained
+#+ATTR_REVEAL: :frag (appear)
+- Nooshin (2003) Improvisation as ‘Other’: Creativity, knowledge and power–the case of Iranian classical music, Journal of the Royal Musical Association.
+- Holdhus, Høisæter & Mæland et al. (2016) Improvisation in teaching and education—roots and applications, Cogent Education.
+** Knowledge in artistic research
+- Vera, Nemanich & Vélez-Castrillón et al. (2016) Knowledge-based and contextual factors associated with R&D teams’ improvisation capability, Journal of Management.
+- Kamoche & Pina E. Cunha (2008) Improvisation and knowledge: the challenge of appropriation, Management Research: Journal of the Iberoamerican Academy of Management.
+
+** Improvisation develops networks
+#+ATTR_REVEAL: :frag (appear)
+- the various parts of the system are interrogated in a playful manner
+- the moral values that are expressed through artistic practices in music, specifically improvisation, may complement traditional views on ethics
+- rooted in a relational ontology
+  
+** central question
+how thinking about improvisation in this way may allow me to understand the ways I may approach the other in and through this practice
+
+I will attempt to devise a method with which I can understand and explore these processes from the inside of my own practice, well aware of the potential limitations in scope that this will carry.
+
+** improvisation as method
+improvisation is a method with which musical and human relations can be explored
+and with which new music can be found and created.
+
+** knowledge claim
+The knowledge lies in the connections between the various agents involved in the practice
+
+* Summary
+#+ATTR_REVEAL: :frag (appear)
+- improvisation, is a good method for investigating this ethics of practice
+- it can provide us access to important knowledge about relations through relations
+- this knowledge transcends biographical information
+
+* Summary
+#+ATTR_REVEAL: :frag (appear)
+- the knowledge claim, I argue, is in the way the various parts of the system is organized
+- it is through the practice that the knowledge is revealed
+- it is through new connections that it is conveyed
+- it is the way that the network grows that shows its epistemological potential
+
+* Thank you!
+
+* Questions?

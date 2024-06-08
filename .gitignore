@@ -9,3 +9,10 @@
 /instruments_ethics/instrument_ethics_presentation.org~
 /instruments_ethics/instrument_ethics_slides.html~
 /instruments_ethics/instrument_ethics_slides.org~
+*.bbl
+*.aux
+*.aux
+/antologi_om_improvisation/*.docx
+*/video_presentation
+*/*.DS_Store
+/finding_reminding/*.DS_Store
