@@ -17,7 +17,7 @@
 #+REVEAL_THEME: black
 #+REVEAL_TRANS: none
 #+REVEAL_TITLE_SLIDE: <h1>%t</h1><h3>%s</h3><p>%d</p><p>%a - %e</p>
-#+REVEAL_TITLE_SLIDE_BACKGROUND: ./img/kmh-white2.png
+#+REVEAL_TITLE_SLIDE_BACKGROUND: img/kmh-white2.png
 #+REVEAL_TITLE_SLIDE_BACKGROUND_SIZE: 1600px
 #+REVEAL_TITLE_SLIDE_BACKGROUND_REPEAT: 
 #+REVEAL_SLIDE_FOOTER:
@@ -195,7 +195,7 @@ The principle that uses the tools of artistic practice is in essence the aesthet
 
 ** moral questions
 :PROPERTIES:
-:reveal_background: ./img/capitalism2.png
+:reveal_background: img/capitalism2.png
 :reveal_background_trans: slide
 :END:
 #+ATTR_REVEAL: :frag (appear)

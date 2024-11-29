@@ -1,6 +1,5 @@
 /gi_critique/forks/marginalia.org~
-/.DS_Store
-/*/.DS_Store
+*.DS_Store
 /forskningsanknytning/.DS_Store
 /forskningsanknytning/releases/.DS_Store
 /forskningsanknytning/releases/cempe_video/.DS_Store
@@ -16,3 +15,5 @@
 */video_presentation
 */*.DS_Store
 /finding_reminding/*.DS_Store
+.DS_Store
+smc/*.aux
