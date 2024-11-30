@@ -17,3 +17,4 @@
 /finding_reminding/*.DS_Store
 .DS_Store
 smc/*.aux
+finding_reminding/.DS*
