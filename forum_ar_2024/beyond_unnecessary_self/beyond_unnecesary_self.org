@@ -52,8 +52,22 @@ My argument here is that with the tools that are defined through the technologie
 
 --- It makes the subject important and unimportant at the same time. ---
 
-An artistic practice that departs from the use of obsolete instruments such as the one documented here the interrelations between the various subjects/objects involved in the performance can become both more complicated but also, to some extent, easier.
-There are both differences and similarities between the study of traditional methods for musical interpretation, rooted in Western musical history an practices, and the excavation of the technological and cultural significance of a particular electronic musical instrument of the past lies in the fact that the 
+An artistic practice that departs from the use of obsolete instruments such as the ones documented here the interrelations between the various subjects/objects involved in the performance can become both more complicated but also, to some extent, easier.
+
+There are both differences and similarities between the study of traditional methods for musical interpretation, rooted in Western musical history and practices, and the excavation of the technological and cultural significance of a particular electronic musical instrument of the past.
+The most prominent is the aspect of technology itself.
+Though many examples of inventive designs are incorporated into mainstream products and in recent history others are simply forgotten and abandoned despite its explicit contribution to the development.
+One reason for the is the incredible speed of technological development which makes artistic practices involving technological instruments fragile and vulnerable to changes that renders all or parts of the instruments unusable.
+This may be software upgrades, abandoned hardware circuits, forgotten system-specific knowledge, or simply the fact that the new upgrade is so much more compelling in its usability and sonic or musical qualities.
+Commercial aspects have a great impact here and as Pinch and Trocco concludes about the synthesizer: "from a flexible variety of possible control configurations, the synthesizer eventually stabilised into a keyboard instrument" [cite:@Pinch1998].
+In other words, over time the highly experimental field of the design of electronic musical is narrowed, and standardization and market forces excludes those items that are not successful enough, or simply excluded because they are incompatible with current production paradigms.
+This brings us back to the discussion at the beginning of the paper relating to the impact that capitalism has on the field through the instruments with which an otherwise experimental artistic practice that generally tries to evade capitalistic market forces. 
+It is true that few Western instruments, electronic or acoustic, are independent from the commodifying forces or market economy, but the way that the development of electronic instrument is aligned with the advancements of technology in society in general makes it particularly sensitive.
+
+and even if they were, the result is likely to be sucked up by market forces
+
+----It is not unlikely that some stuff has been forgotten or supressed in the fast development of technology over the last half century.
+----lies in the fact that the 
 In the context of the current discussion the former is so well described by Roland Barthes in the famous essay /The death of the Author/ [cite:@barthes68:death_of], where he claims that detailed biographical and historical knowledge about the composer is at the core of a true interpretation of a work.
 Hence, the definition of the artistic work is constructed through a hierarchical structure with the author as the self at the top.
 Any understanding of this work has to go through the understanding of the self which is clearly a different stance than the attempt to deconstruct the self as described above.
@@ -69,20 +83,21 @@ It is the relations between these parameters that I am interested in, not in my 
 In a wider scope of contemporary technologies, the rate at which the development in general is progressing can turn objects sometimes less than a decade old incompatible with current systems.
 A hypothesis is that by learning from early electronic instruments using the methods I have proposed it may be possible to better understand the complexities of what can be seen as a media archaeology.
 
-In design history we can see how inventive design is incorporated into mainstream products and others are simply forgotten.
-It is not unlikely that some stuff has been forgotten or supressed in the fast development of technology over the last half century.
-As Pinch and Trocco concludes about the synthesizer: "from a flexible variety of possible control configurations, the synthesizer eventually stabilised into a keyboard instrument" [cite:@Pinch1998].
-In other words, over time the field is narrowed and standardization and market forces excludes those items that are not successful enough, or simply excluded because they are incompatible with current paradigms.
-This brings us back to the discussion at the beginning of the paper relating to the impact that capitalism has also on object and practices that attempt to stand outside of market forces.
-Few Western instruments are independent from the commodification forces, and even if they were, the result is likely to be sucked up by market forces
+
 
 My primary interest is not the objects in themselves. If it were, we could for example say that there is nothing outside a piece of equipment like a Dataton module, to rudily paraphrase Derrida. There is only the object and what it tells us, everything is there, contained within it. Though I believe that there is some merit to this thought it is no the single solution here. Nor is my sole interest an artistically driven project where the end goal is a "work", but where at the centre there is still an /author/. It is the interactions that are made possible by engaging in an artistically driven play with the objects, a free play that does not have a purpose and no particular meaning, though it may well develop in other directions in the future. In this free play I can engage with certain questions in a way that would otherwise not have been possible. Improvisation is part of the method that allows me to do this.
 
-The biggest difference between the two models, that is, the traditional musicological approach, and a historically informed exploration of a electronic music heritage, is that the first has an origin (the composer) and the second supports a network of relations that includes an originator but does not necessarily privilege them. The ladder, I would argue, is not normative on the level of practice, it doesn't prescribe how one should do something, but it rather proposes how one may understand something one already does. The added value is that it opens up for an expanded ethical dimension of artistic practices that value the larger context of, in this case obsolete instruments, and the relationships between the various agents involved in their past and current practices:
+The biggest difference between the two models, that is, the traditional musicological approach, and a historically informed exploration of a electronic music heritage, is that the first has an origin (the composer) and the second supports a network of relations that includes an originator but does not necessarily privilege them.
+The ladder, I would argue, is not normative on the level of practice, it doesn't prescribe how one should do something, but it rather proposes how one may understand something one already does.
+The added value is that it opens up for an expanded ethical dimension of artistic practices that value the larger context of, in this case obsolete instruments, and the relationships between the various agents involved in their past and current practices:
 
 The /giving up of the self/ along with the /care of the self/ are not contradictions - they feed upon each other and allow for an approach and an epistemology of creativity that is more closely aligned with others than the solely the self.
 
-In the attempt to construct an artistic practice that creates conditions for the unnecessary self there are a number of factors that have been discussed here.
+In the attempt to construct an artistic practice where the self is unnecessary there are a number of factors that have been discussed here.
 One is the objectifying forces of the hyper capitalism that not even experimental musical practices manage to evade.
+This is at odds with the idea of the care of the self, a process in which the self as a subject is promoted with the goal of creating sustainable relations between the self, the others, and the practices of the self.
+Another is the impact of the type of instruments the practice is engaged with and the fact that these themselves may engage in a process of subjectification that has an impact on the general ethics of the practice.
+Finally, the general ethics of the artistic practice as firmly rooted in the care for the self is constantly challenged by the reality of capitalism.
+Nevertheless, through the practice of the care of the self I believe that a genuine and useful idea of an ethics of artistic practice that has
 
 (This presentation will be in the form of a lecture performance.)
