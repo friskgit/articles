@@ -17,7 +17,7 @@
 * Abstract
 ** Beyond the unnecessary self
 
-In my 2013 paper /The (un)necessary self/ [cite:@Frisk2013] I further explored the idea of the /giving up of the self/ as an important step towards the dismantling of the romantic idea of creation, and approach an understanding of creativity that is more closely aligned with the other. The other should be understood as anyone in the proximity of the artistic practice: a co-creator, a listener, a particpant or a remote collaborator. The point here is to move the focus from the creator to what is created and to understand the roles of the various agents involved.
+In my 2013 paper /The (un)necessary self/ [cite:@Frisk2013] I explored the idea of the /giving up of the self/ as an important step towards the dismantling of the romantic idea of creation, and approach an understanding of creativity that is more closely aligned with the other. The other should be understood as anyone in the proximity of the artistic practice: a co-creator, a listener, a particpant or a remote collaborator. The point here is to move the focus from the creator to what is created and to understand the roles of the various agents involved.
 
 In music, hyper-capitalism of the twenty first century is eager to commodify the artistic output, the artist, as well as the listeners. This is not only a problem for the freedom of art (a concept equally complex), it also makes the role of the self difficult to understand. But in the radicalization of the role of the creator, both a new work concept and a review of the self is necessary, even beyond the notion of giving up of the self. The ethics in artistic practices, that is, the moral values that are expressed through artistic practices in music, specifically improvisation, may complement traditional views on ethics and is an important aspect when discussing the roles of the self. The notion of the /Care of the Self/, as discussed in Michel Foucault's Volume Three of the /History of Sexuality/, is used as a method to approach this complex area. 
 
@@ -26,98 +26,55 @@ This presentation will be in the form of a lecture performance.
 ** Introduction
 
 In my 2013 paper /The (un)necessary self/ [cite:@Frisk2013] I explored the idea of the concept of /giving up of the self/ as an important step towards the dismantling of the romantic idea of creation and individuality.
-Instead I wanted to approach an understanding of creativity that is entangled with the other in a way that emphasizes the relation between self and other rather than on the individuality of the artist.
-Related to this is the ambition to move the focus from the /creator/ to what is /created/, and to better understand the roles of the various agents involved.
-The other should be understood as anyone or anything in the proximity of the artistic practice: a co-creator, a listener, a particpant, an instrument, a remote collaborator, or anything with a similar impact on the artistic practice.
+I wanted to approach an understanding of creativity that is entangled with the other in a way that emphasizes /relations/ rather than the individuality of the artist.
+Related to this is the ambition to move the focus from the /creator/ to what is /created/, and to better understand the roles of the various actors involved.
+The /other/ in this context should be understood as anyone or anything in the proximity of the artistic practice: a co-creator, a listener, a particpant, an instrument, a remote collaborator, or anything with a similar impact on the artistic practice.
+This attitude has some resemblance to theories promoted by the French sociologist and philosopher Bruno Latour, such as actor-network theory but also depart from them in some important ways, primarily the essentialist view on certain of the aspects included here.
+At a later stage it would be interesting to make an ANT oriented analysis of the material I am discussing here.
 
-The hyper-capitalism of the twenty first century is eager to commodify any and all artistic output, as well as the artist and the listeners as objects of consumption.
-To take an example is the primary interest of the big streaming platforms not to deliver music or movies.
-Instead it is the eternal collection of data that happens in the background, hidden, in the dark corners of the entertainment apps that is at the centre.
-Delivering content is really not the main objective in those systems.
-This is clearly not a new phenomenon, the main point of commercial media has always been to sell space for advertisement where the role of the content is only to draw attention to the right demographic groups--those to whom the commercials are directed.
-Hyper-capitalism promotes itself based on the freedom it allows to the individual who is given the liberty to choose and consume whatever at free will.
-However, since the main economic transaction happens hidden from the user, and in a different domain, this freedom is debatable.
-Furthermore, even the concept of freedom itself is a complex area that may be both problematic and further analyzed.
+An aspect that I did not explore in my earlier paper was that of the economy of artistic production.
+The hyper-capitalism of the twenty first century is eager to commodify any and all artistic output, as well as the artist and the listeners, as objects for consumption.
+Though this may not appear to have a big impact on experimental arts my claim here is that it still influences some key factors that contribute to how artistic practices in music may develop, and, more importantly, how the self may develop.
+One important component is the opaque nature of the relations between commodified objects in commercial media. 
+The primary interest of the big media streaming platforms is not necessarily to deliver music or movies.
+Instead it is the eternal collection of data that happens hidden in the background.
+This is clearly not a new phenomenon, the main point of commercial media has always been to sell space for advertisement and the role of the content is to draw attention to the right demographic groups--those to whom the commercials are directed.
+Capitalism promotes itself based on the freedom it says it allows to the individual who is given the liberty to choose and consume at free will.
+However, when the main economic transaction happens hidden from the user, and sometimes in a different domain, this freedom is debatable.
+Furthermore, even the concept of freedom itself is a complex area that may be both problematic and further analyzed, and the way the freedom of capitalism and the freedom of artistic practice divert from each other creates conceptual confusion.
+To summarize, there are two main aspects here were capitalism impacts on artistic practice; its distortion of the concept of freedom and the way it impacts the notion of the self.
 Against this backdrop, I will in this paper attempt to describe how a practice of improvisation with obsolete electronic instruments can use a different conception of freedom to deconstruct both the self and the powers of commodification.
-Exploring the ethics of an artistic practice is a by-product of this process.
-Both here and in my original essay from 2013 cited above, American writer David Henry Thoreau's famous notion of the absent speaker serves as an inspiration: "The peculiarity of a work of genius is the absence of the speaker from his speech" [cite:@thoreau2004; p. 264].
-This absent artist is the unnecessary self and the partly disruptive dynamics of hypercapitalism as briefly discussed above plays an important role here.
-I realize this is a rather short format for discussing relatively complex areas and the discussions are necessarily kept short.
+Exploring the ethics of an artistic practice is, as will become clear later, a necessary part of this process.
+Both here, and in my original essay from 2013 cited above, American writer David Henry Thoreau's famous notion of the absent speaker may serve as an inspiration: "The peculiarity of a work of genius is the absence of the speaker from his speech" [cite:@thoreau2004; p. 264].
+This absent artist is the unnecessary self and the partly disruptive dynamics of hyper capitalism as briefly discussed above plays an important role here.
+I realize this is a rather short format for discussing relatively complex topics, and the discussions are necessarily kept short.
 
-The freedom of art makes the role of the /self/ difficult to comprehend.
-Who is this absent self whose works are exploited on a market where the transactions are so convoluted and opaque that they are impossible to disentangle?
-In the attempt, then, to radicalize the role of the creator, both a new work concept and a review of the self is necessary.
-Even beyond the notion of giving up the self--even an absent self is a self--it is necessary to understands how the relations are interconnected.
-The ethics in artistic practices, that is, the moral values that are expressed through artistic practices in music, specifically improvisation, is an important aspect when investigating the roles of the self.
-These values are disclosed in the way music is negotiated in improvisation and may play out in ways that are different, or even opposed to social ethics.
-The notion of the /Care of the Self/, as discussed in Michel Foucault's Volume Three of the /History of Sexuality/ [cite:@foucault1988], is used here as a method to approach this complex area. 
-The /care of the self/ is a particular development between self and others, a method for developing an ethics through engaging with the self's relation to the self, a self that is rooted in "practices of freedom" [cite:@Foucault1997-2; p. 283]: "Freedom is the ontological condition of ethics. But ethics is the considered form that freedom takes when it is informed by reflection" [cite:@Foucault1997-2; p. 284]. The care of the self is the activity of which these elements are a part, and it is not a solipsitic activity that is merely concerned with the self:
+** The use obsolete instruments
 
-#+begin_quote
-When you take care of the body you do not take care of the self. The self is not clothing, tools, or possessions; It is to be found in the principle that uses these tools, a principle not of the body of the soul. You have to worry about your soul--that is the principal activity for caring for yourself. The care of the self is the care of the activity and not the care of the soul-as-substance. [cite:@Foucault1997-2; p.231-2]
-#+end_quote
-The principle that uses the tools of artistic practice is in essence the aesthetics of the creative act: the practice itself.
-Though not philosophically grounded and although Thoreau may not have thought of it this way there, is an odd and interesting connection between the care of the self and the absent speaker.
-The self's relation to others as well as to the self is a condition for the absent speaker, since they still need an active relation to the listener.
-However, the most important aspect here is the notion of the practice is the tool to develop the care for the self.
-
-Goin back to Foucault's quote above, one may also assert that freedom is the ontological condition for improvisation.
-If improvisation as an act of ethics is interchanged with ethics a further paraphrasing becomes: /Improvisation is the considered form that freedom takes when it is informed by reflection/.
-That would point to the reflective act, here on part of the improviser, as being the main component through which the relation between improvisation and freedom may be developed and understood.
-It is the activity that instantiates this process that plays a central role and, as Foucault points out, the care of the self is the care of the activity.
-The ethics of improvisation, then, arises from improvisation as informed by freedom, and is the considered form that this freedom takes on.
-Once this process is started is started, only the self as a reflecting upon itself is necessary.
-This can be compared to philosopher Gary Peters remark that "free-improvisation is not driven by a concern for other improvisers, but by a concern or care for the work itself" [cite:@benson2003; p. 59], but my claim is that it is driven by the process of care for the self.
-
-The expansion of the notion of the unnecessary self was inspired by the line of thoughts presented in the paper /Sounds of Future Past/ [cite:@Frisk2021a] where the concept of an /ethics of instruments/ is explored.
-This radical idea was first presented by professor of history of art John Tresch and professor of music Emily I. Dolan in the paper /Toward an Organology of Music/ [cite:@Tresch2013].
-It is based on some of the conditions for, or elements of, ethical relations which in turn relates to the /technologies of the self/, a concept also introduced by Foucault in a related work [cite:@foucault1988b].
-Tresch and Dolan explore this experimental ethics of instruments through four analytical categories, highly related to the four axes that makes up "Foucault’s analysis of the self’s relation to the self" [cite:@Tresch2013; p. 284], namely the ontology, deontoology, ascetis and the teleology of the instruments.
-Their idea of an /ethics of instruments/ is leaning on the notion that the material aspects, mediations and the telos of an instrument can provide grounds for an analysis of its /ethics/.
-It may appear odd to speak of ethics in relation to dead objects such as a musical instruments, and it is reasonable to critique such a notion based on the fact that not all humans have the right to basic ethical rights.
-
-My argument here is that with the tools that are defined through the technologies of the self, the notion of the care of the self opens up a focus on the relations between the self and the things that surround it.
-Relations that eventually renders the actual self less important.
-Whether or not one is willing to accept the idea of an ethics of instruments is not the main point here, but what can be gathered from Tresch and Dolan is that the self's relation to the self promotes the autonomy of some of these objects which then makes them less dependent on the self.
-Through the unwrapping of the various discourses of power, also an the broad level, such as the ones between improvisation and freedom, self and other, and self and self, these processes are revealed.
-It is not only that these relations exist and that they matter, but that they need to be good and respectful.
-In this sense ethical relations may appear important between all objects in the network that constitutes the context of musical improvisation.
-Even if this does not extend all the way to an ethics of instruments, a deep understanding for these relations may contribute to a developed sense of ethics, an ethics of artistic practice in improvisation.
-In this space the /care for the self/ is the prcess that deconstructs the object/subject division necessary for this process to unfold.
-
---- It makes the subject important and unimportant at the same time. ---
-
-[[file:/Volumes/Freedom/Dropbox/org/seminar-slides/kmh/stanford/img/DATATON-03.JPG]]
-
-[[file:/Volumes/Freedom/Dropbox/org/seminar-slides/kmh/stanford/img/DATATON-01.JPG]]
-
-[[file:/Volumes/Freedom/Dropbox/org/seminar-slides/kmh/stanford/img/DATATON-02.JPG]]
-
-** The use and study of obsolete electronic instruments
-There are both differences and similarities between the study of traditional methods for musical interpretation, rooted in Western musical history and practices, and the excavation of the technological and cultural significance of a particular electronic musical instrument of the past.
 In my engagement to develop a historically informed performance practice in electronic music I find that the role of the self in the way I have developed it earlier comes to the forefront in new and interesting ways. 
-Previously possibly hidden features of these historic instruments, explored through an artistic practice through witch the self's relation to the self is explored, may be discerned and re-contextualized.
+Previous possibly hidden features of these historic instruments, explored through an artistic practice in witch the self's relation to the self is explored, may now be discerned and re-contextualized.
 The instruments I have approached here are a modular synthesizer and audio mixer designed in Sweden in the 1970's.
-To attempt to understand the qualities and the particularity of this instrument a wide range of parameters need to be considered related.
-The context in which it was originally created is one of them.
+To attempt to understand the qualities and the particularity of this instrument a wide range of parameters need to be considered related and the context in which it was originally created is one of them.
 Should this analysis not be successful there is a risk that the instrument's proper qualities are misunderstood, or that one ends up recreating what has already been done with it, or both.
-It is the relations between these parameters that I am interested in, not my dominance on one, or one parameter's dominance over me.
+It is, however, the relations between these parameters that I am interested in, not my dominance on one, or one parameter's dominance over me.
 In a wider scope of contemporary technologies, the rate at which the development in general is progressing can turn objects sometimes less than a decade old incompatible with current systems.
 A hypothesis is that by learning from early electronic instruments using the methods I have proposed it may be possible to better understand the complexities of what can be seen as a media archaeology.
 
+
+[[file:/Volumes/Freedom/Dropbox/org/seminar-slides/kmh/stanford/img/DATATON-01.JPG]]
 In an artistic practice that departs from the use of obsolete instruments such as the ones documented here the interrelations between the various subjects/objects involved in the performance can become both more complicated but they may also disclose the challenges in a fruitful manner.
 The most prominent is the aspect of technology itself.
 Though many examples of inventive designs are incorporated into mainstream products and in recent history others are simply forgotten and abandoned despite its explicit contribution to the development.
-One reason for the is the incredible speed of technological development which makes artistic practices involving technological instruments fragile and vulnerable to changes that renders all or parts of the instruments unusable.
+One reason for the is, as was mentioned above, the incredible speed of technological development which makes artistic practices involving technological instruments fragile and vulnerable to changes that renders all or parts of the instruments unusable.
 This may be software upgrades, abandoned hardware circuits, forgotten system-specific knowledge, or simply the fact that the new upgrade is so much more compelling in its usability and sonic or musical qualities.
 Commercial aspects have a great impact here and as Pinch and Trocco concludes about the synthesizer: "from a flexible variety of possible control configurations, the synthesizer eventually stabilised into a keyboard instrument" [cite:@Pinch1998].
 In other words, over time the highly experimental field of the design of electronic musical is narrowed, and standardization and market forces excludes those items that are not successful enough, or simply excluded because they are incompatible with current production paradigms.
 This brings us back to the discussion at the beginning of the paper relating to the impact that capitalism has on the field through the instruments with which an otherwise experimental artistic practice that generally tries to evade capitalistic market forces. 
-It is true that few Western instruments, electronic or acoustic, are independent from the commodifying forces or market economy, but the way that the development of electronic instrument is aligned with the advancements of technology in society in general makes it particularly sensitive.
-A certain merging of the fields is occurring where tools of communication such as the mobile telephone are to some degree also used for artistic performances.
-At the rate that consumer electronics are repudiated and ends up being incompatible with the supporting systems, also the applications of the same hardware for artistic purposes is rendered useless, or sucked up by market forces.
+It is true that no Western instruments, electronic or acoustic, are independent from the commodifying forces or market economy, but the way that the development of electronic instrument is aligned with the advancements of technology in society in general makes them particularly sensitive.
+A certain merging of the fields is occurring here where tools of communication such as the mobile telephone are to some degree also used for artistic performances again bringing to the fore the complexities of compatibilities.
+Repudiated and incompatible with the supporting systems such developed interfaces may relentlessly be sucked up by market forces and rendered useless.
 
-
+There are both differences and similarities between the study of traditional methods for musical interpretation, rooted in Western musical history and practices, and the excavation of the technological and cultural significance of a particular electronic musical instrument of the past.
 Since at least the romantic era the definition of the artistic work has been constructed from the vantage point of the composer in strictly hierarchical structure with the self at the centre.
 This is well described by Roland Barthes in the famous essay /The death of the Author/ [cite:@barthes68:death_of], where the basic claim is that detailed biographical, geographical and historical knowledge about the composer is at the core of interpretation of a work.
 An understanding of such works clearly has to go through the understanding of the self.
@@ -137,12 +94,60 @@ The practice analyzed here, an improvisation is a method, or a form that freedom
 The added value is that it opens up for an expanded ethical dimension, also relived by freedom of artistic practice that value the larger context of, in this case obsolete instruments, and the relationships between the various agents involved in their past and current practices
 The /giving up of the self/ along with the /care of the self/ are not contradictions - they feed upon each other and allow for an approach and an epistemology of creativity that is more closely aligned with others than the solely the self while at the same time allows for a development of the subject.
 
+
+** Freedom
+The freedom of art gives the role of the /self/ many different faces.
+Who is this absent self whose works are exploited on a market where the transactions are so convoluted and opaque that they are impossible to disentangle?
+In the attempt to understand the role of the creator, the self, both a new work concept and a review of the self is necessary.
+In the way that these relations may be unwrapped the artistic practice may be seen to have a particular form for ethics.
+
+The ethics in artistic practices, that is, the moral values that are expressed through artistic practices in music, specifically improvisation, is by all means an important aspect when investigating the roles of the self.
+These values are disclosed in the way music is negotiated in improvisation and may turn out to work in ways that are different, or even opposed to social ethics.
+The notion of the /Care of the Self/, as discussed in Michel Foucault's Volume Three of the /History of Sexuality/ [cite:@foucault1988], is used here as a method to approach this complex area. 
+The /care of the self/ is a particular development between self and others, a method for developing an ethics through engaging with the self's relation to the self, a self that is rooted in "practices of freedom" [cite:@Foucault1997-2; p. 283]: "Freedom is the ontological condition of ethics. But ethics is the considered form that freedom takes when it is informed by reflection" [cite:@Foucault1997-2; p. 284]. The care of the self is the activity of which these elements are a part, and it is not a solipsitic activity that is merely concerned with the self:
+
+#+begin_quote
+When you take care of the body you do not take care of the self. The self is not clothing, tools, or possessions; It is to be found in the principle that uses these tools, a principle not of the body of the soul. You have to worry about your soul--that is the principal activity for caring for yourself. The care of the self is the care of the activity and not the care of the soul-as-substance. [cite:@Foucault1997-2; p.231-2]
+#+end_quote
+The principle that uses the tools of artistic practice is in essence the aesthetics of the creative act: the practice itself.
+Though not philosophically grounded and although Thoreau may not have thought of it this way there, is an odd and interesting connection between the care of the self and the absent speaker.
+However, the most important aspect here is the notion of the practice as the tool to develop the care for the self.
+
+Going back to Foucault's quote above, one may also assert that in artistic practice in music not only ethics, but also freedom is the ontological condition for improvisation.
+If improvisation as an act of ethics is interchanged with ethics a further paraphrasing may read as: /Improvisation is the considered form that freedom takes when it is informed by reflection/.
+That would point to the reflective act, here on part of the improviser, as being the main component through which the relation between improvisation and freedom may be developed and understood.
+It is the activity that instantiates this process and that plays a central role.
+As Foucault points out, the care of the self is the care of the activity.
+The ethics of improvisation, then, arises from freedom, just as ethics is the considered form that this freedom takes on.
+The condition for these relations to develop is the self's reflection upon itself but only the results of this process are of interest, not the self as an object.
+This can be compared to philosopher Gary Peters remark that "free-improvisation is not driven by a concern for other improvisers, but by a concern or care for the work itself" [cite:@benson2003; p. 59], but my claim is that it is rather driven by the process of a care for the self.
+
+The expansion of the notion of the unnecessary self was inspired by the line of thoughts presented in the paper /Sounds of Future Past/ [cite:@Frisk2021a] where the concept of an /ethics of instruments/ is explored.
+This radical idea was first presented by professor of history of art John Tresch and professor of music Emily I. Dolan in the paper /Toward an Organology of Music/ [cite:@Tresch2013].
+It is based on some of the conditions for, or elements of, ethical relations which in turn relates to the /technologies of the self/, a concept also introduced by Foucault in a related work [cite:@foucault1988b].
+Tresch and Dolan explore this experimental ethics of instruments through four analytical categories, highly related to the four axes that makes up "Foucault’s analysis of the self’s relation to the self" [cite:@Tresch2013; p. 284], namely the ontology, deontoology, ascetis and the teleology of the instruments.
+Their idea of an /ethics of instruments/ is leaning on the notion that the material aspects, mediations and the telos of an instrument can provide grounds for an analysis of its /ethics/.
+It may appear odd to speak of ethics in relation to dead objects such as a musical instruments, and it is reasonable to critique such a notion based on the fact that not all humans have the right to basic ethical rights.
+
+My argument here is that with the tools that are defined through the technologies of the self, the notion of the care of the self opens up a focus on the relations between the self and the things that surround it.
+Relations that eventually renders the actual self less important.
+Whether or not one is willing to accept the idea of an ethics of instruments is not the main point here, but what can be gathered from Tresch and Dolan is that the self's relation to the self promotes the autonomy of some of these objects.
+Through the unwrapping of the various discourses of power, also an the broad level, such as the ones between improvisation and freedom, self and other, and self and self, these processes are revealed.
+It is not only that these relations exist and that they matter, but that they need to be good and respectful.
+In this sense ethical relations may appear important between all objects in the network that constitutes the context of musical improvisation.
+Even if this does not extend all the way to an ethics of instruments, a deep understanding for these relations may contribute to a developed sense of ethics, an ethics of artistic practice in improvisation.
+In this space the /care for the self/ is the prcess that deconstructs the object/subject division necessary for this process to unfold.
+
+[[file:/Volumes/Freedom/Dropbox/org/seminar-slides/kmh/stanford/img/DATATON-03.JPG]]
+
+[[file:/Volumes/Freedom/Dropbox/org/seminar-slides/kmh/stanford/img/DATATON-02.JPG]]
+
 In the attempt to construct an artistic practice where the self is unnecessary there are a number of factors that have been discussed here.
 One is the objectifying forces of the hyper capitalism that not even experimental musical practices manage to evade.
 This is at odds with the idea of the care of the self, a process in which the self as a subject is promoted with the goal of creating sustainable relations between the self, the practices of the self, and the others.
 Another is the impact of the type of instruments the practice is engaged with and the fact that these themselves may engage in a process of subjectification that has an impact on the general ethics of the practice.
-Finally, the general ethics of the artistic practice as firmly rooted in the care for the self is constantly challenged by .
-Nevertheless, through the practice of the care of the self I believe that a genuine and useful idea of an ethics of artistic practice that may resist the influence of capitalism is possible.
+Finally, the general ethics of the artistic practice as firmly rooted in the care for the self is constantly challenged by market forces the impact, if not the freedom, the way that freedom is understood.
+Nevertheless, through the practice of the care of the self I believe that a genuine and useful idea of an ethics of artistic practice that may resist the influence of capitalism is possible and render an artistic practice so strong that the self becomes unnecessary.
 
 * Bibliography
 #+print_bibliography: title: References
@@ -153,3 +158,6 @@ Nevertheless, through the practice of the care of the self I believe that a genu
 ----It is not unlikely that some stuff has been forgotten or supressed in the fast development of technology over the last half century.
 ----lies in the fact that the
 -------------- The informed self takes responsibility for the reflection that develops the interdependence between freedom and improvisation.
+Delivering content is really not the main objective in those systems.
+Even beyond the notion of giving up the self--even an absent self is a self--it is necessary to understands how the relations are interconnected.
+The self's relation to others as well as to the self is a condition for the absent speaker, since they still need an active relation to the listener.
