@@ -1,0 +1,63 @@
+# Created 2024-12-28 Sat 11:02
+#+title: Oscarsson - debatt
+#+author: Henrik Frisk
+
+#+options: toc:nil num:nil
+#+cite_export: csl ~/Documents/articles/biblio/csl-styles/apa-7th.csl
+#+LaTeX_HEADER: \usepackage[x11names]{xcolor}
+#+LaTeX_HEADER: \hypersetup{linktoc = all, colorlinks = true, urlcolor = DodgerBlue4, citecolor = black, linkcolor = black}
+#+latex_header: \usepackage[scaled]{helvet}
+\renewcommand\familydefault{\sfdefault}
+
+#+begin_src emacs-lisp
+  (set-window-margins (selected-window) 20 20)
+  (setq line-spacing 0.5)
+  #+end_src
+
+* version 1
+Det positiva med politiska förändringar är att innebörden av begrepp som vi ibland tar för givet tillfälligtvis kommer upp till ytan. När man i Tidöavtalet skriver att man vill värna om kulturlivets oberoende, vad är det man menar då, och på vilket eller vilka sätt har det oberoendet varit hotat? Oberoende från vad och vem? Både konst och forskning är två områden som behöver ett visst oberoende från finansiärernas påverkan för att utfallet ska bli bra. Konstnärlig forskning är en aktivitet som står med ett ben i vardera fälten, inklämd mellan kulturlivet och akademin, och ingendera direkt har jublat. Stina Oscarsson hänvisade nyligen i SvD till KF som [[https://reich-szyber.com/media/2024/04/Bogdan-Szyber_Stina-Oscarson_SvD.pdf]["en förpackningsindustri för åsikter" och kallade den för "intellektuell korruption]]". Motståndet kommer även från politiskt håll och det verkar som själva kritiken är densamma: vi förstår inte vad KF är bra för.
+
+Detta är inte en artikel för att ge den förklaringen, men helt kort är en ambition med konstnärlig forskning att se konstnärlig arbete som en form för kunskap som kan bli tillgänglig och användbar även utanför själva konstområdet. Liksom för andra forskningsdiscipliner som utgår från praktisk kunskap så står det praktiska konstnärliga arbetet i centrum. I KF finns ett oberoende som är svårt att uppnå i det hårt ekonomiskt pressade fria kulturlivet och som gör den attraktiv för konstnärer. Som all forskning är kontakten till samhället viktig och i KF är kontakten till kulturlivet avgörande. 
+
+Punkten i Tidöavtalet som  handlar om att kulturpolitiken ska värna om kulturlivets oberoende och egenvärde gentemot nyttoändamål låter spontant som en klok princip, men det finns all anledning att dra öronen åt sig när SD börjar tala om frihet. Jag tror inte som Karin Petterson skrev i AB[fn:2] att detta är ett exempel på att SD stått tillbaka för liberalernas vilja. Denna punkt tror jag att SD har tryckt på för även om den ansluter till den förra borgerliga regeringens önskan att kulturlivets beroende av offentliga medel för sin finansiering behöver minska.
+
+I en debattartikel i SvD av Sverigedemokraten Gabriel Kroon motsätter SD sig "dagens diskriminerande bidragskriterier som tvingande könskvotering och särskild kvotering av olika kulturella grupper för att uppnå en mångfald i kulturen".[fn:3] Att kultur- och forskningsfinansiärer sätter upp liknande kriterier är visserligen omdiskuterat och skulle kunna betraktas som ett hot mot konstens oberoende. Men vad leder motsatsen till? Minskad tillgång till kulturbidrag för grupper som redan idag inte är representerade ökar knappast deras frihet.
+
+I SD:s motion från 2018, "Forskning - en satsning för framtiden"[fn:4] återfinns liknande formuleringar. Man menar bland annat att genus- och jämställdhetsforskning inte sker på vetenskaplig grund pga "den politisering som skett inom detta ämne". Den enligt SD politiska ambitionen att uppnå jämliket och jämställdhet genom forskning ska alltså stoppas. I motionen finns en hårresande oförståelse för vad politisk styrning är och visar på en extremt transaktionell syn på forskning, vilket leder till minskat oberoende. Konstnärlig forskning tas också upp och man skriver att SD "ser stora svårigheter med begreppet 'konstnärlig forskning' och när vi tittat på olika forskningsprojekt har svårigheterna att förstå begreppet snarare ökat än minskat." Formuleringarna är snarlika de vi finner i Oscarssons artikel i SvD. Konstnärlig forskning framställs i båda fallen som styrd av en blandning av politisk ideologi, vänsterflum och ickebinära förållningssätt.
+
+Oscarsson intervjuar en företrädare för en fri teatergrupp som menar att de 55 miljoner som går till konstnärlig forskning vid SKH borde gå direkt till kulturlivet. Motivationen är att "en dag kommer nån att fråga vad fan man får för dem." Detta är visserligen en rimlig fråga, men här ett dåligt argument. Samma argument kan med lätthet användas för att inskränka allt kulturstöd. Vad får t.ex. jag för just denna fria teatergrupps verksamhet? Liknande resonemang återkommer i SD:s motion: eftersom vi (SD) inte kan se att vi får något för den konstnärliga forskningen bör den helt enkelt tas bort. Men varken forskning eller kultur ska finansieras för att man redan vet vad man vill ha för pengarna och likgiltigheten inför den frihet som såväl kultur som forskning bör ha i en fungerande demokrati är slående. 
+
+Om vi går tillbaka till Tidöavtalet så är det nog inte egentligen frånvaro av politisk styrning SD och den nya regeringen är ute efter. Man vill bara en annan typ av politisk styrning. Idéen om en svensk kulturkanon är också, om inte politisk styrning, så i alla fall kulturell styrning. Förslaget finns i en motion från SD 2021: "Den största gemenskap vi känner till som lyckats skapa ett fungerande system med en utvecklad välfärdsstat, är samhällen med en gemensam kultur." Danmark, som upprättade en kulturkanon redan 2006, är förebilden. Men där Danmark ville få en debatt om vad danskhet, dansk indentitet och dansk kultur kan vara,[fn:5] har SD en annan ingång. I SD:s motion finns ingen tvekan om vad svenskhet är. Deras kulturkanon ska vara "ett verktyg för att ge alla medborgare möjlighet att lära sig om det svenska samhället och den svenska kulturen."[fn:6] Kulturen blir alltså precis det nyttoändamål man i punkten om kulturlivets frihet säger att den inte ska vara. Det här hänger inte ihop. Oberoendet man vill värna om är ju redan från början upplöst. 
+
+Alla i Sverige har inte samma tillgång till kultur eller kulturutövande. Att börja vifta med att könskvotering är det stora problemet är oseriöst. Konstnärlig forskning är ett utmärkt sammanhang där komplexiteten i dessa frågor kan blottläggas: Vad innebär är ett oberoende kulturliv? Att hård kritik riktas mot just genusvetenskap och konstnärlig forskning är inte konstigt. Det är några av de senast tillkomna fälten och resultaten av ett forskningsfälts ansträngningar märks efter decennier, för små fält kan det ta ännu längre tid. En kontinuerlig och kritisk diskussion av KF är, och kommer fortsatt vara, nödvändig och resultaten ska självklart granskas, men helst av någon som vill sätta sig in i fältet. Med tiden tror jag att KF kommer bli en viktig faktor i kulturdebatten och bidra till hela samhällets utveckling. 
+* vHersion 2
+Det positiva med politiska förändringar är att innebörden av begrepp som vi ibland tar för givet tillfälligtvis kommer upp till ytan. Punkten i Tidöavtalet som  handlar om att kulturpolitiken ska värna om kulturlivets oberoende och egenvärde gentemot nyttoändamål låter spontant som en klok princip, men det finns all anledning att dra öronen åt sig när, i alla fall SD, börjar tala om frihet. Vad är det man menar med kulturlivets oberoende, och på vilket eller vilka sätt har det oberoendet varit hotat? I avtalet finns inte mycket information så man får luta sig mot vad som har sagts tidigare.
+
+Jag tror inte som Karin Petterson [[https://www.aftonbladet.se/kultur/a/pQQpyG/karin-pettersson-om-kulturpolitiken][skrev i AB]] att detta är ett exempel på att SD stått tillbaka för liberalernas vilja. Denna punkt tror jag att SD har velat ha med. Även om den ansluter till den förra borgerliga regeringens önskan att kulturlivets beroende av offentliga medel behöver minska, så är det något SD tidigare tagit upp. 
+
+I en [[https://www.svd.se/a/8mV6OG/sd-demokratisera-den-offentliga-konsten][debattartikel i SvD]] av Sverigedemokraten Gabriel Kroon motsätter SD sig "dagens diskriminerande bidragskriterier som tvingande könskvotering och särskild kvotering av olika kulturella grupper för att uppnå en mångfald i kulturen". Ska kulturpolitiken alltså värna om kulturbidragens frihet från kriterier? Att kulturfinansiärer sätter upp liknande kriterier är visserligen omdiskuterat och skulle kunna betraktas som ett hot mot konstens oberoende. Men vad leder motsatsen till? Minskad tillgång till kulturbidrag för grupper som redan idag inte är representerade ökar knappast deras oberoende.
+
+I [[https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/forskning-en-satsning-for-framtiden_h602377/][SD:s motion från 2018]], "Forskning - en satsning för framtiden" återfinns liknande formuleringar. Man menar bland annat att genus- och jämställdhetsforskning inte sker på vetenskaplig grund pga "den politisering som skett inom detta ämne". Den enligt SD politiska ambitionen att uppnå jämliket och jämställdhet genom forskning ska alltså stoppas. I motionen finns en hårresande oförståelse för vad politisk styrning är och visar på en extremt transaktionell syn på forskning. Men varken forskning eller kultur ska finansieras för att man redan vet vad man vill ha för pengarna och likgiltigheten inför det oberoende som såväl kultur som forskning bör ha i en fungerande demokrati är slående. 
+
+[[https://www.dn.se/kultur/parisa-liljestrand-kulturen-hjalpte-mig-forsta-min-omvarld/][Parisa Liljestrand]] vill driva en ”borgerlig och frihetlig” kulturpolitik och säger fortsatt att det för kulturarbetare ska vara möjligt "att få finansiering från andra håll". Jag vågar säga att utifrån det fria musiklivet i Sverige idag har möjligheten att få offentlig finansiering för projekt konstant minskat under de senaste decennierna. SR, som tidigare gjorde många produktioner med frilansmusiker, har minskat den produktionen, förutsättningarna för skivutgivning och upphovsrättsersättningen har minskat, regler för A-kassa för kulturarbetare har förändrats, Rikskonserter lades ner för drygt tio år sedan och nivåerna på projektbidrag har gradvis minskat. Exakt hur ska kulturpolitiken i det läge vi nu befinner oss i göra det möjligt att få annan finansiering, och hur rimmar det med ambitionen att värna om kulturlivets oberoende? Ska vi förstå "kulturlivets oberoende" som oberoende från offentlig finansiering? 
+
+I det här sammanhanget blir det svårt att förstå hur idéen om en svensk kulturkanon passar in. Förslaget finns lite klumpigt beskrivet i en motion från SD 2021: "Den största gemenskap vi känner till som lyckats skapa ett fungerande system med en utvecklad välfärdsstat, är samhällen med en gemensam kultur." Danmark, som upprättade en kulturkanon redan 2006, är förebilden. Men där [[https://www.kristeligt-dagblad.dk/debat/var-den-nu-10-aar-gamle-kulturkanon-en-succes][Danmark ville få en debatt om vad danskhet, dansk indentitet och dansk kultur kan vara]], har SD en annan ingång. I [[https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/kulturkanon_h9022496/][SD:s motion]] finns ingen tvekan om vad svenskhet är. Deras kulturkanon ska vara "ett verktyg för att ge alla medborgare möjlighet att lära sig om det svenska samhället och den svenska kulturen." Härigenom blir kulturen precis det nyttoändamål, ett verktyg för en politisk strävan, som man säger att den /inte/ ska vara. Oberoendet man vill värna om är alltså redan från början upplöst.
+
+Henrik Frisk 28/10, 2022
+[fn:1] [[file:inbox.org::*Dömde ut forskningen – priset blev högt | SvD][Dömde ut forskningen – priset blev högt | SvD]]
+
+[fn:2] [[https://www.aftonbladet.se/kultur/a/pQQpyG/karin-pettersson-om-kulturpolitiken][Kulturkanon – en billig och meningslös åtgärd]]
+
+[fn:3] [[https://www.svd.se/a/8mV6OG/sd-demokratisera-den-offentliga-konsten][SD: Demokratisera den offentliga konsten | SvD Debatt]]
+
+[fn:4] [[https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/forskning-en-satsning-for-framtiden_h602377/][Forskning - en satsning för framtiden Motion 2018/19:377 av Patrick Reslow m.fl. (SD) - Riksdagen]]
+
+[fn:5] [[https://www.kristeligt-dagblad.dk/debat/var-den-nu-10-aar-gamle-kulturkanon-en-succes][Var den nu 10 år gamle kulturkanon en succes?]]
+
+[fn:6] [[https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/kulturkanon_h9022496/][Kulturkanon Motion 2021/22:2496 av Aron Emilsson m.fl. (SD) - Riksdagen]]
+
+[fn:7] [[https://www.dn.se/kultur/parisa-liljestrand-kulturen-hjalpte-mig-forsta-min-omvarld/][Parisa Liljestrand: ”Kulturen hjälpte mig förstå min omvärld”]]
+
+* Footnotes
+
+[fn:1] 
