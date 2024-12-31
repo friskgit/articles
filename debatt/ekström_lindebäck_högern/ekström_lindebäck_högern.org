@@ -3,6 +3,7 @@
 #+author: Henrik Frisk
 #+filetags: :debatt:
 #+created: 2024-12-27, 17:17
+
 * Har Lyda Ekström Lindebäck lierat sig med högern?
 Jag tycker definitivt diskussionen om konstnärlig forskning, och all annan forskning, är både nödvändig och viktig. Jag vet inte om jag håller med om vi behöver (en till) rejäl debatt om konstnärlig forskning men gärna en diskussion om konkreta frågor. Jag vet inte heller om jag skulle bli just "glad" av den, men jag har inget emot det. Därför svarar jag gärna på Lyda Ekström Lindebäcks frågor som hon ställer i artikeln "Har jag lierat mig med böghatande brunhögern?". 
 
@@ -53,3 +54,75 @@ Om man verkligen vill att konstnärlig forskning ska läggas ner är ju detta de
 Jag ser fram emot att följa diskussionen när Ekström Lindebäck ska övertyga SD om att det är just konstnärlig forskning, och inte samtliga fria teatergrupper, Riksteatern eller Norrköpings symfoniorkester som ska läggas ner. Eller ett gäng andra forskningsämnen. Humaniora i allmänhet har dränerats i decennier och ligger i farozonen. Risken är att parnassen där Ekström Lindebäck sitter ryker med på köpet. Vad det skulle betyda för det rika kulturliv som Ekström Lindebäck längtar efter vågar jag inte tänka på.
 
 Svaret på titeln på Ekström Lindebäcks rubrikfråga blir således: Ja, du har sannolikt lierat dig med högern. Varför nu just det skulle vara så viktigt. Du har all rätt att driva vilken politisk agenda du vill, men du kommer lyckas bättre om du använder korrekt data och riktiga argument. Vill du ha en fortsatt debatt om konstnärlig forskning ställer jag upp varje dag i veckan.
+
+* Den konstnärliga forskningen äter inte upp kulturlivet (long)
+Den konstnärliga forskningen äter inte upp kulturlivet
+
+Med stor passion bygger Lyra Ekström Lindbäck upp imaginära motsatsförhållanden mellan konst och konstnärlig forskning och teori och praktik. Även om jag inte ser att vi behöver en till debatt om konstnärlig forsknings vara eller inte vara välkomnar jag en initierad och kritisk diskussion om några av de specifika aspekter som Ekström Lindbäck lyfter några i sin artikel från den 19/12.
+
+1.	Ekonomin
+
+ 	De 122 miljoner som Ekström Lindbäck syftar på är alltså pengar som kommer från budgeten för utbildning och forskning. Skulle finansieringen till konstnärlig forskning dras in skulle medlen mest sannolikt gå till annan forskning, företrädesvis STEM forskning. Definitivt inte till kulturlivet 
+
+ 	Bidraget till de konstnärliga högskolorna ökar med 3,1% från 2024 till 2025. Det är nästan 1,5% mindre än ökningen till utbildning och forskning i allmänhet. Efter produktivitetsavdraget återstår en höjning som är mindre än inflationen. Anslagen är alltså i realiteten inte höjda utan sänkta. Till övriga universitet menar Ekström Lindbäck att det tillförs ytterligare ett "par hundra miljoner” vilket är en helt orimlig siffra tagen i luften. 
+
+ 	Med grundläggande kunskap om högskole- och unviersitetsekonomi kan man se att av de 122 miljoner som de enskilda konstnärliga högskolorna får i Stockholm går gissningsvis runt 55 miljoner till faktisk konstnärlig forskning är. Dessutom är de redan hårt pressade fristående konstnärliga högskolorna helt beroende av forskningsanslaget. Skulle man ta bort det kommer flera antagligen gå i konkurs.
+        
+2.	Internationalsering
+
+ 	Resten av samhället, och inte minst högskolevärlden som har internationalisering som uppdrag, tenderar att se ett ökat internationellt utbyte som positivt. Men framför allt: konstnärlig forskning är inte en arbetsmarknadsåtgärd för det svenska kulturlivet, alltså är detta en irrelevant invändning. Men självklart ska vi värna om det svenska språket, inte minst i ämnen som litterär gestaltning varför detta ändå är en viktig diskussionspunkt.
+
+3.	Den konstnärliga forskningen har en genomgripande inverkan på samtliga kulturfält
+
+ 	Utgångspunkten att den ganska marginella betydelse som konstnärlig forskning trots allt har skulle vara en fara för hela kulturfältet är minst sagt besynnerligt. Det finns ju dessutom absolut ingen poäng med konstnärlig forskning om den inte interagerar med kulturfältet. Detta är en kvalitet, inte ett problem.
+
+ 	Diskussionen om huruvida det i rekrytering av konstnärliga lärare på svenska högskolor ska ges prioritet åt disputerade framför högt konstnärligt meriterade sökanden har varit aktiv så länge jag minns. Skulle det ske håller jag med Ekström Lidbäck om att det skulle vara ett stort problem. Lyckligtvis finns det starkt stöd i högskoleförordningen för att även fortsatt prioritera konstnärlig excellens vid anställning av lärare.
+
+4.	Den konstnärliga forskningen förväxlar duktighet med samhällskritik
+
+ 	Jag tycker inte det verkar som att Ekström Lindbäck har tagit del av särskilt mycket konstnärlig forskning, för jag känner inte igen beskrivningen som ges
+
+ 	Naturligtvis är de normer som viss konstnärlig forskning utmanar även utmanade från andra håll, men i den mån en normkritisk hållning präglar konstnärlig forskning så gör den det i samma utsträckning i större delen av samhället. Det finns konstnärlig forskning som bidrar till utvecklingen av 6G, som arbetar med kulturarv, som ifrågasätter verkbegreppet och musikers psykiska hälsa, forskar kring kulturarv och migrationens påverkan på musiktraditioner och mycket mer. Det är inte duktighet som driver dessa utan nyfikenhet. Ofta genom att ifrågasätta normer.
+
+ 	Viktigt att påpeka är att min upplevelse är att friheten inom akademien i dag är större än i kulturfältet. Ekström Lindbäck påpekar att det är obligatoriskt att ange genusperspektiv i varje ansökan till VR, men i praktiken är dessa krav ännu mer bindande i kulturlivet. Friheten i akademien är säkrad genom forskningens frihet i högskolelagen såväl som yttrandefriheten.
+
+5.	Den konstnärliga forskningen hjärntvättar kulturutövare till att söka sig bort från publiken.
+
+ 	När argumenten tryter tar man till storsläggan. Hjärntvättar? Kronvittnet Sophia Kosmaoglou var doktorand på Goldsmiths i London och disputerade 2012 pekar på svårigheten att kritisera institutionen från insidan. Detta var en mycket annorlunda miljö från dagens svenska kontext. Men detta är absolut en viktig diskussion. Men den frågan är inte specifik för konstnärlig forskning utan aktuell för alla fält och maktstrukturer, inklusive kulturlivet.
+
+ 	I de miljöer jag arbetar i har den konstnärliga forskningen lett till viktiga diskussioner som har påverkat utformningen av, t.ex. det självständiga arbetet, i riktning bort från ökat teoretisering och där det konstnärliga arbetet har större betydelse. 
+
+ 	Det finns ingenting i budgetpropositionen som tyder på att regeringen tycker att "konstnärerna ska in i akademin" som Ekström Lindbäck antyder.
+
+Sammanfattningsvis finns det alltså tre intressanta diskussionspunkter: internationalisering och värnandet om att svenska språket utvecklas i och genom konst och forskning, konstnärlig excellens i rekryteringar (den har pågått konstant så länge jag varit aktiv) och kontakten mellan konstnärlig forskning och kulturlivet, hur vi värnar om friheten i kulturfältet i allmänhet, hur vi genom konstnärlig forskning och konstnärlig praktik kan påverka institutionaliseringens negativa krafter. Bara en av dessa ser jag som specifik för konstnärlig forskning.
+
+Utifrån en reaktionär syn på kulturen, där allt var bättre förr och utbildning i konst skedde i slutna rum med en mästare och en lärling, där en viss metod för kulturutövande är bättre än en annan, är det ju inte ett dugg svårt att vara radikal. Att raljera över normkritik när man sitter i elfenbenstornet, mitt i ett kulturfält som man till varje pris vill bevara, och ropa ut felaktigheter skapar bara motsättningar som inte finns.
+
+Slutligen till titelfrågan i Ekström Lindbäck text - den politiska. Konstnärlig forskning är ett begrepp som finns med i högskolelag och högskoleförordning och all högre utbildning i samtliga konstnärliga utbildningar vilar på en struktur där forskning är central. Ekström Lindbäck raljerar över Claessons referens till att SD vill avskaffa såväl konstnärlig forskning som genusvetenskap, men det är en helt rimlig farhåga. Redan 2018 skrev SD i en motion till riksdagen (2018/19:377) att konstnärlig forskning ska avskaffas och genusvetenskap ska vingklippas. Vill man driva den politiska tesen framgångsrikt så är det alltså i den brunblåa myllan man ska gräva. 
+
+Jag ser fram emot att följa diskussionen när Ekström Lindbäck ska övertyga SD om att det är just konstnärlig forskning, och inte samtliga fria teatergrupper, Riksteatern eller Norrköpings symfoniorkester som ska läggas ner. Risken är att parnassen där Ekström Lindbäck sitter ryker med på köpet, inklusive författarfonden som finansierar den.
+
+
+* Den konstnärliga forskningen äter inte upp kulturlivet (final)
+Passionerat bygger Lyra Ekström Lindbäck upp imaginära dikotomier mellan konst och konstnärlig forskning (KF), och teori och praktik. Jag välkomnar en kritisk diskussion om KF även om jag inte ser att dessa motsättningar finns.
+
+Vad gäller ekonomin så är de 122 milj. som Ekström Lindbäck syftar på pengar som kommer från budgeten för utbildning och forskning. Skulle finansieringen till KF dras in går medlen mest sannolikt till STEM-forskning. Definitivt inte till kulturlivet 
+
+Anslaget till de konstnärliga högskolorna ökar mindre än utbildnings- och forskningsanslaget i allmänhet. Den lilla höjning som KF får är dessutom mindre än inflationen. Anslagen är i realiteten sänkta. Det finns alltså ingenting i budgetpropositionen som tyder på att regeringen vill att "konstnärerna ska in i akademin" som Ekström Lindbäck antyder. 
+
+Naturligtvis är de normer som viss konstnärlig forskning utmanar även utmanade från andra håll, men i den mån en normkritisk hållning präglar konstnärlig forskning så präglar den även kulturlivet. Det finns KF som bidrar till utvecklingen av 6G, som forskar på musikers psykiska hälsa och migrationens påverkan på musiktraditioner och mycket mer. Det är inte duktighet som driver dessa projekt utan nyfikenhet. 
+
+Ekström Lindbäck pekar på att det är obligatoriskt att ange genusperspektiv i varje ansökan till VR, men i praktiken är dessa krav ännu mer bindande i kulturlivet. Akademien erbjuder faktiskt en större frihet än kulturlivet.  
+
+För att värna om friheten behöver akademiseringen bevakas men den är ett mindre hot än man ofta gör gällande. KF har påverkat utformningen av viss undervisning hos oss i riktning bort från ökad teoretisering.
+
+Utgångspunkten att den ganska marginella betydelse som KF trots allt har skulle vara en fara för hela kulturfältet är minst sagt besynnerligt. Det finns ju absolut ingen poäng med KF om den inte interagerar med kulturfältet. Att den gör det är en kvalitet, inte ett hot. 
+
+Utifrån en reaktionär syn på kulturen, där utbildning i konst helst sker i slutna rum med en mästare och en lärling och där en viss metod för kulturutövande är bättre än en annan, är det ju inte ett dugg svårt att vara radikal. Tvärtom är det viktigt.
+
+Men vill man framgångsrikt vill driva tesen att KF bör läggas ner så är det i den brunblåa myllan man ska gräva. Redan 2018 skrev SD i en motion till riksdagen (2018/19:377) att KF bör avskaffas. Grunden är lagd.
+
+Jag ser fram emot att följa diskussionen när Ekström Lindbäck ska övertyga SD om att det är just KF och inte också, t.ex. Riksteatern, Fylkingen eller Norrköpings symfoniorkester som ska läggas ner. Eller det allmänna flummet på filosofiinstitutionerna. Och risken är att författarfonden som finansierar Ekström Lindbäck ryker med på köpet.
+
+Henrik Frisk är prorektor och professor på Kungl. Musikhögskolan i Stockholm
+
