@@ -10,13 +10,6 @@
 ** The origin of this particular technologies of the self is greco-roman and stems from figures such as Seneca and Augustine
 
 ** This is clear in the passage where Foucault refers to Plato’s /Alcibiades I/ in which the ideas of the self takes shape and leads to the idea that to acquire /techne/ requires care of the self. 
-:PROPERTIES:
-:org-remark-beg: 23456
-:org-remark-end: 23649
-:org-remark-id: c2eba9c9
-:org-remark-label: nil
-:org-remark-link: [[file:complexities_of_ap_ethics.org::85]]
-:END:
 
 ** necessarily
 
@@ -25,53 +18,18 @@
 ** This is a distinction that makes the two modes of thinking at times incompatible, but not incongruous or inconsistent.
 
 ** But her view on the symbolic aspect of music turns out to be rather different.
-:PROPERTIES:
-:org-remark-beg: 12981
-:org-remark-end: 13059
-:org-remark-id: 0845a790
-:org-remark-label: nil
-:org-remark-link: [[file:complexities_of_ap_ethics.org::53]]
-:END:
 
 ** Neoliberal agendas inhibit play.
-:PROPERTIES:
-:org-remark-beg: 20565
-:org-remark-end: 20597
-:org-remark-id: 9518af58
-:org-remark-label: nil
-:org-remark-link: [[file:complexities_of_ap_ethics.org::80]]
-:END:
 
 ** I will return to how this imacts on the way that play develope through ethics.
-:PROPERTIES:
-:org-remark-beg: 20482
-:org-remark-end: 20559
-:org-remark-id: 23be604b
-:org-remark-label: nil
-:org-remark-link: [[file:complexities_of_ap_ethics.org::80]]
-:END:
 
 ** Common to these examples is that and in the delight that arises from the process of subjectification.
 
 ** In the former I behaved in a way that was, in a general way, respectful of the other.
-:PROPERTIES:
-:org-remark-beg: 29333
-:org-remark-end: 29418
-:org-remark-id: 4aae732b
-:org-remark-label: nil
-:org-remark-link: [[file:complexities_of_ap_ethics.org::112]]
-:END:
 
 ** which is also to say that they follow the principle of the care of the self.
 
 ** In the former I behaved in a way that was, in a general way, respectful of the other.
-:PROPERTIES:
-:org-remark-beg: 29300
-:org-remark-end: 29385
-:org-remark-id: 98c40131
-:org-remark-label: nil
-:org-remark-link: [[file:complexities_of_ap_ethics.org::112]]
-:END:
 
 ** The focus of the current discussion is the experience of the artist when engaged in their own practice.
 
