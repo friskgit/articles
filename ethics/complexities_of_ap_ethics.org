@@ -12,12 +12,18 @@
 \renewcommand\familydefault{\sfdefault}
 * COMMENT code
 #+begin_src emacs-lisp
-  (set-window-margins (selected-window) 30 30)
+  (set-window-margins (selected-window) 20 10)
   (setq line-spacing 0.7)
 #+end_src
 
 #+RESULTS:
 : 0.7
+* Short summary
+The text explores how an ethics of artistic practice can be understood and how it may relate to broader conceptions of ethics.
+It argues that a multiplicity of ethical perspectives is essential to counter the prevailing tendency toward diminishing heterogeneity in hyper-capitalist societies.
+Drawing on Michel Foucault’s concept of the Care of the Self, the text suggests that artistic practice can offer new insights into what it means to live ethically.
+Unlike capitalist consumption, which is transactional and limiting, artistic play fosters freedom and reflection, serving as a valuable framework for ethical exploration and self-reflection in contemporary society.
+
 * Abstract
 In Western society of the beginning of the twenty first century most questions and relations are entangled with economy, and thereby to some degree mutilated. The power relations between the arts and the control structures of capitalism are, in an understatement, unequal. The possiblity for interpretations of moral questions is shrinking. In only a little more than a decade the panoptic control structures of social-media have become second nature and they offer an understanding of ethics that is both normative and irrational. Departing from this rather dense scenario I will introduce ideas about how artistic practice in music can be part of a method with which a set of different values may be proposed. Values that may offer an interesting opposition, or tension, to those proposed by the dominant capitalist structures. These are not necessarily 'better' but can help to reveal how a multiplicity of perspectives can be applied to questions of what it means to make /good decisions/ and be a /good human being/.
 

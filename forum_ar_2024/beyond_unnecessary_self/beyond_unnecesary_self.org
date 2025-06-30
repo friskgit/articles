@@ -17,7 +17,7 @@
 * Abstract
 ** Beyond the unnecessary self
 
-In my 2013 paper /The (un)necessary self/ [cite:@Frisk2013] I explored the idea of the /giving up of the self/ as an important step towards the dismantling of the romantic idea of creation, and approach an understanding of creativity that is more closely aligned with the other. The other should be understood as anyone in the proximity of the artistic practice: a co-creator, a listener, a particpant or a remote collaborator. The point here is to move the focus from the creator to what is created and to understand the roles of the various agents involved.
+In my 2013 paper /The (un)necessary self/ [cite:@Frisk2013] I explored the idea of the /giving up of the self/ as an important step towards the dismantling of the romantic idea of creation, and approach an understanding of creativity that is more closely aligned with the Other. The other should be understood as anyone in the proximity of the artistic practice: a co-creator, a listener, a particpant or a remote collaborator. The point here is to move the focus from the creator to what is created and to understand the roles of the various agents involved.
 
 In music, hyper-capitalism of the twenty first century is eager to commodify the artistic output, the artist, as well as the listeners. This is not only a problem for the freedom of art (a concept equally complex), it also makes the role of the self difficult to understand. But in the radicalization of the role of the creator, both a new work concept and a review of the self is necessary, even beyond the notion of giving up of the self. The ethics in artistic practices, that is, the moral values that are expressed through artistic practices in music, specifically improvisation, may complement traditional views on ethics and is an important aspect when discussing the roles of the self. The notion of the /Care of the Self/, as discussed in Michel Foucault's Volume Three of the /History of Sexuality/, is used as a method to approach this complex area. 
 
@@ -28,33 +28,32 @@ This presentation will be in the form of a lecture performance.
 In my 2013 paper /The (un)necessary self/ [cite:@Frisk2013] I explored the idea of the concept of /giving up of the self/ as an important step towards the dismantling of the romantic idea of creation and individuality.
 I wanted to approach an understanding of creativity that is entangled with the other in a way that emphasizes /relations/ rather than the individuality of the artist.
 Related to this is the ambition to move the focus from the /creator/ to what is /created/, and to better understand the roles of the various actors involved.
-The /other/ in this context should be understood as anyone or anything in the proximity of the artistic practice: a co-creator, a listener, a particpant, an instrument, a remote collaborator, or anything with a similar impact on the artistic practice.
+The /other/ in this context should be understood as anyone or anything in the proximity of the artistic practice: a co-creator, a listener, a particpant, an instrument, a remote collaborator, or anything with similar impact on the artistic practice.
 This attitude has some resemblance to theories promoted by the French sociologist and philosopher Bruno Latour, such as actor-network theory, but also depart from them in some important ways, primarily the essentialist view on certain of the aspects included here.
 At a later stage it would be interesting to make an ANT oriented analysis of the material I am discussing here.
 
-An aspect that I did not explore in my earlier paper was that of the various transactions that take place in artistic production.
-The hyper-capitalism of the twenty first century is eager to commodify any and all artistic output, as well as the artist and the listeners, as objects for consumption.
-Though this may not at first appear to have a big impact on experimental arts my claim here is that it still influences some key factors that contribute to how artistic practices in music may develop, and, more importantly, how the self develops.
-One important component is the opaque nature of the relations between commodified objects in commercial media. 
+An aspect that I did not explore in my earlier paper, which I refer to above, was that of the various transactions that take place in artistic production.
+The hyper-capitalism of the twenty-first century is eager to commodify any artistic output, as well as the artist and the listeners, as objects for consumption.
+Though this may not at first appear to have a big impact on experimental art practices my claim here is that it still influences some key factors that contribute to how artistic practices in music may develop and, more importantly, how the self develops.
+One crucial component is the opaque nature of the relations between commodified objects in commercial media. 
 For example, the primary interest of the big media streaming platforms is not necessarily to deliver music or movies.
-Instead it is the eternal collection of data that happens in the background that represents real value in this system.
+Instead, it is the eternal collection of data that happens in the background that represents real value in this system.
 
-This is clearly not a new phenomenon.
+This is not a new phenomenon.
 The main point of commercial media has always been to sell space for advertisement, and the role of the content is to draw attention to the right demographic groups--those to whom the commercials are directed.
-Capitalism promotes itself based on the freedom it says it allows to the individual to whom the liberty to choose and consume at free will is given.
-However, when the main economic transaction happens hidden from the user, and sometimes takes place in a completely different domain, this freedom is debatable.
-Furthermore, even the concept of freedom itself is a complex area that should be carefully approached, and the way the freedom capitalism and the freedom of artistic practice divert from each other may easily create conceptual confusion.
-Finally, the connection between freedom and ethics contributes to how the self is situated, rather relocated, in this complex matter
+Capitalism promotes itself based on the freedom it says it allows for to the individual to whom the liberty to choose and consume at free will is given.
+However, this freedom is debatable when the main economic transaction happens hidden from the user and sometimes takes place in completely different domains.
+Furthermore, even the concept of freedom itself is a complex area that should be carefully approached, and the way the freedom of capitalism and the freedom of artistic practice diverge from each other may easily create conceptual confusion.
+Finally, the connection between freedom and ethics contributes to how the self is situated, or rather relocated, in this complex matter.
 
-Against this backdrop, in this paper I will attempt to describe how a practice of improvisation with obsolete electronic instruments can use a different conception of freedom to deconstruct both the self and the powers of commodification.
+Against this backdrop I will attempt to describe how a practice of improvisation with obsolete electronic instruments can use a different conception of freedom to deconstruct both the self and the powers of commodification.
 Exploring the ethics of an artistic practice is a necessary part of this process.
 Both here, and in my original essay from 2013 cited above, American writer David Henry Thoreau's famous notion of the absent speaker has served as an inspiration: "The peculiarity of a work of genius is the absence of the speaker from his speech" [cite:@thoreau2004; p. 264].
-This absent artist is the unnecessary self and the partly disruptive dynamics of hyper capitalism as briefly discussed above plays an important role here.
-I realize this is a rather short format for discussing relatively complex topics, and the discussions are necessarily kept short.
+Leaving the notion of genius to the side, this /absent speaker/ could be seen to be related to the unnecessary self: only the aspects of the self necessary for the performance needs to be present, the rest can become a distraction.
+The partly disruptive dynamics of hyper capitalism with its focus on self realization through consumption which is briefly discussed above plays an important role here.
 
 ** Playing obsolete instruments
-
-In my engagement to develop a historically informed performance practice in electronic music I find that the role of the self in the way I have developed it earlier comes to the forefront in new and interesting ways. 
+In my engagement to develop a historically informed performance practice in electronic music I find that the role of the self comes to the forefront in new and interesting ways. 
 Previous possibly hidden features of these historic instruments, explored through an artistic practice in witch the self's relation to the self is explored, may now be discerned and re-contextualized.
 The instruments I have approached here are a modular synthesizer and audio mixer designed in Sweden in the early the 1970's.
 To attempt to understand the qualities and the particularity of this instrument a wide range of parameters need to be considered, and the context in which it was originally created is one of them.
