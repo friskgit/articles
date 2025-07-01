@@ -8,7 +8,7 @@
 \renewcommand\familydefault{\sfdefault}
 
 #+begin_src emacs-lisp
-  (set-window-margins (selected-window) 20 20)
+  (set-window-margins (selected-window) 0 10)
   (setq line-spacing 0.5)
   #+end_src
 
@@ -29,7 +29,7 @@ In my 2013 paper /The (un)necessary self/ [cite:@Frisk2013] I explored the idea 
 I wanted to approach an understanding of creativity that is entangled with the other in a way that emphasizes /relations/ rather than the individuality of the artist.
 Related to this is the ambition to move the focus from the /creator/ to what is /created/, and to better understand the roles of the various actors involved.
 The /other/ in this context should be understood as anyone or anything in the proximity of the artistic practice: a co-creator, a listener, a particpant, an instrument, a remote collaborator, or anything with similar impact on the artistic practice.
-This attitude has some resemblance to theories promoted by the French sociologist and philosopher Bruno Latour, such as actor-network theory, but also depart from them in some important ways, primarily the essentialist view on certain of the aspects included here.
+This attitude has some resemblance to the flat ontology and the theories promoted by the French sociologist and philosopher Bruno Latour, such as actor-network theory, but also depart from them in some important ways, primarily the essentialist view on certain of the aspects included here.
 At a later stage it would be interesting to make an ANT oriented analysis of the material I am discussing here.
 
 An aspect that I did not explore in my earlier paper, which I refer to above, was that of the various transactions that take place in artistic production.
@@ -54,75 +54,106 @@ The partly disruptive dynamics of hyper capitalism with its focus on self realiz
 
 ** Playing obsolete instruments
 In my engagement to develop a historically informed performance practice in electronic music I find that the role of the self comes to the forefront in new and interesting ways. 
-Previous possibly hidden features of these historic instruments, explored through an artistic practice in witch the self's relation to the self is explored, may now be discerned and re-contextualized.
-The instruments I have approached here are a modular synthesizer and audio mixer designed in Sweden in the early the 1970's.
-To attempt to understand the qualities and the particularity of this instrument a wide range of parameters need to be considered, and the context in which it was originally created is one of them.
+Previous possibly hidden features of these historic instruments, explored through an artistic practice in which the self's relation to the self is explored, may now be discerned and re-contextualized, something I will return to later.
+The giving up of the self is not to succumb to someone else but depends on the willingness to engage in a dialogue with /others/, which also includes instruments and other non-human things, concerning the creative process.
+The instruments, and the practice to play them, that I will be discussing here, here are a modular synthesizer and audio mixer designed in Sweden in the early the 1970's (See Fig ref:fig:dataton_1).
+When playing these modules the /other/ may be defined as the greater context of these instruments, some of which are unknown, others will reveal themself through the practice.
+In a slow and meticulus process of untangling the ways in which these instruments can be approached (see [cite:@holzer2021,;@Frisk2025;@Frisk2021a]) a certain proficiency with the interface is developed, always in interaction with the objects themselves.
+In other words, rather than developing a compositional or improvisatory framework that I try to superimpose on the instruments, I discover the possibilities in interaction with the greater context of them.
+Thus, to attempt to understand the qualities and the particularity of the /Dataton 3000/ modules, further discussed below, a wide range of parameters need to be considered.
 Should this analysis not be successful there is a risk that the instrument's proper qualities are misunderstood, or that one ends up recreating what has already been done with it, or both.
-It is, however, the relations between these parameters that I am interested in, not my dominance on one, or one parameter's dominance over me.
-In a wider scope of contemporary technologies, the rate at which the development in general is progressing can turn objects sometimes less than a decade old incompatible with current systems.
-A hypothesis is that by learning from early electronic instruments using the methods I have proposed it may be possible to better understand the complexities of what can be seen as a media archaeology.
+It is, however, the relations between these attributes that I am interested in, not my dominance on one, or one parameter's dominance over me.
 
+In a wider scope of contemporary technologies, the rate at which the development in general is progressing can turn objects sometimes less than a decade old incompatible with current systems, which makes working with these modules even more interesting.
+What are the properties, or uses, of these instruments that have been concealed by the quick development of contemporary music technology?
+An experimental hypothesis is that by learning from these early instruments it may be possible to better understand the complexities of improvisatory practices in electronic music.
+
+#+caption: Six of the many /Dataton 3000/ modules in a picture from /Statens musikverk/
+#+name: fig:dataton_1
 
 [[file:/Volumes/Freedom/Dropbox/org/seminar-slides/kmh/stanford/img/DATATON-01.JPG]]
-In an artistic practice that departs from the use of obsolete instruments, such as the ones documented here, the interrelations between the various subjects/objects involved in the performance can become both more complicated, but they may also disclose the challenges in a fruitful manner.
-The most prominent is the aspect of technology itself.
-Though many examples of inventive designs are incorporated into mainstream products, others are simply forgotten and abandoned despite their explicit contribution to the development.
-As was mentioned above, one reason for this is the incredible speed of the current technological development which makes artistic practices involving technological instruments fragile and vulnerable to changes that renders all, or parts of the instruments, unusable.
-This may be software upgrades, abandoned hardware circuits, forgotten system-specific knowledge, or simply the fact that the new upgrade is so much more compelling in its usability and sonic or musical qualities.
 
-Commercial aspects have a great impact here, and as Pinch and Trocco concludes about the synthesizer: "from a flexible variety of possible control configurations, the synthesizer eventually stabilised into a keyboard instrument" [cite:@Pinch1998].
-In other words, over time the highly experimental field of design of electronic musical instruments is narrowed, and standardization and market forces excludes those items that are not successful enough or simply incompatible with current production paradigms.
+In an artistic practice that departs from use of obsolete instruments the interrelations between the various subjects and objects involved in the performance can become complicated, but they may also disclose the challenges involved in a fruitful manner.
+The most prominent is the aspect of technology itself.
+Though many examples of inventive designs are incorporated into mainstream products, others are simply forgotten and abandoned despite their sometimes explicit contribution to the development.
+The race for inventing new and even more laborious electronic instruments and interfaces, fueled both by inventiveness and need and by market economy and capitalism, makes artistic practices involving these instruments fragile and vulnerable to changes that renders all, or parts of the instruments, unusable.
+This may be software upgrades, abandoned hardware circuits, forgotten system-specific knowledge, or simply the fact that the new upgrade is so much more compelling in its usability and sonic or musical qualities that it renders the old instruments obsolete.
+The violin and the piano are generally not upgraded in this fashion so this is a particular trait of electronic instruments.
+
+That commercial aspects have a great impact in this field is also validated by Pinch and Trocco when they conclude that "from a flexible variety of possible control configurations, the synthesizer eventually stabilised into a keyboard instrument" [cite:@Pinch1998; 28].
+In other words, over time the highly experimental field of design of electronic musical instruments is narrowed, and standardization in collaboration with market forces exclude those items that are not successful enough, or simply incompatible with current production paradigms.
 This brings us back to the discussion relating to the impact that capitalism has on the field.
-The instruments that contributed to an otherwise experimental artistic practice that generally tried to evade capitalistic market forces are sucked into to the efficiency of production that the market forces demands.  
-It is true that no Western instruments, electronic or acoustic, are independent from the commodifying forces or market economy, but the way that the development of electronic instrument is aligned with the advancements of technology in society in general makes them particularly sensitive.
-A certain merging of the fields is occurring here where tools of communication such as the mobile phone are to some degree also used for artistic performances again bringing to the fore the complexities of compatibilities.
-Repudiated and incompatible with the supporting systems such developed interfaces may eventually be rendered useless by the market.
+The instruments that contributed to an otherwise experimental artistic practice that may have tried to evade capitalistic market forces are nevertheless sucked into to the commanding  efficiency and normalization of production and design expected from the market forces.
+Repudiated and eventually incompatible with supporting systems such developed interfaces may eventually be rendered useless by the market.
+It is true that no Western instruments, electronic or acoustic, are independent from the commodifying forces or market economy, but the way that the development of electronic instrument is aligned with the advancements of technology in society in general makes them particularly sensitive to this process.
+A certain merging of the fields is also occurring here where tools of communication such as the mobile phone are also used and explored for artistic performances, again bringing the complexities of compatibilities to the fore (see [cite/text:@Wang2014;@Madhavan2016]).
 
 There are both differences and similarities between the study of traditional methods for musical interpretation, rooted in Western musical history and practices, and the excavation of the technological and cultural significance of a particular electronic musical instrument of the past.
-Since at least the romantic era the definition of the artistic work has been constructed from the vantage point of the composer in a strictly hierarchical structure with the self at the centre.
-This is well described by Roland Barthes in the famous essay /The death of the Author/ [cite:@barthes68:death_of], where the basic claim is that detailed biographical, geographical and historical knowledge about the composer is at the core of any interpretation of a work.
-An understanding of such works clearly has to go through the understanding of a self.
-In this structural organization of the musical work not only the music as a product is susceptible to commodification, but also, or perhaps even more so, is the author the one being commodified.
+Since at least the romantic era the definition of the artistic work has been constructed from the vantage point of the composer in a strictly hierarchical structure with the self of the originator at the centre.
+This is well described by the French literary critic and philosopher Roland Barthes in his famous essay /The death of the Author/ [cite:@barthes68:death_of], where the basic critique is that detailed biographical, geographical and historical knowledge about the composer, rather than the reader and the tet itself, is at the core of all traditional interpretations of a work.
+Hence, following this line of thought a true understanding of the work has to go through the understanding of a self something which is made complicated by the amalgamation of the self with the work.
+In this structural organization of musical work not only the music as a product is susceptible to commodification, but also, or perhaps even more so, is the author the one being commodified.
+My distancing, or giving up of, myself is part of my attempt to distance myself from this view and instead establish a artistic practice that where the self is in constant motion, where there is no center, only relations. The work concept in this case will also be in constant motion rendering a structural analysis rather meaningsless.
 
-The instruments used in my performance here are the Dataton System 3000 [cite:@sandlund2019]. This modular synthesizer and audio mixer was designed by Björn Sandlund in Sweden during the 1970’s in an attempt to make a versatile instrument for electronic music. Despite its utopian vision The Dataton System 3000 was never widely used as an experimental instrument, nor explored for its pedagogical enterprise, and thus exemplifies the kind of harsh expulsion that the market carries out on unwanted objects.
-My primary interest is not the objects in themselves, my interest in these instruments goes beyond that.
-Else one could, for example, say that there is nothing outside a piece of equipment like a Dataton module, to rudily paraphrase Derrida's statement that /il n’y a pas de hors-texte/ [cite:@derrida2016].
-There is only the object and what it tells us in the context that it is used in.
-Everything is there, contained within the instrument and its narrative.
-Though I believe that there is some merit to this thought there is a greater risk of creating hierarchies in the relations between the various actors if the instruments are at the centre in that way.
-Neither is it my sole interest to to design an artistically driven project where the end goal is a /work/, which undoubtedly also constructs a hierarchy around the artifact.
-Rather, it is the interactions that are made possible by engaging in an artistically driven play with the objects that I am after. A free play that does not have a purpose and no particular meaning, though it may well develop in other directions in the future.
+As already mentioned the instruments in this study through which I have explored the processes of the self are the /Dataton System 3000/ [cite:@sandlund2019].
+This modular synthesizer and audio mixer was designed by Björn Sandlund in Sweden during the 1970’s in an attempt to make a versatile instrument for electronic music and pedagogic uses.
+Despite its utopian vision The /Dataton System 3000/ was never widely used as a musical instrument, nor was it explored for its pedagogical enterprise.
+It thus exemplifies the kind of harsh expulsion that the market carries out on unwanted and useless objects.
+My primary goal here is not the objects in themselves, nor is it grounded in a fetischism for pre-digital equipment.
+My interest in these instruments lies in the attempt to understand them in their wider context and map this knowledge unto my musical interests and experimentation.
+This includes but is not limited to their historical origins.
+One could argue that there is nothing outside a piece of equipment like a Dataton module, to rudily paraphrase Derrida's statement that /il n’y a pas de hors-texte/ [cite:@derrida2016].
+That there is only the object and what it tells us in the context that it is used in and where the /reader/ decides what they are, which is essentially Roland Barthes point as discussed above.
+Everything is there, their narrative is contained in the objects.
+Though I believe that this line of thinking is useful there is still a risk of creating hierarchies in the relations between the various actors if the instruments and the reader are put at the centre in this way.
+Neither is it my interest to design an artistically driven project with the end goal is a /work/, which undoubtedly also would construct a hierarchy around the artifact.
+
+Rather, it is the interactions that are made possible by engaging in an artistically driven play with the objects that I am after.
+A free play that does not have a purpose and no particular meaning, though it may well develop in other directions in.
+The result may be one or several works, but they are not the goal, they are subordinate to the process.
 In this free play I can engage with certain questions in a way that would otherwise not have been possible, and improvisation is part of the method that allows me to do this.
 
-The biggest difference between the two models of analysis briefly described here, that is, the traditional musicological and historical approach, and a historically informed exploration of a electronic music heritage, is that the first in most cases anchors the work in an origin, the composer, and the second attempts to support a network of relations that also includes an originator but does not necessarily privilege them.
+Narrowing this down to the field of music there are, crudely put, two models of analysis that emerge, the traditional musicological and historical approach, and a historically informed exploration of a electronic music heritage.
+The first anchors the work to a composer with the work at its origin, and the second attempts to support a network of relations that also includes an originator but does not necessarily privilege them.
+The biggest difference between the two models of analysis is that the first, in most cases anchors the composer at this origin, and the second attempts to support a network of relations that also includes an originator but does not necessarily privilege them.
 The ladder, I would argue, is not normative on the level of practice, it doesn't prescribe how one should do something, but it rather proposes how one may understand something one already does.
-The practice analyzed here, an improvisation, is a method or a form that freedom can take, and in this freedom a different self, or author, can emerge.
-The added value is that this model presents is an expanded ethical dimension.
-It is also relived by freedom of artistic practice that value the larger context of obsolete instruments, and the relationships between the various agents involved.
+The practice analyzed here, improvisation, is a method or a form that freedom can take.
+In this freedom a different view on the self can emerge.
+The added value is that this model presents is an expanded ethical dimension that is likewise relived by the freedom in artistic practice.
 
-
+# and values the larger context of obsolete instruments, and the relationships between the various agents involved.
 
 ** Freedom
-The freedom of art gives the role of the /self/ many different faces.
-Who is this absent self whose works are exploited on a market where the transactions are so convoluted and opaque that they are impossible to disentangle?
+The freedom of art gives the role of the /self/ many different faces and not all of them are necessarily practical in the artistic practice.
+Returning to Thoreau he makes an attempt at releasing the self of the author from the work through a process of self-effacement where the individual ego or personality of the author is dissolved.
+This is made extremely difficult at a time where the works are exploited on a market where the transactions are so convoluted and opaque that they are impossible to disentangle?
 In the attempt to understand the role of the creator, the self, both a new work concept and a review of the self is necessary.
-In the way that these relations may be unwrapped the artistic practice may be seen to have a particular form for ethics.
-
+In the way that these relations may be unwrapped the artistic practice may be seen to have a particular form for ethics, which allows for another analysis of the self.
 The ethics in artistic practices, that is, the moral values that are expressed through artistic practices in music, specifically improvisation, is by all means an important aspect when investigating the roles of the self.
 These values are disclosed in the way music is negotiated in improvisation and may turn out to work in ways that are different, or even opposed to social ethics.
+
 The notion of the /Care of the Self/, as discussed in Michel Foucault's Volume Three of the /History of Sexuality/ [cite:@foucault1988], is used here as a method to approach this complex area. 
-The /care of the self/ is a particular development between self and others, a method for developing an ethics through engaging with the self's relation to the self, a self that is rooted in "practices of freedom" [cite:@Foucault1997-2; p. 283]: "Freedom is the ontological condition of ethics. But ethics is the considered form that freedom takes when it is informed by reflection" [cite:@Foucault1997-2; p. 284]. The care of the self is the activity of which these elements are a part, and it is not a solipsitic activity that is merely concerned with the self:
+The /care of the self/ is a particular development between self and others, a method for developing an ethics through engaging with the self's relation to the self, a self that is rooted in "practices of freedom" [cite:@Foucault1997-2; 283]: "Freedom is the ontological condition of ethics. But ethics is the considered form that freedom takes when it is informed by reflection" [cite:@Foucault1997-2; 284]. The care of the self is the activity of which these elements are a part, and it is not a solipsitic activity that is merely concerned with the self:
 
 #+begin_quote
-When you take care of the body you do not take care of the self. The self is not clothing, tools, or possessions; It is to be found in the principle that uses these tools, a principle not of the body of the soul. You have to worry about your soul--that is the principal activity for caring for yourself. The care of the self is the care of the activity and not the care of the soul-as-substance. [cite:@Foucault1997-2; p.231-2]
+When you take care of the body you do not take care of the self. The self is not clothing, tools, or possessions; it is to be found in the principle that uses these tools, a principle not of the body but of the soul. You have to worry about your soul--that is the principal activity of caring for yourself. The care of the self is the care of the activity and not the care of the soul-as-substance. [cite:@Foucault1997-2; 230f]
 #+end_quote
-The principle that uses the tools of artistic practice is in essence the aesthetics of the creative act: the practice itself.
-Though not philosophically grounded and although Thoreau may not have thought of it this way, there is an odd and interesting connection between the care of the self and the absent speaker.
+Translated to artistic practice the last sentence of this quotation may be rewritten as: the care of the self is the care of the artistic activity and not the care of the soul-as-substance.
+The meaning of soul-as-substance is similar to Foucault's famous quote that “The soul is the prison of the body” [cite:@foucault1977; 31] and relates to the soul as a set of techniques for domination.
+Hence, I argue that there is a useful relation here between the critique of the soul-as-substance--as well as the general critique of the author--and the ambition to give up the self in artistic practices.
+The soul-as-substance allows for a domination of the self by capitalism in ways that makes the subject normative rather than one that allows for an engagement of free play.
+Hence, the principle that uses the tools of artistic practice is in essence the aesthetics of the creative act: the practice itself.
+Though not philosophically grounded and although Thoreau may not have thought of it this way, the absent speaker is an odd but interesting reference to the care of the self.
+Both gives priority to the activity.
 However, the most important one is the notion of the practice as the tool to develop the care for the self.
-The /giving up of the self/ along with the /care of the self/ are not contradictions - they feed upon each other and allow for an approach and an epistemology of creativity that is more closely aligned with others than the self while at the same time allows for a development of the subject.
+The /giving up of the self/ and the /care of the self/ are not contradictions - they feed upon each other.
+They both allow for an epistemology of creativity, an understanding of practice as the core of human activity that is more closely aligned with others than the self.
+The care for the self is that care of the relations.
 
-Going back to Foucault's quote above, one may also assert that in artistic practice in music not only ethics, but also freedom is the ontological condition for improvisation.
-If improvisation as an act of ethics is interchanged with ethics a further paraphrasing of the quote above by Foucault may read as: /Improvisation is the considered form that freedom takes when it is informed by reflection/.
+Above, Foucault was quoted saying that freedom is the ontological condition for ethics and also this quote may be adapted to an artistic practice stating that freedom is the ontological condition for improvisation.
+In this case there is a close connection between ethics and improvisation in that both depend on freedom.
+This freedom, however, is elusive and may easily be mistaken for the claimed freedom of the consumer, a freedom that is imagined and attached to the soul-as-substance or self-emancipation.
+If improvisation is an act of ethics a further paraphrasing of the quote above by Foucault may read as: /Improvisation is the considered form that freedom takes when it is informed by reflection/.
 That would point to the reflective act, here on part of the improviser, as being the main component through which the relation between improvisation and freedom may be developed and understood.
 It is the activity that instantiates this process that plays a central role.
 As Foucault points out, the care of the self is the care of the activity.
