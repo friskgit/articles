@@ -2,6 +2,8 @@
 #+name: Henrik Frisk
 #+options: toc:nil num:nil
 #+cite_export: csl /Users/henrik_frisk/Documents/articles/biblio/csl-styles/chicago-author-date-16th-edition.csl
+# #+cite_export: biblatex backend=bibtex,style=authoryear
+#+bibliography: biblio.bib
 #+LaTeX_HEADER: \usepackage[x11names]{xcolor}
 #+LaTeX_HEADER: \hypersetup{linktoc = all, colorlinks = true, urlcolor = DodgerBlue4, citecolor = black, linkcolor = black}
 #+latex_header: \usepackage[scaled]{helvet}
@@ -21,7 +23,7 @@ In my 2013 paper /The (un)necessary self/ [cite:@Frisk2013] I explored the idea 
 
 In music, hyper-capitalism of the twenty first century is eager to commodify the artistic output, the artist, as well as the listeners. This is not only a problem for the freedom of art (a concept equally complex), it also makes the role of the self difficult to understand. But in the radicalization of the role of the creator, both a new work concept and a review of the self is necessary, even beyond the notion of giving up of the self. The ethics in artistic practices, that is, the moral values that are expressed through artistic practices in music, specifically improvisation, may complement traditional views on ethics and is an important aspect when discussing the roles of the self. The notion of the /Care of the Self/, as discussed in Michel Foucault's Volume Three of the /History of Sexuality/, is used as a method to approach this complex area. 
 
-This presentation will be in the form of a lecture performance.
+# This presentation will be in the form of a lecture performance.
 * Beyond the unnecessary self
 ** Introduction
 
@@ -44,7 +46,7 @@ The main point of commercial media has always been to sell space for advertiseme
 Capitalism promotes itself based on the freedom it says it allows for to the individual to whom the liberty to choose and consume at free will is given.
 However, this freedom is debatable when the main economic transaction happens hidden from the user and sometimes takes place in completely different domains.
 Furthermore, even the concept of freedom itself is a complex area that should be carefully approached, and the way the freedom of capitalism and the freedom of artistic practice diverge from each other may easily create conceptual confusion.
-Finally, the connection between freedom and ethics contributes to how the self is situated, or rather relocated, in this complex matter.
+Finally, the connection between freedom and ethics contributes to how the self is situated, or rather relocated, in this complex matter.[fn:2]
 
 Against this backdrop I will attempt to describe how a practice of improvisation with obsolete electronic instruments can use a different conception of freedom to deconstruct both the self and the powers of commodification.
 Exploring the ethics of an artistic practice is a necessary part of this process.
@@ -138,60 +140,73 @@ The /care of the self/ is a particular development between self and others, a me
 #+begin_quote
 When you take care of the body you do not take care of the self. The self is not clothing, tools, or possessions; it is to be found in the principle that uses these tools, a principle not of the body but of the soul. You have to worry about your soul--that is the principal activity of caring for yourself. The care of the self is the care of the activity and not the care of the soul-as-substance. [cite:@Foucault1997-2; 230f]
 #+end_quote
-Translated to artistic practice the last sentence of this quotation may be rewritten as: the care of the self is the care of the artistic activity and not the care of the soul-as-substance.
+
+Translated to artistic practice the last sentence of this quotation may be reformulated: The care of the self is the care of the artistic activity and not the care of the soul-as-substance.
+The artistic practice, the doing, transcends the self and has priority over it.
 The meaning of soul-as-substance is similar to Foucault's famous quote that “The soul is the prison of the body” [cite:@foucault1977; 31] and relates to the soul as a set of techniques for domination.
-Hence, I argue that there is a useful relation here between the critique of the soul-as-substance--as well as the general critique of the author--and the ambition to give up the self in artistic practices.
-The soul-as-substance allows for a domination of the self by capitalism in ways that makes the subject normative rather than one that allows for an engagement of free play.
-Hence, the principle that uses the tools of artistic practice is in essence the aesthetics of the creative act: the practice itself.
-Though not philosophically grounded and although Thoreau may not have thought of it this way, the absent speaker is an odd but interesting reference to the care of the self.
+Hence, I argue that there is a useful relation here between the concept of the soul-as-substance--as well as the general critique of the author--and the ambition to give up the self in artistic practices.
+It may even be necessary to give up the self in order to see the practice as an instrument of freedom.
+Perhaps it is counter-intuitive that giving up the self is a similar process to the care for the self.
+In my reading and my understanding of the care for the self the activity, or the practice, is a condition for the care for the self that is allowed for only if the self, or soul-as-substance, does not interfere and reduce the freedom.
+The soul-as-substance is a domination of the self through capitalism in ways that makes the subject normative rather than one that allows for an engagement of free play.
+It is a threat to freedom as a necessary condition for improvisation.
+The principle that uses the tools of artistic practice is in essence the aesthetics of the creative act rather than the self.
+
+Though Thoreau may not have thought of it this way, the absent speaker, that was discussed above, is an odd but interesting reference to the care of the self.
 Both gives priority to the activity.
 However, the most important one is the notion of the practice as the tool to develop the care for the self.
 The /giving up of the self/ and the /care of the self/ are not contradictions - they feed upon each other.
 They both allow for an epistemology of creativity, an understanding of practice as the core of human activity that is more closely aligned with others than the self.
 The care for the self is that care of the relations.
 
-Above, Foucault was quoted saying that freedom is the ontological condition for ethics and also this quote may be adapted to an artistic practice stating that freedom is the ontological condition for improvisation.
-In this case there is a close connection between ethics and improvisation in that both depend on freedom.
-This freedom, however, is elusive and may easily be mistaken for the claimed freedom of the consumer, a freedom that is imagined and attached to the soul-as-substance or self-emancipation.
-If improvisation is an act of ethics a further paraphrasing of the quote above by Foucault may read as: /Improvisation is the considered form that freedom takes when it is informed by reflection/.
-That would point to the reflective act, here on part of the improviser, as being the main component through which the relation between improvisation and freedom may be developed and understood.
-It is the activity that instantiates this process that plays a central role.
-As Foucault points out, the care of the self is the care of the activity.
-The ethics of improvisation, then, arises from freedom, just as ethics is the considered form that this freedom takes on.
-The condition for these relations to develop is the self's reflection upon itself, but only the results of this process are of interest, not the self as an object.
-This can be compared to philosopher Gary Peters remark that "free-improvisation is not driven by a concern for other improvisers, but by a concern or care for the work itself" [cite:@benson2003; p. 59], but my claim is that it is rather driven by the process of a care for the self.
-
 The expansion of the notion of the unnecessary self was inspired by the line of thoughts presented in the paper /Sounds of Future Past/ [cite:@Frisk2021a] where the concept of an /ethics of instruments/ is explored.
 This radical idea was first presented by professor of history of art John Tresch and professor of music Emily I. Dolan in the paper /Toward an Organology of Music/ [cite:@Tresch2013].
-It is based on some of the conditions for, or elements of, ethical relations which in turn relates to the /technologies of the self/, a concept also introduced by Foucault in a related work [cite:@foucault1988b].
-Tresch and Dolan explore this experimental ethics of instruments through four analytical categories, highly related to the four axes that makes up "Foucault’s analysis of the self’s relation to the self" [cite:@Tresch2013; p. 284], namely the ontology, deontoology, ascetis and the teleology of the instruments.
-Their idea of an /ethics of instruments/ is leaning on the notion that the material aspects, mediations and the telos of an instrument can provide grounds for an analysis of its /ethics/.
-It may appear odd to speak of ethics in relation to dead objects such as a musical instruments, and it is reasonable to critique such a notion based on the fact that not all humans have the right to basic ethical rights yet.
+It is based on some of the conditions for, or elements of, ethical relations which in turn connects to Foucault's notion of the /technologies of the self/ [cite:@foucault1988b].
+Tresch and Dolan explore this experimental ethics of instruments through four analytical categories which in essence are adaptation of the four axes that makes up "Foucault’s analysis of the self’s relation to the self", but they "have tweaked and tuned them in order to apply them to instruments" [cite:@Tresch2013; p. 284]. The four categories relate to the instrument's materiality, its mediation or level of presence, its greater context and its telos[fn:1] (see [cite/text:@Holzer2025] for a more indepth discussion).
+Their idea of an ethics of instruments is leaning on the notion that these categories can provide grounds for an analysis of an ethics of instruments.
+As a model of analysis it provides a possible framework for analyzing and understanding obsolete instruments and the possible ways in which difficult questions relating to topics such as accuracy, responsibility and freedom may be approached.
+Whether or not it is possible to consider that material objects possess a notion of ethics is a different question and beyond the scope of this paper, but one may argue that priority should be given to ensure that all humans and animals enjoy basic ethical living conditions first.
 
-[[file:/Volumes/Freedom/Dropbox/org/seminar-slides/kmh/stanford/img/DATATON-03.JPG]]
+Freedom may be seen as the ontological condition for ethics as well as for improvisation, though this is somewhat dependent on the style of improvisation.
+Either way it appears to open up a possible connection between ethics and improvisation in that both depend on some notion of freedom.
+This freedom, however, is elusive and may easily be mistaken for the freedom of the self, a freedom rather attached to the idea of the soul-as-substance and self-emancipation, and the freedom of the consumer in a capitalist market economy.
+But if improvisation is to be considered an act of ethics a further paraphrasing of the quote above by Foucault may read as: /Musical improvisation is one of the considered forms that freedom takes when it is informed by reflection/.
+This assumes that the reflective act, necessary in most artistic processes, is the mediator between freedom and improvisation.
+It is the activity that instantiates a recursive process between freedom and improvisation.
+
+As Foucault points out, the care of the self is the care of the activity, and in improvisation it is the artistic practice is what enables this.
+The ethics of improvisation, then, arises from freedom.
+The condition for these relations to develop is the self's reflection upon itself and upon the practice, but it is mainly the results of this process that are of interest, not the self itself.
+This can be compared to philosopher Gary Peters remark that "free-improvisation is not driven by a concern for other improvisers, but by a concern or care for the work itself" [cite:@benson2003; p. 59].
+My claim is that improvisation is driven by the process of a care for the self.
 
 ** Final notes
-My argument here is that with the tools that are defined through the technologies of the self, the notion of the care of the self opens up a focus on the relations between the self and the things that surround it.
+My argument here has been that with the tools that are defined through the technologies of the self, the notion of the care of the self opens up a focus on the relations between the self and the things that surround it.
 Relations that eventually renders the actual self less important.
 Whether or not one is willing to accept the idea of an ethics of instruments is not the main point here, but what can be gathered from Tresch and Dolan is that the self's relation to the self promotes the autonomy of some of these objects.
-Through the unwrapping of the various discourses of power, also an the broad level, such as the ones between improvisation and freedom, self and other, and self and self, these processes are revealed.
-It is not only that these relations exist and that they matter, but that they need to be good and respectful.
-In this sense ethical relations may appear important between all objects in the network that constitutes the context of musical improvisation.
+Through the unwrapping of the various discourses of power, also an the broad level, such as the ones between improvisation and freedom, self and other, and self and self, the particularities and aptitudes of the instruments discussed here, the Dataton 3000, are revealed.
+By way of a preliminary understanding of an ethics of instruments these relations exist, matter and they need to be good and respectful.
+In this sense ethical relations may appear important between all objects in the network that constitute the context of musical improvisation.
 Even if this does not extend all the way to an ethics of instruments, a deep understanding for these relations may contribute to a developed sense of ethics, an ethics of artistic practice in improvisation.
-In this space the /care for the self/ is the prcess that deconstructs the object/subject division necessary for this process to unfold.
+In this space the /care for the self/ is the prcess that deconstructs the object/subject division necessary for this process to unfold  (see [cite/text:@bergamin2023] for a realted discussion on this topic).
 
 
-In the attempt to construct an artistic practice where the self is unnecessary there are a number of factors that have been discussed here.
+In the attempt to construct an artistic practice where the self as subject is unnecessary there are a number of factors that have been discussed here.
 One is the objectifying forces of the hyper capitalism that not even experimental musical practices manage to evade.
-This is at odds with the idea of the care of the self, a process in which the self as a subject is promoted with the goal of creating sustainable relations between the self, the practices of the self, and others.
-Another is the impact of the type of instruments the practice is engaged with and the fact that these themselves may engage in a process of subjectification that has an impact on the general ethics of the practice.
-Finally, the general ethics of the artistic practice as firmly rooted in the care for the self is constantly challenged by market forces that impact, if not the freedom, the way that freedom is understood.
-Nevertheless, through the practice of the care of the self I believe that a genuine and useful idea of an ethics of artistic practice that may resist the influence of capitalism is possible and render an practice so strong that the self becomes unnecessary.
+Creating sustainable relations between the self, the practices of the self, and others is made difficult by the logics of the global market economy.
+Another is the influence of the instruments the practice is engaged with and the fact that these themselves may engage in a process of subjectification that has an important role on the general ethics of the practice.
+Yet another is that the general ethics of the artistic practice as firmly rooted in the care for the self is constantly challenged by external forces that impact, if not the freedom, at lease the way that freedom is understood.
+Nevertheless, through the practice of the care of the self I believe that a genuine and useful idea of an ethics of artistic practice that may resist the influence of capitalism is possible.
+By putting focus on the other--the other here should be understood as everything else than the subject--in artistic practice, primarily improvisation, the a practice will be strong enough to render the self unnecessary.
 
 * Bibliography
 #+print_bibliography: title: References
 
 * Footnotes
+
+[fn:2] See the project /(Musical) Improvisation and Ethics/ for a related discussion of improvisation and ethics.
+ 
+[fn:1] In Foucault's terminology the /technologies of the self/ that have inspired these categories are the four axes of ethical self-formation: ontology, deontoology, ascetics and the teleology.
 
 * COMMENT stuff
 ----It is not unlikely that some stuff has been forgotten or supressed in the fast development of technology over the last half century.
