@@ -56,20 +56,22 @@ The disruptive tendencies of hyper-capitalism, driven by its emphasis on self-re
 A grasp of this force, combined with the nuanced challenges of working with obsolete instruments, underscores the necessity of transcending the unnecessary self.
 
 ** Playing obsolete instruments
-In my engagement to develop a historically informed performance practice in electronic music I find that the role of the self comes to the forefront in new and interesting ways. 
-Previous possibly hidden features of these historic instruments, explored through an artistic practice in which the self's relation to the self is explored, may now be discerned and re-contextualized, something I will return to later.
-The giving up of the self is not to succumb to someone else but depends on the willingness to engage in a dialogue with /others/, which also includes instruments and other non-human things, concerning the creative process.
-The instruments, and the practice to play them, that I will be discussing here, here are a modular synthesizer and audio mixer designed in Sweden in the early the 1970's (See Fig ref:fig:dataton_1).
-When playing these modules the /other/ may be defined as the greater context of these instruments, some of which are unknown, others will reveal themself through the practice.
-In a slow and meticulus process of untangling the ways in which these instruments can be approached (see [cite:@holzer2021,;@Frisk2025;@Frisk2021a]) a certain proficiency with the interface is developed, always in interaction with the objects themselves.
+In my engagement to develop a historically informed performance practice in electronic music I find that the role of the self comes to the forefront in new and interesting ways.[fn:3]
+Previous hidden features of these historic instruments may be discerned and re-contextualized through an artistic practice in which the self's relation to the self is dissected.
+Playing the instrument is the method to understanding them.
+The giving up of the self in artistic practice is not an act of submission to others, but a conscious openness to dialogue with them, as well as with instruments and non-human entities.
+The instruments that I will be discussing here are a modular synthesizer and audio mixer designed in Sweden in the early the 1970's called Dataton 3000 (See Fig ref:fig:dataton_1).
+This modular synthesizer and audio mixer was designed by Björn Sandlund in Sweden during the 1970’s in an attempt to make a versatile instrument for electronic music and pedagogic uses [cite:@sandlund2019]
+In a slow and meticulus process of untangling the ways in which these instruments can be approached (see [cite/text:@holzer2021,;@Frisk2025;@Frisk2021a]) a certain proficiency with the interface was developed.
 In other words, rather than developing a compositional or improvisatory framework that I try to superimpose on the instruments, I discover the possibilities in interaction with the greater context of them.
-Thus, to attempt to understand the qualities and the particularity of the /Dataton 3000/ modules, further discussed below, a wide range of parameters need to be considered.
+Therefore, to grasp the specific qualities and nuances of the Dataton 3000 modules—elaborated on further below—it is necessary to consider a broad array of parameters. Through the act of playing, the other may be conceived as the wider contextual framework of these instruments, parts of which emerge in the course of practice.
 Should this analysis not be successful there is a risk that the instrument's proper qualities are misunderstood, or that one ends up recreating what has already been done with it, or both.
 It is, however, the relations between these attributes that I am interested in, not my dominance on one, or one parameter's dominance over me.
 
-In a wider scope of contemporary technologies, the rate at which the development in general is progressing can turn objects sometimes less than a decade old incompatible with current systems, which makes working with these modules even more interesting.
-What are the properties, or uses, of these instruments that have been concealed by the quick development of contemporary music technology?
-An experimental hypothesis is that by learning from these early instruments it may be possible to better understand the complexities of improvisatory practices in electronic music.
+In a wider scope of contemporary technologies, the rate at which the development in general is progressing can turn technological and software objects sometimes less than a decade old incompatible with current systems, which makes working with these modules even more interesting.
+What are the properties, or uses, of the Dataton that have been concealed by the quick development of contemporary music technology? They did go out of production an disappeared from the main stream music technology market.
+An experimental hypothesis is that by learning from these early instruments, learning about the particularities of the interface, will alter the dispaosition of my self in relation to the instruments.
+This could potentially also illuminate new dimensions of the complex nature of improvisation in electronic music in general.
 
 #+caption: Six of the many /Dataton 3000/ modules in a picture from /Statens musikverk/
 #+name: fig:dataton_1
@@ -78,40 +80,43 @@ An experimental hypothesis is that by learning from these early instruments it m
 
 In an artistic practice that departs from use of obsolete instruments the interrelations between the various subjects and objects involved in the performance can become complicated, but they may also disclose the challenges involved in a fruitful manner.
 The most prominent is the aspect of technology itself.
-Though many examples of inventive designs are incorporated into mainstream products, others are simply forgotten and abandoned despite their sometimes explicit contribution to the development.
-The race for inventing new and even more laborious electronic instruments and interfaces, fueled both by inventiveness and need and by market economy and capitalism, makes artistic practices involving these instruments fragile and vulnerable to changes that renders all, or parts of the instruments, unusable.
-This may be software upgrades, abandoned hardware circuits, forgotten system-specific knowledge, or simply the fact that the new upgrade is so much more compelling in its usability and sonic or musical qualities that it renders the old instruments obsolete.
-The violin and the piano are generally not upgraded in this fashion so this is a particular trait of electronic instruments.
+Though many examples of inventive music technology designs are incorporated into mainstream products, others are simply forgotten and abandoned despite their sometimes explicit contribution to the development.
+The race for inventing new and even more laborious electronic instruments and interfaces, fueled both by inventiveness, need and by market economy and capitalism, makes artistic practices involving these kinds of instruments fragile and vulnerable to changes that renders all, or parts of the instruments, unusable.
+This may be software upgrades, abandoned hardware circuits, forgotten system-specific knowledge, or simply the fact that new upgrades are so much more compelling in its usability and sonic or musical qualities that it renders the old instruments obsolete.
+Traditional acoustic instruments are generally not upgraded in this fashion so this is a particular trait of electronic instruments.
 
-That commercial aspects have a great impact in this field is also validated by Pinch and Trocco when they conclude that "from a flexible variety of possible control configurations, the synthesizer eventually stabilised into a keyboard instrument" [cite:@Pinch1998; 28].
-In other words, over time the highly experimental field of design of electronic musical instruments is narrowed, and standardization in collaboration with market forces exclude those items that are not successful enough, or simply incompatible with current production paradigms.
+That commercial aspects have a great impact in this field is also validated by Pinch and Trocco when they conclude that "from a flexible variety of possible control configurations, the synthesizer eventually stabilised into a keyboard instrument" [cite/noauthor:@Pinch1998; 28].
+In other words, over time the highly experimental field of design of electronic musical instruments appears to be narrowed, and standardization in collaboration with market forces exclude those items that are not successful enough, or simply incompatible with current production paradigms.
 This brings us back to the discussion relating to the impact that capitalism has on the field.
-The instruments that contributed to an otherwise experimental artistic practice that may have tried to evade capitalistic market forces are nevertheless sucked into to the commanding  efficiency and normalization of production and design expected from the market forces.
+Even instruments used within experimental artistic practices that aim to resist capitalist market forces are ultimately absorbed into the prevailing norms of efficiency, production, and design standardization.
 Repudiated and eventually incompatible with supporting systems such developed interfaces may eventually be rendered useless by the market.
-It is true that no Western instruments, electronic or acoustic, are independent from the commodifying forces or market economy, but the way that the development of electronic instrument is aligned with the advancements of technology in society in general makes them particularly sensitive to this process.
-A certain merging of the fields is also occurring here where tools of communication such as the mobile phone are also used and explored for artistic performances, again bringing the complexities of compatibilities to the fore (see [cite/text:@Wang2014;@Madhavan2016]).
+It is true that no Western instruments, electronic or acoustic, are independent from the commodifying forces of the market economy, but the way that the development of electronic instrument is aligned with the advancements of technology in society in general makes them particularly sensitive to this process.
+A certain merging of the fields is also occurring here where tools of communication such as the mobile phone are used and explored also for artistic performances, again bringing the complexities of compatibility to the fore (see [cite/text:@Wang2014;@Madhavan2016]).
 
 There are both differences and similarities between the study of traditional methods for musical interpretation, rooted in Western musical history and practices, and the excavation of the technological and cultural significance of a particular electronic musical instrument of the past.
 Since at least the romantic era the definition of the artistic work has been constructed from the vantage point of the composer in a strictly hierarchical structure with the self of the originator at the centre.
-This is well described by the French literary critic and philosopher Roland Barthes in his famous essay /The death of the Author/ [cite:@barthes68:death_of], where the basic critique is that detailed biographical, geographical and historical knowledge about the composer, rather than the reader and the tet itself, is at the core of all traditional interpretations of a work.
-Hence, following this line of thought a true understanding of the work has to go through the understanding of a self something which is made complicated by the amalgamation of the self with the work.
-In this structural organization of musical work not only the music as a product is susceptible to commodification, but also, or perhaps even more so, is the author the one being commodified.
-My distancing, or giving up of, myself is part of my attempt to distance myself from this view and instead establish a artistic practice that where the self is in constant motion, where there is no center, only relations. The work concept in this case will also be in constant motion rendering a structural analysis rather meaningsless.
+This is well described by the French literary critic and philosopher Roland Barthes in his famous essay /The death of the Author/ [cite:@barthes68:death_of], where the basic critique is that detailed biographical, geographical and historical knowledge about the composer, rather than the reader and the text itself, is at the core of all traditional interpretations of a work.
+Hence, following this line of thought
+A true understanding of the work has to go through the understanding of a self and their many attributes.
+This structural organization of the musical work makes it susceptible to commodification, but also, or perhaps even more so, turns the author into a commercial object whose presence in social media defines their value.
+My distancing, or giving up of, myself is part of my attempt to distance myself from this perspective and instead establish a artistic practice that where the self is in constant motion, where there is no center or origin, only relations. The work concept in this case will also be in constant motion rendering a structural analysis rather meaningsless through the amalgamation of the self with the work.
 
-As already mentioned the instruments in this study through which I have explored the processes of the self are the /Dataton System 3000/ [cite:@sandlund2019].
-This modular synthesizer and audio mixer was designed by Björn Sandlund in Sweden during the 1970’s in an attempt to make a versatile instrument for electronic music and pedagogic uses.
-Despite its utopian vision The /Dataton System 3000/ was never widely used as a musical instrument, nor was it explored for its pedagogical enterprise.
-It thus exemplifies the kind of harsh expulsion that the market carries out on unwanted and useless objects.
-My primary goal here is not the objects in themselves, nor is it grounded in a fetischism for pre-digital equipment.
-My interest in these instruments lies in the attempt to understand them in their wider context and map this knowledge unto my musical interests and experimentation.
-This includes but is not limited to their historical origins.
-One could argue that there is nothing outside a piece of equipment like a Dataton module, to rudily paraphrase Derrida's statement that /il n’y a pas de hors-texte/ [cite:@derrida2016].
-That there is only the object and what it tells us in the context that it is used in and where the /reader/ decides what they are, which is essentially Roland Barthes point as discussed above.
-Everything is there, their narrative is contained in the objects.
-Though I believe that this line of thinking is useful there is still a risk of creating hierarchies in the relations between the various actors if the instruments and the reader are put at the centre in this way.
-Neither is it my interest to design an artistically driven project with the end goal is a /work/, which undoubtedly also would construct a hierarchy around the artifact.
+As already mentioned the instruments in this study through which I have explored the processes of the self are the /Dataton System 3000/.
+Despite its utopian vision modules were was widely used, neither as musical instruments, nor were they fully explored for as pedagogical tools.[fn:4]
+It thus exemplifies the kind of harsh expulsion that the market carries out on unwanted and commercially useless objects.
+My primary interest here is not the objects in themselves, nor is my engagement grounded in a fetischism for pre-digital equipment.
+My fascination for these instruments arises from an effort to contextualize them within a wider framework and apply that understanding to my musical practice and creative exploration.
+This includes, but is not limited to their historical origins.
+From a point of interpretation, a point of departure which is different but not unrelated from the engagement necessary in performance, one could rudily paraphrase Derrida's statement that /il n’y a pas de hors-texte/ [cite:@derrida2016].
+A full understanding of the instrument can only be attained through a broad understanding of what the context is.
+A signal generator in a Dataton 3000 module is not like any signal generator; it is a signal generator that pertains to the greater context of this particular instrument.
+This assumes, again in a very rough interpretation, that there is only the object and its contexts that it is and has been used in.
+The /reader/ is part an important part of the construction of the understanding of the object in a way that is related to how Roland Barthes privileges the interpreter rather than the author.
+Though I believe that this line of thinking is useful there is still a risk of creating hierarchies in the relations between the various actors if the instruments and the interpretation of them are put at the centre in this way.
+Neither is it my interest to design an artistically driven project where the end goal is a /work/, which undoubtedly also would construct a hierarchy around the artifact.
 
-Rather, it is the interactions that are made possible by engaging in an artistically driven play with the objects that I am after.
+I am instead interested in the interactions that are made possible by engaging in an artistically driven play with the objects that I am after
+While I make use of the knowledge produced in the process of interpretation discussed above, when performing I become part of the context and this may change the conditions for the interactions within the system.
 A free play that does not have a purpose and no particular meaning, though it may well develop in other directions in.
 The result may be one or several works, but they are not the goal, they are subordinate to the process.
 In this free play I can engage with certain questions in a way that would otherwise not have been possible, and improvisation is part of the method that allows me to do this.
@@ -204,6 +209,9 @@ By putting focus on the other--the other here should be understood as everything
 #+print_bibliography: title: References
 
 * Footnotes
+
+[fn:4] It should be noted that there are some highly interesting compositions made with the Dataton 3000 such as Sirrah composed in 1975 with the Dataton-system by Swedish composer Leo Nilsson. The music was used by the dance-company ”l’Etoile du Nord” in the performance ”Star-75” where the dancers moved them self with lights over a Buckminster Fuller–Dome.
+[fn:3] This research started in the project /Historically informed design of sound synthesis: A multidisciplinary, structured approach to the digitisation and exploration of electronic music heritage/ and my colleagues in the project Derek Holzer and Andre Holzapfel have been important in the development of these thoughts.
 
 [fn:2] See the project /(Musical) Improvisation and Ethics/ For a related discussion of improvisation and ethics: "This project aims to develop an alternative understanding of ethical processes by engaging with a practice in which improvisational qualities of ethics are unmistakable: experimental improvised music." https://improv-ethics.net/main
  
