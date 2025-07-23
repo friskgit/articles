@@ -14,7 +14,7 @@
   (setq line-spacing 0.5)
   #+end_src
 
-  #+RESULTS:
+  #+RESULTS:g
   : 0.5
 * Abstract
 ** Beyond the unnecessary self
