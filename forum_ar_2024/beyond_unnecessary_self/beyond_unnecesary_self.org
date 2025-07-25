@@ -1,25 +1,25 @@
 #+title: Beyond the unnecessary self
 #+name: Henrik Frisk
 #+options: toc:nil num:nil
-# #+cite_export: csl /Users/henrik_frisk/Documents/articles/biblio/csl-styles/chicago-author-date-16th-edition.csl
-#+cite_export: biblatex backend=bibtex,style=authoryear
+#+cite_export: csl /Users/henrik_frisk/Documents/articles/biblio/csl-styles/chicago-author-date-16th-edition.csl
+# #+cite_export: biblatex backend=bibtex,style=authoryear
 #+LaTeX_HEADER: \usepackage[x11names]{xcolor}
 #+LaTeX_HEADER: \hypersetup{linktoc = all, colorlinks = true, urlcolor = DodgerBlue4, citecolor = black, linkcolor = black}
-# #+bibliography: /Users/henrik_frisk/Dropbox/Documents/articles/forum_ar_2024/beyond_unnecessary_self/biblio.bib
-#+bibliography: /Users/henrik_frisk/Dropbox/Documents/articles/biblio/bibliography.bib
+#+bibliography: /Users/henrik_frisk/Dropbox/Documents/articles/forum_ar_2024/beyond_unnecessary_self/biblio.bib
+# #+bibliography: /Users/henrik_frisk/Dropbox/Documents/articles/biblio/bibliography.bib
 #+latex_header: \usepackage[scaled]{helvet}\renewcommand\familydefault{\sfdefault}
 
-#+begin_src emacs-lisp
-  (set-window-margins (selected-window) 40 40)
-  (setq line-spacing 0.5)
-  #+end_src
+# #+begin_src emacs-lisp
+#   (set-window-margins (selected-window) 40 40)
+#   (setq line-spacing 0.5)
+#   #+end_src
 
-  #+RESULTS:g
-  : 0.5
+#   #+RESULTS:g
+#   : 0.5
 * Abstract
 ** Beyond the unnecessary self
 
-In my 2013 paper /The (un)necessary self/ [cite:@Frisk2013] I explored the idea of the /giving up of the self/ as an important step towards the dismantling of the romantic idea of creation, and approach an understanding of creativity that is more closely aligned with the /other/. The other should be understood as anything that affects the artistic practice: a co-creator, a listener, a participant or a remote collaborator as well as any non-human actor. The point was to move the focus from the creator to what is created and to understand the roles of the various agents involved. This idea is further developed in this paper through several new trajectories.
+In my 2013 paper /The (un)necessary self/ [cite:@frisk2013] I explored the idea of the /giving up of the self/ as an important step towards the dismantling of the romantic idea of creation, and approach an understanding of creativity that is more closely aligned with the /other/. The other should be understood as anything that affects the artistic practice: a co-creator, a listener, a participant or a remote collaborator as well as any non-human actor. The point was to move the focus from the creator to what is created and to understand the roles of the various agents involved. This idea is further developed in this paper through several new trajectories.
 
 In music, hyper-capitalism of the twenty first century is eager to commodify the artistic output, the artist, as well as the listeners. This is not only a problem for the freedom of art (a concept equally complex), it also makes the role of the self difficult to understand. But in the radicalization of the role of the creator, both a new work concept and a review of the self becomes necessary, even beyond the notion of giving up of the self. The ethics in artistic practices, that is, the moral values that are expressed through artistic practices in music, specifically improvisation, may complement traditional views on ethics and is an important aspect when discussing the roles of the self. The notion of the /Care of the Self/, as discussed in Michel Foucault's Volume Three of the /History of Sexuality/, is used as a method to approach this complex area. 
 
@@ -27,7 +27,7 @@ In music, hyper-capitalism of the twenty first century is eager to commodify the
 * Beyond the unnecessary self
 ** Introduction
 
-In my 2013 paper /The (un)necessary self/ [cite:@Frisk2013] I explored the idea of the concept of /giving up of the self/ in my artistic practice in improvisation as an important step towards the dismantling of the romantic idea of artistic creation and individuality as something firmly rooted in the self.
+In my 2013 paper /The (un)necessary self/ [cite:@frisk2013] I explored the idea of the concept of /giving up of the self/ in my artistic practice in improvisation as an important step towards the dismantling of the romantic idea of artistic creation and individuality as something firmly rooted in the self.
 Instead I wanted to approach an understanding of creativity that is entangled with the /other/ in a way that emphasizes /relations/: the ambition was to move the focus from the /creator/ to what is /created/, and to better understand the roles of the various actors involved in the process.
 The /other/ in this context should be understood as anyone or anything in proximity to the artistic practice: a co-creator, a listener, a participant, an instrument, a remote collaborator, or anything with a similar impact on the artistic practice.
 In this article I will discuss this departing from a practice of improvisation on obsolete electronic instruments.[fn:6]
@@ -61,9 +61,9 @@ In my engagement to develop a historically informed performance practice in elec
 Previous hidden features of these historic instruments may be discerned and re-contextualized through an artistic practice in which the self's relation to the self is dissected.
 Playing the instrument is the method to understanding them.
 The giving up of the self in artistic practice is not an act of submission to others, but a conscious openness to dialogue with them, as well as with other instruments and non-humans.
-The instrument that I will be discussing here is a modular synthesizer and audio mixer designed in Sweden in the early the 1970's called /Dataton 3000/ (See Fig ref:fig:dataton_1).
+The instrument that I will be discussing here is a modular synthesizer and audio mixer designed in Sweden in the early the 1970's called /Dataton 3000/ (See Fig. [[fig:dataton_1]])
 This modular synthesizer and audio mixer was designed by Björn Sandlund in Sweden during the 1970’s in an attempt to make a versatile instrument for electronic music and pedagogic uses [cite:@sandlund2019].
-In a slow and meticulous process of untangling the ways in which these instruments can be approached [cite:@holzer2021,;@Frisk2025;@Frisk2021a] a certain proficiency with the interface was developed.
+In a slow and meticulous process of untangling the ways in which these instruments can be approached [cite:@holzer2021;@frisk2025;@frisk2021a] a certain proficiency with the interface was developed.
 In other words, rather than imposing a pre-conceived compositional or improvisatory framework onto the instruments, I sought to uncover possibilities through interaction with their broader context.
 Therefore, to grasp the specific qualities and nuances of the /Dataton 3000/ modules—elaborated on further below—it is necessary to consider a broad array of parameters. Through the act of playing, the other may be conceived as the wider contextual framework of these instruments, parts of which emerge in the course of practice.
 Should this analysis not be successful there is a risk that the instrument's proper qualities are misunderstood, or that one ends up recreating what has already been done with it, or both.
@@ -74,9 +74,8 @@ What are the properties, or uses, of the Dataton that have been concealed by the
 An experimental hypothesis is that by learning from these early instruments, learning about the particularities of the interface, will alter the disposition of my self in relation to the instruments.
 This could potentially also illuminate new dimensions of the complex nature of improvisation in electronic music in general.
 
-#+caption: Six of the many //Dataton 3000// modules in a picture from /Statens musikverk/
 #+name: fig:dataton_1
-
+#+caption: Six of the many //Dataton 3000// modules in a picture from /Statens musikverk/
 [[file:/Volumes/Freedom/Dropbox/org/seminar-slides/kmh/stanford/img/DATATON-01.JPG]]
 
 In an artistic practice that departs from use of obsolete instruments the interrelations between the various subjects and objects involved in the performance can become complicated, but they may also disclose the challenges involved in a fruitful manner.
@@ -86,13 +85,13 @@ The race for inventing new and even more laborious electronic instruments and in
 This may be software upgrades, abandoned hardware circuits, forgotten system-specific knowledge, or simply the fact that new upgrades are so much more compelling in its usability and sonic or musical qualities that it renders the old instruments obsolete.
 Traditional acoustic instruments are generally not upgraded in this fashion so this is a particular trait of electronic instruments.
 
-That commercial aspects have a great impact in this field is also validated by Pinch and Trocco when they conclude that "from a flexible variety of possible control configurations, the synthesizer eventually stabilised into a keyboard instrument" [cite/noauthor:@Pinch1998; 28].
+That commercial aspects have a great impact in this field is also validated by Pinch and Trocco when they conclude that "from a flexible variety of possible control configurations, the synthesizer eventually stabilised into a keyboard instrument" [cite/noauthor:@pinch1998; 28].
 In other words, over time the highly experimental field of design of electronic musical instruments appears to be narrowed, and standardization in collaboration with market forces exclude those items that are not successful enough, or simply incompatible with current production paradigms.
 This brings us back to the discussion relating to the impact that capitalism has on the field.
 Even instruments used within experimental artistic practices that aim to resist capitalist market forces are ultimately absorbed into the prevailing norms of efficiency, production, and design standardization.
 Repudiated and eventually incompatible with supporting systems such developed interfaces may eventually be rendered useless by the market.
 It is true that no Western instruments, electronic or acoustic, are independent from the commodifying forces of the market economy, but the way that the development of electronic instruments is aligned with the advancements of technology in society in general makes them particularly sensitive to this process.
-A certain merging of the fields is also occurring here where tools of communication such as the mobile phone are used and explored also for artistic performances. [cite:@Wang2014;@Madhavan2016].
+A certain merging of the fields is also occurring here where tools of communication such as the mobile phone are used and explored also for artistic performances. [cite:@wang2014;@madhavan2016].
 
 There are both differences and similarities between the study of traditional methods for musical interpretation, rooted in Western musical history and practices, and the excavation of the technological and cultural significance of a particular electronic musical instrument of the past.
 Since at least the romantic era the definition of the artistic work has been constructed from the vantage point of the composer in a strictly hierarchical structure with the self of the originator at the centre.
@@ -136,11 +135,11 @@ This will be further discussed in the next section.
 # and values the larger context of obsolete instruments, and the relationships between the various agents involved.
 
 ** Freedom
-The expansion of the notion of the unnecessary self was inspired by the line of thoughts presented in the paper /Sounds of Future Past/ [cite:@Frisk2021a] where the concept of an /ethics of instruments/ is explored.
-This radical idea was first presented by professor of history of art John Tresch and professor of music Emily I. Dolan in the paper /Toward an Organology of Music/ [cite:@Tresch2013].
+The expansion of the notion of the unnecessary self was inspired by the line of thoughts presented in the paper /Sounds of Future Past/ [cite:@frisk2021a] where the concept of an /ethics of instruments/ is explored.
+This radical idea was first presented by professor of history of art John Tresch and professor of music Emily I. Dolan in the paper /Toward an Organology of Music/ [cite:@tresch2013].
 It is based on some of the conditions for, or elements of, ethical relations which in turn connects to Foucault's notion of the /technologies of the self/ [cite:@foucault1988b].
 Tresch and Dolan explore this experimental ethics of instruments through four analytical categories which in essence are adaptations of the four axes that makes up "Foucault’s analysis of the self’s relation to the self".
-Tresch and Dolan "have tweaked and tuned them in order to apply them to instruments" [cite:@Tresch2013; p. 284]. The four categories relate to the instrument's materiality, its mediation or level of presence, its greater context and its telos [cite/noauthor:;see Holzer @Holzer2025; for a more in depth discussion].[fn:1]
+Tresch and Dolan "have tweaked and tuned them in order to apply them to instruments" [cite:@tresch2013; p. 284]. The four categories relate to the instrument's materiality, its mediation or level of presence, its greater context and its telos [cite/noauthor:;see Holzer @Holzer2025; for a more in depth discussion].[fn:1]
 Their idea of an ethics of instruments is leaning on the notion that these categories can provide grounds for an analysis of an ethics of instruments such as the /Dataton 3000/.
 As an analytical model, it offers a framework for examining obsolete instruments and exploring how complex issues—such as accuracy, responsibility, and freedom—can be addressed.
 Whether or not it is possible to consider that material objects possess a notion of ethics is a different question and beyond the scope of this paper, but one may argue that priority should be given to ensure that all humans and animals enjoy basic ethical living conditions before considering the moral rights of objects. 
@@ -153,13 +152,13 @@ In the way that the relations between them can be unwrapped the artistic practic
 The ethics in artistic practices, that is, the moral values that are expressed through artistic practices in music, specifically improvisation, is by all means an important aspect when investigating the roles of the self.
 These values are disclosed in the way music is negotiated in improvisation and may turn out to work in ways that are different, or even opposed to social ethics.
 
-The notion of the /Care of the Self/, as discussed in Michel Foucault's Volume Three of the /History of Sexuality/ [cite:@foucault1988], may be used as a method to approach this complex area, even though this short format do not give justice to the theory.
-The /care of the self/ is a particular development between self and others, a method for developing an ethics through engaging with the self's relation to the self, a self that is rooted in "practices of freedom" [cite:@Foucault1997-2; p. 283].
-Foucault proceeds to outline the relationship between freedom and ethics, positing that freedom is the essential condition for ethical practice, while also insisting on the need for critical reflection on the nature of freedom [cite:@Foucault1997-2; p. 284].
+The notion of the /care of the self/, as discussed in Michel Foucault's Volume Three of the /History of Sexuality/ [cite:@foucault1988], may be used as a method to approach this complex area, even though this short format do not give justice to the theory.
+The /care of the self/ is a particular development between self and others, a method for developing an ethics through engaging with the self's relation to the self, a self that is rooted in "practices of freedom" [cite:@foucault1997-2; p. 283].
+Foucault proceeds to outline the relationship between freedom and ethics, positing that freedom is the essential condition for ethical practice, while also insisting on the need for critical reflection on the nature of freedom [cite:@foucault1997-2; p. 284].
 The care of the self is the activity in which freedom and ethics are a integral parts, and it is not to be understood as a solipsistic activity merely concerned with clothing, possessions and physical attributes.
 
 # #+begin_quote
-# When you take care of the body you do not take care of the self. The self is not clothing, tools, or possessions; it is to be found in the principle that uses these tools, a principle not of the body but of the soul. You have to worry about your soul--that is the principal activity of caring for yourself. The care of the self is the care of the activity and not the care of the soul-as-substance. [cite:@Foucault1997-2; 230f]
+# When you take care of the body you do not take care of the self. The self is not clothing, tools, or possessions; it is to be found in the principle that uses these tools, a principle not of the body but of the soul. You have to worry about your soul--that is the principal activity of caring for yourself. The care of the self is the care of the activity and not the care of the soul-as-substance. [cite:@foucault1997-2; 230f]
 # #+end_quote
 
 The care of the self is the care of the activity, in this case the artistic activity, and not the care of the soul-as-substance to use Foucault's terminology.[fn:3]
@@ -193,7 +192,7 @@ To summarize this discussion very briefly, my claim is that improvisation on obs
 My argument here has been that with the tools that are defined by Foucault through the technologies of the self, the notion of the care of the self opens up a focus on the relations between the self and self, and the surrounding context.
 Relations that eventually renders the actual self less important.
 What can be gathered from Tresch and Dolan is that the self's relation to the self promotes the autonomy of some of these objects.
-Through the unwrapping of the various discourses of power, also an the broad level, such as the ones between improvisation and freedom; self and other; and self and self, the particularities and aptitudes of the instrument discussed here, the /Dataton 3000/, is revealed.
+Through the unwrapping of the various discourses of power, also broadly, such as the ones between improvisation and freedom; self and other; and self and self, the particularities and aptitudes of the instrument discussed here, the /Dataton 3000/, is revealed.
 By way of a preliminary understanding of an ethics of instruments these relations exist, matter and they need to be good and respectful.
 In this sense ethical relations appear important between all objects in the network that constitute the context of musical improvisation.
 Even if this does not extend all the way to an ethics of instruments, a deep understanding for these relations may contribute to a developed sense of ethics, an ethics of artistic practice in improvisation.
