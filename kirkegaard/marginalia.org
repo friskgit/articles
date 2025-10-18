@@ -1,0 +1,7 @@
+
+* Jacob Kirkegard
+:PROPERTIES:
+:org-remark-file: kirkegaard_interview.org
+:END:
+
+** He does have an attitude to these objects.
