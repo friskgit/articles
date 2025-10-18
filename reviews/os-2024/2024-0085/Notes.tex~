@@ -1,0 +1,159 @@
+% Created 2024-11-06 Wed 18:06
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\usepackage[x11names]{xcolor}
+\hypersetup{linktoc = all, colorlinks = true, urlcolor = DodgerBlue4, citecolor = black, linkcolor = black}
+\usepackage[scaled]{helvet}
+\author{Henrik Frisk}
+\date{\today}
+\title{OTTOsonics: Designing and Implementing an Open and Affordable 3D Spatial Audio System}
+\usepackage{calc}
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelsep}
+\setlength{\csllabelsep}{0.6em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{0.45em * 0}
+\newenvironment{cslbibliography}[2] % 1st arg. is hanging-indent, 2nd entry spacing.
+ {% By default, paragraphs are not indented.
+  \setlength{\parindent}{0pt}
+  % Hanging indent is turned on when first argument is 1.
+  \ifodd #1
+  \let\oldpar\par
+  \def\par{\hangindent=\cslhangindent\oldpar}
+  \fi
+  % Set entry spacing based on the second argument.
+  \setlength{\parskip}{\parskip +  #2\baselineskip}
+ }%
+ {}
+\newcommand{\cslblock}[1]{#1\hfill\break}
+\newcommand{\cslleftmargin}[1]{\parbox[t]{\csllabelsep + \csllabelwidth}{#1}}
+\newcommand{\cslrightinline}[1]
+  {\parbox[t]{\linewidth - \csllabelsep - \csllabelwidth}{#1}\break}
+\newcommand{\cslindent}[1]{\hspace{\cslhangindent}#1}
+\newcommand{\cslbibitem}[2]
+  {\leavevmode\vadjust pre{\hypertarget{citeproc_bib_item_#1}{}}#2}
+\makeatletter
+\newcommand{\cslcitation}[2]
+ {\protect\hyper@linkstart{cite}{citeproc_bib_item_#1}#2\hyper@linkend}
+\makeatother\begin{document}
+
+\maketitle
+\renewcommand\familydefault{\sfdefault}
+\section*{OSO-2024-0085}
+\label{sec:org33cc9bf}
+\subsection*{Overall comments}
+\label{sec:orgcd8d9f8}
+
+This is a very well written paper on an interesting an important topic on how to build affordable hardware systems for spatial audio: OTTOsonics. The premise, that "attending an immersive audio concert or a theatrical performance with multichannel audio remains a rare and exceptional experience" is a problem that currently has a negative impact on the field of experimental music where only a few, albeit many more today than just 15 years ago, places allow for the spatial precision needed for rendering works by many composers and artists. The idea of an open source soft and hardware solution is a very compelling idea to remedy this situation.
+
+The technical description in Section 4 is very well written and easy to understand despite the relative complexity of the project.
+
+My general critique, laid out in more detail below, is that the focus on the development and implementation in the paper is at the expense of how the argument for why OTTOsonics is the solution to the defined problem.
+\subsection*{Survey}
+\label{sec:org6411ddb}
+On page 2 it is stated that:
+
+\begin{quote}
+\emph{Currently, there is no official data, such as academic surveys, that documents the interest of
+venues in adopting and utilising immersive audio formats and further research is needed in
+this area.}
+\end{quote}
+In the following sentence you refer to your own observation that there is a lack of "musical content referents to fully understand the possibilities of using immersive audio systems" and that the problem is a lack of technical expertise. It would have strengthened the argument if this observation had been in the form of a survey, or at least, a more precise explanation of how these observations were performed.
+\subsection*{Page 4, Interviews with representatives}
+\label{sec:orgab7352e}
+You write on page 3 that: 
+\begin{quote}
+\emph{Through interviews with representatives from these groups, we were able to identify the most critical factors for the successful introduction of surround sound systems.}
+\end{quote}
+It would strengthen the argument here if there was a bit more information about how these interviews were performed. Also, the interviews were performed \emph{after} the the main development phase of the last tree years was already performed, yet it appears to me that some of the arguments in the paper \emph{for} the development of the system relies on the results of these interviews. This should be clarified.
+
+On page 4 you conclude that  "Our conclusion was that further development was needed to make immersive
+audio more accessible to a broader range of venues." Timing here is unclear: wasn't the interviews made after the main development phase of OTTOsonics?
+\subsection*{Page 4}
+\label{sec:org5390278}
+This is a gain a bit vague: ``Based on these prior projects and our own observations,''
+\subsection*{Page 14, 5.1}
+\label{sec:orga7f8bef}
+In the case studies there are several examples of anecdotal evidence. The feedback of composer Mariam Gviniashvili is that the system is ``reliable and suitable for multichannel audio.'' Though it is hard to get reliable data from these kinds of user experiences this feedback does not necessarily map to the key definitions of the system and comes out as a bit vague.
+\subsection*{Page 14-15, 5.2}
+\label{sec:orgc3c29ea}
+``Audience feedback emphasised the comfort and immersion of the sound, which, while loud overall, was not overwhelming due to the even distribution across numerous speakers.''
+\noindent
+Similar to my comments above: how was this feedback acquired?
+\subsection*{Page 15, 5.2}
+\label{sec:orgc72724d}
+On top of page 15 you write:
+\begin{quote}
+\emph{Our artistic goals in these concerts were to amplify the music while enhancing expressivity
+through spatialization. With the usual limited soundcheck time, we developed a suite of
+spatial effects ready to insert, like fading signals between positions, moving sounds with
+variable speed, and using built-in effects like reverb and delays, all controlled via MIDI
+interfaces.}
+\end{quote}
+Though this is very interesting and a crucial part of any system for rendering spatial audio, you move from the artistic interests of invited composers as your mai source of information to your own artistic goals. This creates a shift in the direction of the paper that would need another level of contextualization.
+\subsection*{Page 15, 5.3}
+\label{sec:orgc0d2a35}
+Again, very anecdotal:
+
+\begin{quote}
+\emph{In one instance, a string quartet initially
+believed the enhanced acoustics were natural and were surprised to learn how different the
+venue actually was.}
+\end{quote}
+\subsection*{Page 18, 6.1}
+\label{sec:org295f8e2}
+``The socioeconomic context addressed by OTTOsonics is central to its appeal.''
+
+This argument is very compelling and one of the driving forces behind that project. It appears it is a bit under-developed here. To what extent has systems been created by users and to what extent have you produced them? Has there been any forks yet? 
+\subsection*{Page 18, 6.2}
+\label{sec:orge200288}
+The statement that your work with festival implementations "have transformed the listening experience" is wide ranging but is not grounded in enough empirical material represented in the paper.
+\subsection*{Page 18, 6.2}
+\label{sec:org157acb5}
+The statement that:
+\begin{quote}
+\emph{From our experience we can assert that presenting music originally composed in mono or
+stereo through multichannel setups has enriched both musicians and audiences.}
+\end{quote}
+again implies an intermediary level of interpretation that allows for an artistically meaningful rendering of a piece of music originally in stereo to a multichannel format that is not at the centre of the ambition of this paper. As it stands now the paper does not give much evidence for the experience referenced. This either needs to be developed or rephrased.
+\subsection*{Page 18, 6.2}
+\label{sec:org9066aa3}
+\begin{quote}
+\emph{Indeed, musicians' auditory imagination is shaped by their formats and media, complicating direct comparisons.}
+\end{quote}
+I'm not sure I understand this sentence, maybe something wrong with the reference of 'their'? I think the whole section needs rewriting as the following sentence, without explanation, suggests to do what is earlier defined as challenging, without any comment of how the challenges will be overcoome methodologically.
+\subsection*{Pate 19, 6.2}
+\label{sec:orgacc59e1}
+\begin{quote}
+\emph{We question if adopting Ambisonics sound reinforcement could mirror the shift in the 1970s
+when stereo systems became widespread.}
+\end{quote}
+It is not clear to me whether you question the dominance of ambisonics, or welcome it. The final sentence of the section rhymes well with how I understand the paper, and the question of which formats to use would appear to be a separate, but related, question. Are you advocating ambisonics, make it more explicit here, and perhaps also in the beginning of the paper.
+\subsection*{Page 19, 6.3}
+\label{sec:org35f6f57}
+This section should perhaps better be incorporated in 7. Future work?
+\subsection*{Page 19, 7.}
+\label{sec:org15d056e}
+\begin{quote}
+\emph{Second, we plan to rethink the
+manufacturing process of the loudspeakers, exploring more industrialised production
+methods and the use of sustainable materials.}
+\end{quote}
+
+I think it would be good to relate this to the question of open-source development. What will happen to the openness of the project if a more industrialized production is adopted?
+
+The final sentence could be related to my comments above, but specifically to 6.3: are you referring to that study here, or also other kinds of systematic studies?
+\end{document}

@@ -1,0 +1,37 @@
+* manuscript-pdf_ac025220046_v2
+:PROPERTIES:
+:NOTER_DOCUMENT: manuscript-pdf_ac025220046_v2.pdf
+:END:
+** It's not clear how the constants script is loaded and without it no examples will run
+:PROPERTIES:
+:NOTER_PAGE: 8
+:END:
+** Instructions
+:PROPERTIES:
+:NOTER_PAGE: (8 0.2544196771714066 . 0.27064676616915423)
+:END:
+This is not obvious how to achieve.
+
+#+BEGIN_QUOTE
+We add a request to load the litePlayConstants.js script to the
+197index.html file.
+#+END_QUOTE
+** Conclusion
+:PROPERTIES:
+:NOTER_PAGE: 26
+:END:
+This is an interesting contribution to the growing field of live coding languages. It appears to me to be too verbose to be finally useful, but the fact that it runs in the browser is a big plus. I would personally be inclined to use something like this in teaching. As an overall assessment I think this should go through peer-review. I would consider changing the layout a bit for better readability. The code examples are good but it is not always obvious how to load the prerequisites for the examples to run in p5.
+
+*** Comments to authors
+I would strongly suggest a usability study of the language. It doesn't have to be large, just an example of a real time performance sith the language andd a reflection upon the language's pros and cons.
+
+** Field assessment
+:PROPERTIES:
+:NOTER_PAGE: (26 0.7947732513451191 . 0.1771144278606965)
+:END:
+This comment in the conclusion is very important and should be part of the article I believe.
+
+#+BEGIN_QUOTE
+We acknowledge the need for field assessments of the proposed techniques, since our focus
+group only features trained musicians.
+#+END_QUOTE

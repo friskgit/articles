@@ -1,0 +1,118 @@
+#+title: OTTOsonics: Designing and Implementing an Open and Affordable 3D Spatial Audio System
+# #+subtitle: Second round of review
+#+name: 
+#+options: toc:nil num:nil
+#+cite_export: csl ~/Documents/articles/biblio/csl-styles/apa-7th.csl
+#+LaTeX_HEADER: \usepackage[x11names]{xcolor}
+#+LaTeX_HEADER: \hypersetup{linktoc = all, colorlinks = true, urlcolor = DodgerBlue4, citecolor = black, linkcolor = black}
+#+latex_header: \usepackage[scaled]{helvet}
+#+latex_header: \usepackage{xcolor}
+\renewcommand\familydefault{\sfdefault}
+
+
+* OSO-2024-0085: Second review
+:PROPERTIES:
+:NOTER_DOCUMENT: OSO-2024-0085_Proof_hi.pdf
+:END:
+
+** Overall comments
+
+As I pointed out in my first review this is a very well written paper on an interesting an important topic on how to build affordable hardware systems for spatial audio: OTTOsonics. The premise, that "attending an immersive audio concert or a theatrical performance with multichannel audio remains a rare and exceptional experience" is a problem that currently has a negative impact on the field of experimental music where only a few, albeit many more today than just 15 years ago, places allow for the spatial precision needed for rendering works by many composers and artists. The idea of an open source soft and hardware solution is a very compelling idea to remedy this situation.
+
+The technical description in Section 4 is very well written and easy to understand despite the relative complexity of the project.
+
+My general critique, laid out in more detail below, however, has not been fully addressed. Below, I reiterate the comments I made in the first round and that I feel have not been addressed (in red). I want to stress that I think this is a very important and interesting article that I look forward to see getting published. The comments I have are minor in comparison to the effort of the entire paper, yet important to strengthen and support the research component.
+
+** Survey
+:PROPERTIES:
+:NOTER_PAGE: (3 0.1483739837398374 . 0.1235632183908046)
+:END:
+On page 2 it is stated that:
+
+#+BEGIN_QUOTE
+/Currently, there is no official data, such as academic surveys, that documents the interest of
+venues in adopting and utilising immersive audio formats and further research is needed in
+this area./
+#+END_QUOTE
+In the following sentence you refer to your own observation that there is a lack of "musical content referents to fully understand the possibilities of using immersive audio systems" and that the problem is a lack of technical expertise. \textcolor{red}{It would have strengthened the argument if this observation had been in the form of a survey, or at least, a more precise explanation of how these observations were performed. Also, given the venues you list later in the paper (NOTAM and Ars Electronica), the statement that the technical expertise is missing needs re-framing since at these venues the expertise should be extremely high.}
+
+\textcolor{red}{I read this as your research question, the foundation for the ambition to design the system you are describing. Referring to the problem statement in terms of "many of these venues" is not enough for the following purpose of the project: "address these issues by designing and developing an open, adaptable, lower cost and versatile hardware system that has been already adopted by several musical festivals, universities, Summer schools, and other cultural initiatives."}
+
+\textcolor{red}{If you do not have the research data to back this up my suggestion is that you rephrase the last paragraph of section 2.}
+
+** Page 4, Interviews with representatives
+:PROPERTIES:
+:NOTER_PAGE: (4 0.4908536585365854 . 0.35344827586206895)
+:END:
+You write on page 3 that: 
+#+BEGIN_QUOTE
+/Through interviews with representatives from these groups, we were able to identify the most critical factors for the successful introduction of surround sound systems./
+#+END_QUOTE
+It would strengthen the argument here if there was a bit more information about how these interviews were performed. Also, the interviews were performed /after/ the the main development phase of the last tree years was already performed, yet it appears to me that some of the arguments in the paper /for/ the development of the system relies on the results of these interviews. This should be clarified.
+
+\textcolor{red}{I can't see that this comment has been addressed at all. The best would be if you could refer to how the interviews were conducted, what questions were asked and whether these were quantitative or qualitative. Though this would weaken the methodological rigour of the paper another option here is to simple refer to personal communication, but the very least, add more information about your informants.}
+\vspace{0.5cm}
+
+On page 4 you conclude that  "Our conclusion was that further development was needed to make immersive audio more accessible to a broader range of venues." Timing here is unclear: wasn't the interviews made after the main development phase of OTTOsonics?
+\vspace{0.5cm}
+
+\textcolor{red}{The timing here is still unclear to me, and is important to clarify. }
+
+** Page 4
+:PROPERTIES:
+:NOTER_PAGE: (5 0.5203252032520326 . 0.12068965517241378)
+:END:
+This is a gain a bit vague: ``Based on these prior projects and our own observations,''
+
+\textcolor{red}{This has been partly addressed but it is unclear to the reader how the identification of these key dimensions were identified.}
+
+** Page 15, 5.2
+:PROPERTIES:
+:NOTER_PAGE: (16 0.15752032520325204 . 0.12068965517241378)
+:END:
+On top of page 15 you write:
+#+BEGIN_QUOTE
+/Our artistic goals in these concerts were to amplify the music while enhancing expressivity
+through spatialization. With the usual limited soundcheck time, we developed a suite of
+spatial effects ready to insert, like fading signals between positions, moving sounds with
+variable speed, and using built-in effects like reverb and delays, all controlled via MIDI
+interfaces./
+#+END_QUOTE
+Though this is very interesting and a crucial part of any system for rendering spatial audio, you move from the artistic interests of invited composers as your mai source of information to your own artistic goals. This creates a shift in the direction of the paper that would need another level of contextualization.
+
+\textcolor{red}{I want to stress that this is an important aspect of your paper. You have identified a broad problem in the field that includes aspects beyond merely musical and technical, and you have designed a system that address the issues that you have identifed. Now you test this and introduce artistic goals (hitherto not mentioned). Apart from the technical aspects, the artistic dimension appears to be the most important means of measuring the functionality of your contribution. Limiting the artistic goals to "amplify the music while enhancing expressivity" comes across as a quite reductive and generic, which is odd considering the multiplicity of artistic expressions within the field of (multi channel) electronic music. Can this be enhanced and include, at a bare minimum, what kind of music were you testing the system with?}
+
+\textcolor{red}{What is it you wish to communicate with this paragraph?}
+
+** Page 18, 6.2
+:PROPERTIES:
+:NOTER_PAGE: (19 0.7032520325203253 . 0.22270114942528735)
+:END:
+The statement that your work with festival implementations "have transformed the listening experience" is wide ranging but is not grounded in enough empirical material represented in the paper.
+
+\textcolor{red}{The added sentence at the end of this paragraph helps, but the question remains unanswered: how does the reader know that you have transformed the listening experience? Note that you a few paragraphs below state that "comparing the listening experiences between conventional stereo systems and immersive audio setups with smaller speaker hemispheres poses a challenge,"}
+
+** Page 18, 6.2
+:PROPERTIES:
+:NOTER_PAGE: (19 0.853658536585366 . 0.7011494252873564)
+:END:
+#+BEGIN_QUOTE
+/Indeed, musicians' auditory imagination is shaped by their formats and media, complicating direct comparisons./
+#+END_QUOTE
+I'm not sure I understand this sentence, maybe something wrong with the reference of 'their'? I think the whole section needs rewriting as the following sentence, without explanation, suggests to do what is earlier defined as challenging, without any comment of how the challenges will be overcoome methodologically.
+
+\textcolor{red}{This sentence has now been partly fixed, but I am still haveing problems understanding how the first and the second part of the sentance is linked. I believe the main problem is the assertion that a musicians auditory imagination is shaped by the media and formats used. Apart from the fact that sound quality may influence ones imagination, i would assume that imagination, auditory or otherwise, is independent of media formats. This needs to be clarified. }
+** Page 19, 7.
+:PROPERTIES:
+:NOTER_PAGE: (20 0.7865853658536586 . 0.49712643678160917)
+:END:
+#+BEGIN_QUOTE
+/Second, we plan to rethink the
+manufacturing process of the loudspeakers, exploring more industrialised production
+methods and the use of sustainable materials./
+#+END_QUOTE
+
+I think it would be good to relate this to the question of open-source development. What will happen to the openness of the project if a more industrialized production is adopted?
+
+\textcolor{red}{Since socioeconomic aspects of this poject are discussed throughout the article, a socioeconomic aspect of the industiralization of the loudspeakers is needed. How will you guarantee that OTTOsonics remains open and free?}
+

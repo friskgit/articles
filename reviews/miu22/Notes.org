@@ -1,0 +1,51 @@
+* Arts-Based Research in Relation to Practical Knowledge in Music Studies
+:PROPERTIES:
+:NOTER_DOCUMENT: Arts-Based Research in Relation to Practical Knowledge in Music Studies.pdf
+:END:
+** p.1 Definition
+:PROPERTIES:
+:NOTER_PAGE: (1 0.7584269662921348 . 0.12159090909090908)
+:END:
+#+BEGIN_QUOTE
+This article examines arts-based research in relation to practical knowledge in music studies.
+#+END_QUOTE
+Though this can be contested, I still believe that a foundational belief in arts-based research is that it is based on practical knowledge. Hence, the definition of the purpose of the article is a bit confusing.
+** p.2 Choice of words
+:PROPERTIES:
+:NOTER_PAGE: (3 0.08032128514056225 . 0.09659090909090909)
+:END:
+"Various" here appears 
+** p.4 The citation to Rolling
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+The citation includes what appears to be a list of three items. I don't have access to the book so I couldn't check it, but the introduction of the citation may need to be better since it isn't one definition but rather a set of properties.
+** p.4 Approaches in use
+:PROPERTIES:
+:NOTER_PAGE: (4 0.5060240963855421 . 0.2215909090909091)
+:END:
+#+BEGIN_QUOTE
+Within arts-
+based research, such approaches could be in the use of visual arts, sound-based arts, embodied arts,
+creative writing and performance arts as ways of developing arts-based understandings and
+dissemination.
+#+END_QUOTE
+
+Why are you limited to these particular expressions? They may seem to be all encompassing but there are fields that are unnecessarily excluded. I also sense a circular argument here. The apporaches Rolling brings up are within ABR and ABR takes place in the arts. Is the argument here in opposition to something and if so, what?
+** p.4 Sentence to edit
+:PROPERTIES:
+:NOTER_PAGE: (4 0.606425702811245 . 0.2315340909090909)
+:END:
+#+BEGIN_QUOTE
+For example, through my study Sonic extractions (Øien, 2021), I experienced a need to
+explore theory through arts-based research because it offered frameworks that went beyond what the
+qualitative and quantitative paradigm could offer in the given case.
+#+END_QUOTE
+This sentence is very hard to understand.
+** Reference Elliott
+:PROPERTIES:
+:NOTER_PAGE: 16
+:END:
+[cite:@Elliott1991]
+
+This is a farily old article which has a relatively old fashioned view on what knowledge in music may be.

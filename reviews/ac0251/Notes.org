@@ -1,0 +1,82 @@
+* ac0251_review
+:PROPERTIES:
+:NOTER_DOCUMENT: ac0251_review.pdf
+:END:
+** This paper is less concerned with describing this research and is more of a description of a system for creation - that is its result
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+``emerged from research''
+** Is this reference missing?
+:PROPERTIES:
+:NOTER_PAGE: 3
+:END:
+``Rokeby demonstrating the VNS in action:Video 3.''
+** This is not the best way to describe this
+:PROPERTIES:
+:NOTER_PAGE: (5 0.41040056219255094 . 0.15208747514910534)
+:END:
+``user's head movement as a reference point,''
+** Wh is this first written about ten years latere?
+:PROPERTIES:
+:NOTER_PAGE: (8 0.37385804638088543 . 0.20974155069582504)
+:END:
+``From this tradition, in 2015, MtPS was presented as a collaborative and''
+** This is not very clear.
+:PROPERTIES:
+:NOTER_PAGE: (10 0.6198172874209417 . 0.3151093439363817)
+:END:
+``system and an artwork, that is, an artwork-system.''
+There are many artworks that are systems. This is a huge claim that is not prperly backed up by the paper so far.
+** Fortsätt här!
+:PROPERTIES:
+:NOTER_PAGE: 11
+:END:
+``3- General Design and Architecture of the Artwork''
+** This reference is wrong
+:PROPERTIES:
+:NOTER_PAGE: 11
+:END:
+``Figure 1.''
+** This figure lacks a description what the various parts in the figures denote.
+:PROPERTIES:
+:NOTER_PAGE: (12 0.6345381526104418 . 0.15227272727272725)
+:END:
+``Figure 2: Space in “Machine to Paint Sounds”:''
+** It is not at all clear to me what it means
+:PROPERTIES:
+:NOTER_PAGE: (13 0.5148594377510041 . 0.21363636363636362)
+:END:
+``This diagram clearly outlines''
+** Why the choice of using extended techniques rather than any other playing technique? This is an aesthetic decision that is unclear
+:PROPERTIES:
+:NOTER_PAGE: (15 0.08674698795180723 . 0.43068181818181817)
+:END:
+``extended techniques on their instruments,''
+** This is an odd heading. Nevertheless, the technical description of the system that follows is good.
+:PROPERTIES:
+:NOTER_PAGE: (15 0.6144578313253012 . 0.17727272727272728)
+:END:
+``The system (results)''
+** There is a whole range of audio/video systems based on the Kinect that should be critically referenced here.
+:PROPERTIES:
+:NOTER_PAGE: (16 0.21365461847389558 . 0.175)
+:END:
+``Motion and Gesture Capture System''
+** This is a big claim and it is not at all explore (enough) in the paper.
+:PROPERTIES:
+:NOTER_PAGE: 22
+:END:
+``but as a collective creation.''
+** This sounds good but I cannot follow how the input is used to influnce the output, neither how the gestures in figure 1 are used.
+:PROPERTIES:
+:NOTER_PAGE: 23
+:END:
+#+BEGIN_QUOTE
+It not only generates a work of art, but its very
+existence relies on and reflects the musical ideas of each participant, making the entire
+process an ongoing collaborative effort.
+#+END_QUOTE
+
+* Comments
+This paper is less concerned with describing research on "various technologies related to "touchless" user control interfaces" and is more of a description of a system for creation. Its outspoken result is a system for creation. It lacks transparency in its aesthetic decisions as well as a clear methodology (although its method could be traced back from its results - but this is not very clear). there are erroneous references (such as Figure 1 referring to Figure 2, see line 319). the claim that the paper is describing an artwork-system is somewhat problematic and needs to be assessed. The figure on line 336 needs to be reworked and properly described (what does 'E' refer to). On line 348, the statement that this "diagram clearly outlines the core characteristics desired" is overstated. The diagram needs more work and a better explanation. On line 400 the statement that "improvisations using extended techniques" is not supported by the video and is an aesthetic decision that needs to be clarified. Line 441: "There is a whole range of audio/video systems based on the Kinect of which some should be critically referenced here." The conclusion that the artwork-system is a collective creation appears to be true but does the authors wish to engage in a discussion on participatory art? There is one in the beginning of the paper, but it should be reconnected to here and explored in the light of the long tradition of public and interactive arts. 

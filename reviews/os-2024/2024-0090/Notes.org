@@ -1,0 +1,53 @@
+#+title: Sensory experience of sound installation art and documentation: comparison across fields of expertise
+#+name: Henrik Frisk
+#+options: toc:nil num:nil author:nil
+#+cite_export: csl ~/Documents/articles/biblio/csl-styles/apa-7th.csl
+#+LaTeX_HEADER: \usepackage[x11names]{xcolor}
+#+LaTeX_HEADER: \hypersetup{linktoc = all, colorlinks = true, urlcolor = DodgerBlue4, citecolor = black, linkcolor = black}
+#+latex_header: \usepackage[scaled]{helvet}
+\renewcommand\familydefault{\sfdefault}
+
+
+* OSO-2024-0090 Review
+:PROPERTIES:
+:NOTER_DOCUMENT: OSO-2024-0090_Proof_hi.pdf
+:END:
+
+** General comments
+This paper outlines a well defined qualitative study that approaches methodological challenges with documenting sound installations. It relies on an earlier study and makes a documentation of two sound installations with a six-degrees-of-freedom higher order ambisonics recording setup. This choice of technology is, as the authors claim, more of a methodological tool than a documentation tool. A group of sixteen participants representing various fields of experteses explored the recorded documentations and responded to a questionaire followed by a semi-structured interview. The results are varied but shows that the participants employ a broad range of listening strategies. The conclusion is that recordings such as the ones presented here may well be used as a mediation for "discussing, improving, converging on the topic of sound art installation documentation between stakeholders." (p. 12)
+
+It is a bit unclear if this conclusion is a result of the study or if the study confirmed this as a hypothesis. Had it been presented earlier the choice of not letting the participants take part in any other media about the sound installation (programme notes, etc) would have made more sense. My main concern, however, is the choice of discussing the "sensory experience" when the primary sense involved in the study, as is pointed out by the authors, is the auditory sense (see more about this below). A few more specific comments are included below.
+
+
+
+
+** P1, Introduction
+:PROPERTIES:
+:NOTER_PAGE: (2 0.6125886524822695 . 0.18577981651376146)
+:END:
+#+BEGIN_QUOTE
+/She builds notably upon Philipps’ (2015) distinction between the documentation
+of the artwork (the identity report) and of a single installation (the iteration report)/
+#+END_QUOTE
+This is actually a quite complex distinction that has some impact on your study. You return to it briefly on p. 10, but could be developed a bit more.
+** Page 2, first paragraph
+:PROPERTIES:
+:NOTER_PAGE: 3
+:END:
+The "next phase" here is confusing to me since it is already established that the paper focuses on the second part of the project. Furthermore, I find this section slightly problematic: what is the main advantage of speaking of "sensory experience" when the main sense involved (related to the documented art work) is hearing? Why is this study named /Sensory experience of sound installation/ rather than /Auditary experience of sound installation/. I don't think the explanation given here is satisfactory. You return to this design choice on page 11 where the description is developed. I would suggest to move this up to the beginning, or rewrite a similar passage and fit it in here on page 2. Also, and more specifically, I find the second sentence in the same paragraph hard to understand.
+** Page 3, Interactive listening sessions
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+The choice to use a graphical interface for navigating, rather than using any other means of navigating, appears significant, and, as you note later (p. 6), to be slightly problematic. As part of the methodology perhaps this choice could be unwrapped a little bit here.
+** Page 7
+Table 3 is very difficult for me to read.
+** Page 8
+:PROPERTIES:
+:NOTER_PAGE: (9 0.7074468085106382 . 0.3772935779816514)
+:END:
+#+BEGIN_QUOTE
+/Still, both are constructed over the design of sound art
+installation rather than the sensory experience of visitors./
+#+END_QUOTE
+Since [cite:@Fraisse2022] explicitly state in their Section 5. Discussion and Conclusion that the focus of their study is "on documenting the installation from the underexplored yet critical perspective of the visitor" this statement may need a bit more unwrapping. 

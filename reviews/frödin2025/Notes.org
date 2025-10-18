@@ -1,0 +1,118 @@
+* Frödin2024
+:PROPERTIES:
+:NOTER_DOCUMENT: Frödin2024.pdf
+:END:
+** Of what?
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+``predetermined formats''
+** General comment
+:PROPERTIES:
+:NOTER_PAGE: (5 0.19437751004016066 . 0.16022727272727272)
+:END:
+``This artistic PhD project''
+
+Detta är en omfattande och ambitiös avhandling om en musikers närmanden till choreomusicology och intermediala verk med inslag av teorier från Composed Theatre. I centrum står Kerstin Frödins konstnärliga praktik och hur hon griper sig an ett antal verk, några komponerade för henne och iscensatta som musikdramatiska eller koreomusikaliska verk, andra komponerade för denna expanderade form. Hennes forskningsfrågor handlar om hur hon kan förstå och överföra kommunikativ och förkroppsligad kunskap i kammarmusik överförd till interdisciplinära kontexter; hur konceptet gestural-sonic object kan utgöra såväl ett analytiskt verktyg som en källa för experimenterande; samt slutligen hur musiklaisk interpretation kan användas i skapandet av interdsicipolinära verk. Det handlar alltså om en expansion av det musikaliska fältet som en blockflöjtist befinner sig i.
+
+Avhandlingen på 179 sidor diskuterar metoder och metodutveckling och varvar teori och praktik på ett ibland förvirrande sätt. Här framstår även en av avhandlingens svaga sidor, nämligen hur själva experimenterandet går till och vad resultaten blir. Texten blir lätt något fragmenterad och upprpeande med återkommande referenser till de olika verken. I dessa är beskrivningarna påfallande mycket otydligare än i beskrivningarna av liknande refererade verk, framförallt i kapitel VIII.
+
+Även om texten är språkligt stringent och tydlig för det mesta finns det flera passager som för mig framstår som mycket svåra att förstå. Jag menar även att den lider av en viss osjälvständinghet där huvudhandledaren skiner igenom i lite alltförstor utsträckning. Även ansvarsfördelningen mellan Frödin och Stjerna är inte helt tydlig. Även om det är väl beskrivet att det rör sig om ett samarbete blir jag osäker på vem som varit drivande i utformeningen av studier och komposition.
+
+Sammantaget, även om kunskapsbidraget är på ett sätt är tydligt framskrivet är det inte helt klart på vilket sätt detta utmärker sig från andra nyliga avhandlingar på samma tema, eller från den omfattande konstnärliga trend som dominerat nutida musik i länder som Tyskland, Danmark, Storbrittanien och delvis Norge under de senaste decennierna.
+
+*** Sammanfattning
+Då jag har sett avhandlingen växa fram kan jag ha en viss blick som påverkar min länsning. Därför, om vi saknar starka kandidater till priset vill jag föreslå att fler läser Kerstin Frödins avhandling. Har vi flera redan nu tydligt starka kandidater tycker jag inte detta är en prioriterad kandidat.
+
+** Bra formulering
+:PROPERTIES:
+:NOTER_PAGE: 15
+:END:
+#+BEGIN_QUOTE
+My wish was to avoid superimposing a
+conceptual or theoretical perspective, seeking instead to allow aims and methods to emerge from
+an exploration of my practices as a soloist and chamber musician.
+#+END_QUOTE
+** Långa meningar
+:PROPERTIES:
+:NOTER_PAGE: 28
+:END:
+#+BEGIN_QUOTE
+This phenomenon has been described as “knowing-
+how” in opposition to “knowing-that” (Ryle, 1949) and can be of either a more intellectual or a
+more practical nature – or a combination of the two, such as can be seen in much musical
+performance, for instance when engaging in the multimodal activity of playing the recorder,
+while also processing an interpretation of a score. Another
+#+END_QUOTE
+** Hur kan vi förstå detta?
+:PROPERTIES:
+:NOTER_PAGE: 161
+:END:
+#+BEGIN_QUOTE
+The close interrelation between music, dance, visual arts and poetry in The Conference of the
+Birds exempli"es how the communicative and embodied qualities of chamber music can be
+transferred to a staged context.
+#+END_QUOTE
+** REsan är svaret?
+:PROPERTIES:
+:NOTER_PAGE: 166
+:END:
+#+BEGIN_QUOTE
+This very
+journey and these artistic works form the central response to the research questions.
+#+END_QUOTE
+** Detta är helt ogenomträngligt
+:PROPERTIES:
+:NOTER_PAGE: 168
+:END:
+#+BEGIN_QUOTE
+other. The musicians’ movements while performing are
+not regarded as part of the artistic work and the fact that they do not represent anyone else than
+themselves, makes it possible to use gesture-types such as ancillary, communicative, sound
+accompanying, empathic and so on in a spontaneous way and as natural element of the live
+performance. This
+#+END_QUOTE
+** Twoa approaches
+:PROPERTIES:
+:NOTER_PAGE: 169
+:END:
+** Have they? How?
+:PROPERTIES:
+:NOTER_PAGE: (172 0.1678714859437751 . 0.1909090909090909)
+:END:
+#+BEGIN_QUOTE
+However, in these projects, hierarchies have been broken down and roles have been
+blurred.
+#+END_QUOTE
+** Claim
+:PROPERTIES:
+:NOTER_PAGE: (181 0.5148594377510041 . 0.5170454545454545)
+:END:
+``I have challenged socio-
+cultural practices in classical music performance,''
+** Second question
+:PROPERTIES:
+:NOTER_PAGE: (181 0.672289156626506 . 0.33749999999999997)
+:END:
+#+BEGIN_QUOTE
+Across the thesis projects, I have experienced
+how the gestural-sonic object has emerged as a central perspective, both as a platform for
+interdisciplinary collaboration and, in some projects, also as an analytical tool, hereby responding
+to the second question.
+#+END_QUOTE
+** Gestural and sonic objects?
+:PROPERTIES:
+:NOTER_PAGE: (181 0.7485943775100402 . 0.4295454545454545)
+:END:
+#+BEGIN_QUOTE
+approach to gestural and sonic objects became an
+integral method in the artistic work.
+#+END_QUOTE
+** Maybe not?
+:PROPERTIES:
+:NOTER_PAGE: (183 0.10682730923694779 . 0.4534090909090909)
+:END:
+#+BEGIN_QUOTE
+through which the traditional hierarchy between
+performer and composer was dissolved.
+#+END_QUOTE
