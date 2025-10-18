@@ -1,0 +1,137 @@
+/* styling revision: 8 */
+#container-weave .main p {
+    text-align: justify;
+    hyphens: auto;
+    margin-bottom: 0.667em;
+    font-size: 18px;
+}
+#container-weave .main ul {
+    margin-bottom: 0.667em;
+}
+#container-weave .main li {
+    margin-bottom: 0.5em;
+    font-size: 18px;
+    list-style-position: outside;
+}
+#container-weave .tool-text h1 {
+    margin-top: 0.667em;
+    margin-bottom: 0.667em;
+}
+#container-weave .tool-text .subtitle {
+  font-weight: normal;
+}
+#container-weave .tool-text h2 {
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+#container-weave .tool-text h3 {
+    font-style: normal;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+#container-weave .tool-text h4 {
+    font-weight: normal;
+    font-style: italic;
+    font-size: 18px;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+#container-weave .caption p {
+    text-align: left;
+    margin-bottom: 0.667em;
+    font-size: 15px;
+}
+#container-weave .main blockquote {
+    margin-left: 1.5rem;
+    margin-right: 0;
+    padding-left: 0.5rem;
+    font-size: 17px;
+}
+#container-weave .main blockquote p {
+    font-size: 17px;
+}
+#container-weave blockquote.epigraph {
+    text-align: right;
+    margin-left: 6rem;
+    font-size: 15px;
+    border: none;
+}
+#container-weave blockquote.epigraph p:before {
+    content: open-quote;
+    font-weight: bold;
+    font-size: 45px;
+    color: #DDD;
+    position: absolute;
+    margin-left: -2.5rem;
+    margin-top: -0.5rem;
+}
+#container-weave blockquote.epigraph p {
+    font-size: 15px;
+}
+#container-weave blockquote.fermata {
+    text-align: left;
+    margin-left: 6rem;
+    border: none;
+}
+#container-weave blockquote.fermata:before {
+    content: '\1D110';
+    font-weight: bold;
+    font-size: 45px;
+    color: #DDD;
+    position: absolute;
+    margin-left: -2.5rem;
+    margin-top: -1.5rem;
+}
+#container-weave {
+    counter-reset: item 0;
+}
+#container-weave .footnote ol {
+    list-style: none;
+}
+#container-weave .footnote li {
+    text-align: left;
+    margin-bottom: 0.333em;
+    margin-left: 0.333em;
+    font-size: 15px;
+    counter-increment: item;
+    position: relative;
+}
+#container-weave .footnote li:before {
+    content: counter(item);
+    font-size: 80%;
+    display: inline-block;
+    position: absolute;
+    left: -1.667em;
+}
+#content .cell .no-tool {
+    min-height: 0;
+}
+#container-weave .nav-left p {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 16px;
+}
+#container-weave .nav-left p:before {
+    vertical-align: -5%;
+    content: '\21E0  ';
+    font-weight: bold;
+    font-size: 30px;
+    color: #CCC;
+}
+#container-weave .nav-right p {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    text-align: right;
+    font-size: 16px;
+}
+#container-weave .nav-right p:after {
+    vertical-align: -5%;
+    content: ' \21E2';
+    font-weight: bold;
+    font-size: 30px;
+    color: #CCC;
+}
+#container-weave .header p {
+    margin-top: 1em;
+    font-size: 16px;
+}
