@@ -1,0 +1,22 @@
+In this section, we describe how we access the software data that we sonify. 
+We focus on two software data: internet and the operations of the tiniest operations that an operating system produces.
+
+\paragraph{Unveiling internet activity}
+Internet is used to send and receive information from and to different sources. 
+Accessing a web-page send you information from the web-page itself but also data from different other services such as Facebook, Twitter or Google.
+We want to collect this data and illustrate the diversity of sources, the complexity and propagation of the data.
+
+In order to collect this data, we developed a browser extension that intercepts the internet traffic that is going through the web-browser. 
+With the browser extension, we collect the following information: the URI where the resource is accessible, the IP of the server that sent the resource, the type of data (e.i., image, content, script, style, font, data, music, or video), and the size of the content. 
+This data is send to the server to be normalized and to collect additional information.
+The role of the server is to identify the approximate location of the server that sends the resource and to identify to which service the resource belongs to, e.g., Facebook, Google, Twitter, Amazon, Apple.
+
+Once the information is collected, the data is broadcasted from the server to SuperCollider for sonification and a webpage to unveil the internet activity.
+
+\paragraph{Unveiling Operating System activities}
+The role of the operating system such as Windows, Mac, or Linux is to provide a set of features to use your computer but also a layout of abstraction above the hardware. For example, the operating systems allow applications to use files that are stored in an external drives the same way as it is on a local drive even if the technique is drastically different.
+This layout of abstraction is presented in a form of basic instructions such as READ, WRITE, or KILL. 
+
+We can monitor those basic instructions using the tool \todo{XXX}. This tool has been created to detect malicious behaviors such as virus that would delete all your files. 
+We store all READ, WRITE, or KILL operations that the operating system does during a certain period of time.
+We then count the number of operation 
