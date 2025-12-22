@@ -1,8 +1,8 @@
-# Created 2025-12-22 Mon 18:22
+# Created 2025-12-22 Mon 18:33
 #+options: toc:nil num:nil
 #+title: Form, structure and improvisation
 #+author: Henrik Frisk
-#+bibliography: ./improvisation_book_2025_biber.bib
+#+bibliography: ./2025_form_structure_improv.bib
 
 #+cite_export: csl ~/Documents/articles/biblio/csl-styles/apa-7th.csl
 
