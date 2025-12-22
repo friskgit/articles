@@ -1,4 +1,4 @@
-# Created 2025-12-22 Mon 18:33
+# Created 2025-12-22 Mon 19:46
 #+options: toc:nil num:nil
 #+title: Form, structure and improvisation
 #+author: Henrik Frisk
@@ -233,73 +233,71 @@ Relieving the improviser from the responsibility of establishing a musical form 
 [[id:84EF0938-321A-43F1-AF36-25941E005CC5][Improvisation book notes]]
 ** Practice
 In this second part of the text I will attempt to show how the theory presented in the first part of the text has influenced my own improvising practice.
-The question that I am interested in pursuing is how I in the context of free playing can have increased access to musical concepts such as those described earlier in this text: difference, finding and creating. The hypothesis is that playing on a set form enables this but the question is if the limitations this imposes has a too large negative impact.
-From an artistic research point of view it is not trivial to pursue such a question, and it is not interesting, nor possible to achieve conclusive evidence in one way or another, because whatever it is, it is tied to my subjective stance.
-Instead, the subjective stance should be seen as an asset and what I can say something about is the relations between the various components involved.
-In this case there is only subjective information to be gathered.
+The question that I raised in the beginning of the essay is now centered on how the dynamic between musical concepts such as those described in this text (difference, finding and creating) can be refined.
+The hypothesis is that playing on a set form enables has a (positive) effect but the question is if the limitations this imposes also has a negative impact.
+From an artistic research point of view it is not trivial to pursue such a question, and it is not interesting, nor possible to achieve conclusive evidence in one way or another, because whatever they are, they will remain tied to my subjective stance.
+Instead, the subjective stance should be seen as an asset.
 
 The experiments described here are meant to shed light on the experiential qualities of working with solo improvisation and how this process is affected by staying true to a musical form.
 It is done from a first person perspective and is not meant to say anything about the result as evaluated from the point of a listener, nor of any third person aesthetic or quality assessment.
 If I can borrow the terminology from Jean Molino and Jean-Jacques Nattiez [cite:@nattiez] it is the /poietic/ phase that I am interested in here.
-
+The value judgments that I as a musician is making as I am playing is at the core of this study.
 To explore the various ways in which free-play can be allowed within a fixed form one need to probe the ways in which the above concepts can best be scrutinized.
-After some initial experimentation I decided to merely work with recordings on the form rather than comparing it with free playing.
+although one possible design would have been to record both improvisations with and without form and compare them, but after some initial experimentation I decided to merely work with recordings of improvisations on the form.
 
 I decided to work on a simple form taken from Bach's solo cello sonata No. 1 in G: Menuetto I.
-It could really have been any form but I wanted to avoid something that reminds of a standard jazz tune as it easily pushes me in a certain way of thinking harmonically as the point here was to stay as free as possible but within the confines of the metric form.
-The chord structure is a relatively simple diatonic progression in G-major (see [[ref:figure1][Figure 1]]) where I could let myself be guided by the general tonality but still use substitutions, or simply ignore chord changes at times. 
+It could really have been any form but I wanted to avoid something that reminds of a standard jazz tune as it easily pushes playing in a certain way of thinking harmonically.
+The point here was to stay as free as possible but within the confines of the metric form.
+The chord structure is a relatively simple diatonic progression in G-major (see [[fig_0][Figure 1]]) where I could let myself be guided by the general tonality but still use substitutions, or simply ignore chord changes at times. 
 As such the harmony is hinted at and used more as a structure of tensions and releases rather than something I felt the need to adhere to.
 A given melodical or structural idea was always prioritized over the chord structure but at form ends or beginnings or in particularly interesting moments the harmony is typically still respected.
 The structure of the form and the meter, however, was slavishly followed and any mistakes to this effect would make me stop the recording and start again.
 
-#+results: fig:harm_form
-[[file:img/form.png]]
-
 #+caption: Basic harmonic structure for Bach solo cello sonata No. 1 in G: Menuetto I
-#+label: fig:harm_form
+#+name: fig_0
 #+results: fig:figure1
-#+name: figure1
+[[file:/Volumes/Freedom/Dropbox/Documents/articles/improvisation_2025/img/form.png]]
 ** Method
-The method is based on stimulated recall, a method that grew popular in pedagogical research at the end of the twentieth century when the use of video recordings became affordable and easy to use.
+The method is based on stimulated recall, a method that grew popular in pedagogical research at the end of the twentieth century when the use of audio and video recordings became affordable and easy to use.
 Hence, the method is closely linked to the audio recordings that I made.
-The technologies that underpins its use and the agency of these is an important factor that should not be underestimated.
+The technologies that underpins the use of the method and the agency of these are important factors that should not be underestimated.
 
-Self-reflection through stimulated recall is complex due to the challenge of achieving both intersubjectivity and individual reflection on personal perceptions in improvisation.
-Reflection itself is a problematic concept, often misunderstood in the context of artistic research, something that I discussed in the previous section: There is no artistic activity without reflection, so what is the added activity.
-The reflective spiral discussed above is in itself a description of a method where the completion of the four steps allows for reflection.
-This reflection is then used to alter the parameters for the next iteration.
-This, in turn, may well follow the steps the same spiral as a certain conceptualization is necessary for any reflection and the consecutive staging and rendering phases are aspects of understanding the concept in context.
-In effect this illustrates a possible network of reflections upon reflections which are an integral aspect of how knowledge about an event develops.
-
-A reflective method does not prescribe how to carry out an activity but is rather focused on how in hindsight understand xthe artistic practice as it took place.
+A reflective method does not prescribe how to carry out an activity but is rather focused on how one may understand the artistic practice in hindsight but as it took place.
 This requires the researcher to have the ability to change perspectives quickly and the stimulated recall method is well designed for this purpose.
-A thorough discussion on its history and possible uses as an artistic research method can be found in the book /Shared Listenings: Methods for Transcultural Musicianship and Research/ [cite:@Frisk2023].
-Visual artist Anke Haarman discusses the need for further development of reflective artistic research methods used for the analyses of artistic work:
+A thorough discussion on the history and possible uses for stimulated recall as an artistic research method can be found in the book /Shared Listenings: Methods for Transcultural Musicianship and Research/ [cite:@Frisk2023].
+
+Self-reflection through stimulated recall is complex due to the challenge of achieving individual reflection on personal perceptions in improvisation.
+Reflection itself is a problematic concept, often misunderstood in the context of artistic research, something that I discussed in the previous section: As there is no artistic activity without reflection, merely referring to the artists reflections is not so meaningful.
+The reflective spiral discussed below is in a description of a method where reflection may be given specific meaning.
+This reflection is then used to alter the parameters for the next iteration.
+This illustrates how a network of reflections are made possible that become an integral aspect of how knowledge about an event develops.
+There is however a demand for further developing refletive methods for artistic research.
+Visual artist Anke Haarman discusses this need for the use of the analyses of artistic work:
 
 #+begin_quote
 Accordingly, for artistic research, it can be advisable to define a basic requirement for a precise, reflexive, consistent, and transparent method as an after-effect or consequence of arts-based research practice, but not as a preceding set of rules. On the horizon of a reflective methodology looms the fact that research in the arts follows a methodically consolidating practice and it is possible to discuss--reflectively--the traceability of the applied methods in retrospect. [\ldots] This means striving for a doctrine of routes to artistic knowledge that does not prescribe but rather reconstructs. [cite:@Haarman2024;, p 58-9]
 #+end_quote
 
-Depending on the specific interpretation of the word /doctrine/--I am not sure I agree that it should be an authoritative belief that an artistic methodology needs to be exclusively reconstructive--the final point is worth stressing and is relevant for this project.
-As I started out I had no clear hypothesis of what may become the output, only that I suspected the output would b e of value, and any knowledge that may become the result of this study is created in the active reflection upon the practice as a practice of improvisation.
-Neither may the results, for obvious reasons, be descriptive but will only work as a material from which one may reconstruct ones own results.
-Needless to say, analyzing ones own artistic practice is incredibly difficult to do and achieve meaningful results from it is even more difficult even with a method that lives up to the criteria Anke Haarman sets up.
+Depending on the specific interpretation of the word /doctrine/ that Haarman is using--I am not sure I agree that it should be an authoritative belief that an artistic methodology needs to be exclusively reconstructive--the final point is worth stressing and is relevant for this project.
+As I started out I had no clear hypothesis of what could become the output.
+I also did not think that the results, for obvious reasons, would be descriptive but would only work as a material from which one may reconstruct ones own results.
+Needless to say, analyzing ones own artistic practice is incredibly difficult to do and achieve meaningful results from it is even more difficult, even with a method that lives up to the criteria Anke Haarman sets up in the quote above.
 The process can be precise and consistent from the point of view of the researcher but not necessarily for an outsider.
-Reflexive and transparent, though, should definitely be guiding principles in any kind of method development and research.
-Haarman also points out how, from an "epistemic perspective, deliberate reasoning [\ldots] first had to prove itself historically vis-à-vis speculative explanations [\ldots] in order to be recognized as a comprehensible method for acquiring knowledge." [cite:@Haarman2024;, p. 58]
-Luckily we are mostly past the resistance against auto-ethnographic and reflexive methods and can now continue the important acts of method development in research in the arts.
+Haarman also points out how that, from an "epistemic perspective, deliberate reasoning [\ldots] first had to prove itself historically vis-à-vis speculative explanations [\ldots] in order to be recognized as a comprehensible method for acquiring knowledge." [cite:@Haarman2024;, p. 58]
+Luckily we are mostly past the all too common resistance against auto-ethnographic and reflexive methods, and can now continue the important acts of method development in research in the arts.
+Reflexive and transparent should definitely be guiding principles in any kind of method development and research.
 ** Stucture
 Describing an artistic process as a spiral is not unique, I would suspect that similar processes may be found in the artistic practices of many different artists.
 In this process there is no definite starting point, but pedagogically it helps to see the concept as the starting point.
-This is where, in the words of Luhman [cite:@Luhmann2000] the unmarked space is marked (see [[fig_1][Figure 1]]).
+This is where, in the words of Luhmann [cite:@Luhmann2000] the unmarked space is marked (see [[fig_1][Figure 1]]).
 An idea, a sensation, or an inspiration takes the form of a mental image that is expressed musically and articulated.
-Following this phase the articulated idea is staged--there is now a context to which the improviser has to relate to.
+Following this phase the articulated idea is staged--there is now a context to which the artist has to relate to.
 This staging is not necessarily a process that literally sets the concept in motion, rather it is concerned with the imagination of the possibilities of the idea in a musical context.
 If in these two first stages there was an almost unlimited freedom to find /or/ create musical material, at this point every new initative will be related to these initial steps.
 Following the staging is the rendering, the phase in which the concept is actually set in motion.
 Finally there is an element of documentation in which all three prior stages are reflected upon and material is gathered as a preparation for the next cycle.
 
-The rendering of it is understanding what happens with the concept when it is stage and consequently realized as a musical object: a gesture or a note or similar.
+The rendering of it is understanding what happens with the concept when it is staged and consequently realized as a musical object: it may be a gesture or a note or similar.
 The final stage of the iterative process is the documentation, or rather understanding of what the concept did to the musical situation in which it was stages and rendered in.
 This documentation contains the information on which the next conceptualization of the same idea is based and developed.
 
@@ -323,7 +321,7 @@ Hence, the concepts of /finding/, /creating/ and the related /interaction-as-dif
 In the staging of the concept /finding/ and /creating/ new material not previously known is made possible, and in this view the contrast between them does not appear to be significant.
 However, as a description of an artistic process each concept in the trajectory must be different in quality to the previous concept in order to make sense.
 The relation between two iterations of new concepts is an interactive relation that allows for stepping back in the spiral and rethinking previous steps.
-Consequently, the image of the spiral in [[fig_1][Figure 1]] depicts with smaller bidirectional arrows how there may be motion back and forth between phases and that the process clearly does not necessarily move linearly in one direction.
+Consequently, the image of the spiral in [[fig_1][Figure 2]] depicts with smaller bidirectional arrows how there may be motion back and forth between phases and that the process clearly does not necessarily move linearly in one direction.
 In reality the process is even more complex than this and the figure mainly serves the purpose of moving away from creativity as a linear process.
 Again, it is the difference between two consequent phases that makes describing the process in this manner appealing--it is when the difference between two phases is great enough to make a difference that the process moves to the next stage.
 
