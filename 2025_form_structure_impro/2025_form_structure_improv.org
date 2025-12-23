@@ -1,4 +1,4 @@
-# Created 2025-12-22 Mon 19:46
+# Created 2025-12-23 Tue 18:55
 #+options: toc:nil num:nil
 #+title: Form, structure and improvisation
 #+author: Henrik Frisk
@@ -14,8 +14,6 @@
 #+filetags: :impro:
 #+created: 2025-03-28, 15:50
 
-[[id:84EF0938-321A-43F1-AF36-25941E005CC5][Improvisation book notes]]
-** Introduction
 In this essay I will revisit a few threads that I have explored in various ways over the last two decades,  mainly the notion of control, or giving up of the same, in improvisational practices in music.
 The main question explored is how the framework chosen for an improvisation alters the conditions for its freedom.
 That is, how the chosen approach fosters /creating/ material used to /control/ a musical context differs from one that allows for /finding/ material.
@@ -43,13 +41,84 @@ The overarching theme of the study is the suggestion that improvisation is a met
 Thus, there is a knowledge perspective often viewed as exclusive to the practice of musical improvisation. However, this perspective is actually much broader, encompassing many kinds of considerations and insights into various forms of interaction.
 
 [fn:-0-1] John Cage and indeterminanism is obviously the great exception here. 
-[[id:822BC026-E16C-491E-BC43-7EA8423F436D][Improvisation book introduction]]
 
 [fn:-0-2] The study itself will not be presented in detail in this text, mainly the results. 
 * Background
 #+filetags: :impro:
 
-[[id:84EF0938-321A-43F1-AF36-25941E005CC5][Improvisation book notes]]
+
+** Interaction-as-difference
+The interactive paradigm /interaction-as-difference/ that I have used on numerous occasions is concerned with how communication in an interactive system may be understood in relation to a naive view of human-computer interaction.
+Interaction with most technology prior to AI[fn:-1-1] has generally had more to do with a methodology of /control/ than with real interaction: the user's engagement is generally a means of dominating the device through simple actions such as pressing buttons or using a touch interface.
+This is clearly a feature.
+A computer mouse is an interactive tool for the computer, but would be useless if it had its own will and started to interact recursively with the user.
+Only if the user can control the computer to do what they want it to do does it have value.
+If the button on the screen is only activated half of the time the user presses the button of the mouse it would have very limited value.
+/Interaction-as-control/ is a term to depict this kind of technology that mediates control through various interfaces: a type of interaction where the success of the interactive activity can easily be measured.
+
+Despite the common terminology, in musical improvisation what is referred to by interaction is  something quite different.[fn:-1-2]
+Musical improvisation is not necessarily without an aspect of control in but it commonly lacks the clear distinction between cause and effect.
+There are many cases where one player comes to control aspects of the musical development, but also in these cases the control is highly dependent on the other players' activities.
+The interaction, one may say, is more concerned with /difference/ than /control/.
+If in the first case a system of control is governed by distinct relations between input and output, the latter is rather guided by networks of differences that can grow infinitely complex.
+There are numerous possible theoretical threads that connects to this line of thinking such as materialism and the often referred to post-structuralist concept of the /Rhizome/ by Gilles Deleuze and Félix Guattari.
+The opening of /Kafka: Toward a Minor Literature/ gives a hint at the possible affinities: "This [Kafkas's] work is a rhizome, a burrow.
+The castle has multiple entrances whose rules of usage and whose locations aren't very well known" [cite:@Deleuze1986; p. 3].
+The interplay in jazz improvisation has been studied through various methodologies by many researchers [cite:@berliner94;@monson96;@clarke2017;@lewis92] and is not the primary focus of this essay.
+Instead, this essay will focus on solo playing
+
+I will for the remainder of this essay use the generalized terminology of control versus difference, not as a dichotomy, but as a means to attempt to understand the complexities of improvisation.
+Both methods are used and it is the dynamic between them in relation to other musical parameters, such as harmony and form--factors that on the surface may limit the freedom of the improviser--that is the focus.
+As an example, various aspects of control in solo playing, such as forcing oneself to play a certain meter, may result in limiting the experienced freedom to various degrees in ways that may exploit the interesting dynamic.
+
+The idea that interaction may consist of altering differences in relation to contexts gave me access to a new and expanded way of thinking about improvisation.
+The idea of /interaction-as-difference/ was greatly inspired by the cybernetic thinking of Gregory Bateson and in particular his famous quote of "the difference that makes a difference" [cite:@bateson72:steps; See the essay Form, Substance and Difference, p. 459].
+According to the theory the reactivity of a system involving improvising musicians is never fixed but depends on a network of dependencies and information in its various parts, and these dependencies have different meanings that are dependent on the contexts.
+In this process meanings arise that are sustained through a delicate balance of differences between the elements of the system.
+As long as all agents has access to enough information about the system's order of differences interaction is made possible and generates new meanings.
+At a detailed level /finding/ musical material, then, may be seen as the detection and exploration of differences that makes a difference to the whole, and /creating/ is the activity of actively altering the various differences that a specific agent has control over.
+
+As an improviser I have the power to create /difference/ and 'push' the playing into one direction only to loose the initiative as soon as the context changes, and with it, a new set of possible differences is established.
+A trivial example is that a note's harmonic function depends on the harmony and the relative dissonance between the note and the chord.
+The difference induced in such a case may depend on the degree of dissonance and the actual chord being played, but the change of context may be much more subtle than that.
+Thus, in a musical improvisation, it is essential for the improviser to develop a heightened sensitivity to both variations and contexts, which is a significant demand.
+In an interactive system involving electronics and computers, this fact creates tremendous challenges for the designer.
+The key issue is how the analysis of the context is made and how this input is formatted to the system in order for it to properly react to events in a dynamic manner.[fn:-1-6]
+
+The notion of /difference/ was originally intended to be used as a tool to shape the interaction in my own improvisations with electronics with the ambition to move away from the paradigm of triggers and events.[fn:-1-3]
+Instead, the system I desired should operate by using detectable qualitative changes in the input which would be used to create a difference in the output that corresponded with the input in some way.
+The detectable threshold in the input would depend on a wide set of parameters that rendered the result somewhat unpredictable, but not random.
+It is not necessarily obvious or self-evident when the threshold for change has reached a critical degree that leads to a noticeable change in the output, but, as was mentioned above, this would be part of a compositional strategy worked out in advance.[fn:-1-4]
+I built this system and played with it in a number of situations and concerts, but ended up abandoning it, not so much because it was not satisfying, but because it was limiting.
+The system itself is not important for the discussion in this essay and is merely brought up as an example of the conceptual deviation between control and differenece.[fn:-1-5]
+
+Any musical performance is concerned with interaction, even solo improvisations.
+As a performer my body interacts with the instrument and my musical intention interacts with the materiality[fn:-1-7] of the music I engage with.
+The result of that particular interaction may lead to the experience that I enter into a sympathy with the instrument [cite:@Bergson1912 p. 2] which allows for an intuitive understanding of the processes I engage in: it makes possible a /listening from the inside/.
+Bergson's particular definition of intuition [cite//c:@Bergson1912 p. 7] gives rise to a possible kind of interactivity in which the agents that I interact with are even more accessible.
+It is possible to also enter into sympathy with the greater play situation given that both myself, the instrument, and their context, are intuitively present.
+This unity creates special conditions for expression, nuanced musical creativity and the expanded interaction between the various agents mentioned above.
+When I as a performer get "am inside the object itself" [cite//c:@Bergson1912 p. 2], in this case the integrated system, I will be able to fully understand it and the way it is conditioned through motion and duration.
+The critical aspect of the concept of interaction(-as-difference) here has to do with time: time is difference and control is a change that alters the relative experience of time.
+If a process such as a held note with a particular traits is started at some specific point in time, at any point later than the starting point the note is both different and same.
+This is standard process philosophy and not by any means novel concepts, but they are nevertheless useful and important for the present discussion.
+Any changes induced to the ongoing process of the held note, such as altering the timbre, a process that also depends on time, will introduce other articulations of differences---there are numerous other factors that the process may depend on---and the number of differences that may be active at any time is infinite.
+But not all differences makes a difference.
+
+[fn:-1-1] On this point AI has not altered the landscape significantly. Even if LLM allow for a somewhat more dynamic interaction with machines, the idea of giving up the control to the computer still appears firghtening.
+
+[fn:-1-2] Part of my original critique here is that in musical practices involving computers there is a risk that this paradigm of control becomes a guiding principle in the design of interactive musical interfaces. This complexity between the effort of the input and the gratification of the resulting output is discussed in the context of interactive sound installations in more detail in the paper co-authered with Miya Yoshida [cite:@frisk05].
+
+[fn:-1-6] There are a number of musicians/composers/researchers that have worked on this and one important early point of reference is Geaorge Lewis' piece /Voyager/ [cite:@lewis92].
+Others include [cite/text/c:@Lippe2002;@Wanderley00;@pew03]
+
+[fn:-1-3] One event in the input triggers a corresponding event in the output. 
+
+[fn:-1-4] I was inspired by the way that Self Organizing Maps (SOM) updated their weights dynamically and automatically in the process of training the network. I ended up desgning a SOM for timbre recognition that I used for my interactive work. This technology was not by far as common then as it is now and the computers was not remotely as powerful, which, just based on the technical complexity of getting things to work properly, rendered my work in this field in 2008 quite short lived.
+
+[fn:-1-5] One significant aspect worth mentioning here is that these differences always depend on context, a topic I will return too later in this text. 
+
+[fn:-1-7] Kolla upp, tex [cite:@Wilson2018]
 ** Finding and creating in time
 
 As was discussed in the previous section in improvisation there is a complex interplay between finding and creating.
@@ -93,11 +162,9 @@ Perhaps the level of strain is diminished by reducing the number of structured e
 However, in free form these moments of tension are created as one goes along and the form is found rather than created.
 In what is commonly referred to as free-jazz strong formal elements such as a cadence, or a dominant to tonic relation may still be established, but these are mostly avoided.
 This dynamic between playing on a form and playing freely is the main topic of next chapter. 
-* Form
-#+filetags: :impro:
 
-[cite:@Frisk2025]
-** On the power of form
+#+filetags: :impro:
+* On the power of form
 Improvising over a fixed form can perhaps be seen as the antithesis to free improvisation or /free form/, a style prevailingly in absence of the boundaries of musical form.
 In contrast, jazz prior to the mid-1960s was largely defined by its strong affinity to form.
 In /Thinking in Jazz: The Infinite Art of Improvisation/ Paul Berliner discusses jazz as an art form that departs from musical structures in the form of pre-defined forms and chord progressions:
@@ -156,13 +223,9 @@ In the following, when I talk about form I refer to a structure that has a begin
 
 [fn:-2-1] The fact that Elvin Jones is still the drummer on the record /Om/ gives the music an impression of being kept within eight-bar boundaries and Coltrane's playing is still somehow harmonically oriented at times, but in essence, /Om/ is a free-form composition.
 [[id:FE139E99-1688-47C3-9C7F-B83120C72243][On the power of form]]
-* Theoretical framework and methodology
+* Theoretical framework and methodology: The unmarked space
 #+filetags: :impro:
 
-[[id:822BC026-E16C-491E-BC43-7EA8423F436D][Improvisation book introduction]]
-[[id:84EF0938-321A-43F1-AF36-25941E005CC5][Improvisation book notes]]
-[[id:FE139E99-1688-47C3-9C7F-B83120C72243][On the power of form]]
-** The unmarked space
 The question of whether there is form in free-form or not is a question of perspective.
 For the listener musical form is a consequence of what is being played, not whether the form was pre-conceived or not.
 In his book /Art as a Social System/ German sociologist [cite/author:@Luhmann2000] discusses the becoming of an artwork as a mark of an unmarked space.
@@ -229,8 +292,6 @@ Relieving the improviser from the responsibility of establishing a musical form 
 [[file:20250421161344-benson_on_improvisation.org::*The unmarked space][The unmarked space]]
 * The spiral of improvisation
 #+filetags: :impro:
-
-[[id:84EF0938-321A-43F1-AF36-25941E005CC5][Improvisation book notes]]
 ** Practice
 In this second part of the text I will attempt to show how the theory presented in the first part of the text has influenced my own improvising practice.
 The question that I raised in the beginning of the essay is now centered on how the dynamic between musical concepts such as those described in this text (difference, finding and creating) can be refined.
@@ -248,15 +309,15 @@ although one possible design would have been to record both improvisations with 
 I decided to work on a simple form taken from Bach's solo cello sonata No. 1 in G: Menuetto I.
 It could really have been any form but I wanted to avoid something that reminds of a standard jazz tune as it easily pushes playing in a certain way of thinking harmonically.
 The point here was to stay as free as possible but within the confines of the metric form.
-The chord structure is a relatively simple diatonic progression in G-major (see [[fig_0][Figure 1]]) where I could let myself be guided by the general tonality but still use substitutions, or simply ignore chord changes at times. 
+The chord structure is a relatively simple diatonic progression in G-major (see Figure [[fig_1]]) where I could let myself be guided by the general tonality but still use substitutions, or simply ignore chord changes at times. 
 As such the harmony is hinted at and used more as a structure of tensions and releases rather than something I felt the need to adhere to.
 A given melodical or structural idea was always prioritized over the chord structure but at form ends or beginnings or in particularly interesting moments the harmony is typically still respected.
 The structure of the form and the meter, however, was slavishly followed and any mistakes to this effect would make me stop the recording and start again.
 
 #+caption: Basic harmonic structure for Bach solo cello sonata No. 1 in G: Menuetto I
-#+name: fig_0
-#+results: fig:figure1
-[[file:/Volumes/Freedom/Dropbox/Documents/articles/improvisation_2025/img/form.png]]
+#+name: fig_1
+#+results: fig_1
+[[file:/Volumes/Freedom/Dropbox/Documents/articles/2025_form_structure_impro/img/form.png]]
 ** Method
 The method is based on stimulated recall, a method that grew popular in pedagogical research at the end of the twentieth century when the use of audio and video recordings became affordable and easy to use.
 Hence, the method is closely linked to the audio recordings that I made.
@@ -289,7 +350,7 @@ Reflexive and transparent should definitely be guiding principles in any kind of
 ** Stucture
 Describing an artistic process as a spiral is not unique, I would suspect that similar processes may be found in the artistic practices of many different artists.
 In this process there is no definite starting point, but pedagogically it helps to see the concept as the starting point.
-This is where, in the words of Luhmann [cite:@Luhmann2000] the unmarked space is marked (see [[fig_1][Figure 1]]).
+This is where, in the words of Luhmann [cite:@Luhmann2000] the unmarked space is marked.
 An idea, a sensation, or an inspiration takes the form of a mental image that is expressed musically and articulated.
 Following this phase the articulated idea is staged--there is now a context to which the artist has to relate to.
 This staging is not necessarily a process that literally sets the concept in motion, rather it is concerned with the imagination of the possibilities of the idea in a musical context.
@@ -310,169 +371,149 @@ The reflection/documentation phase gives rise to new ideas and new versions of a
 
 
 #+caption: The artistic process described as a spiral going from a concept that continously develps through different phases.
-#+name: fig_1
-[[file:/Volumes/Freedom/Dropbox/Documents/articles/improvisation_2025/img/spiral-in-out.png]]
+#+name: fig_2
+[[file:/Volumes/Freedom/Dropbox/Documents/articles/2025_form_structure_impro/img/spiral-in-out.png]]
 
-I have developed this way of thinking about artistic practices in an attempt to explore my artistic practice in a more fluid manner where there are no finished works, only continuations of earlier work, whether composed or improvised.
-A recorded improvisation, deceptively similar to a composed work of music, is in this model an instance in an ongoing process that may contain many different kinds of outputs, and a composed work of music is likewise nothing but a single frame of a process much larger than this particular score.[fn:-4-1]
-The model further allows for looking at other inputs beyond the musical to have an impact on an otherwise artistic process since any concept may be introduced in the spiraling motion.
-Hence, the concepts of /finding/, /creating/ and the related /interaction-as-difference/ are possible to understand within the artistic practice.
 
-In the staging of the concept /finding/ and /creating/ new material not previously known is made possible, and in this view the contrast between them does not appear to be significant.
-However, as a description of an artistic process each concept in the trajectory must be different in quality to the previous concept in order to make sense.
-The relation between two iterations of new concepts is an interactive relation that allows for stepping back in the spiral and rethinking previous steps.
-Consequently, the image of the spiral in [[fig_1][Figure 2]] depicts with smaller bidirectional arrows how there may be motion back and forth between phases and that the process clearly does not necessarily move linearly in one direction.
-In reality the process is even more complex than this and the figure mainly serves the purpose of moving away from creativity as a linear process.
-Again, it is the difference between two consequent phases that makes describing the process in this manner appealing--it is when the difference between two phases is great enough to make a difference that the process moves to the next stage.
 
-Initially, I considered this model as a way to describe artistic work on a larger scale, like compositions, or more general concepts, such as systems for improvising that involve technology.
+I have developed this way of thinking about artistic practices in an attempt to explore my artistic practice in a more fluid manner where there are no finished works, only continuations of earlier works, regardless if they are composed or improvised.
+A recorded improvisation, deceptively similar to a composed work of music, is in this model an instance in an ongoing process that may contain many different kinds of outputs, and a composed work of music is likewise nothing but a single frame of a process much larger than the score  of that particular piece.[fn:-4-1]
+The model also enables the consideration of non-musical inputs to influence the artistic process, as any concept can be incorporated into the spiraling motion.
+
+However, as a description of an artistic process each phase described in the trajectory of Figure [[fig_2]] must be different in quality to the previous concept in order to make sense.
+The staging of the concept needs to add something to the concept that is significant.
+The relation between two concepts following each other, the second as a consequence of the documentation of the first, is an interactive relation and allows for stepping back in the spiral to rethinking previous steps.
+The smaller bidirectional arrows in Figure [[fig_2]] depicts how there may be motion back and forth between phases, and that the process clearly does not necessarily move linearly in one direction.
+In reality the process is of course even more complex than this and the figure mainly serves the purpose of moving away from creativity as a linear process.
+Again, it is when the difference between two phases is great enough to make a difference that the process moves to the next stage.
+
+#+caption: The process of improvisation described as a spiraling motion going thhrough different phases iteratively.
+#+name: fig_3
+[[file:/Volumes/Freedom/Dropbox/Documents/articles/2025_form_structure_impro/img/spiral-improvisation.png]]
+
+Initially, I considered this model as a way to describe artistic work on a larger scale, like compositions, or more general concepts, such as systems for improvisations involving technology.
 It is related to the idea of the work-in-movement ([cite/text:@eco68], see also [cite/text:@frisk08phd]) as a work which is never fixated but exists in a constant transformation: it is its transformation that becomes its identity.
-However, in this project, I have used it as a model to describe the development of an improvisation in relation to a predefined structure.
-To work as such the various stages may be redefined as in [[fig_2][Figure 2]] where an /idea/ (rather than a /concept/) may be a single note or a musical gesture of various grades of complexity.
+However, in this project, I use it as a model to both describe and understand the development of an improvisation in relation to a predefined form.
+To work as such the various stages may be redefined as in Figure [[fig_3]] where an /idea/ (rather than a /concept/) may be a single note or a musical gesture of various grades of complexity.
 The idea is /articulated/ and brought to life using the musical abilities and technical know-how of the improvisor.
 It is put into /context/ and finally /reflected/ upon leading to a new ideas or developments of the existing idea.
 Despite its general meaning and wide usage the notion of reflection is important here.
 It has always had a central role in the thinking about how artistic practices play out.
 Henk Borgdorff promotes the idea that artistic research provides "a specific articulation of the pre-reflective, non-conceptual content of art" [cite:@borgdorff2012;, p. 143], and philosopher Kathrin Busch suggests that "artistic practice is more than just an application of theory and that theory is more than a mere reflection on practice." [cite:@Busch2009]
-Both Borgdorff and Busch assume there is a possibility of a reflective language for articulating artistic knowledge that goes beyond traditional theory. 
+Both Borgdorff and Busch assume that there is a possibility of a reflective language for articulating artistic knowledge that goes beyond traditional theory. 
 Not all acts in improvisation are entirely thought through activities, but it is equally clear that neither are they produced without any kind of reflection, planning, and thinking.
-Almost anyone who has engaged in musical activities or even just listened to music can relate to the notion of the "non-conceptual content of art".
+If one has engaged in musical activities or even just listened to music one can likely relate to the notion that there is non-conceptual content of art and any serious investigation of artistic practices need to engage in reflecting on the non-conceptual nature of art.
 My ambition here is not to explain what this content is but rather explore the processes it sets in motion.
+
+#+caption: Not all ideas lead to the next after the completion of a full sequence, but new ideas may occur midway through the process, and one phase in one process together with another phase in another process may lead to yet other ideas that branch off.
+#+name: fig_4
+[[file:/Volumes/Freedom/Dropbox/Documents/articles/2025_form_structure_impro/img/spiral-improv_recursive.png]]
 
 The understanding of improvisation as something that is pre-reflective has been a continuous thread among improvisers.
 Ornette Coleman is iconic in this context and has said that he wants to ``create as spontaneously as possible---'without memory,''' [cite:@litzweiler92;, p. 117]
 Without any 'real' training he started playing the violin and the trumpet which allowed him to get closer to the pure expression.
 
-How individual artists approach the artistic process may very well reveal interesting facts that may be understood and used from a range of different perspectives and disciplines.
+How individual artists approach the artistic process may very well reveal interesting facts that can be understood and used from a range of different perspectives and disciplines.
 This is one of the main points of artistic research and the attempt to understand the practice from one perspective may in the end help to understand it from another.
-[[fig_2][Figure 2]] is an attempt to better understand how I as an improviser can understand the processes I am engaged in while improvising on a form.
-An idea may occur in various degrees of specificity, but once it is articulated it becomes an object that I can explore and shape.
-Once contextualized I can reflect on it as if from the outside and it can give rise to new ideas.
-Not all ideas lead seamlessly to another idea and the trajectory may than be broken at any point along the spiral.
-There are clearly ideas that occur that are never articulated or contextualized and still they may lead to new material.
-In a sense the path through the four stages can be seen as a development from less reflected material to reflected, but again, the fact that I reflect upon an intuitive artistic idea that occurs in an improvisation does not make the original idea less intuitive, it merely adds another layer to it.
+Figure [[fig_3]] is an attempt to better understand how I as an improviser can understand the processes I am engaged in while improvising on a form in a generalized manner.
+An idea may occur in various degrees of specificity, but once it is articulated it becomes an object that I can explore and re-shape.
+Once contextualized in the form I can reflect on it as if from the outside and it can give rise to new ideas.
+Not all ideas lead seamlessly to another idea and the trajectory may be broken at any point along the spiral.
 
-
-#+caption: The process of improvisation described as a spiraling motion going thhrough different phases iteratively.
-#+name: fig_2
-[[file:/Volumes/Freedom/Dropbox/Documents/articles/improvisation_2025/img/spiral-improvisation.png]]
-
-#+caption: Not all ideas lead to the next after the completion of a full sequence, but new ideas may occur midway through the process, and one phase in one process together with another phase in another process may lead to yet other ideas that branch off.
-#+name: fig_3
-[[file:/Volumes/Freedom/Dropbox/Documents/articles/improvisation_2025/img/spiral-improv_recursive.png]]
+In a sense the path through the four phases in the spiral can be seen as a development from less to more reflected material, but again, the fact that I reflect upon an intuitive artistic idea that occurs in an improvisation does not make the original idea less intuitive, it merely adds another layer to it.
 
 The spirals of ideas in development can lead to new ideas that are not necessarily produced as a direct consequence of the primary content of the current trajectory.
-These can be /found/ or /created/, and networks of spirals are developed over time from reflection to new ideas, and these are combined each in their own speed and development creating complex networks. [[fig_3][Figure 3]] is an attempt to graphically show this process also bringing in the aspect of retention, how previous ideas linger on in a kind of timeless fasion and easily accessible for the performer.
+These can be /found/ or /created/, and networks of spirals are developed over time from reflection to new ideas, and these are combined each in their own speed and development creating complex networks.
+Figure [[fig_4]] is an attempt to graphically show this process also bringing in the aspect of retention.
+Previous ideas linger on in a kind of timeless fashion and become easily accessible for the performer.
 
-The aspect of contextualization is central to the argument pursued in this text, particularly so in solo improvisation.
+The aspect of contextualization is central to the argument pursued here, particularly so in solo improvisation.
 What is the context in which the articulation is established?
-This will be explored in more details later but it can be a range of things such as the relation it has to the corresponding articulations expressed, or the relation between the articulation and the space it is explored in.
+This will be explored in more details later, but it can be a range of things such as the relation it has to the corresponding articulations expressed, or the relation between the articulation and the space it is explored in.
 The kind of dialectic relation that occur when two musicians are improvising together is another example of a continually developing context against which each player is exposing their material.
-In the case of solo playing, however, one of the difficulties is to define an /Other/ against which ideas can develop.
-My argument in this chapter is that the form as a musical structure may provide the context in which musical articulations may be developed.
+In the case of solo playing, however, one of the difficulties is to define an /other/ against which ideas can develop.
+My argument is that the form as a musical structure may provide the context in which musical articulations may be developed.
 The form becomes part of the /contextualization/ of the idea and can be the deciding factor whether the articulated idea can be expressed or has to be dismissed. 
 It may be true as Gary Peters writes that much writing and thinking about improvisation "places the emphasis on the unfixing of fixed structures, indeed using fixity as a necessary foil for the enactment of unfixing, conceived (very often) as liberation" [cite:@Peters2013] but the point here is not liberation.
-Instead the point is rather to explor a tool for aesthetic judgment that is not solely defined from within.
-A temporal grid that serves as a frame for musical ideas.
+Instead the point is to explore a tool for aesthetic judgment that is not solely defined from within: A temporal grid that serves as a frame for musical ideas.
 Fully developed it can provide "a conception of thinking and judging that is improvisatory to the extent that it is structured around and driven by a process of trial and error while, at the same time, containing this dialogue within the interiority of the subject" [cite:@Peters2013]
 The trial and error is what goes on in the first three stages in the spiral and the judgement takes place in the reflection.
 
 [fn:-4-1] This attitude has its origin in a discussion that is documented in greater detail in the papers /Negotiating the musical work/ [cite:@Frisk2006a;@Frisk2006b].
-[[id:C62C7A42-F37A-46A2-B450-B405C8572A27][The spiral of improvisation]]
-* Empirical data
+
+* Free playing on form
 #+name: Henrik Frisk
 
-[[id:84EF0938-321A-43F1-AF36-25941E005CC5][Improvisation book notes]]
-** Free playing on form
-*** Method
 The method is based on stimulated recall, a method that grew popular in pedagogical research at the end of the twentieth century when the use of video recordings became affordable and easy to use.
-Hence, the method is closely linked to the audio and video technologies that underpins its use and the agency of these is an important factor that should not be underestimated.
 
-Self-reflection through stimulated recall is complex due to the challenge of achieving both intersubjectivity and individual reflection on personal perceptions in improvisation.
-Reflection itself is a problematic concept, often misunderstood in the context of artistic research, something that I discussed in the previous section: there is no artistic activity without reflection.
-The reflective spiral discussed above is in itself a description of a method where the completion of the four steps allows for reflection.
-This reflection is then used to alter the parameters for the next iteration.
-This, in turn, may well follow the steps the same spiral as a certain conceptualization is necessary for any reflection and the consecutive staging and rendering phases are aspects of understanding the concept in context.
-In effect this illustrates a possible network of reflections upon reflections which are an integral aspect of how knowledge about an event develops.
-
-A reflective method does not prescribe how to carry out an activity but is rather focused on how in hindsight understand the artistic practice as it took place.
+Self-reflection through stimulated recall is complex due to the challenge of achieving both intersubjectivity and individual reflection on personal perceptions on ones own improvisations.
+Reflection itself is a problematic concept, often misunderstood in the context of artistic research, something that I discussed in the previous section: since there is no artistic activity without reflection the prompt to reflect needs to be further elaborated to be meaningful.
+The reflective spiral discussed above is in itself a description of a method where reflection is used in more specific ways.
+The result, or insight that follows from this reflection is then used to alter the outcomes of the following phases of the next iteration of the process.
+The reflection, in turn, becomes the first step of a new idea, articulation and contextualisation, rather than the end of the previous.
+Hence, the consecutive reflection is a reflection on all previous ideas as well as the current one which is necessary to understand the conceptualization or artistic processes.
+This illustrates how a network of reflections upon reflections evolve and the method of stimulated recall is a process in which I try to tap into these reflections in hindsight.
+Better understanding this is an integral aspect of how knowledge about artistic practices develops.
+A reflective method does not prescribe how to carry out an activity but is rather focused on how to understand the artistic practice as it took place.
 This requires the researcher to have the ability to change perspectives quickly and the stimulated recall method is well designed for this purpose.
 A thorough discussion on its history and possible uses as an artistic research method can be found in the book /Shared Listenings: Methods for Transcultural Musicianship and Research/ [cite:@Frisk2023].
-Visual artist Anke Haarman discusses the need for further development of reflective artistic research methods used for the analyses of artistic work:
 
+Visual artist Anke Haarman discusses the need for further development of reflective artistic research methods used for the analyses of artistic work:
 #+begin_quote
 Accordingly, for artistic research, it can be advisable to define a basic requirement for a precise, reflexive, consistent, and transparent method as an after-effect or consequence of arts-based research practice, but not as a preceding set of rules. On the horizon of a reflective methodology looms the fact that research in the arts follows a methodically consolidating practice and it is possible to discuss--reflectively--the traceability of the applied methods in retrospect. [\ldots] This means striving for a doctrine of routes to artistic knowledge that does not prescribe but rather reconstructs. [cite:@Haarman2024;, p 58-9]
 #+end_quote
 
 Depending on the specific interpretation of the word /doctrine/--I am not sure I agree that it should be an authoritative belief that an artistic methodology needs to be exclusively reconstructive--the final point is worth stressing and is relevant for this project.
-As I started out I had no clear hypothesis of what may become the output, only that I suspected the output would b e of value, and any knowledge that may become the result of this study is created in the active reflection upon the practice as a practice of improvisation.
+As I started out I had no clear hypothesis of what may become the output, only that I suspected the output would be of value, and any knowledge that may become the result of this study is created in the active reflection upon the practice as a practice of improvisation.
 Neither may the results, for obvious reasons, be descriptive but will only work as a material from which one may reconstruct ones own results.
-Needless to say, analyzing ones own artistic practice is incredibly difficult to do and achieve meaningful results from it is even more difficult even with a method that lives up to the criteria Anke Haarman sets up.
+Needless to say, analyzing ones own artistic practice is very difficult to do and achieving meaningful results from it is even more difficult even with a method that lives up to the criteria Anke Haarman sets up.
 The process can be precise and consistent from the point of view of the researcher but not necessarily for an outsider.
-Reflexive and transparent, though, should definitely be guiding principles in any kind of method development and research.
+Reflexive and transparent, though, should definitely be guiding principles in any kind of method development.
 Haarman also points out how, from an "epistemic perspective, deliberate reasoning [\ldots] first had to prove itself historically vis-à-vis speculative explanations [\ldots] in order to be recognized as a comprehensible method for acquiring knowledge." [cite:@Haarman2024;, p. 58]
 Luckily we are mostly past the resistance against auto-ethnographic and reflexive methods and can now continue the important acts of method development in research in the arts.
-*** Empirical data and data gathering (change title: Improvisations)
-Both of the selected improvisations follow the form of the first part of the menuetto once through (AABB). The meter is 3/4 and the structure is 8 bars (denoted 'A') plus 16 bars (denoted 'B') both of which are repeated, in the key of G major (see [[fig:harm_form]])
-**** Empirical data
-In both versions I make frequent use of microtonal intervals and alternate fingerings but they have a stronger musical impact in the first repeat than they do in the second.
-This is probably due to the less active harmony in the first eight bars, allowing for more linear thinking and playing.
-In the second repeat with its more elaborate harmonic structure the playing consequently becomes both more active and more vertical.
-Even though it was not the intention to properly exploit the harmonic structure in and of itself the temptation to play the harmony rather than the form--that it is to represent the harmonic structure instead of the form on a structurally higher level--is still very present but was gradually overcome through practice.
-
-Examples of the would be a strict representation of the IV-V-I progressiong in bar three and four.
-The code /Microtonal/ occured four times in the first reprise (A) and only once in the second (B) in both of the improvisations which indicates that they are used to segment the whole into two distinct parts of the whole.
-In the first take the second section is marked by a series of arpeggios and running scales that emphasize the lively chord progression that signifies the original in this section (coded as /Harmonic/, och code that occurs three times in the first take).
-This obviously points to the fact that I am well aware of the harmony of the original and that I attempt to paraphrase it in this take.
-The second take also differentiates the musical material between the two sections but in this take I choose a different musical strategy where discrete, but thematically related phrases are used that are played quite strictly in the 8-bar segments of the form.
-
-I believe what this small study shows is that playing "free" on a form 
 * Results and summary
-[[id:84EF0938-321A-43F1-AF36-25941E005CC5][Improvisation book notes]]
-** Results and summary
 After about 40-50 recordings of improvisations on the simple form in section XXX a result slowly emerged.
 Initially, I tended to stretch the form or circumvent it entirely when I felt the music required such changes. 
 However, in the later versions, to a greater extent I instead allowed the form to shape the ideas. 
 This is an expected result that is the effect of getting to know the material better through practicing. 
-In the interaction with the form I find possibilities and tensions that I explore.
+In the interaction with the form I find possibilities and tensions that I could explore.
 
 The point of this exercise was not necessarily to create aesthetically pleasing music, but rather to try to understand what the constraints of a form can contribute to the artistic process. 
 It certainly allowed me to /find/ material to a greater extent than I managed to /create/ it. 
-The form becomes a maze with an almost infinite number of pathways and at every junction that presents itself there are a near infinite number of options that may be found. 
-Yet, I am bound by time and to a lesser degree, harmony, which greatly diminishes the number of choices.
+The form became a maze with an almost infinite number of pathways and at every junction that presented itself there was a near infinite number of options to be found. 
+Still, I am bound by time by the form and to a lesser degree, harmony, which greatly diminishes the number of choices.
 
-Looking back at the spiral in Figures 2 and 3 the form serves as the contextualization of the articulated idea in the process. 
+Looking back at the spiral in Figures [[fig_3]] and [[fig_4]] the form serves as the contextualization of the articulated idea in the process. 
 It fixes it in a space that is both temporal and harmonic, and neither one can be separated from the other. 
-This space has tensions and harmonic changes and ends of periods and repeats have a particular significance against which ideas can bounce. 
-Such a point can become the end of one trajectory and simultaneously the beginning of another. 
+This space has tensions and harmonic changes, periodic ends, and repeats develop a particular significance against which ideas can bounce. 
+These points of possibilities can become the end of one trajectory and simultaneously the beginning of another. 
 In this sense the delimiting aspect of the form also becomes a catalyst for ideas.
 
-Again, this is an assessment from the point of view of myself as the improviser in this case. 
+Again, this is an assessment from the point of view of myself as the improviser.
 For the listener it is not necessarily obvious what the form is or even that I am playing on a form. 
 This is, however, something I could control by the way I choose to relate to the form. 
-If I limit myself to a certain rhythmic subdivision and follow the harmony more strictly the form would take a greater part iin shaping the perception of the music.
+If I limit myself to a certain rhythmic subdivision and follow the harmony more strictly the form would rise to the foreground and take a greater part in shaping the perception of the music.
 
-To what extent then is this music that I play /found/ or /created/? I would argue that this distinction in this case breaks down and looses its conceptual clarity. 
-The form is created albeit not by me but certainly allows content to be found in the improvisation as much as I partake in the creation of new material. 
+To what extent then is this music that I play /found/ or /created/? I would argue that this distinction breaks down and looses its conceptual clarity in this case.
+The form is created albeit not by me, but certainly allows content to be /found/ in the improvisation as much as I partake in the creation of new material. 
 Describing my playing as an interactive process with the material that is either created or found still makes sense however. 
-The interaction takes place in the multiple transitions from idea to articulation, and from contextualization to reflection as well as between different phases of the spiral and other new spirals that arise (See Figure 3). 
+The interaction takes place in the multiple transitions from idea to articulation, and from contextualization to reflection as well as between different phases of the spiral and other new spirals that arise (See Figure [[fig_4]]). 
 Difference is the main factor here. 
-It is the difference between a played note and a new chord, and the difference between a current reflection and a new idea that propel the development of the music and interaction-as-difference is the engine. 
+It is the difference between a played note and a new chord, and the difference between a current reflection and a new idea that propel the development of the music, and interaction-as-difference is the engine. 
 Hence, the idea that the form can benefit the creative process in improvisation is given some merit here.
 
 While revisiting the idea of the unmarked space and the notion that freedom really only exists in the moment right before the space is marked I am in no position of contesting that. 
-However, my experience in this project is that the form when used in the way that I have used it in this project may provide a sensation of opening at those places where there is a formal change, such as in the transition from bar four to five or eighth to nine where the first section is repeated. 
-Almost as if a new unmarked space presents itself as an option to be marked. 
-This particular trait has its flip side though, as it can lead to the sensation that the music restarts at every junction rather than flows through it, which is what one may experience before mastering the form.
+However, my experience in this project is that the form when used in the way that I have used it may provide a sensation of an opening of possibilities at those places where transitions are found, harmonic or periodic.
+Almost as if a new unmarked space presents itself as an option to be marked at each such opening.
+This particular trait has its flip side though, as it can lead to the sensation that the music restarts at every junction rather than flows through it, which is what one may experience from the playing before the form is  mastered.
 The experience of mastering the form is tied to an increasing sensation of being able to control how the material is laid out in the form.
 
-If there are a few things one may learn from studying improvisation from the point of view of the improviser there is a formidable amount of things that remains unknown. 
-What may be gained from this study and similar studies is the particularity of practice of improvisation. 
+If there are a few things one may learn from studying improvisation from the point of view of the improviser it is that there is a formidable amount of things that remains unknown. 
+What may be gained from this study and similar studies is the particularity of the practice of improvisation. 
 That I state that playing on a restricted eighth-bar form makes me more creative than playing freely on a similar tonality or harmonic progression says only that. 
-The knowledge developed lies instead in the methods used to understand a particular improvisers choices and, of course, the dialectical relations between this study and others.
-In other words, the concept of /difference/ and using the spiral to depict the progess of ideas in the process can be used in other practices and reveal new results.
-That these differ rather than align with previous studies is as interesting as if they line up.
-The power of improvisation as a practice is difference.
-[[id:B649376B-A330-4101-9D7A-42AFC6405445][Improvisation results]]
+The knowledge developed lies instead in the methods used to understand a particular improvisers choices and, of course, the dialectical relations between this study and others: The methods described here can be used in other practices and reveal new results.
+That these differ rather than align with previous studies is as interesting as if they do not.
+The power of improvisation lies in the difference.
+
 * References
 #+print_bibliography: title: References
